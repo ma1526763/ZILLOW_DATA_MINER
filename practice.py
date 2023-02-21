@@ -79,18 +79,18 @@
 #     print('HI')
 
 # sale
-URL_1 = "https://www.zillow.com/al/?searchQueryState=%7B%22mapBounds%22%3A%7B%22west%22%3A-92.272777515625%2C%22east%22%3A-83.637523609375%2C%22south%22%3A30.327768270974378%2C%22north%22%3A35.73083732410671%7D%2C%22mapZoom%22%3A7%2C%22regionSelection%22%3A%5B%7B%22regionId%22%3A4%2C%22regionType%22%3A2%7D%5D%2C%22isMapVisible%22%3Atrue%2C%22filterState%22%3A%7B%22ah%22%3A%7B%22value%22%3Atrue%7D%2C%22sort%22%3A%7B%22value%22%3A%22globalrelevanceex%22%7D%7D%2C%22isListVisible%22%3Atrue%7D"
-URL_Y = 'https://www.zillow.com/al/6_p/?searchQueryState=%7B%22pagination%22%3A%7B%22currentPage%22%3A6%7D%2C%22mapBounds%22%3A%7B%22west%22%3A-92.272777515625%2C%22east%22%3A-83.637523609375%2C%22south%22%3A30.327768270974378%2C%22north%22%3A35.73083732410671%7D%2C%22mapZoom%22%3A7%2C%22regionSelection%22%3A%5B%7B%22regionId%22%3A4%2C%22regionType%22%3A2%7D%5D%2C%22isMapVisible%22%3Atrue%2C%22filterState%22%3A%7B%22ah%22%3A%7B%22value%22%3Atrue%7D%2C%22sort%22%3A%7B%22value%22%3A%22globalrelevanceex%22%7D%7D%2C%22isListVisible%22%3Atrue%7D'
-URL_X = "https://www.zillow.com/al/10_p/?searchQueryState=%7B%22pagination%22%3A%7B%22currentPage%22%3A10%7D%2C%22mapBounds%22%3A%7B%22west%22%3A-92.272777515625%2C%22east%22%3A-83.637523609375%2C%22south%22%3A30.327768270974378%2C%22north%22%3A35.73083732410671%7D%2C%22mapZoom%22%3A7%2C%22regionSelection%22%3A%5B%7B%22regionId%22%3A4%2C%22regionType%22%3A2%7D%5D%2C%22isMapVisible%22%3Atrue%2C%22filterState%22%3A%7B%22ah%22%3A%7B%22value%22%3Atrue%7D%2C%22sort%22%3A%7B%22value%22%3A%22globalrelevanceex%22%7D%7D%2C%22isListVisible%22%3Atrue%7D"
+# URL_1 = "https://www.zillow.com/al/?searchQueryState=%7B%22mapBounds%22%3A%7B%22west%22%3A-92.272777515625%2C%22east%22%3A-83.637523609375%2C%22south%22%3A30.327768270974378%2C%22north%22%3A35.73083732410671%7D%2C%22mapZoom%22%3A7%2C%22regionSelection%22%3A%5B%7B%22regionId%22%3A4%2C%22regionType%22%3A2%7D%5D%2C%22isMapVisible%22%3Atrue%2C%22filterState%22%3A%7B%22ah%22%3A%7B%22value%22%3Atrue%7D%2C%22sort%22%3A%7B%22value%22%3A%22globalrelevanceex%22%7D%7D%2C%22isListVisible%22%3Atrue%7D"
+# URL_Y = 'https://www.zillow.com/al/6_p/?searchQueryState=%7B%22pagination%22%3A%7B%22currentPage%22%3A6%7D%2C%22mapBounds%22%3A%7B%22west%22%3A-92.272777515625%2C%22east%22%3A-83.637523609375%2C%22south%22%3A30.327768270974378%2C%22north%22%3A35.73083732410671%7D%2C%22mapZoom%22%3A7%2C%22regionSelection%22%3A%5B%7B%22regionId%22%3A4%2C%22regionType%22%3A2%7D%5D%2C%22isMapVisible%22%3Atrue%2C%22filterState%22%3A%7B%22ah%22%3A%7B%22value%22%3Atrue%7D%2C%22sort%22%3A%7B%22value%22%3A%22globalrelevanceex%22%7D%7D%2C%22isListVisible%22%3Atrue%7D'
+# URL_X = "https://www.zillow.com/al/10_p/?searchQueryState=%7B%22pagination%22%3A%7B%22currentPage%22%3A10%7D%2C%22mapBounds%22%3A%7B%22west%22%3A-92.272777515625%2C%22east%22%3A-83.637523609375%2C%22south%22%3A30.327768270974378%2C%22north%22%3A35.73083732410671%7D%2C%22mapZoom%22%3A7%2C%22regionSelection%22%3A%5B%7B%22regionId%22%3A4%2C%22regionType%22%3A2%7D%5D%2C%22isMapVisible%22%3Atrue%2C%22filterState%22%3A%7B%22ah%22%3A%7B%22value%22%3Atrue%7D%2C%22sort%22%3A%7B%22value%22%3A%22globalrelevanceex%22%7D%7D%2C%22isListVisible%22%3Atrue%7D"
 
-page_number = 10
-initial_part = f"https://www.zillow.com/{URL_1.split('/')[3]}/"
-mid_part = "%7D%2C%22"
-add_length_part = '?searchQueryState=%7B%22'
-updated_url = f"{URL_1[:len(initial_part)]}{page_number}_p/?searchQueryState=%7B%22pagination%22%3A%7B%22currentPage%22%3A{page_number}{mid_part}{URL_1[len(initial_part + add_length_part):]}"
-print(len(updated_url), len(URL_X))
-if updated_url == URL_X:
-    print("HO")
+# page_number = 10
+# initial_part = f"https://www.zillow.com/{URL_1.split('/')[3]}/"
+# mid_part = "%7D%2C%22"
+# add_length_part = '?searchQueryState=%7B%22'
+# updated_url = f"{URL_1[:len(initial_part)]}{page_number}_p/?searchQueryState=%7B%22pagination%22%3A%7B%22currentPage%22%3A{page_number}{mid_part}{URL_1[len(initial_part + add_length_part):]}"
+# print(len(updated_url), len(URL_X))
+# if updated_url == URL_X:
+#     print("HO")
 
 
 # property_purpose = "sale"
@@ -118,3 +118,22 @@ if updated_url == URL_X:
 # if updated_url == URL_2:
 #     print("HO")
 
+URL = 'https://www.zillow.com/new-york-ny/sold/?searchQueryState=%7B%22pagination%22%3A%7B%7D%2C%22usersSearchTerm%22%3A%22New%20York%2C%20NY%22%2C%22mapBounds%22%3A%7B%22west%22%3A-74.51938436914062%2C%22east%22%3A-73.43997763085937%2C%22south%22%3A40.39156689207835%2C%22north%22%3A41.00273448429281%7D%2C%22regionSelection%22%3A%5B%7B%22regionId%22%3A6181%2C%22regionType%22%3A6%7D%5D%2C%22isMapVisible%22%3Atrue%2C%22filterState%22%3A%7B%22ah%22%3A%7B%22value%22%3Atrue%7D%2C%22sort%22%3A%7B%22value%22%3A%22globalrelevanceex%22%7D%2C%22rs%22%3A%7B%22value%22%3Atrue%7D%2C%22fsba%22%3A%7B%22value%22%3Afalse%7D%2C%22fsbo%22%3A%7B%22value%22%3Afalse%7D%2C%22nc%22%3A%7B%22value%22%3Afalse%7D%2C%22cmsn%22%3A%7B%22value%22%3Afalse%7D%2C%22auc%22%3A%7B%22value%22%3Afalse%7D%2C%22fore%22%3A%7B%22value%22%3Afalse%7D%7D%2C%22isListVisible%22%3Atrue%7D'
+URB = 'https://www.zillow.com/new-york-ny/sold/2_p/?searchQueryState=%7B%22pagination%22%3A%7B%22currentPage%22%3A2%7D%2C%22usersSearchTerm%22%3A%22New%20York%2C%20NY%22%2C%22mapBounds%22%3A%7B%22west%22%3A-74.51938436914062%2C%22east%22%3A-73.43997763085937%2C%22south%22%3A40.39156689207835%2C%22north%22%3A41.00273448429281%7D%2C%22regionSelection%22%3A%5B%7B%22regionId%22%3A6181%2C%22regionType%22%3A6%7D%5D%2C%22isMapVisible%22%3Atrue%2C%22filterState%22%3A%7B%22ah%22%3A%7B%22value%22%3Atrue%7D%2C%22sort%22%3A%7B%22value%22%3A%22globalrelevanceex%22%7D%2C%22rs%22%3A%7B%22value%22%3Atrue%7D%2C%22fsba%22%3A%7B%22value%22%3Afalse%7D%2C%22fsbo%22%3A%7B%22value%22%3Afalse%7D%2C%22nc%22%3A%7B%22value%22%3Afalse%7D%2C%22cmsn%22%3A%7B%22value%22%3Afalse%7D%2C%22auc%22%3A%7B%22value%22%3Afalse%7D%2C%22fore%22%3A%7B%22value%22%3Afalse%7D%7D%2C%22isListVisible%22%3Atrue%7D'
+page_number = 2
+initial_part = f"https://www.zillow.com/{URL.split('/')[3]}/sold/"
+same_part = "?searchQueryState=%7B%22pagination%22%3A%7B"
+updated_url = f"{URL[:len(initial_part)]}{page_number}_p/{same_part}%22currentPage%22%3A{page_number}{URL[len(initial_part + same_part):]}"
+print(len(updated_url), len(URB))
+if updated_url == URB:
+    print("HO")
+
+
+# page_number = 10
+# initial_part = f"https://www.zillow.com/{URL.split('/')[3]}/"
+# mid_part = "%7D%2C%22"
+# add_length_part = '?searchQueryState=%7B%22'
+# updated_url = f"{URL[:len(initial_part)]}{page_number}_p/?searchQueryState=%7B%22pagination%22%3A%7B%22currentPage%22%3A{page_number}{mid_part}{URL[len(initial_part + add_length_part):]}"
+# print(len(updated_url), len(URB))
+# if updated_url == URB:
+#     print("HO")

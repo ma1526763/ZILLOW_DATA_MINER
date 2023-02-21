@@ -64,7 +64,7 @@ class ZILLOW_DATA:
 
     def extract_data(self, s):
         self.page_title = s.find(name='title').text
-        print(f"EXTRACTING PAGE# {self.page_number}", end="---")
+        print(f"EXTRACTING PAGE# {self.page_number}", end=" --- ")
         page_data = json.loads(
             s.find("script", attrs={"data-zrr-shared-data-key": "mobileSearchPageStore"}).text.strip('<!->'))
         # with open("zillow_data.json", "w") as file:
@@ -116,25 +116,27 @@ class ZILLOW_DATA:
     def update_url(self):
         self.page_number += 1
         if self.property_purpose == 'sale':
-            print(" updating sale url.")
+            print("updating sale url.")
             initial_part = f"https://www.zillow.com/{self.url.split('/')[3]}/"
             mid_part = "%7D%2C%22"
             add_length_part = '?searchQueryState=%7B%22'
             self.new_url = f"{self.url[:len(initial_part)]}{self.page_number}_p/?searchQueryState=%7B%22pagination%22%3A%7B%22currentPage%22%3A{self.page_number}{mid_part}{self.url[len(initial_part + add_length_part):]}"
         elif self.property_purpose == 'rentals':
-            print(" updating rentals url.")
+            print("updating rentals url.")
             initial_part = f"https://www.zillow.com/{self.url.split('/')[3]}/rentals/"
             same_part = "?searchQueryState=%7B%22pagination%22%3A%7B"
             self.new_url = f"{self.url[:len(initial_part)]}{self.page_number}_p/{same_part}%22currentPage%22%3A{self.page_number}{self.url[len(initial_part + same_part):]}"
         else:
-            pass
+            print("updating sold url.")
+            initial_part = f"https://www.zillow.com/{self.url.split('/')[3]}/sold/"
+            same_part = "?searchQueryState=%7B%22pagination%22%3A%7B"
+            self.new_url = f"{self.url[:len(initial_part)]}{self.page_number}_p/{same_part}%22currentPage%22%3A{self.page_number}{self.url[len(initial_part + same_part):]}"
 
     def upload_data_to_csv_sheet(self):
         if self.property_purpose == "rentals":
             extended_file_name = self.page_title.split('|')[0].split('-')[0]
         else:
             extended_file_name = self.page_title.split('|')[0]
-
         self.file_name = f"{self.property_purpose.upper()}_{extended_file_name}"[:-1]
         complete_data_list = []
         for i in range(len(self.property_city_address_list)):
@@ -152,10 +154,14 @@ class ZILLOW_DATA:
 
     def get_new_house_info(self, i):
         price_key = ""
+        date_info = "listed_date"
         if self.property_purpose == 'sale':
             price_key = "sale_price"
         elif self.property_purpose == 'rentals':
             price_key = "rent_price/month"
+        elif self.property_purpose == 'sold':
+            price_key = "sold_price"
+            date_info = "sold_date"
 
         return {"street_address": self.property_street_address_list[i],
                 "city": self.property_city_address_list[i],
@@ -165,7 +171,7 @@ class ZILLOW_DATA:
                 "longitude": self.property_longitude_list[i],
                 "beds": self.property_beds_list[i],
                 price_key: self.property_price_list[i],
-                "listed_date": self.property_time_info[i],
+                date_info: self.property_time_info[i],
                 "property_link": self.property_link_list[i],
                 }
 
@@ -180,15 +186,15 @@ class ZILLOW_DATA:
     #     else:
     #         ask_user = messagebox.askokcancel(title="Already Exist", message=f"\"{self.file_name}\" already exist Do you want to extract data again?")
     #         print("ASK USER", ask_user)
-URL = 'https://www.zillow.com/al/rentals/?searchQueryState=%7B%22pagination%22%3A%7B%7D%2C%22mapBounds%22%3A%7B%22west%22%3A-92.272777515625%2C%22east%22%3A-83.637523609375%2C%22south%22%3A30.327768270974378%2C%22north%22%3A35.73083732410671%7D%2C%22mapZoom%22%3A7%2C%22regionSelection%22%3A%5B%7B%22regionId%22%3A4%2C%22regionType%22%3A2%7D%5D%2C%22isMapVisible%22%3Atrue%2C%22filterState%22%3A%7B%22ah%22%3A%7B%22value%22%3Atrue%7D%2C%22fsba%22%3A%7B%22value%22%3Afalse%7D%2C%22fsbo%22%3A%7B%22value%22%3Afalse%7D%2C%22nc%22%3A%7B%22value%22%3Afalse%7D%2C%22cmsn%22%3A%7B%22value%22%3Afalse%7D%2C%22auc%22%3A%7B%22value%22%3Afalse%7D%2C%22fore%22%3A%7B%22value%22%3Afalse%7D%2C%22fr%22%3A%7B%22value%22%3Atrue%7D%7D%2C%22isListVisible%22%3Atrue%7D'
-zillow = ZILLOW_DATA(URL)
-soup = zillow.validate_url()
-if soup:
-    zillow.extract_data(soup)
+# URL = 'https://www.zillow.com/al/rentals/?searchQueryState=%7B%22pagination%22%3A%7B%7D%2C%22mapBounds%22%3A%7B%22west%22%3A-92.272777515625%2C%22east%22%3A-83.637523609375%2C%22south%22%3A30.327768270974378%2C%22north%22%3A35.73083732410671%7D%2C%22mapZoom%22%3A7%2C%22regionSelection%22%3A%5B%7B%22regionId%22%3A4%2C%22regionType%22%3A2%7D%5D%2C%22isMapVisible%22%3Atrue%2C%22filterState%22%3A%7B%22ah%22%3A%7B%22value%22%3Atrue%7D%2C%22fsba%22%3A%7B%22value%22%3Afalse%7D%2C%22fsbo%22%3A%7B%22value%22%3Afalse%7D%2C%22nc%22%3A%7B%22value%22%3Afalse%7D%2C%22cmsn%22%3A%7B%22value%22%3Afalse%7D%2C%22auc%22%3A%7B%22value%22%3Afalse%7D%2C%22fore%22%3A%7B%22value%22%3Afalse%7D%2C%22fr%22%3A%7B%22value%22%3Atrue%7D%7D%2C%22isListVisible%22%3Atrue%7D'
+# zillow = ZILLOW_DATA(URL)
+# soup = zillow.validate_url()
+# if soup:
+#     zillow.extract_data(soup)
 # print(zillow.property_street_address_list, zillow.property_city_address_list, zillow.property_state_address_list,
 #       zillow.property_zipcode_address_list, zillow.property_latitude_list, zillow.property_longitude_list,
 #       zillow.property_beds_list, zillow.property_price_list, zillow.property_link_list)
-zillow.upload_data_to_csv_sheet()
+# zillow.upload_data_to_csv_sheet()
 
 # zillow = ZILLOW_DATA(URL)
 
