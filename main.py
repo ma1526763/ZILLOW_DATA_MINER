@@ -20,7 +20,7 @@ def start_extracting_data():
         zillow.upload_data_to_csv_sheet()
         zillow.upload_data_to_json_file()
         messagebox.showinfo(title="SUCCESSFUL", message="DATA has been extracted successfully and uploaded to both JSON and CSV directory.")
-
+    url_entry.delete(0, END)
 
 ############# GUI ###############
 COLOR_1 = "#afe1fa"

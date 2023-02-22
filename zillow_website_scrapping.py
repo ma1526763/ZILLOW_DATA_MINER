@@ -3,6 +3,7 @@ import requests
 import pandas
 from bs4 import BeautifulSoup
 
+
 # URL = "https://www.zillow.com/al/?searchQueryState=%7B%22pagination%22%3A%7B%7D%2C%22usersSearchTerm%22%3A%22AL%22%2C%22mapBounds%22%3A%7B%22west%22%3A-90.99774535587463%2C%22east%22%3A-82.36249144962463%2C%22south%22%3A29.8542035248672%2C%22north%22%3A35.285294025691336%7D%2C%22regionSelection%22%3A%5B%7B%22regionId%22%3A4%2C%22regionType%22%3A2%7D%5D%2C%22isMapVisible%22%3Atrue%2C%22filterState%22%3A%7B%22sort%22%3A%7B%22value%22%3A%22globalrelevanceex%22%7D%2C%22ah%22%3A%7B%22value%22%3Atrue%7D%7D%2C%22isListVisible%22%3Atrue%2C%22mapZoom%22%3A7%7D"
 # # for sale
 # URL_1 = "https://www.zillow.com/al/?searchQueryState=%7B%22mapBounds%22%3A%7B%22west%22%3A-92.272777515625%2C%22east%22%3A-83.637523609375%2C%22south%22%3A30.327768270974378%2C%22north%22%3A35.73083732410671%7D%2C%22mapZoom%22%3A7%2C%22regionSelection%22%3A%5B%7B%22regionId%22%3A4%2C%22regionType%22%3A2%7D%5D%2C%22isMapVisible%22%3Atrue%2C%22filterState%22%3A%7B%22ah%22%3A%7B%22value%22%3Atrue%7D%2C%22sort%22%3A%7B%22value%22%3A%22globalrelevanceex%22%7D%7D%2C%22isListVisible%22%3Atrue%7D"
@@ -69,7 +70,10 @@ class ZILLOW_DATA:
             s.find("script", attrs={"data-zrr-shared-data-key": "mobileSearchPageStore"}).text.strip('<!->'))
         # with open("zillow_data.json", "w") as file:
         #     json.dump(page_data, file, indent=4)
-        page_data = page_data['cat1']['searchResults']['listResults']
+        try:
+            page_data = page_data['cat1']['searchResults']['listResults']
+        except KeyError:
+            page_data = page_data['cat2']['searchResults']['listResults']
         # print(page_data)
         for i, house_info in enumerate(page_data):
             # get property link
@@ -86,11 +90,14 @@ class ZILLOW_DATA:
             self.property_state_address_list.append(house_info['addressState'])
             self.property_zipcode_address_list.append(house_info['addressZipcode'])
 
-            # get price
             try:
                 price = f"${house_info['hdpData']['homeInfo']['price']}"
             except KeyError:
-                price = "/".join([p['price'] for p in house_info['units']])
+                try:
+                    price = "/".join([p['price'] for p in house_info['units']])
+                except KeyError:
+                    price = None
+
             self.property_price_list.append(price)
 
             # get beds list
@@ -116,28 +123,47 @@ class ZILLOW_DATA:
     def update_url(self):
         self.page_number += 1
         if self.property_purpose == 'sale':
-            print("updating sale url.")
-            initial_part = f"https://www.zillow.com/{self.url.split('/')[3]}/"
-            mid_part = "%7D%2C%22"
-            add_length_part = '?searchQueryState=%7B%22'
-            self.new_url = f"{self.url[:len(initial_part)]}{self.page_number}_p/?searchQueryState=%7B%22pagination%22%3A%7B%22currentPage%22%3A{self.page_number}{mid_part}{self.url[len(initial_part + add_length_part):]}"
+            if "cat2" in self.url:
+                print("updating url of sale for other listing.")
+                self.update_url_for_other_listing()
+            else:
+                print("updating url of sale for Agent listing.")
+                self.update_page_url()
         elif self.property_purpose == 'rentals':
             print("updating rentals url.")
-            initial_part = f"https://www.zillow.com/{self.url.split('/')[3]}/rentals/"
-            same_part = "?searchQueryState=%7B%22pagination%22%3A%7B"
-            self.new_url = f"{self.url[:len(initial_part)]}{self.page_number}_p/{same_part}%22currentPage%22%3A{self.page_number}{self.url[len(initial_part + same_part):]}"
+            self.update_page_url("rentals/")
         else:
             print("updating sold url.")
-            initial_part = f"https://www.zillow.com/{self.url.split('/')[3]}/sold/"
+            self.update_page_url("sold/")
+
+    def update_url_for_other_listing(self):
+        initial_part = f"https://www.zillow.com/{self.url.split('/')[3]}/"
+        if self.url[-6:] == "%7D%7D":
+            different_part = f"%22currentPage%22%3A{self.page_number}%7D"
+            self.new_url = f'{initial_part}{self.page_number}_p/{self.url[len(initial_part):]}'[
+                           :-6] + different_part + "%7D"
+        else:
+            different_part = f"%2C%22pagination%22%3A%7B%22currentPage%22%3A{self.page_number}%7D"
+            self.new_url = f'{initial_part}{self.page_number}_p/{self.url[len(initial_part):]}'[
+                          :-3] + different_part + "%7D"
+
+    def update_page_url(self, purpose=""):
+        initial_part = f"https://www.zillow.com/{self.url.split('/')[3]}/{purpose}"
+        if self.url[-6:] == "%7D%7D":
+            different_part = "%22currentPage%22%3A7"
+            self.new_url = f"{initial_part}{self.page_number}_p/{self.url[len(initial_part):]}"[:-6] + different_part + "%7D%7D"
+        else:
             same_part = "?searchQueryState=%7B%22pagination%22%3A%7B"
             self.new_url = f"{self.url[:len(initial_part)]}{self.page_number}_p/{same_part}%22currentPage%22%3A{self.page_number}{self.url[len(initial_part + same_part):]}"
 
     def upload_data_to_csv_sheet(self):
-        if self.property_purpose == "rentals":
+        if self.property_purpose in ["rentals", "sold"]:
             extended_file_name = self.page_title.split('|')[0].split('-')[0]
         else:
             extended_file_name = self.page_title.split('|')[0]
         self.file_name = f"{self.property_purpose.upper()}_{extended_file_name}"[:-1]
+        if "cat2" in self.url:
+            self.file_name += "_other_listing"
         complete_data_list = []
         for i in range(len(self.property_city_address_list)):
             complete_data_list.append(self.get_new_house_info(i))
@@ -175,36 +201,11 @@ class ZILLOW_DATA:
                 "property_link": self.property_link_list[i],
                 }
 
-    # def check_already_file(self):
-    #     print(self.file_name)
-    #     try:
-    #         with open(self.file_name) as file:
-    #             file.readline()
-    #     except FileNotFoundError:
-    #         print("EXCEPTION")
-    #         return False
-    #     else:
-    #         ask_user = messagebox.askokcancel(title="Already Exist", message=f"\"{self.file_name}\" already exist Do you want to extract data again?")
-    #         print("ASK USER", ask_user)
-# URL = 'https://www.zillow.com/al/rentals/?searchQueryState=%7B%22pagination%22%3A%7B%7D%2C%22mapBounds%22%3A%7B%22west%22%3A-92.272777515625%2C%22east%22%3A-83.637523609375%2C%22south%22%3A30.327768270974378%2C%22north%22%3A35.73083732410671%7D%2C%22mapZoom%22%3A7%2C%22regionSelection%22%3A%5B%7B%22regionId%22%3A4%2C%22regionType%22%3A2%7D%5D%2C%22isMapVisible%22%3Atrue%2C%22filterState%22%3A%7B%22ah%22%3A%7B%22value%22%3Atrue%7D%2C%22fsba%22%3A%7B%22value%22%3Afalse%7D%2C%22fsbo%22%3A%7B%22value%22%3Afalse%7D%2C%22nc%22%3A%7B%22value%22%3Afalse%7D%2C%22cmsn%22%3A%7B%22value%22%3Afalse%7D%2C%22auc%22%3A%7B%22value%22%3Afalse%7D%2C%22fore%22%3A%7B%22value%22%3Afalse%7D%2C%22fr%22%3A%7B%22value%22%3Atrue%7D%7D%2C%22isListVisible%22%3Atrue%7D'
+
+# URL = 'https://www.zillow.com/ak/sold/?searchQueryState=%7B%22pagination%22%3A%7B%7D%2C%22usersSearchTerm%22%3A%22AK%22%2C%22mapBounds%22%3A%7B%22west%22%3A-179.999%2C%22east%22%3A-110.91696875%2C%22south%22%3A48.7465939355191%2C%22north%22%3A72.60605437742127%7D%2C%22regionSelection%22%3A%5B%7B%22regionId%22%3A3%2C%22regionType%22%3A2%7D%5D%2C%22isMapVisible%22%3Atrue%2C%22filterState%22%3A%7B%22ah%22%3A%7B%22value%22%3Atrue%7D%2C%22sort%22%3A%7B%22value%22%3A%22globalrelevanceex%22%7D%2C%22rs%22%3A%7B%22value%22%3Atrue%7D%2C%22fsba%22%3A%7B%22value%22%3Afalse%7D%2C%22fsbo%22%3A%7B%22value%22%3Afalse%7D%2C%22nc%22%3A%7B%22value%22%3Afalse%7D%2C%22cmsn%22%3A%7B%22value%22%3Afalse%7D%2C%22auc%22%3A%7B%22value%22%3Afalse%7D%2C%22fore%22%3A%7B%22value%22%3Afalse%7D%7D%2C%22isListVisible%22%3Atrue%2C%22mapZoom%22%3A4%7D'
 # zillow = ZILLOW_DATA(URL)
 # soup = zillow.validate_url()
 # if soup:
 #     zillow.extract_data(soup)
-# print(zillow.property_street_address_list, zillow.property_city_address_list, zillow.property_state_address_list,
-#       zillow.property_zipcode_address_list, zillow.property_latitude_list, zillow.property_longitude_list,
-#       zillow.property_beds_list, zillow.property_price_list, zillow.property_link_list)
 # zillow.upload_data_to_csv_sheet()
-
-# zillow = ZILLOW_DATA(URL)
-
-# while True:
-#     soup = zillow.validate_url()
-#     if soup:
-#         zillow.extract_data(soup)
-#         # print("Page#", zillow.page_number, len(zillow.property_street_address_list), len(zillow.property_time_info), len(zillow.property_price_list), len(zillow.property_beds_list), len(zillow.property_link_list), len(zillow.property_longitude_list))
-#         zillow.url = zillow.update_url()
-#     else:
-#         print("INVALID")
-#         break
-# zillow.upload_data_to_csv_sheet()
+#
