@@ -13,7 +13,7 @@ street_address,city,state,zipCode,latitude,longitude,beds,sale_price,listed_date
 1006 Noe St #1,San Francisco,CA,94114,37.75281,-122.43232,1,$699000.0,4 days on Zillow,https://www.zillow.com/homedetails/1006-Noe-St-1-San-Francisco-CA-94114/82785853_zpid/
 3216 26th St,San Francisco,CA,94110,37.749447,-122.41419,3,$649000.0,33 days on Zillow,https://www.zillow.com/homedetails/3216-26th-St-San-Francisco-CA-94110/2064101708_zpid/
 1600 Webster St APT 205,San Francisco,CA,94115,37.78568,-122.43095,1,$388498.0,3D Tour,https://www.zillow.com/homedetails/1600-Webster-St-APT-205-San-Francisco-CA-94115/64971368_zpid/
-1587 15th St APT 403,San Francisco,CA,94103,37.766487,-122.41949,2,$509950.0,7 hours ago,https://www.zillow.com/homedetails/1587-15th-St-APT-403-San-Francisco-CA-94103/89237988_zpid/
+1587 15th St APT 403,San Francisco,CA,94103,37.766487,-122.41949,2,$509950.0,11 hours ago,https://www.zillow.com/homedetails/1587-15th-St-APT-403-San-Francisco-CA-94103/89237988_zpid/
 609 King St #TOWNHOUSE,San Francisco,CA,94107,37.77038,-122.40106,2,$461008.0,21 days on Zillow,https://www.zillow.com/homedetails/609-King-St-TOWNHOUSE-San-Francisco-CA-94107/2059752339_zpid/
 1400 Mission St #1400,San Francisco,CA,94103,37.775284,-122.41649,2,$559000.0,23 days on Zillow,https://www.zillow.com/homedetails/1400-Mission-St-1400-San-Francisco-CA-94103/303806045_zpid/
 1320 Vallejo St,San Francisco,CA,94109,37.79747,-122.41917,2,$730000.0,1 day on Zillow,https://www.zillow.com/homedetails/1320-Vallejo-St-San-Francisco-CA-94109/2089299874_zpid/
@@ -22,7 +22,7 @@ street_address,city,state,zipCode,latitude,longitude,beds,sale_price,listed_date
 451 Donahue St UNIT 506,San Francisco,CA,94124,37.729,-122.36964,2,$660000.0,18 days on Zillow,https://www.zillow.com/homedetails/451-Donahue-St-UNIT-506-San-Francisco-CA-94124/184818040_zpid/
 1301 Fulton St APT 206,San Francisco,CA,94117,37.7767,-122.4384,1,$649000.0,4 days on Zillow,https://www.zillow.com/homedetails/1301-Fulton-St-APT-206-San-Francisco-CA-94117/15085638_zpid/
 67 Prentiss St,San Francisco,CA,94110,37.741802,-122.41175,2,$850000.0,3D Tour,https://www.zillow.com/homedetails/67-Prentiss-St-San-Francisco-CA-94110/15161539_zpid/
-586 Paris St,San Francisco,CA,94112,37.719604,-122.436844,3,$750000.0,16 hours ago,https://www.zillow.com/homedetails/586-Paris-St-San-Francisco-CA-94112/2059086899_zpid/
+586 Paris St,San Francisco,CA,94112,37.719604,-122.436844,3,$750000.0,20 hours ago,https://www.zillow.com/homedetails/586-Paris-St-San-Francisco-CA-94112/2059086899_zpid/
 875 La Playa St APT 272,San Francisco,CA,94121,37.771698,-122.51031,1,$700000.0,Open: Sun. 2-4pm,https://www.zillow.com/homedetails/875-La-Playa-St-APT-272-San-Francisco-CA-94121/15100599_zpid/
 1400 Mission St #1505,San Francisco,CA,94103,37.775284,-122.41649,2,$559000.0,23 days on Zillow,https://www.zillow.com/homedetails/1400-Mission-St-1505-San-Francisco-CA-94103/303742050_zpid/
 8100 Oceanview Ter APT 309,San Francisco,CA,94132,37.71042,-122.467705,1,$450000.0,"$85,000 (Feb 2)",https://www.zillow.com/homedetails/8100-Oceanview-Ter-APT-309-San-Francisco-CA-94132/67394355_zpid/
@@ -108,7 +108,7 @@ street_address,city,state,zipCode,latitude,longitude,beds,sale_price,listed_date
 1130 Brussels St,San Francisco,CA,94134,37.71814,-122.40219,2,$839888.0,3D Tour,https://www.zillow.com/homedetails/1130-Brussels-St-San-Francisco-CA-94134/15172807_zpid/
 1200 Gough St UNIT 11D,San Francisco,CA,94109,37.78497,-122.4243,1,$775000.0,3D Tour,https://www.zillow.com/homedetails/1200-Gough-St-UNIT-11D-San-Francisco-CA-94109/15077047_zpid/
 1148 Montgomery St #B,San Francisco,CA,94133,,,2,$849000.0,"$46,000 (Feb 17)",https://www.zillow.com/homedetails/1148-Montgomery-St-B-San-Francisco-CA-94133/2109885892_zpid/
-38 Sharon St #A,San Francisco,CA,94114,37.765358,-122.430176,1,$765000.0,19 days on Zillow,https://www.zillow.com/homedetails/38-Sharon-St-A-San-Francisco-CA-94114/2061289286_zpid/
+38 Sharon St #A,San Francisco,CA,94114,37.765358,-122.430176,1,$765000.0,Open: Sat. 1-4pm,https://www.zillow.com/homedetails/38-Sharon-St-A-San-Francisco-CA-94114/2061289286_zpid/
 776 Tehama St UNIT 12,San Francisco,CA,94103,37.77502,-122.41246,1,$495000.0,8 days on Zillow,https://www.zillow.com/homedetails/776-Tehama-St-UNIT-12-San-Francisco-CA-94103/79841507_zpid/
 145 Gardenside Dr APT 12,San Francisco,CA,94131,37.754333,-122.444984,1,$689000.0,"$10,000 (Feb 20)",https://www.zillow.com/homedetails/145-Gardenside-Dr-APT-12-San-Francisco-CA-94131/15132758_zpid/
 301 Crescent Ct APT 3101,San Francisco,CA,94134,37.711178,-122.38807,1,$499000.0,3D Tour,https://www.zillow.com/homedetails/301-Crescent-Ct-APT-3101-San-Francisco-CA-94134/79844532_zpid/
@@ -145,7 +145,7 @@ street_address,city,state,zipCode,latitude,longitude,beds,sale_price,listed_date
 175 Bluxome St UNIT 104,San Francisco,CA,94107,37.774647,-122.399445,1,$784000.0,3D Tour,https://www.zillow.com/homedetails/175-Bluxome-St-UNIT-104-San-Francisco-CA-94107/80746750_zpid/
 1578 Indiana St APT 11,San Francisco,CA,94107,37.750477,-122.390785,1,$502166.0,3D Tour,https://www.zillow.com/homedetails/1578-Indiana-St-APT-11-San-Francisco-CA-94107/64969963_zpid/
 1 Hawthorne St UNIT 7D,San Francisco,CA,94105,37.785767,-122.39887,1,$825000.0,6 days on Zillow,https://www.zillow.com/homedetails/1-Hawthorne-St-UNIT-7D-San-Francisco-CA-94105/111711043_zpid/
-4800 3rd St UNIT 201,San Francisco,CA,94124,37.734745,-122.39108,1,$307140.0,200 days on Zillow,https://www.zillow.com/homedetails/4800-3rd-St-UNIT-201-San-Francisco-CA-94124/114316870_zpid/
+4800 3rd St UNIT 201,San Francisco,CA,94124,37.734745,-122.39108,1,$307140.0,201 days on Zillow,https://www.zillow.com/homedetails/4800-3rd-St-UNIT-201-San-Francisco-CA-94124/114316870_zpid/
 946 Stockton St APT 18C,San Francisco,CA,94108,37.794716,-122.4078,2,$710000.0,3D Tour,https://www.zillow.com/homedetails/946-Stockton-St-APT-18C-San-Francisco-CA-94108/15067650_zpid/
 5179 Diamond Heights Blvd APT 110,San Francisco,CA,94131,37.746204,-122.439926,1,$749000.0,24 days on Zillow,https://www.zillow.com/homedetails/5179-Diamond-Heights-Blvd-APT-110-San-Francisco-CA-94131/15199417_zpid/
 1177 California St APT 409,San Francisco,CA,94108,37.791027,-122.41365,1,$848000.0,"$50,000 (Feb 21)",https://www.zillow.com/homedetails/1177-California-St-APT-409-San-Francisco-CA-94108/15068570_zpid/

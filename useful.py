@@ -1,3 +1,5 @@
+####################### PRACTICE FILE #####################
+
 # this url works for sale/rentals/sold when currentPage is inside
 def sale_rental_sold_current_page_in(URL, url_c, p_num, purpose=""):
     page_number = p_num

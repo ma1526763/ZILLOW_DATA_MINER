@@ -1,3 +1,5 @@
+from tkinter import messagebox
+################### PRACTICE FILE ################
 # var = {"countryCurrency": "$",
 #        "price": "$1,700/mo",
 #        "unformattedPrice": 1700,
@@ -178,6 +180,7 @@ print("COMPARE: ", len(a_x))
 print("UPDATE: ", len(update_rl))
 if a_x == update_rl:
     print("SAME URL")
+
 
 
 
