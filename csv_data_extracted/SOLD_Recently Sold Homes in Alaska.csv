@@ -1,0 +1,801 @@
+street_address,city,state,zipCode,latitude,longitude,beds,sold_price,sold_date,property_link
+380 E 11th Ave #B-427,Anchorage,AK,99501,61.211372,-149.87787,2.0,,Sold 02/21/2023,https://www.zillow.com/homedetails/380-E-11th-Ave-B-427-Anchorage-AK-99501/3483_zpid/
+2612 Sorbus Cir,Anchorage,AK,99508,61.19681,-149.84346,3.0,,Sold 02/21/2023,https://www.zillow.com/homedetails/2612-Sorbus-Cir-Anchorage-AK-99508/5020_zpid/
+3750 Image Dr,Anchorage,AK,99504,61.18657,-149.77205,2.0,,Sold 02/21/2023,https://www.zillow.com/homedetails/3750-Image-Dr-Anchorage-AK-99504/17579_zpid/
+2807 Turnagain St,Anchorage,AK,99517,61.19464,-149.93523,4.0,,Sold 02/21/2023,https://www.zillow.com/homedetails/2807-Turnagain-St-Anchorage-AK-99517/23721_zpid/
+7061 Chad St,Anchorage,AK,99518,61.156483,-149.9042,3.0,,Sold 02/21/2023,https://www.zillow.com/homedetails/7061-Chad-St-Anchorage-AK-99518/30847_zpid/
+9112 Vernon St,Anchorage,AK,99515,61.137825,-149.88965,3.0,,Sold 02/21/2023,https://www.zillow.com/homedetails/9112-Vernon-St-Anchorage-AK-99515/34526_zpid/
+19025 Danny Dr,Eagle River,AK,99577,61.302406,-149.52756,4.0,,Sold 02/21/2023,https://www.zillow.com/homedetails/19025-Danny-Dr-Eagle-River-AK-99577/35724769_zpid/
+853 Blanket Blvd,North Pole,AK,99705,64.7466,-147.3343,4.0,,Sold 02/21/2023,https://www.zillow.com/homedetails/853-Blanket-Blvd-North-Pole-AK-99705/74481762_zpid/
+11301 Tulin Park Loop,Anchorage,AK,99516,61.11678,-149.83022,4.0,,Sold 02/21/2023,https://www.zillow.com/homedetails/11301-Tulin-Park-Loop-Anchorage-AK-99516/82587201_zpid/
+5560 Grand Teton Loop,Anchorage,AK,99502,61.146942,-149.98831,3.0,,Sold 02/21/2023,https://www.zillow.com/homedetails/5560-Grand-Teton-Loop-Anchorage-AK-99502/119401802_zpid/
+34265 Needles Ave,Soldotna,AK,99669,60.489574,-150.77368,1.0,,Sold 02/21/2023,https://www.zillow.com/homedetails/34265-Needles-Ave-Soldotna-AK-99669/338281052_zpid/
+4821 Southpark Bluff Dr,Anchorage,AK,99516,,,3.0,,Sold 02/21/2023,https://www.zillow.com/homedetails/4821-Southpark-Bluff-Dr-Anchorage-AK-99516/2060695645_zpid/
+L55-56 Great Alaska Fish Cp,Sterling,AK,99672,,,,,Sold 02/21/2023,https://www.zillow.com/homedetails/L55-56-Great-Alaska-Fish-Cp-Sterling-AK-99672/2076489652_zpid/
+7420 E Riparian Loop,Palmer,AK,99645,61.585407,-149.26338,4.0,,Sold 02/21/2023,https://www.zillow.com/homedetails/7420-E-Riparian-Loop-Palmer-AK-99645/2099384705_zpid/
+3691 Tajen Ln,Homer,AK,99603,,,,,Sold 02/20/2023,https://www.zillow.com/homedetails/3691-Tajen-Ln-Homer-AK-99603/2060399702_zpid/
+3317 Tarwater Ave,Anchorage,AK,99508,61.22713,-149.81876,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/3317-Tarwater-Ave-Anchorage-AK-99508/6791_zpid/
+602 Mumford St,Anchorage,AK,99508,61.228737,-149.81453,2.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/602-Mumford-St-Anchorage-AK-99508/6928_zpid/
+7729 Regal Mountain Dr,Anchorage,AK,99504,61.182842,-149.73517,2.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/7729-Regal-Mountain-Dr-Anchorage-AK-99504/18423_zpid/
+6920 Meteor Ct,Anchorage,AK,99504,61.18836,-149.75098,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/6920-Meteor-Ct-Anchorage-AK-99504/19587_zpid/
+3430 Telstar Cir,Anchorage,AK,99517,61.189342,-149.96056,2.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/3430-Telstar-Cir-Anchorage-AK-99517/24413_zpid/
+2801 W International Airport Rd #A-303,Anchorage,AK,99502,61.17398,-149.93471,2.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/2801-W-International-Airport-Rd-A-303-Anchorage-AK-99502/27381_zpid/
+6624 Lakeway Dr,Anchorage,AK,99502,61.160233,-149.95428,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/6624-Lakeway-Dr-Anchorage-AK-99502/28003_zpid/
+8451 Greenhill Way,Anchorage,AK,99502,61.144463,-149.91716,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/8451-Greenhill-Way-Anchorage-AK-99502/34286_zpid/
+3640 E 65th Ave,Anchorage,AK,99507,61.16165,-149.81393,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/3640-E-65th-Ave-Anchorage-AK-99507/39026_zpid/
+120 Botanical Cir,Anchorage,AK,99515,61.10743,-149.87979,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/120-Botanical-Cir-Anchorage-AK-99515/50454_zpid/
+4164 Mariah Dr,Eagle River,AK,99577,61.25791,-149.29446,2.0,$525000.0,Sold 02/17/2023,https://www.zillow.com/homedetails/4164-Mariah-Dr-Eagle-River-AK-99577/58825_zpid/
+19716 Big Diomede Cir,Eagle River,AK,99577,61.30822,-149.51466,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/19716-Big-Diomede-Cir-Eagle-River-AK-99577/59227_zpid/
+21245 Oberg Rd,Chugiak,AK,99567,61.412525,-149.46454,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/21245-Oberg-Rd-Chugiak-AK-99567/62498_zpid/
+3690 Regius Ave,North Pole,AK,99705,64.77257,-147.26697,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/3690-Regius-Ave-North-Pole-AK-99705/74501221_zpid/
+3680 W Chestnut Ln,Wasilla,AK,99654,61.5282,-149.54323,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/3680-W-Chestnut-Ln-Wasilla-AK-99654/74522362_zpid/
+2725 N Jenny Anne Pl,Wasilla,AK,99654,61.609737,-149.49702,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/2725-N-Jenny-Anne-Pl-Wasilla-AK-99654/84149934_zpid/
+1072 E Westpoint Dr APT 7,Wasilla,AK,99654,61.582497,-149.42346,2.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/1072-E-Westpoint-Dr-APT-7-Wasilla-AK-99654/84150467_zpid/
+1101 Leeward Dr,Kenai,AK,99611,60.575615,-151.28009,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/1101-Leeward-Dr-Kenai-AK-99611/84406863_zpid/
+3818 Fairview Ave,Ketchikan,AK,99901,55.36288,-131.69003,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/3818-Fairview-Ave-Ketchikan-AK-99901/104467109_zpid/
+2942 N Terrell Dr,Wasilla,AK,99654,61.612442,-149.35414,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/2942-N-Terrell-Dr-Wasilla-AK-99654/119382999_zpid/
+905 Salmon Run Dr,Kenai,AK,99611,60.525303,-151.25945,3.0,$389000.0,Sold 02/17/2023,https://www.zillow.com/homedetails/905-Salmon-Run-Dr-Kenai-AK-99611/122053345_zpid/
+7111 S Territorial Dr,Wasilla,AK,99623,61.499336,-149.62408,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/7111-S-Territorial-Dr-Wasilla-AK-99623/219481553_zpid/
+454 S Conestoga Loop,Palmer,AK,99645,61.574417,-149.10765,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/454-S-Conestoga-Loop-Palmer-AK-99645/219483287_zpid/
+5268 E Barn Cir,Wasilla,AK,99654,61.547234,-149.31787,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/5268-E-Barn-Cir-Wasilla-AK-99654/219483936_zpid/
+55049 Bonnie Ave,Homer,AK,99603,59.714146,-151.31918,,,Sold 02/17/2023,https://www.zillow.com/homedetails/55049-Bonnie-Ave-Homer-AK-99603/223327861_zpid/
+34830 Killey St,Soldotna,AK,99669,60.48488,-150.6313,,,Sold 02/17/2023,https://www.zillow.com/homedetails/34830-Killey-St-Soldotna-AK-99669/304784434_zpid/
+710 E Burlwood Dr,Wasilla,AK,99654,61.635113,-149.43152,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/710-E-Burlwood-Dr-Wasilla-AK-99654/333887141_zpid/
+1309 Kaknu Way,Kenai,AK,99611,60.564114,-151.19057,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/1309-Kaknu-Way-Kenai-AK-99611/337015714_zpid/
+L9b2 Pintail Ave,Kenai,AK,99611,,,,,Sold 02/17/2023,https://www.zillow.com/homedetails/L9b2-Pintail-Ave-Kenai-AK-99611/2059760976_zpid/
+L1 B Larkspur Loop Dr #2,Copper Center,AK,99573,,,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/L1-B-Larkspur-Loop-Dr-2-Copper-Center-AK-99573/2060624807_zpid/
+4122 S McKechnie Loop,Palmer,AK,99645,,,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/4122-S-McKechnie-Loop-Palmer-AK-99645/2062085898_zpid/
+13923 E Susitna Cir,Willow,AK,99688,,,,,Sold 02/17/2023,https://www.zillow.com/homedetails/13923-E-Susitna-Cir-Willow-AK-99688/2062383799_zpid/
+5463 Sandhill Loop,Anchorage,AK,99502,,,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/5463-Sandhill-Loop-Anchorage-AK-99502/2063034031_zpid/
+L8-B5 Amy Cir,Kenai,AK,99611,,,,,Sold 02/17/2023,https://www.zillow.com/homedetails/L8-B5-Amy-Cir-Kenai-AK-99611/2064152663_zpid/
+17995 E Woods Dr,Palmer,AK,99645,,,,,Sold 02/17/2023,https://www.zillow.com/homedetails/17995-E-Woods-Dr-Palmer-AK-99645/2065473227_zpid/
+2136 N Meadow Lakes Dr,Wasilla,AK,99623,61.603542,-149.6776,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/2136-N-Meadow-Lakes-Dr-Wasilla-AK-99623/2078701418_zpid/
+7142 S Turnstone St,Wasilla,AK,99623,,,2.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/7142-S-Turnstone-St-Wasilla-AK-99623/2084403214_zpid/
+801 N Bliss St,Anchorage,AK,99508,,,8.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/801-N-Bliss-St-Anchorage-AK-99508/2093127249_zpid/
+1834 Buccaneer Pl,Anchorage,AK,99501,61.20829,-149.91916,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/1834-Buccaneer-Pl-Anchorage-AK-99501/2118784203_zpid/
+2810 W 29th Ave,Anchorage,AK,99517,61.19412,-149.93713,12.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/2810-W-29th-Ave-Anchorage-AK-99517/2144299242_zpid/
+202 Hoyt St,Anchorage,AK,99508,61.22221,-149.80139,5.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/202-Hoyt-St-Anchorage-AK-99508/8667_zpid/
+6943 Terry St,Anchorage,AK,99502,61.157475,-149.95883,2.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/6943-Terry-St-Anchorage-AK-99502/28458_zpid/
+420 Fischer Ave,Anchorage,AK,99518,61.164036,-149.87314,4.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/420-Fischer-Ave-Anchorage-AK-99518/37435_zpid/
+7206 Zurich St,Anchorage,AK,99507,61.15539,-149.83858,2.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/7206-Zurich-St-Anchorage-AK-99507/39585_zpid/
+11361 Hideaway Trl,Anchorage,AK,99507,61.117878,-149.73602,5.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/11361-Hideaway-Trl-Anchorage-AK-99507/43499_zpid/
+6301 Brown Tree Cir,Anchorage,AK,99507,61.127388,-149.76526,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/6301-Brown-Tree-Cir-Anchorage-AK-99507/44909_zpid/
+18138 Sanctuary Dr,Eagle River,AK,99577,61.32078,-149.5428,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/18138-Sanctuary-Dr-Eagle-River-AK-99577/56552_zpid/
+26439 Eklutna Village Rd,Chugiak,AK,99567,61.45966,-149.3608,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/26439-Eklutna-Village-Rd-Chugiak-AK-99567/79533288_zpid/
+L22a B10h Robert Dr,Anchorage,AK,99516,,,,,Sold 02/16/2023,https://www.zillow.com/homedetails/L22a-B10h-Robert-Dr-Anchorage-AK-99516/2065497064_zpid/
+3530 E 42nd Ave,Anchorage,AK,99508,,,12.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/3530-E-42nd-Ave-Anchorage-AK-99508/2103665314_zpid/
+509 N Klevin St,Anchorage,AK,99508,61.228043,-149.80447,0.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/509-N-Klevin-St-Anchorage-AK-99508/8398_zpid/
+13021 Sher Cir,Anchorage,AK,99516,61.1021,-149.837,5.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/13021-Sher-Cir-Anchorage-AK-99516/50986_zpid/
+2015 Kimberly Lyn Cir,Anchorage,AK,99515,61.116776,-149.9174,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/2015-Kimberly-Lyn-Cir-Anchorage-AK-99515/35724514_zpid/
+2564 Wecota Dr,Fairbanks,AK,99709,64.85973,-147.90366,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/2564-Wecota-Dr-Fairbanks-AK-99709/74498052_zpid/
+3075 E Regal Ct,Wasilla,AK,99654,61.620705,-149.373,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/3075-E-Regal-Ct-Wasilla-AK-99654/74523971_zpid/
+3749 Baranof Ave,Ketchikan,AK,99901,55.35973,-131.69133,5.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/3749-Baranof-Ave-Ketchikan-AK-99901/104467095_zpid/
+49602 S Bendapole Rd,Talkeetna,AK,99676,,,,,Sold 02/15/2023,https://www.zillow.com/homedetails/49602-S-Bendapole-Rd-Talkeetna-AK-99676/2064396146_zpid/
+3250 Denali Ave APT 34,Ketchikan,AK,99901,55.358498,-131.6823,2.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/3250-Denali-Ave-APT-34-Ketchikan-AK-99901/2077062445_zpid/
+B3-L16 S Teton Cir,Wasilla,AK,99654,,,,,Sold 02/15/2023,https://www.zillow.com/homedetails/B3-L16-S-Teton-Cir-Wasilla-AK-99654/2079198003_zpid/
+182 S Binkley St,Soldotna,AK,99669,,,,,Sold 02/15/2023,https://www.zillow.com/homedetails/182-S-Binkley-St-Soldotna-AK-99669/2106813258_zpid/
+700 W 19th Ave,Anchorage,AK,99503,61.202908,-149.89603,4.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/700-W-19th-Ave-Anchorage-AK-99503/4034_zpid/
+633 Price St,Anchorage,AK,99508,61.22928,-149.81161,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/633-Price-St-Anchorage-AK-99508/6904_zpid/
+2820 Leighton St,Anchorage,AK,99517,61.194347,-149.95453,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/2820-Leighton-St-Anchorage-AK-99517/23975_zpid/
+3331 Leonard Cir,Anchorage,AK,99507,61.163826,-149.82063,2.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/3331-Leonard-Cir-Anchorage-AK-99507/42055_zpid/
+2400 Brookshire Loop #66,Anchorage,AK,99504,61.198837,-149.73277,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/2400-Brookshire-Loop-66-Anchorage-AK-99504/63254060_zpid/
+6860 W Kinsington Ave,Wasilla,AK,99623,61.523987,-149.62335,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/6860-W-Kinsington-Ave-Wasilla-AK-99623/84149199_zpid/
+29450 Fools Gold St,Soldotna,AK,99669,60.4076,-151.1695,2.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/29450-Fools-Gold-St-Soldotna-AK-99669/223320970_zpid/
+13750 N Bar Swamp Trail Rem SW,Ninilchik,AK,99639,60.072495,-151.59015,,,Sold 02/14/2023,https://www.zillow.com/homedetails/13750-N-Bar-Swamp-Trail-Rem-SW-Ninilchik-AK-99639/248939545_zpid/
+10185 W Faulkner St,Wasilla,AK,99623,61.492905,-149.70491,2.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/10185-W-Faulkner-St-Wasilla-AK-99623/325604332_zpid/
+Mile 8.9 Edgerton Hwy,Copper Center,AK,99573,,,0.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/Mile-8-9-Edgerton-Hwy-Copper-Center-AK-99573/2062474806_zpid/
+4.7 Mile Port St,Craig,AK,99921,,,,,Sold 02/14/2023,https://www.zillow.com/homedetails/4-7-Mile-Port-St-Craig-AK-99921/2065529645_zpid/
+7361 S Turner Dr,Wasilla,AK,99623,,,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/7361-S-Turner-Dr-Wasilla-AK-99623/2082373629_zpid/
+8377 W Shearwater St,Wasilla,AK,99623,,,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/8377-W-Shearwater-St-Wasilla-AK-99623/2084389376_zpid/
+1810 E 72nd Ave,Anchorage,AK,99507,61.155277,-149.84956,9.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/1810-E-72nd-Ave-Anchorage-AK-99507/2122012685_zpid/
+7710 Boundary Ave #A-6,Anchorage,AK,99504,61.22404,-149.7381,2.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/7710-Boundary-Ave-A-6-Anchorage-AK-99504/10641_zpid/
+22144 Birchwood Loop Rd,Chugiak,AK,99567,61.405766,-149.4703,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/22144-Birchwood-Loop-Rd-Chugiak-AK-99567/35724703_zpid/
+505 Ash Ave,Kenai,AK,99611,60.567997,-151.2716,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/505-Ash-Ave-Kenai-AK-99611/74515122_zpid/
+16150 E Dilley Ave,Palmer,AK,99645,61.654423,-148.88629,4.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/16150-E-Dilley-Ave-Palmer-AK-99645/74520342_zpid/
+1207 Sutton Loop,Fairbanks,AK,99701,64.85572,-147.73796,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/1207-Sutton-Loop-Fairbanks-AK-99701/103867356_zpid/
+1218 Madsen Ave,Kodiak,AK,99615,57.79901,-152.39224,4.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/1218-Madsen-Ave-Kodiak-AK-99615/104471493_zpid/
+2860 N Garnet Ln,Wasilla,AK,99654,61.612465,-149.42758,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/2860-N-Garnet-Ln-Wasilla-AK-99654/124277916_zpid/
+27301 E Knik River Rd,Palmer,AK,99645,61.45109,-148.81915,2.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/27301-E-Knik-River-Rd-Palmer-AK-99645/127129566_zpid/
+1734 S Elizabeth Dr,Wasilla,AK,99623,61.56379,-149.69817,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/1734-S-Elizabeth-Dr-Wasilla-AK-99623/219478575_zpid/
+220 Susieana Ln,Kenai,AK,99611,60.557312,-151.2274,4.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/220-Susieana-Ln-Kenai-AK-99611/223308634_zpid/
+2015 Aleknagik Lake Rd,Dillingham,AK,99576,,,2.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/2015-Aleknagik-Lake-Rd-Dillingham-AK-99576/2060127229_zpid/
+231 McCarrey St #8B,Anchorage,AK,99508,,,2.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/231-McCarrey-St-8B-Anchorage-AK-99508/2060304847_zpid/
+0 Parks Hwy,Anderson,AK,99744,,,,,Sold 02/13/2023,https://www.zillow.com/homedetails/0-Parks-Hwy-Anderson-AK-99744/2060352225_zpid/
+0 Fish Creek Off,Skwentna,AK,99667,,,1.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/0-Fish-Creek-Off-Skwentna-AK-99667/2061759358_zpid/
+8230 S Kingfisher Dr,Wasilla,AK,99623,,,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/8230-S-Kingfisher-Dr-Wasilla-AK-99623/2064096743_zpid/
+7410 Bearfoot Cir,Anchorage,AK,99502,,,8.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/7410-Bearfoot-Cir-Anchorage-AK-99502/2087687671_zpid/
+1128 Mila St,Anchorage,AK,99504,61.21158,-149.76494,8.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/1128-Mila-St-Anchorage-AK-99504/13012_zpid/
+3622 Sycamore Loop,Anchorage,AK,99504,61.187473,-149.7302,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/3622-Sycamore-Loop-Anchorage-AK-99504/18133_zpid/
+6940 Ryan Ct,Anchorage,AK,99504,61.188778,-149.75029,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/6940-Ryan-Ct-Anchorage-AK-99504/19648_zpid/
+3901 Dunsmuir Ct,Anchorage,AK,99508,61.185165,-149.84734,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/3901-Dunsmuir-Ct-Anchorage-AK-99508/21986_zpid/
+1220 E 112th Ave,Anchorage,AK,99515,61.119125,-149.85925,4.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/1220-E-112th-Ave-Anchorage-AK-99515/45641_zpid/
+30950 Sagwon Ave,Eagle River,AK,99577,61.256573,-149.30377,4.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/30950-Sagwon-Ave-Eagle-River-AK-99577/58574_zpid/
+16064 Essex Point Cir,Anchorage,AK,99516,61.075096,-149.79617,5.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/16064-Essex-Point-Cir-Anchorage-AK-99516/68023172_zpid/
+55 Anna Ave,Fairbanks,AK,99701,64.85958,-147.71477,2.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/55-Anna-Ave-Fairbanks-AK-99701/74503343_zpid/
+39178 Whisper West Ct,Soldotna,AK,99669,60.51813,-150.9165,2.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/39178-Whisper-West-Ct-Soldotna-AK-99669/74517675_zpid/
+3730 E Palmdale Dr,Wasilla,AK,99654,61.597427,-149.35625,4.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/3730-E-Palmdale-Dr-Wasilla-AK-99654/74521259_zpid/
+5540 W Birch Harbor Dr,Wasilla,AK,99623,61.527733,-149.58908,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/5540-W-Birch-Harbor-Dr-Wasilla-AK-99623/84150305_zpid/
+4815 W Hill Rd,Homer,AK,99603,59.66145,-151.57278,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/4815-W-Hill-Rd-Homer-AK-99603/84405766_zpid/
+5766 Kenai Fjords Loop,Anchorage,AK,99502,61.14845,-149.98698,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/5766-Kenai-Fjords-Loop-Anchorage-AK-99502/88896750_zpid/
+2622 W Softwind Cir,Wasilla,AK,99623,61.649475,-149.51752,,,Sold 02/10/2023,https://www.zillow.com/homedetails/2622-W-Softwind-Cir-Wasilla-AK-99623/90692297_zpid/
+3528 W Discovery Loop,Wasilla,AK,99654,61.612343,-149.50049,4.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/3528-W-Discovery-Loop-Wasilla-AK-99654/90695818_zpid/
+6020 E Fetlock Dr,Wasilla,AK,99654,61.552258,-149.29912,4.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/6020-E-Fetlock-Dr-Wasilla-AK-99654/127129171_zpid/
+6231 W Locksley Loop,Wasilla,AK,99623,61.60354,-149.60577,4.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/6231-W-Locksley-Loop-Wasilla-AK-99623/219466614_zpid/
+16160 E Harter Dr,Palmer,AK,99645,61.601864,-149.04303,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/16160-E-Harter-Dr-Palmer-AK-99645/219469785_zpid/
+2925 N Fullers Pl,Wasilla,AK,99623,61.61302,-149.6146,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/2925-N-Fullers-Pl-Wasilla-AK-99623/247785810_zpid/
+L9 B 2 #79-165,Delta Junction,AK,99737,,,,,Sold 02/10/2023,https://www.zillow.com/homedetails/L9-B-2-79-165-Delta-Junction-AK-99737/2060499563_zpid/
+6437 N Solitude St,Wasilla,AK,99623,,,,,Sold 02/10/2023,https://www.zillow.com/homedetails/6437-N-Solitude-St-Wasilla-AK-99623/2062750818_zpid/
+5209 W Jaxton Cir,Wasilla,AK,99654,,,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/5209-W-Jaxton-Cir-Wasilla-AK-99654/2079970927_zpid/
+L1 Lakefront Dr,Soldotna,AK,99669,,,1.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/L1-Lakefront-Dr-Soldotna-AK-99669/2084869080_zpid/
+L3 W 73rd Ave,Anchorage,AK,99502,,,,,Sold 02/10/2023,https://www.zillow.com/homedetails/L3-W-73rd-Ave-Anchorage-AK-99502/2092595655_zpid/
+69304 Sergeant Ave,Anchor Point,AK,99556,59.889496,-151.74925,1.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/69304-Sergeant-Ave-Anchor-Point-AK-99556/2131651814_zpid/
+3660 Burl Ct #113,Anchorage,AK,99504,61.18769,-149.76236,3.0,,Sold 02/09/2023,https://www.zillow.com/homedetails/3660-Burl-Ct-113-Anchorage-AK-99504/19786_zpid/
+2524 W 66th Ave,Anchorage,AK,99502,61.160778,-149.93217,5.0,,Sold 02/09/2023,https://www.zillow.com/homedetails/2524-W-66th-Ave-Anchorage-AK-99502/54822940_zpid/
+3355 Maisia Ct,North Pole,AK,99705,64.7433,-147.30203,4.0,,Sold 02/09/2023,https://www.zillow.com/homedetails/3355-Maisia-Ct-North-Pole-AK-99705/74500879_zpid/
+2840 Wolfpack St,North Pole,AK,99705,64.740105,-147.26695,3.0,,Sold 02/09/2023,https://www.zillow.com/homedetails/2840-Wolfpack-St-North-Pole-AK-99705/219789549_zpid/
+15075 W Necrason Dr,Wasilla,AK,99623,,,,,Sold 02/09/2023,https://www.zillow.com/homedetails/15075-W-Necrason-Dr-Wasilla-AK-99623/2059854707_zpid/
+L3-B1 Reflection Lake Rd,Soldotna,AK,99669,,,,,Sold 02/09/2023,https://www.zillow.com/homedetails/L3-B1-Reflection-Lake-Rd-Soldotna-AK-99669/2079524900_zpid/
+L7 B4 Potter Highlands Dr,Anchorage,AK,99516,,,,,Sold 02/09/2023,https://www.zillow.com/homedetails/L7-B4-Potter-Highlands-Dr-Anchorage-AK-99516/2093103286_zpid/
+6416 E 35th Ave,Anchorage,AK,99504,61.189114,-149.76132,3.0,,Sold 02/08/2023,https://www.zillow.com/homedetails/6416-E-35th-Ave-Anchorage-AK-99504/19478_zpid/
+4210 Resurrection Dr,Anchorage,AK,99504,61.183987,-149.72911,3.0,,Sold 02/08/2023,https://www.zillow.com/homedetails/4210-Resurrection-Dr-Anchorage-AK-99504/20808_zpid/
+2440 Maylen Cir,Anchorage,AK,99516,61.105198,-149.83615,4.0,,Sold 02/08/2023,https://www.zillow.com/homedetails/2440-Maylen-Cir-Anchorage-AK-99516/50001_zpid/
+22520 Whispering Birch Cir,Chugiak,AK,99567,61.423553,-149.45078,3.0,,Sold 02/08/2023,https://www.zillow.com/homedetails/22520-Whispering-Birch-Cir-Chugiak-AK-99567/62531_zpid/
+16663 Baird Cir,Eagle River,AK,99577,61.34112,-149.57193,5.0,,Sold 02/08/2023,https://www.zillow.com/homedetails/16663-Baird-Cir-Eagle-River-AK-99577/68023176_zpid/
+629 E Beaver Ave,Palmer,AK,99645,61.609344,-149.10199,4.0,,Sold 02/08/2023,https://www.zillow.com/homedetails/629-E-Beaver-Ave-Palmer-AK-99645/74519534_zpid/
+1045 W Granville St,Palmer,AK,99645,61.595318,-149.13486,4.0,,Sold 02/08/2023,https://www.zillow.com/homedetails/1045-W-Granville-St-Palmer-AK-99645/84150022_zpid/
+6207 E Tudor Rd #3,Anchorage,AK,99507,61.18091,-149.76553,2.0,,Sold 02/08/2023,https://www.zillow.com/homedetails/6207-E-Tudor-Rd-3-Anchorage-AK-99507/88894450_zpid/
+3165 N Alma Dr,Wasilla,AK,99623,61.615456,-149.65616,3.0,,Sold 02/08/2023,https://www.zillow.com/homedetails/3165-N-Alma-Dr-Wasilla-AK-99623/90695251_zpid/
+54590 Kuskokwim Ave,Kenai,AK,99611,60.715748,-151.36752,4.0,,Sold 02/08/2023,https://www.zillow.com/homedetails/54590-Kuskokwim-Ave-Kenai-AK-99611/223302717_zpid/
+L14b Wilma Ave,Seward,AK,99664,,,,,Sold 02/08/2023,https://www.zillow.com/homedetails/L14b-Wilma-Ave-Seward-AK-99664/2059973702_zpid/
+1025 S Rogers Rd,Wasilla,AK,99623,,,,,Sold 02/08/2023,https://www.zillow.com/homedetails/1025-S-Rogers-Rd-Wasilla-AK-99623/2060275549_zpid/
+B004 E Tex Al Dr,Palmer,AK,99645,,,,,Sold 02/08/2023,https://www.zillow.com/homedetails/B004-E-Tex-Al-Dr-Palmer-AK-99645/2060349767_zpid/
+4640 Reka Dr #21,Anchorage,AK,99508,,,2.0,,Sold 02/08/2023,https://www.zillow.com/homedetails/4640-Reka-Dr-21-Anchorage-AK-99508/2060391579_zpid/
+310 E 11th Ave UNIT 115,Anchorage,AK,99501,61.21133,-149.87868,1.0,,Sold 02/08/2023,https://www.zillow.com/homedetails/310-E-11th-Ave-UNIT-115-Anchorage-AK-99501/2060664331_zpid/
+L13-B4 W Beluga Ave,Willow,AK,99688,,,,,Sold 02/08/2023,https://www.zillow.com/homedetails/L13-B4-W-Beluga-Ave-Willow-AK-99688/2067728517_zpid/
+27264 Tideland St,Kasilof,AK,99610,60.375755,-151.30576,,,Sold 02/08/2023,https://www.zillow.com/homedetails/27264-Tideland-St-Kasilof-AK-99610/2079164186_zpid/
+104 Leconte Ln,Petersburg,AK,99833,,,,,Sold 02/08/2023,https://www.zillow.com/homedetails/104-Leconte-Ln-Petersburg-AK-99833/2079274579_zpid/
+460 Capricorn Cir,Anchorage,AK,99508,61.217968,-149.78383,3.0,,Sold 02/07/2023,https://www.zillow.com/homedetails/460-Capricorn-Cir-Anchorage-AK-99508/15593_zpid/
+8655 Brookridge Dr,Anchorage,AK,99504,61.194187,-149.71916,4.0,,Sold 02/07/2023,https://www.zillow.com/homedetails/8655-Brookridge-Dr-Anchorage-AK-99504/20997_zpid/
+3351 Wiley Post Loop,Anchorage,AK,99517,61.186443,-149.94528,4.0,,Sold 02/07/2023,https://www.zillow.com/homedetails/3351-Wiley-Post-Loop-Anchorage-AK-99517/25963_zpid/
+2920 Capstan Dr,Anchorage,AK,99516,61.095486,-149.82748,3.0,,Sold 02/07/2023,https://www.zillow.com/homedetails/2920-Capstan-Dr-Anchorage-AK-99516/52859_zpid/
+150 Hightower Rd APT 303,Girdwood,AK,99587,60.9629,-149.1336,1.0,,Sold 02/07/2023,https://www.zillow.com/homedetails/150-Hightower-Rd-APT-303-Girdwood-AK-99587/63958_zpid/
+51590 Midnight Sun Ave,Homer,AK,99603,59.76069,-151.22159,3.0,,Sold 02/07/2023,https://www.zillow.com/homedetails/51590-Midnight-Sun-Ave-Homer-AK-99603/74514084_zpid/
+1050 Coville Ln,Palmer,AK,99645,61.61821,-149.12276,0.0,,Sold 02/07/2023,https://www.zillow.com/homedetails/1050-Coville-Ln-Palmer-AK-99645/74522036_zpid/
+35090 Entrada Dr,Sterling,AK,99672,60.542324,-150.79683,2.0,,Sold 02/07/2023,https://www.zillow.com/homedetails/35090-Entrada-Dr-Sterling-AK-99672/90679919_zpid/
+6780 W Dow Dr,Wasilla,AK,99623,61.5096,-149.61996,3.0,,Sold 02/07/2023,https://www.zillow.com/homedetails/6780-W-Dow-Dr-Wasilla-AK-99623/90701133_zpid/
+9391 E Spring Creek Cir,Palmer,AK,99645,61.612713,-149.21506,3.0,,Sold 02/07/2023,https://www.zillow.com/homedetails/9391-E-Spring-Creek-Cir-Palmer-AK-99645/122353858_zpid/
+1895 Ridge Run,Fairbanks,AK,99712,65.0447,-147.45221,3.0,,Sold 02/07/2023,https://www.zillow.com/homedetails/1895-Ridge-Run-Fairbanks-AK-99712/219789201_zpid/
+50653 Kenai Spur Hwy,Kenai,AK,99611,60.714405,-151.35236,3.0,,Sold 02/07/2023,https://www.zillow.com/homedetails/50653-Kenai-Spur-Hwy-Kenai-AK-99611/223302871_zpid/
+As 78 82 Unnamed Lake No Rd,Trapper Creek,AK,99683,,,,,Sold 02/07/2023,https://www.zillow.com/homedetails/As-78-82-Unnamed-Lake-No-Rd-Trapper-Creek-AK-99683/2059962993_zpid/
+1605 W 12th Ave #37,Anchorage,AK,99501,,,2.0,,Sold 02/07/2023,https://www.zillow.com/homedetails/1605-W-12th-Ave-37-Anchorage-AK-99501/2060135221_zpid/
+2729 Tongass Ave APT 206,Ketchikan,AK,99901,55.350777,-131.68048,1.0,,Sold 02/07/2023,https://www.zillow.com/homedetails/2729-Tongass-Ave-APT-206-Ketchikan-AK-99901/2060957854_zpid/
+Township Road B Canyon Lake,Skwentna,AK,99667,,,4.0,,Sold 02/07/2023,https://www.zillow.com/homedetails/Township-Road-B-Canyon-Lake-Skwentna-AK-99667/2060988751_zpid/
+0 Browning Ave,Cordova,AK,99574,,,,,Sold 02/07/2023,https://www.zillow.com/homedetails/0-Browning-Ave-Cordova-AK-99574/2062674675_zpid/
+0 Council Ave,Cordova,AK,99574,,,,,Sold 02/07/2023,https://www.zillow.com/homedetails/0-Council-Ave-Cordova-AK-99574/2062681681_zpid/
+0 Anchorage Rd,Craig,AK,99921,,,4.0,,Sold 02/07/2023,https://www.zillow.com/homedetails/0-Anchorage-Rd-Craig-AK-99921/2063358897_zpid/
+8372 W Shearwater St,Wasilla,AK,99623,61.507484,-149.6617,,,Sold 02/07/2023,https://www.zillow.com/homedetails/8372-W-Shearwater-St-Wasilla-AK-99623/2084403213_zpid/
+2400 Northrup Cir,Anchorage,AK,99508,61.19883,-149.83737,3.0,,Sold 02/06/2023,https://www.zillow.com/homedetails/2400-Northrup-Cir-Anchorage-AK-99508/8137_zpid/
+6872 Tamir Ave,Anchorage,AK,99504,61.19168,-149.75215,3.0,,Sold 02/06/2023,https://www.zillow.com/homedetails/6872-Tamir-Ave-Anchorage-AK-99504/19130_zpid/
+1713 E 59th Ave,Anchorage,AK,99507,61.16778,-149.8504,4.0,,Sold 02/06/2023,https://www.zillow.com/homedetails/1713-E-59th-Ave-Anchorage-AK-99507/23189_zpid/
+2736 W 42nd Ave,Anchorage,AK,99517,61.181995,-149.93607,5.0,,Sold 02/06/2023,https://www.zillow.com/homedetails/2736-W-42nd-Ave-Anchorage-AK-99517/26426_zpid/
+3452 W 82nd Ave,Anchorage,AK,99502,61.146263,-149.94406,4.0,,Sold 02/06/2023,https://www.zillow.com/homedetails/3452-W-82nd-Ave-Anchorage-AK-99502/33467_zpid/
+274 W Spruce Ave,Wasilla,AK,99654,61.59889,-149.45702,2.0,,Sold 02/06/2023,https://www.zillow.com/homedetails/274-W-Spruce-Ave-Wasilla-AK-99654/74518702_zpid/
+426 Buren Rd,Ketchikan,AK,99901,55.358017,-131.68945,3.0,,Sold 02/06/2023,https://www.zillow.com/homedetails/426-Buren-Rd-Ketchikan-AK-99901/104467160_zpid/
+36448 Purple Iris Way,Kenai,AK,99611,60.85857,-150.85133,,,Sold 02/06/2023,https://www.zillow.com/homedetails/36448-Purple-Iris-Way-Kenai-AK-99611/223305341_zpid/
+2735 Vip Dr,Kenai,AK,99611,60.519318,-151.25418,,,Sold 02/06/2023,https://www.zillow.com/homedetails/2735-Vip-Dr-Kenai-AK-99611/223309347_zpid/
+36525 Frazier Rd,Soldotna,AK,99669,60.50983,-151.02913,,,Sold 02/06/2023,https://www.zillow.com/homedetails/36525-Frazier-Rd-Soldotna-AK-99669/223312639_zpid/
+72716 Grumman Ave,Anchor Point,AK,99556,59.785614,-151.8451,,,Sold 02/06/2023,https://www.zillow.com/homedetails/72716-Grumman-Ave-Anchor-Point-AK-99556/223326635_zpid/
+5211 N Suslositna St,Wasilla,AK,99654,,,4.0,,Sold 02/06/2023,https://www.zillow.com/homedetails/5211-N-Suslositna-St-Wasilla-AK-99654/2060674163_zpid/
+447 N Cobb St,Palmer,AK,99645,,,,,Sold 02/06/2023,https://www.zillow.com/homedetails/447-N-Cobb-St-Palmer-AK-99645/2060930042_zpid/
+L19-B2 Kalgin Dr,Kenai,AK,99611,,,,,Sold 02/06/2023,https://www.zillow.com/homedetails/L19-B2-Kalgin-Dr-Kenai-AK-99611/2071367190_zpid/
+B001 Town Road No Rd,Sutton,AK,99674,,,,,Sold 02/06/2023,https://www.zillow.com/homedetails/B001-Town-Road-No-Rd-Sutton-AK-99674/2073651782_zpid/
+4405 Mikngayak Way,Bethel,AK,99559,,,6.0,,Sold 02/06/2023,https://www.zillow.com/homedetails/4405-Mikngayak-Way-Bethel-AK-99559/2090089275_zpid/
+950 W Turk Cir,Wasilla,AK,99654,61.58538,-149.47632,8.0,,Sold 02/06/2023,https://www.zillow.com/homedetails/950-W-Turk-Cir-Wasilla-AK-99654/2097829802_zpid/
+48018 Keiths Ct,Soldotna,AK,99669,60.44039,-151.15631,2.0,,Sold 02/05/2023,https://www.zillow.com/homedetails/48018-Keiths-Ct-Soldotna-AK-99669/81603080_zpid/
+2253 Forest Park Dr,Anchorage,AK,99517,61.20002,-149.92746,4.0,,Sold 02/03/2023,https://www.zillow.com/homedetails/2253-Forest-Park-Dr-Anchorage-AK-99517/1721_zpid/
+625 Price St,Anchorage,AK,99508,61.22914,-149.81161,3.0,,Sold 02/03/2023,https://www.zillow.com/homedetails/625-Price-St-Anchorage-AK-99508/6903_zpid/
+7611 Maryland Ave,Anchorage,AK,99504,61.215878,-149.73872,4.0,,Sold 02/03/2023,https://www.zillow.com/homedetails/7611-Maryland-Ave-Anchorage-AK-99504/12316_zpid/
+8631 Brookway Cir,Anchorage,AK,99504,61.192703,-149.71959,3.0,,Sold 02/03/2023,https://www.zillow.com/homedetails/8631-Brookway-Cir-Anchorage-AK-99504/20984_zpid/
+2311 W 47th Ave,Anchorage,AK,99517,61.178387,-149.92711,3.0,,Sold 02/03/2023,https://www.zillow.com/homedetails/2311-W-47th-Ave-Anchorage-AK-99517/27130_zpid/
+2560 Curlew Cir #2,Anchorage,AK,99502,61.13585,-149.92651,3.0,,Sold 02/03/2023,https://www.zillow.com/homedetails/2560-Curlew-Cir-2-Anchorage-AK-99502/35425_zpid/
+2580 Brookshire Loop #29,Anchorage,AK,99504,61.19803,-149.73125,3.0,,Sold 02/03/2023,https://www.zillow.com/homedetails/2580-Brookshire-Loop-29-Anchorage-AK-99504/63254025_zpid/
+13316 Alex Cir,Eagle River,AK,99577,61.34115,-149.57141,3.0,,Sold 02/03/2023,https://www.zillow.com/homedetails/13316-Alex-Cir-Eagle-River-AK-99577/68023174_zpid/
+12175 Glacier Hwy APT E306,Juneau,AK,99801,58.384823,-134.65663,2.0,,Sold 02/03/2023,https://www.zillow.com/homedetails/12175-Glacier-Hwy-APT-E306-Juneau-AK-99801/74506618_zpid/
+53630 Redoubt Dr,Kenai,AK,99611,60.653328,-151.33905,4.0,,Sold 02/03/2023,https://www.zillow.com/homedetails/53630-Redoubt-Dr-Kenai-AK-99611/74513812_zpid/
+2001 W Rivulet Ave,Wasilla,AK,99654,61.546524,-149.50075,4.0,,Sold 02/03/2023,https://www.zillow.com/homedetails/2001-W-Rivulet-Ave-Wasilla-AK-99654/74518798_zpid/
+6555 W Dimond Blvd,Anchorage,AK,99502,61.143177,-150.00186,7.0,,Sold 02/03/2023,https://www.zillow.com/homedetails/6555-W-Dimond-Blvd-Anchorage-AK-99502/82589319_zpid/
+39235 Missouri St,Sterling,AK,99672,60.549473,-150.85402,4.0,,Sold 02/03/2023,https://www.zillow.com/homedetails/39235-Missouri-St-Sterling-AK-99672/90679549_zpid/
+1200 E Glenwood Ave,Wasilla,AK,99654,61.56996,-149.41982,3.0,,Sold 02/03/2023,https://www.zillow.com/homedetails/1200-E-Glenwood-Ave-Wasilla-AK-99654/90689694_zpid/
+7521 S Turner Dr,Wasilla,AK,99623,61.496563,-149.61357,3.0,,Sold 02/03/2023,https://www.zillow.com/homedetails/7521-S-Turner-Dr-Wasilla-AK-99623/219481478_zpid/
+11673 Middle Bay Dr,Kodiak,AK,99615,57.70567,-152.59598,,,Sold 02/03/2023,https://www.zillow.com/homedetails/11673-Middle-Bay-Dr-Kodiak-AK-99615/240691568_zpid/
+5665 E Rutan Ave,Wasilla,AK,99654,61.639668,-149.3086,3.0,,Sold 02/03/2023,https://www.zillow.com/homedetails/5665-E-Rutan-Ave-Wasilla-AK-99654/305397764_zpid/
+9544 Grey Owl Way,Eagle River,AK,99577,61.305122,-149.50226,4.0,,Sold 02/03/2023,https://www.zillow.com/homedetails/9544-Grey-Owl-Way-Eagle-River-AK-99577/338223496_zpid/
+TRACT B1 Oil Well Rd #B,Ninilchik,AK,99639,,,,,Sold 02/03/2023,https://www.zillow.com/homedetails/TRACT-B1-Oil-Well-Rd-B-Ninilchik-AK-99639/2060192654_zpid/
+B4-L5 N Oilwell Rd #1,Trapper Creek,AK,99683,,,,,Sold 02/03/2023,https://www.zillow.com/homedetails/B4-L5-N-Oilwell-Rd-1-Trapper-Creek-AK-99683/2060228486_zpid/
+5454 E Mikayla Cir,Wasilla,AK,99654,,,3.0,,Sold 02/03/2023,https://www.zillow.com/homedetails/5454-E-Mikayla-Cir-Wasilla-AK-99654/2061618124_zpid/
+7117 Bull Rush Ave,Wasilla,AK,99654,,,12.0,,Sold 02/03/2023,https://www.zillow.com/homedetails/7117-Bull-Rush-Ave-Wasilla-AK-99654/2061777542_zpid/
+L7-B7 E Chick Cir,Wasilla,AK,99654,,,4.0,,Sold 02/03/2023,https://www.zillow.com/homedetails/L7-B7-E-Chick-Cir-Wasilla-AK-99654/2061942731_zpid/
+4633 S Preston Hills Dr,Wasilla,AK,99623,61.535503,-149.7091,3.0,,Sold 02/03/2023,https://www.zillow.com/homedetails/4633-S-Preston-Hills-Dr-Wasilla-AK-99623/2066636491_zpid/
+7840 S Settlers Bay Dr,Wasilla,AK,99623,,,6.0,,Sold 02/03/2023,https://www.zillow.com/homedetails/7840-S-Settlers-Bay-Dr-Wasilla-AK-99623/2069194979_zpid/
+315 E 12th Ave UNIT 447,Anchorage,AK,99501,61.210808,-149.87889,2.0,,Sold 02/03/2023,https://www.zillow.com/homedetails/315-E-12th-Ave-UNIT-447-Anchorage-AK-99501/2102050987_zpid/
+909 Bench Ct,Anchorage,AK,99504,61.21397,-149.76743,4.0,,Sold 02/02/2023,https://www.zillow.com/homedetails/909-Bench-Ct-Anchorage-AK-99504/11869_zpid/
+6001 Buckner Dr,Anchorage,AK,99504,61.209175,-149.76917,4.0,,Sold 02/02/2023,https://www.zillow.com/homedetails/6001-Buckner-Dr-Anchorage-AK-99504/13249_zpid/
+7200 Kiska Cir,Anchorage,AK,99504,61.200417,-149.74709,5.0,,Sold 02/02/2023,https://www.zillow.com/homedetails/7200-Kiska-Cir-Anchorage-AK-99504/16030_zpid/
+7000 Ryan Ct,Anchorage,AK,99504,61.188778,-149.75003,2.0,,Sold 02/02/2023,https://www.zillow.com/homedetails/7000-Ryan-Ct-Anchorage-AK-99504/19649_zpid/
+3207 Iowa St,Anchorage,AK,99517,61.191154,-149.92827,3.0,,Sold 02/02/2023,https://www.zillow.com/homedetails/3207-Iowa-St-Anchorage-AK-99517/25046_zpid/
+4177 Wilson St APT 4,Anchorage,AK,99503,61.183044,-149.90517,2.0,,Sold 02/02/2023,https://www.zillow.com/homedetails/4177-Wilson-St-APT-4-Anchorage-AK-99503/26788_zpid/
+4970 E 112th Ave,Anchorage,AK,99516,61.119007,-149.78972,3.0,,Sold 02/02/2023,https://www.zillow.com/homedetails/4970-E-112th-Ave-Anchorage-AK-99516/43590_zpid/
+4710 Grumman St,Anchorage,AK,99507,61.17765,-149.82098,3.0,,Sold 02/02/2023,https://www.zillow.com/homedetails/4710-Grumman-St-Anchorage-AK-99507/54822672_zpid/
+12323 Gregg Ln #23,Anchorage,AK,99515,61.10964,-149.8743,3.0,,Sold 02/02/2023,https://www.zillow.com/homedetails/12323-Gregg-Ln-23-Anchorage-AK-99515/54823401_zpid/
+7535 E Woodview Way,Palmer,AK,99645,61.579544,-149.25876,3.0,,Sold 02/02/2023,https://www.zillow.com/homedetails/7535-E-Woodview-Way-Palmer-AK-99645/90690820_zpid/
+39071 Sayer Rd,Anchor Point,AK,99556,59.704155,-151.6884,3.0,,Sold 02/02/2023,https://www.zillow.com/homedetails/39071-Sayer-Rd-Anchor-Point-AK-99556/95189174_zpid/
+327 Portlock St #B,Kenai,AK,99611,60.554222,-151.23148,2.0,,Sold 02/02/2023,https://www.zillow.com/homedetails/327-Portlock-St-B-Kenai-AK-99611/95189677_zpid/
+6279 W Creeksedge Dr,Wasilla,AK,99623,61.563618,-149.6086,3.0,,Sold 02/02/2023,https://www.zillow.com/homedetails/6279-W-Creeksedge-Dr-Wasilla-AK-99623/219458327_zpid/
+5260 W Northern Rose Ln,Wasilla,AK,99623,61.54925,-149.58318,3.0,,Sold 02/02/2023,https://www.zillow.com/homedetails/5260-W-Northern-Rose-Ln-Wasilla-AK-99623/219473050_zpid/
+5900 W Trinity Ave,Wasilla,AK,99623,61.545902,-149.59932,3.0,,Sold 02/02/2023,https://www.zillow.com/homedetails/5900-W-Trinity-Ave-Wasilla-AK-99623/325723475_zpid/
+L7 W B Ct #2,Wasilla,AK,99623,,,,,Sold 02/02/2023,https://www.zillow.com/homedetails/L7-W-B-Ct-2-Wasilla-AK-99623/2060613281_zpid/
+3846 Oliver Dr,North Pole,AK,99705,,,,,Sold 02/02/2023,https://www.zillow.com/homedetails/3846-Oliver-Dr-North-Pole-AK-99705/2061467603_zpid/
+2049 Sanctuary Dr,Palmer,AK,99645,,,4.0,,Sold 02/02/2023,https://www.zillow.com/homedetails/2049-Sanctuary-Dr-Palmer-AK-99645/2062616295_zpid/
+3883 N Sluice Box Dr,Wasilla,AK,99623,,,,,Sold 02/02/2023,https://www.zillow.com/homedetails/3883-N-Sluice-Box-Dr-Wasilla-AK-99623/2062667099_zpid/
+L8 B Emerald Cone Cir #3,Palmer,AK,99645,,,,,Sold 02/02/2023,https://www.zillow.com/homedetails/L8-B-Emerald-Cone-Cir-3-Palmer-AK-99645/2062697215_zpid/
+3360 Monticello Ct,Anchorage,AK,99503,61.189934,-149.89189,3.0,,Sold 02/02/2023,https://www.zillow.com/homedetails/3360-Monticello-Ct-Anchorage-AK-99503/2099915027_zpid/
+5625 Tudor Square Ct,Anchorage,AK,99504,61.181328,-149.77518,2.0,,Sold 02/02/2023,https://www.zillow.com/homedetails/5625-Tudor-Square-Ct-Anchorage-AK-99504/2101673212_zpid/
+2201 Romig Pl APT 206,Anchorage,AK,99503,61.20056,-149.90974,1.0,,Sold 02/01/2023,https://www.zillow.com/homedetails/2201-Romig-Pl-APT-206-Anchorage-AK-99503/1599_zpid/
+2901 Bennett Ave,Anchorage,AK,99517,61.185947,-149.93811,4.0,,Sold 02/01/2023,https://www.zillow.com/homedetails/2901-Bennett-Ave-Anchorage-AK-99517/25723_zpid/
+6967 Town And Country Pl,Anchorage,AK,99502,61.157696,-149.95253,4.0,,Sold 02/01/2023,https://www.zillow.com/homedetails/6967-Town-And-Country-Pl-Anchorage-AK-99502/28389_zpid/
+6700 Tiffany Ter,Anchorage,AK,99507,61.160225,-149.82635,3.0,,Sold 02/01/2023,https://www.zillow.com/homedetails/6700-Tiffany-Ter-Anchorage-AK-99507/38619_zpid/
+14384 Canyon Rd,Anchorage,AK,99516,61.09032,-149.69849,4.0,,Sold 02/01/2023,https://www.zillow.com/homedetails/14384-Canyon-Rd-Anchorage-AK-99516/54903_zpid/
+1202 Coppet St,Fairbanks,AK,99709,64.83796,-147.7935,4.0,,Sold 02/01/2023,https://www.zillow.com/homedetails/1202-Coppet-St-Fairbanks-AK-99709/74503083_zpid/
+1285 Eagle View Dr,Homer,AK,99603,59.660633,-151.57971,4.0,,Sold 02/01/2023,https://www.zillow.com/homedetails/1285-Eagle-View-Dr-Homer-AK-99603/74514221_zpid/
+580 W Ponderosa Loop,Wasilla,AK,99654,61.59391,-149.46838,3.0,,Sold 02/01/2023,https://www.zillow.com/homedetails/580-W-Ponderosa-Loop-Wasilla-AK-99654/74519326_zpid/
+4080 N Grey Wolf Dr,Wasilla,AK,99654,61.626953,-149.39198,3.0,,Sold 02/01/2023,https://www.zillow.com/homedetails/4080-N-Grey-Wolf-Dr-Wasilla-AK-99654/74520439_zpid/
+1294 E Fairview Meadows Ave,Wasilla,AK,99654,61.547565,-149.41795,4.0,,Sold 02/01/2023,https://www.zillow.com/homedetails/1294-E-Fairview-Meadows-Ave-Wasilla-AK-99654/90696518_zpid/
+473 Teal Way,Kodiak,AK,99615,57.8131,-152.34314,4.0,,Sold 02/01/2023,https://www.zillow.com/homedetails/473-Teal-Way-Kodiak-AK-99615/104471650_zpid/
+11590 Discovery Park Dr #68B,Anchorage,AK,99515,61.11575,-149.93086,3.0,,Sold 02/01/2023,https://www.zillow.com/homedetails/11590-Discovery-Park-Dr-68B-Anchorage-AK-99515/119401901_zpid/
+2400 Sentry Dr APT 1206,Anchorage,AK,99507,61.13438,-149.83734,2.0,,Sold 02/01/2023,https://www.zillow.com/homedetails/2400-Sentry-Dr-APT-1206-Anchorage-AK-99507/130209419_zpid/
+11433 W Meadowood Dr,Wasilla,AK,99623,61.56611,-149.73845,2.0,,Sold 02/01/2023,https://www.zillow.com/homedetails/11433-W-Meadowood-Dr-Wasilla-AK-99623/219456649_zpid/
+Uss 2495 No Road North Shore Goodnews Bay,Goodnews Bay,AK,99589,,,,,Sold 02/01/2023,https://www.zillow.com/homedetails/Uss-2495-No-Road-North-Shore-Goodnews-Bay-Goodnews-Bay-AK-99589/2060644784_zpid/
+61411 S Parks Hwy,Talkeetna,AK,99676,,,,,Sold 02/01/2023,https://www.zillow.com/homedetails/61411-S-Parks-Hwy-Talkeetna-AK-99676/2064308779_zpid/
+2603 La Honda Dr #1,Anchorage,AK,99517,,,3.0,,Sold 02/01/2023,https://www.zillow.com/homedetails/2603-La-Honda-Dr-1-Anchorage-AK-99517/2067807196_zpid/
+23165 S Twin Island Dr,Wasilla,AK,99623,,,,,Sold 02/01/2023,https://www.zillow.com/homedetails/23165-S-Twin-Island-Dr-Wasilla-AK-99623/2072151220_zpid/
+Township Road C E Ridgeview,Wasilla,AK,99654,,,,,Sold 02/01/2023,https://www.zillow.com/homedetails/Township-Road-C-E-Ridgeview-Wasilla-AK-99654/2079696905_zpid/
+1122 Latouche St #B,Anchorage,AK,99501,61.21109,-149.86137,2.0,,Sold 02/01/2023,https://www.zillow.com/homedetails/1122-Latouche-St-B-Anchorage-AK-99501/2132407927_zpid/
+310 E 11th Ave #A-219,Anchorage,AK,99501,61.21133,-149.87868,1.0,,Sold 01/31/2023,https://www.zillow.com/homedetails/310-E-11th-Ave-A-219-Anchorage-AK-99501/3431_zpid/
+2826 Redwood Pl,Anchorage,AK,99508,61.194702,-149.85808,3.0,,Sold 01/31/2023,https://www.zillow.com/homedetails/2826-Redwood-Pl-Anchorage-AK-99508/5567_zpid/
+1720 Kodiak St,Anchorage,AK,99504,61.205208,-149.74217,4.0,,Sold 01/31/2023,https://www.zillow.com/homedetails/1720-Kodiak-St-Anchorage-AK-99504/14076_zpid/
+4530 Wright St APT 12,Anchorage,AK,99507,61.17933,-149.82755,2.0,,Sold 01/31/2023,https://www.zillow.com/homedetails/4530-Wright-St-APT-12-Anchorage-AK-99507/21508_zpid/
+5004 Roger Dr,Anchorage,AK,99507,61.175148,-149.84247,4.0,,Sold 01/31/2023,https://www.zillow.com/homedetails/5004-Roger-Dr-Anchorage-AK-99507/22761_zpid/
+7041 Miranda Dr,Anchorage,AK,99507,61.157166,-149.81581,4.0,,Sold 01/31/2023,https://www.zillow.com/homedetails/7041-Miranda-Dr-Anchorage-AK-99507/39165_zpid/
+12700 Gander St,Anchorage,AK,99516,61.10551,-149.82756,3.0,,Sold 01/31/2023,https://www.zillow.com/homedetails/12700-Gander-St-Anchorage-AK-99516/49944_zpid/
+1222 5th Ave,Fairbanks,AK,99701,64.84499,-147.7368,5.0,,Sold 01/31/2023,https://www.zillow.com/homedetails/1222-5th-Ave-Fairbanks-AK-99701/74493260_zpid/
+1807 Carr Ave,Fairbanks,AK,99709,64.85829,-147.76326,1.0,,Sold 01/31/2023,https://www.zillow.com/homedetails/1807-Carr-Ave-Fairbanks-AK-99709/74499036_zpid/
+34235 Page St,Soldotna,AK,99669,60.47787,-151.16943,5.0,,Sold 01/31/2023,https://www.zillow.com/homedetails/34235-Page-St-Soldotna-AK-99669/90678259_zpid/
+2247 N Monte Vista Dr,Palmer,AK,99645,61.60529,-149.15688,6.0,,Sold 01/31/2023,https://www.zillow.com/homedetails/2247-N-Monte-Vista-Dr-Palmer-AK-99645/219474606_zpid/
+1515 Wedgewood Dr,Kenai,AK,99611,60.578587,-151.2797,3.0,,Sold 01/31/2023,https://www.zillow.com/homedetails/1515-Wedgewood-Dr-Kenai-AK-99611/223306368_zpid/
+35985 Summerset Cir,Soldotna,AK,99669,60.501907,-151.17311,3.0,,Sold 01/31/2023,https://www.zillow.com/homedetails/35985-Summerset-Cir-Soldotna-AK-99669/223311252_zpid/
+36100 Dawn Dr,Soldotna,AK,99669,60.503593,-151.0038,3.0,,Sold 01/31/2023,https://www.zillow.com/homedetails/36100-Dawn-Dr-Soldotna-AK-99669/248964772_zpid/
+930 Carlanna Lake Rd APT A32,Ketchikan,AK,99901,55.35929,-131.6833,2.0,,Sold 01/31/2023,https://www.zillow.com/homedetails/930-Carlanna-Lake-Rd-APT-A32-Ketchikan-AK-99901/2060117339_zpid/
+4242 Reka Dr,Anchorage,AK,99508,61.204285,-149.80074,2.0,,Sold 01/31/2023,https://www.zillow.com/homedetails/4242-Reka-Dr-Anchorage-AK-99508/2060135933_zpid/
+1440 E St APT 4,Anchorage,AK,99501,61.20801,-149.89189,3.0,,Sold 01/31/2023,https://www.zillow.com/homedetails/1440-E-St-APT-4-Anchorage-AK-99501/2060485803_zpid/
+4265 N Coronado St,Wasilla,AK,99623,,,3.0,,Sold 01/31/2023,https://www.zillow.com/homedetails/4265-N-Coronado-St-Wasilla-AK-99623/2060826416_zpid/
+108 & 110 Baker St,Kenai,AK,99611,,,,,Sold 01/31/2023,https://www.zillow.com/homedetails/108-110-Baker-St-Kenai-AK-99611/2061409774_zpid/
+TRACT 28 N Fork Rd,Anchor Pt,AK,99556,,,,,Sold 01/31/2023,https://www.zillow.com/homedetails/TRACT-28-N-Fork-Rd-Anchor-Pt-AK-99556/2061689146_zpid/
+11275 E Wolf Trl,Trapper Creek,AK,99683,,,1.0,,Sold 01/31/2023,https://www.zillow.com/homedetails/11275-E-Wolf-Trl-Trapper-Creek-AK-99683/2062199772_zpid/
+0 Coral St,Kenai,AK,99611,,,,,Sold 01/31/2023,https://www.zillow.com/homedetails/0-Coral-St-Kenai-AK-99611/2064899826_zpid/
+14403 E Leila Ln,Talkeetna,AK,99676,62.2712,-150.094,5.0,,Sold 01/31/2023,https://www.zillow.com/homedetails/14403-E-Leila-Ln-Talkeetna-AK-99676/2099429131_zpid/
+2903 Seclusion Cove Dr,Anchorage,AK,99515,61.197594,-149.73174,3.0,,Sold 01/31/2023,https://www.zillow.com/homedetails/2903-Seclusion-Cove-Dr-Anchorage-AK-99515/2117712022_zpid/
+321 E Eagle Ave,Palmer,AK,99645,,,2.0,,Sold 01/31/2023,https://www.zillow.com/homedetails/321-E-Eagle-Ave-Palmer-AK-99645/2119920563_zpid/
+1321 Sunrise Dr,Anchorage,AK,99508,61.20922,-149.81915,3.0,,Sold 01/30/2023,https://www.zillow.com/homedetails/1321-Sunrise-Dr-Anchorage-AK-99508/7277_zpid/
+227 Hoyt St,Anchorage,AK,99508,61.221783,-149.80037,2.0,,Sold 01/30/2023,https://www.zillow.com/homedetails/227-Hoyt-St-Anchorage-AK-99508/8631_zpid/
+8426 Dunlap Ct,Anchorage,AK,99504,61.22302,-149.72296,5.0,,Sold 01/30/2023,https://www.zillow.com/homedetails/8426-Dunlap-Ct-Anchorage-AK-99504/11055_zpid/
+6015 More Ln #6015,Anchorage,AK,99504,61.20011,-149.76886,2.0,,Sold 01/30/2023,https://www.zillow.com/homedetails/6015-More-Ln-6015-Anchorage-AK-99504/14713_zpid/
+8601 Shrub Ct,Anchorage,AK,99504,61.20674,-149.72073,4.0,,Sold 01/30/2023,https://www.zillow.com/homedetails/8601-Shrub-Ct-Anchorage-AK-99504/16519_zpid/
+1401 Chirikof Ct,Anchorage,AK,99507,61.179302,-149.85507,4.0,,Sold 01/30/2023,https://www.zillow.com/homedetails/1401-Chirikof-Ct-Anchorage-AK-99507/22508_zpid/
+3100 Turnagain St,Anchorage,AK,99517,61.192394,-149.93578,4.0,,Sold 01/30/2023,https://www.zillow.com/homedetails/3100-Turnagain-St-Anchorage-AK-99517/23695_zpid/
+2725 W 66th Ave,Anchorage,AK,99502,61.161266,-149.93568,3.0,,Sold 01/30/2023,https://www.zillow.com/homedetails/2725-W-66th-Ave-Anchorage-AK-99502/30640_zpid/
+8460 Rovenna St,Anchorage,AK,99518,61.143856,-149.89983,4.0,,Sold 01/30/2023,https://www.zillow.com/homedetails/8460-Rovenna-St-Anchorage-AK-99518/34430_zpid/
+12201 Woodchase Cir,Anchorage,AK,99516,61.110348,-149.82904,3.0,,Sold 01/30/2023,https://www.zillow.com/homedetails/12201-Woodchase-Cir-Anchorage-AK-99516/44344_zpid/
+203 Sterling Ct,Kenai,AK,99611,60.557373,-151.23111,2.0,,Sold 01/30/2023,https://www.zillow.com/homedetails/203-Sterling-Ct-Kenai-AK-99611/84407341_zpid/
+1680 W Harvest Loop,Wasilla,AK,99654,61.556496,-149.4982,3.0,,Sold 01/30/2023,https://www.zillow.com/homedetails/1680-W-Harvest-Loop-Wasilla-AK-99654/90684655_zpid/
+57713 Icy Bay Dr,Homer,AK,99603,59.68637,-151.3983,3.0,,Sold 01/30/2023,https://www.zillow.com/homedetails/57713-Icy-Bay-Dr-Homer-AK-99603/95189395_zpid/
+7360 S Laduc Pl,Wasilla,AK,99623,61.49649,-149.62662,3.0,,Sold 01/30/2023,https://www.zillow.com/homedetails/7360-S-Laduc-Pl-Wasilla-AK-99623/219481581_zpid/
+3346 Antone Way,Kodiak,AK,99615,57.814754,-152.43579,2.0,,Sold 01/30/2023,https://www.zillow.com/homedetails/3346-Antone-Way-Kodiak-AK-99615/239630954_zpid/
+10773 N 58 Mile Rd,Sutton,AK,99674,61.705452,-148.98196,2.0,,Sold 01/30/2023,https://www.zillow.com/homedetails/10773-N-58-Mile-Rd-Sutton-AK-99674/247727244_zpid/
+23538 W Beluga Ave,Willow,AK,99688,61.736904,-150.04605,3.0,,Sold 01/30/2023,https://www.zillow.com/homedetails/23538-W-Beluga-Ave-Willow-AK-99688/331467512_zpid/
+1712 N Williwaw Way,Wasilla,AK,99654,,,,,Sold 01/30/2023,https://www.zillow.com/homedetails/1712-N-Williwaw-Way-Wasilla-AK-99654/2060929733_zpid/
+4833 Loretta Ln,Anchorage,AK,99507,61.17674,-149.82768,3.0,,Sold 01/30/2023,https://www.zillow.com/homedetails/4833-Loretta-Ln-Anchorage-AK-99507/2062637810_zpid/
+6840 W Werner Dr,Wasilla,AK,99623,,,,,Sold 01/30/2023,https://www.zillow.com/homedetails/6840-W-Werner-Dr-Wasilla-AK-99623/2069482462_zpid/
+B002 No Rd,Willow,AK,99688,,,,,Sold 01/30/2023,https://www.zillow.com/homedetails/B002-No-Rd-Willow-AK-99688/2115720991_zpid/
+221 E 7th Ave APT 203,Anchorage,AK,99501,61.215862,-149.88034,2.0,,Sold 01/27/2023,https://www.zillow.com/homedetails/221-E-7th-Ave-APT-203-Anchorage-AK-99501/3233_zpid/
+310 E 11th Ave #A319,Anchorage,AK,99501,61.21133,-149.87868,1.0,,Sold 01/27/2023,https://www.zillow.com/homedetails/310-E-11th-Ave-A319-Anchorage-AK-99501/3440_zpid/
+1625 Sitka St #14-104,Anchorage,AK,99501,61.205612,-149.84547,3.0,,Sold 01/27/2023,https://www.zillow.com/homedetails/1625-Sitka-St-14-104-Anchorage-AK-99501/6608_zpid/
+7734 Boundary Ave #D-2,Anchorage,AK,99504,61.17594,-149.63507,3.0,,Sold 01/27/2023,https://www.zillow.com/homedetails/7734-Boundary-Ave-D-2-Anchorage-AK-99504/10693_zpid/
+6636 Mulberry Dr,Anchorage,AK,99502,61.160755,-149.94127,4.0,,Sold 01/27/2023,https://www.zillow.com/homedetails/6636-Mulberry-Dr-Anchorage-AK-99502/30392_zpid/
+634 E 74th Ave,Anchorage,AK,99518,61.153477,-149.87144,4.0,,Sold 01/27/2023,https://www.zillow.com/homedetails/634-E-74th-Ave-Anchorage-AK-99518/37760_zpid/
+10260 Jamestown Dr #A-01,Anchorage,AK,99507,61.12844,-149.84717,1.0,,Sold 01/27/2023,https://www.zillow.com/homedetails/10260-Jamestown-Dr-A-01-Anchorage-AK-99507/47000_zpid/
+11815 Spyglass Cir,Anchorage,AK,99515,61.113693,-149.92589,3.0,,Sold 01/27/2023,https://www.zillow.com/homedetails/11815-Spyglass-Cir-Anchorage-AK-99515/53562_zpid/
+16334 Bridgeview Dr,Anchorage,AK,99516,61.075855,-149.77888,4.0,,Sold 01/27/2023,https://www.zillow.com/homedetails/16334-Bridgeview-Dr-Anchorage-AK-99516/61620340_zpid/
+184 Rusty Allen Pl #8,Anchorage,AK,99504,61.22269,-149.76064,2.0,,Sold 01/27/2023,https://www.zillow.com/homedetails/184-Rusty-Allen-Pl-8-Anchorage-AK-99504/68029044_zpid/
+1309 Silverberry Dr,Fairbanks,AK,99712,64.89295,-147.51541,4.0,,Sold 01/27/2023,https://www.zillow.com/homedetails/1309-Silverberry-Dr-Fairbanks-AK-99712/74484030_zpid/
+3321 Mallory Ave,North Pole,AK,99705,64.75019,-147.30592,,,Sold 01/27/2023,https://www.zillow.com/homedetails/3321-Mallory-Ave-North-Pole-AK-99705/74500727_zpid/
+8155 Erin St,Juneau,AK,99801,58.3979,-134.55438,4.0,,Sold 01/27/2023,https://www.zillow.com/homedetails/8155-Erin-St-Juneau-AK-99801/74510289_zpid/
+463 N Alaska St,Palmer,AK,99645,61.611958,-149.11401,3.0,,Sold 01/27/2023,https://www.zillow.com/homedetails/463-N-Alaska-St-Palmer-AK-99645/74523871_zpid/
+3871 E Cottonwood Way,Wasilla,AK,99654,61.596703,-149.3508,3.0,,Sold 01/27/2023,https://www.zillow.com/homedetails/3871-E-Cottonwood-Way-Wasilla-AK-99654/84149484_zpid/
+15636 W Rochella Pl,Wasilla,AK,99623,61.574917,-149.84413,7.0,,Sold 01/27/2023,https://www.zillow.com/homedetails/15636-W-Rochella-Pl-Wasilla-AK-99623/84150202_zpid/
+130 Vassar Cir,Fairbanks,AK,99709,64.84182,-147.8717,2.0,,Sold 01/27/2023,https://www.zillow.com/homedetails/130-Vassar-Cir-Fairbanks-AK-99709/90663668_zpid/
+6057 N Solitude St,Wasilla,AK,99623,61.650513,-149.51108,,,Sold 01/27/2023,https://www.zillow.com/homedetails/6057-N-Solitude-St-Wasilla-AK-99623/219462759_zpid/
+26567 W Lakeshore Cir,Willow,AK,99688,61.74478,-150.10365,1.0,,Sold 01/27/2023,https://www.zillow.com/homedetails/26567-W-Lakeshore-Cir-Willow-AK-99688/219478708_zpid/
+48060 Archie Dr,Kenai,AK,99611,60.513126,-151.17615,3.0,,Sold 01/27/2023,https://www.zillow.com/homedetails/48060-Archie-Dr-Kenai-AK-99611/223309747_zpid/
+50300 Patrick Dr,Kenai,AK,99611,60.514923,-151.24217,3.0,,Sold 01/27/2023,https://www.zillow.com/homedetails/50300-Patrick-Dr-Kenai-AK-99611/223310379_zpid/
+10760 E Brittney Cir,Palmer,AK,99645,61.61444,-149.18248,4.0,,Sold 01/27/2023,https://www.zillow.com/homedetails/10760-E-Brittney-Cir-Palmer-AK-99645/247785507_zpid/
+48155 Center Ave,Soldotna,AK,99669,60.47127,-151.16064,2.0,,Sold 01/27/2023,https://www.zillow.com/homedetails/48155-Center-Ave-Soldotna-AK-99669/2060682268_zpid/
+3539 Palko Cir,Wasilla,AK,99654,,,3.0,,Sold 01/27/2023,https://www.zillow.com/homedetails/3539-Palko-Cir-Wasilla-AK-99654/2061201104_zpid/
+7240 E Forgiven Dr,Palmer,AK,99645,,,4.0,,Sold 01/27/2023,https://www.zillow.com/homedetails/7240-E-Forgiven-Dr-Palmer-AK-99645/2061374246_zpid/
+18008 Rivervista Dr,Eagle River,AK,99577,,,3.0,,Sold 01/27/2023,https://www.zillow.com/homedetails/18008-Rivervista-Dr-Eagle-River-AK-99577/2061617278_zpid/
+48660 E End Rd,Homer,AK,99603,,,2.0,,Sold 01/27/2023,https://www.zillow.com/homedetails/48660-E-End-Rd-Homer-AK-99603/2062999745_zpid/
+L10b4 Setter Lake Rd,Thorne Bay,AK,99919,,,,,Sold 01/27/2023,https://www.zillow.com/homedetails/L10b4-Setter-Lake-Rd-Thorne-Bay-AK-99919/2071117637_zpid/
+10245 E Tri Mountain View Dr,Palmer,AK,99645,,,4.0,,Sold 01/27/2023,https://www.zillow.com/homedetails/10245-E-Tri-Mountain-View-Dr-Palmer-AK-99645/2085627375_zpid/
+1200 I St UNIT 709,Anchorage,AK,99501,61.21068,-149.89989,1.0,,Sold 01/26/2023,https://www.zillow.com/homedetails/1200-I-St-UNIT-709-Anchorage-AK-99501/652_zpid/
+2201 Romig Pl APT 109,Anchorage,AK,99503,61.20056,-149.90974,2.0,,Sold 01/26/2023,https://www.zillow.com/homedetails/2201-Romig-Pl-APT-109-Anchorage-AK-99503/1593_zpid/
+8401 Brookridge Dr,Anchorage,AK,99504,61.19498,-149.72464,3.0,,Sold 01/26/2023,https://www.zillow.com/homedetails/8401-Brookridge-Dr-Anchorage-AK-99504/20916_zpid/
+3225 Wiley Post Loop,Anchorage,AK,99517,61.187794,-149.94429,4.0,,Sold 01/26/2023,https://www.zillow.com/homedetails/3225-Wiley-Post-Loop-Anchorage-AK-99517/25988_zpid/
+9713 Reliance Dr,Anchorage,AK,99507,61.13246,-149.84103,3.0,,Sold 01/26/2023,https://www.zillow.com/homedetails/9713-Reliance-Dr-Anchorage-AK-99507/47201_zpid/
+17709 S Juanita Loop,Eagle River,AK,99577,61.336845,-149.55145,4.0,,Sold 01/26/2023,https://www.zillow.com/homedetails/17709-S-Juanita-Loop-Eagle-River-AK-99577/54935_zpid/
+316 Birch St,Kenai,AK,99611,60.565178,-151.26617,4.0,,Sold 01/26/2023,https://www.zillow.com/homedetails/316-Birch-St-Kenai-AK-99611/84407052_zpid/
+802 Minuteman Loop,North Pole,AK,99705,64.74605,-147.35757,3.0,,Sold 01/26/2023,https://www.zillow.com/homedetails/802-Minuteman-Loop-North-Pole-AK-99705/90666252_zpid/
+1225 N Sun School Cir,Wasilla,AK,99623,61.596302,-149.63495,3.0,,Sold 01/26/2023,https://www.zillow.com/homedetails/1225-N-Sun-School-Cir-Wasilla-AK-99623/247765137_zpid/
+4433 San Ernesto Ave #B214,Anchorage,AK,99508,,,2.0,,Sold 01/26/2023,https://www.zillow.com/homedetails/4433-San-Ernesto-Ave-B214-Anchorage-AK-99508/2060508836_zpid/
+L3 W B Ct #1,Wasilla,AK,99623,,,,,Sold 01/26/2023,https://www.zillow.com/homedetails/L3-W-B-Ct-1-Wasilla-AK-99623/2060613337_zpid/
+L1 Kaleen St,Homer,AK,99603,,,,,Sold 01/26/2023,https://www.zillow.com/homedetails/L1-Kaleen-St-Homer-AK-99603/2062575313_zpid/
+12636 Silver Fox Ln,Anchorage,AK,99515,,,8.0,,Sold 01/26/2023,https://www.zillow.com/homedetails/12636-Silver-Fox-Ln-Anchorage-AK-99515/2063285218_zpid/
+5750 E 4th Ave,Anchorage,AK,99504,61.218468,-149.77295,8.0,,Sold 01/26/2023,https://www.zillow.com/homedetails/5750-E-4th-Ave-Anchorage-AK-99504/2136687684_zpid/
+3520 W Dimond Blvd #4,Anchorage,AK,99502,61.1372,-149.94498,3.0,,Sold 01/25/2023,https://www.zillow.com/homedetails/3520-W-Dimond-Blvd-4-Anchorage-AK-99502/35062_zpid/
+1521 Elcadore Dr #107,Anchorage,AK,99507,61.123444,-149.85208,3.0,,Sold 01/25/2023,https://www.zillow.com/homedetails/1521-Elcadore-Dr-107-Anchorage-AK-99507/45474_zpid/
+20206 Constitution Dr,Eagle River,AK,99577,61.31629,-149.50746,4.0,,Sold 01/25/2023,https://www.zillow.com/homedetails/20206-Constitution-Dr-Eagle-River-AK-99577/59803_zpid/
+7975 Astonshire Ct #92,Anchorage,AK,99504,61.199104,-149.73189,4.0,,Sold 01/25/2023,https://www.zillow.com/homedetails/7975-Astonshire-Ct-92-Anchorage-AK-99504/63197959_zpid/
+322 Hagelbarger Ave,Fairbanks,AK,99712,64.909805,-147.61955,2.0,,Sold 01/25/2023,https://www.zillow.com/homedetails/322-Hagelbarger-Ave-Fairbanks-AK-99712/74487026_zpid/
+750 W Briar Dr,Wasilla,AK,99654,61.5852,-149.47028,3.0,,Sold 01/25/2023,https://www.zillow.com/homedetails/750-W-Briar-Dr-Wasilla-AK-99654/74518424_zpid/
+3360 E Anaheim Dr,Wasilla,AK,99654,61.597935,-149.36583,4.0,,Sold 01/25/2023,https://www.zillow.com/homedetails/3360-E-Anaheim-Dr-Wasilla-AK-99654/74520949_zpid/
+5242 E Alder Dr,Wasilla,AK,99654,61.612686,-149.31888,4.0,,Sold 01/25/2023,https://www.zillow.com/homedetails/5242-E-Alder-Dr-Wasilla-AK-99654/74524920_zpid/
+484 E Ravenswood Loop,Wasilla,AK,99654,61.56139,-149.43994,3.0,,Sold 01/25/2023,https://www.zillow.com/homedetails/484-E-Ravenswood-Loop-Wasilla-AK-99654/84148723_zpid/
+1037 Barnett Pl,Homer,AK,99603,59.65856,-151.5167,4.0,,Sold 01/25/2023,https://www.zillow.com/homedetails/1037-Barnett-Pl-Homer-AK-99603/84406373_zpid/
+19544 Ostovia Cir,Eagle River,AK,99577,61.30592,-149.51671,4.0,,Sold 01/25/2023,https://www.zillow.com/homedetails/19544-Ostovia-Cir-Eagle-River-AK-99577/112355505_zpid/
+B17 L5 1 Rd,Talkeetna,AK,99676,,,,,Sold 01/25/2023,https://www.zillow.com/homedetails/B17-L5-1-Rd-Talkeetna-AK-99676/2062367397_zpid/
+5511 W Birch Harbor Dr,Wasilla,AK,99623,,,,,Sold 01/25/2023,https://www.zillow.com/homedetails/5511-W-Birch-Harbor-Dr-Wasilla-AK-99623/2062793371_zpid/
+2222 Sanctuary Dr,Palmer,AK,99645,,,4.0,,Sold 01/25/2023,https://www.zillow.com/homedetails/2222-Sanctuary-Dr-Palmer-AK-99645/2064093156_zpid/
+L10-B9 Sea Otter Dr,Ketchikan,AK,99950,,,,,Sold 01/25/2023,https://www.zillow.com/homedetails/L10-B9-Sea-Otter-Dr-Ketchikan-AK-99950/2065688474_zpid/
+11296 W Big Dipper Dr,Wasilla,AK,99623,,,3.0,,Sold 01/25/2023,https://www.zillow.com/homedetails/11296-W-Big-Dipper-Dr-Wasilla-AK-99623/2070097609_zpid/
+6649 E Spruce Hen Dr,Wasilla,AK,99654,,,4.0,,Sold 01/25/2023,https://www.zillow.com/homedetails/6649-E-Spruce-Hen-Dr-Wasilla-AK-99654/2079592051_zpid/
+943 E 12th Ave APT 1,Anchorage,AK,99501,61.210938,-149.86522,3.0,,Sold 01/25/2023,https://www.zillow.com/homedetails/943-E-12th-Ave-APT-1-Anchorage-AK-99501/2087268606_zpid/
+8101 Peck Ave UNIT G50,Anchorage,AK,99504,61.222507,-149.72975,2.0,,Sold 01/24/2023,https://www.zillow.com/homedetails/8101-Peck-Ave-UNIT-G50-Anchorage-AK-99504/10880_zpid/
+2802 Seafarer Loop,Anchorage,AK,99516,61.09614,-149.82936,5.0,,Sold 01/24/2023,https://www.zillow.com/homedetails/2802-Seafarer-Loop-Anchorage-AK-99516/52762_zpid/
+16627 Riddell Cir,Eagle River,AK,99577,61.338528,-149.57184,4.0,,Sold 01/24/2023,https://www.zillow.com/homedetails/16627-Riddell-Cir-Eagle-River-AK-99577/55254_zpid/
+16239 Jackson Hole Ct,Eagle River,AK,99577,61.33241,-149.57855,3.0,,Sold 01/24/2023,https://www.zillow.com/homedetails/16239-Jackson-Hole-Ct-Eagle-River-AK-99577/55413_zpid/
+22927 Green Garden Dr,Chugiak,AK,99567,61.416264,-149.45552,3.0,,Sold 01/24/2023,https://www.zillow.com/homedetails/22927-Green-Garden-Dr-Chugiak-AK-99567/62418_zpid/
+2900 N Cottonwood Loop,Wasilla,AK,99654,61.6127,-149.3056,3.0,,Sold 01/24/2023,https://www.zillow.com/homedetails/2900-N-Cottonwood-Loop-Wasilla-AK-99654/90699713_zpid/
+6182 N Kettle Dr,Palmer,AK,99645,61.65299,-149.22266,3.0,,Sold 01/24/2023,https://www.zillow.com/homedetails/6182-N-Kettle-Dr-Palmer-AK-99645/103868685_zpid/
+9190 E Spring Creek Cir,Palmer,AK,99645,61.61167,-149.2203,3.0,,Sold 01/24/2023,https://www.zillow.com/homedetails/9190-E-Spring-Creek-Cir-Palmer-AK-99645/111990224_zpid/
+4591 W Roca Rd,Wasilla,AK,99623,61.58952,-149.56288,3.0,,Sold 01/24/2023,https://www.zillow.com/homedetails/4591-W-Roca-Rd-Wasilla-AK-99623/219468917_zpid/
+630 E Burlwood Dr,Wasilla,AK,99654,61.635113,-149.43456,3.0,,Sold 01/24/2023,https://www.zillow.com/homedetails/630-E-Burlwood-Dr-Wasilla-AK-99654/338459071_zpid/
+2569 Douglas Hwy APT 4,Juneau,AK,99801,58.286552,-134.41658,,,Sold 01/24/2023,https://www.zillow.com/homedetails/2569-Douglas-Hwy-APT-4-Juneau-AK-99801/2060604572_zpid/
+L3-B3 Mile Hi Way,Eagle River,AK,99577,,,,,Sold 01/24/2023,https://www.zillow.com/homedetails/L3-B3-Mile-Hi-Way-Eagle-River-AK-99577/2060810664_zpid/
+2567 N Horizon Blvd,Wasilla,AK,99623,,,,,Sold 01/24/2023,https://www.zillow.com/homedetails/2567-N-Horizon-Blvd-Wasilla-AK-99623/2061926179_zpid/
+2071 Sanctuary Dr,Palmer,AK,99645,,,4.0,,Sold 01/24/2023,https://www.zillow.com/homedetails/2071-Sanctuary-Dr-Palmer-AK-99645/2063389152_zpid/
+Nhn Chena Pump Rd,Fairbanks,AK,99709,,,,,Sold 01/24/2023,https://www.zillow.com/homedetails/Nhn-Chena-Pump-Rd-Fairbanks-AK-99709/2085429219_zpid/
+1024 E 12th Ave,Anchorage,AK,99501,,,8.0,,Sold 01/24/2023,https://www.zillow.com/homedetails/1024-E-12th-Ave-Anchorage-AK-99501/2101436443_zpid/
+12619 Bona Kim Loop,Anchorage,AK,99515,61.10653,-149.85725,3.0,,Sold 01/24/2023,https://www.zillow.com/homedetails/12619-Bona-Kim-Loop-Anchorage-AK-99515/2144429268_zpid/
+3921 E 65th Ave,Anchorage,AK,99507,61.16217,-149.80876,3.0,,Sold 01/23/2023,https://www.zillow.com/homedetails/3921-E-65th-Ave-Anchorage-AK-99507/38959_zpid/
+3220 Doil Dr,Anchorage,AK,99507,61.164825,-149.82051,3.0,,Sold 01/23/2023,https://www.zillow.com/homedetails/3220-Doil-Dr-Anchorage-AK-99507/42168_zpid/
+9500 Slalom Dr,Anchorage,AK,99507,61.134754,-149.7233,3.0,,Sold 01/23/2023,https://www.zillow.com/homedetails/9500-Slalom-Dr-Anchorage-AK-99507/42921_zpid/
+2420 Copperwood Dr,Anchorage,AK,99516,61.11057,-149.83685,4.0,,Sold 01/23/2023,https://www.zillow.com/homedetails/2420-Copperwood-Dr-Anchorage-AK-99516/46313_zpid/
+377 Toadstool Dr,Girdwood,AK,99587,60.945538,-149.17653,1.0,,Sold 01/23/2023,https://www.zillow.com/homedetails/377-Toadstool-Dr-Girdwood-AK-99587/64038_zpid/
+3185 Forrest Dr,Fairbanks,AK,99709,64.81867,-147.9677,4.0,,Sold 01/23/2023,https://www.zillow.com/homedetails/3185-Forrest-Dr-Fairbanks-AK-99709/74500972_zpid/
+7260 Glacier Hwy,Juneau,AK,99801,58.359707,-134.53802,2.0,,Sold 01/23/2023,https://www.zillow.com/homedetails/7260-Glacier-Hwy-Juneau-AK-99801/74508286_zpid/
+245 S Adam Cir,Palmer,AK,99645,61.580948,-149.27066,4.0,,Sold 01/23/2023,https://www.zillow.com/homedetails/245-S-Adam-Cir-Palmer-AK-99645/84149823_zpid/
+3307 Oregon Dr,Anchorage,AK,99517,61.18973,-149.91824,6.0,,Sold 01/23/2023,https://www.zillow.com/homedetails/3307-Oregon-Dr-Anchorage-AK-99517/88900174_zpid/
+7021 S Brimstone Dr,Wasilla,AK,99623,61.500328,-149.62764,3.0,,Sold 01/23/2023,https://www.zillow.com/homedetails/7021-S-Brimstone-Dr-Wasilla-AK-99623/219481546_zpid/
+5085 W Sundance Cir,Wasilla,AK,99623,61.541206,-149.57854,4.0,,Sold 01/23/2023,https://www.zillow.com/homedetails/5085-W-Sundance-Cir-Wasilla-AK-99623/219482043_zpid/
+23445 S Jurasek Dr,Trapper Creek,AK,99683,62.312397,-150.32748,1.0,,Sold 01/23/2023,https://www.zillow.com/homedetails/23445-S-Jurasek-Dr-Trapper-Creek-AK-99683/247726667_zpid/
+8285 Harmany Ranch Rd,Eagle River,AK,99577,,,,,Sold 01/23/2023,https://www.zillow.com/homedetails/8285-Harmany-Ranch-Rd-Eagle-River-AK-99577/2060520804_zpid/
+1470 Northview Dr UNIT K-8,Anchorage,AK,99504,61.207085,-149.72752,2.0,,Sold 01/23/2023,https://www.zillow.com/homedetails/1470-Northview-Dr-UNIT-K-8-Anchorage-AK-99504/2060718218_zpid/
+L20 Rollins Way,Anchor Pt,AK,99556,,,,,Sold 01/23/2023,https://www.zillow.com/homedetails/L20-Rollins-Way-Anchor-Pt-AK-99556/2060775219_zpid/
+TRACT Warehouse Mtn #A,Dillingham,AK,99576,,,,,Sold 01/23/2023,https://www.zillow.com/homedetails/TRACT-Warehouse-Mtn-A-Dillingham-AK-99576/2060999414_zpid/
+Township Road 19a Suneagle Dr #20A,Anchor Pt,AK,99556,,,,,Sold 01/23/2023,https://www.zillow.com/homedetails/Township-Road-19a-Suneagle-Dr-20A-Anchor-Pt-AK-99556/2061507555_zpid/
+6021 Chevigny St #A-9,Anchorage,AK,99502,,,2.0,,Sold 01/23/2023,https://www.zillow.com/homedetails/6021-Chevigny-St-A-9-Anchorage-AK-99502/2069925698_zpid/
+11268 W Big Dipper Dr,Wasilla,AK,99623,,,3.0,,Sold 01/23/2023,https://www.zillow.com/homedetails/11268-W-Big-Dipper-Dr-Wasilla-AK-99623/2070098104_zpid/
+1575 W Melanie Ave,Wasilla,AK,99654,61.588135,-149.4913,6.0,,Sold 01/23/2023,https://www.zillow.com/homedetails/1575-W-Melanie-Ave-Wasilla-AK-99654/2075430591_zpid/
+5683 Sapphire Loop,Anchorage,AK,99504,61.203,-149.7484,3.0,,Sold 01/23/2023,https://www.zillow.com/homedetails/5683-Sapphire-Loop-Anchorage-AK-99504/2146139041_zpid/
+37855 Midway Dr,Sterling,AK,99672,60.52893,-150.74075,5.0,,Sold 01/21/2023,https://www.zillow.com/homedetails/37855-Midway-Dr-Sterling-AK-99672/223317585_zpid/
+7311 W Captain Hook Dr,Wasilla,AK,99623,,,2.0,,Sold 01/21/2023,https://www.zillow.com/homedetails/7311-W-Captain-Hook-Dr-Wasilla-AK-99623/2065426098_zpid/
+333 M St APT 101,Anchorage,AK,99501,61.21833,-149.90546,2.0,,Sold 01/20/2023,https://www.zillow.com/homedetails/333-M-St-APT-101-Anchorage-AK-99501/59_zpid/
+2174 Arcadia Dr,Anchorage,AK,99517,61.201046,-149.93124,3.0,,Sold 01/20/2023,https://www.zillow.com/homedetails/2174-Arcadia-Dr-Anchorage-AK-99517/1774_zpid/
+189 Lane Cir,Anchorage,AK,99508,61.222645,-149.79745,3.0,,Sold 01/20/2023,https://www.zillow.com/homedetails/189-Lane-Cir-Anchorage-AK-99508/8636_zpid/
+4161 E 20th Ave #F-28,Anchorage,AK,99508,61.202625,-149.80536,2.0,,Sold 01/20/2023,https://www.zillow.com/homedetails/4161-E-20th-Ave-F-28-Anchorage-AK-99508/10033_zpid/
+530 San Juan Cir,Anchorage,AK,99504,61.2172,-149.77773,6.0,,Sold 01/20/2023,https://www.zillow.com/homedetails/530-San-Juan-Cir-Anchorage-AK-99504/16474_zpid/
+8502 Moss Ct #14,Anchorage,AK,99504,61.207123,-149.72253,2.0,,Sold 01/20/2023,https://www.zillow.com/homedetails/8502-Moss-Ct-14-Anchorage-AK-99504/16537_zpid/
+12256 Breckenridge Dr,Eagle River,AK,99577,61.33149,-149.58244,3.0,,Sold 01/20/2023,https://www.zillow.com/homedetails/12256-Breckenridge-Dr-Eagle-River-AK-99577/55666_zpid/
+20130 David Ave,Eagle River,AK,99577,61.311665,-149.5067,3.0,,Sold 01/20/2023,https://www.zillow.com/homedetails/20130-David-Ave-Eagle-River-AK-99577/58460_zpid/
+15443 Husky St,Eagle River,AK,99577,61.36021,-149.54912,4.0,,Sold 01/20/2023,https://www.zillow.com/homedetails/15443-Husky-St-Eagle-River-AK-99577/61670_zpid/
+20212 Chugach Park Dr,Chugiak,AK,99567,61.403282,-149.43369,4.0,,Sold 01/20/2023,https://www.zillow.com/homedetails/20212-Chugach-Park-Dr-Chugiak-AK-99567/68020063_zpid/
+228 Craig Ave,Fairbanks,AK,99701,64.84786,-147.68227,1.0,,Sold 01/20/2023,https://www.zillow.com/homedetails/228-Craig-Ave-Fairbanks-AK-99701/74502367_zpid/
+1555 Cygnus Ct,North Pole,AK,99705,64.83781,-147.48999,3.0,,Sold 01/20/2023,https://www.zillow.com/homedetails/1555-Cygnus-Ct-North-Pole-AK-99705/90666595_zpid/
+2029 S Jeffrey Ln,Wasilla,AK,99623,61.560364,-149.75081,7.0,,Sold 01/20/2023,https://www.zillow.com/homedetails/2029-S-Jeffrey-Ln-Wasilla-AK-99623/219457290_zpid/
+7615 W Dean Dr,Wasilla,AK,99623,61.614433,-149.64256,1.0,,Sold 01/20/2023,https://www.zillow.com/homedetails/7615-W-Dean-Dr-Wasilla-AK-99623/219478664_zpid/
+3441 Moosewalk Rd,North Pole,AK,99705,64.766655,-147.29366,4.0,,Sold 01/20/2023,https://www.zillow.com/homedetails/3441-Moosewalk-Rd-North-Pole-AK-99705/219795373_zpid/
+21850 Pavlof Dr,Kasilof,AK,99610,60.29553,-151.37448,2.0,,Sold 01/20/2023,https://www.zillow.com/homedetails/21850-Pavlof-Dr-Kasilof-AK-99610/223322706_zpid/
+708 Holiday Rd,North Pole,AK,99705,64.74841,-147.35895,3.0,,Sold 01/20/2023,https://www.zillow.com/homedetails/708-Holiday-Rd-North-Pole-AK-99705/245274187_zpid/
+9532 Glacier Hwy #14,Juneau,AK,99801,,,,,Sold 01/20/2023,https://www.zillow.com/homedetails/9532-Glacier-Hwy-14-Juneau-AK-99801/2060283160_zpid/
+C006 East Rd,Talkeetna,AK,99676,,,,,Sold 01/20/2023,https://www.zillow.com/homedetails/C006-East-Rd-Talkeetna-AK-99676/2061592899_zpid/
+16290 Mountain Breeze Dr,Anchorage,AK,99516,,,4.0,,Sold 01/20/2023,https://www.zillow.com/homedetails/16290-Mountain-Breeze-Dr-Anchorage-AK-99516/2064725893_zpid/
+Township Road 3 #&-4,Anchor Pt,AK,99556,,,,,Sold 01/20/2023,https://www.zillow.com/homedetails/Township-Road-3-4-Anchor-Pt-AK-99556/2078087905_zpid/
+36646 W Parks Hwy,Willow,AK,99688,,,,,Sold 01/20/2023,https://www.zillow.com/homedetails/36646-W-Parks-Hwy-Willow-AK-99688/2088611859_zpid/
+332 Dailey Ave,Anchorage,AK,99515,61.110283,-149.87595,3.0,,Sold 01/20/2023,https://www.zillow.com/homedetails/332-Dailey-Ave-Anchorage-AK-99515/2094813746_zpid/
+344 W 7th Ave,North Pole,AK,99705,64.74852,-147.358,3.0,,Sold 01/20/2023,https://www.zillow.com/homedetails/344-W-7th-Ave-North-Pole-AK-99705/2110982058_zpid/
+6160 S Clearview Cir #21,Wasilla,AK,99623,61.513664,-149.63062,2.0,,Sold 01/20/2023,https://www.zillow.com/homedetails/6160-S-Clearview-Cir-21-Wasilla-AK-99623/2118314703_zpid/
+432 N Flower St,Anchorage,AK,99508,61.227543,-149.80705,16.0,,Sold 01/20/2023,https://www.zillow.com/homedetails/432-N-Flower-St-Anchorage-AK-99508/2132327902_zpid/
+123 E 11th Ave,Anchorage,AK,99501,61.211926,-149.88222,3.0,,Sold 01/19/2023,https://www.zillow.com/homedetails/123-E-11th-Ave-Anchorage-AK-99501/3402_zpid/
+3171 Horizon St,Anchorage,AK,99517,61.191788,-149.96094,2.0,,Sold 01/19/2023,https://www.zillow.com/homedetails/3171-Horizon-St-Anchorage-AK-99517/24092_zpid/
+5895 E Pamela Dr,Wasilla,AK,99654,61.646736,-149.31178,5.0,,Sold 01/19/2023,https://www.zillow.com/homedetails/5895-E-Pamela-Dr-Wasilla-AK-99654/90692339_zpid/
+2567 Lisa Ann Dr,North Pole,AK,99705,64.7968,-147.38536,3.0,,Sold 01/19/2023,https://www.zillow.com/homedetails/2567-Lisa-Ann-Dr-North-Pole-AK-99705/219803967_zpid/
+Township Road 56,Ninilchik,AK,99639,,,,,Sold 01/19/2023,https://www.zillow.com/homedetails/Township-Road-56-Ninilchik-AK-99639/2060148622_zpid/
+657 & 659 E 76th Ave,Anchorage,AK,99518,,,,,Sold 01/19/2023,https://www.zillow.com/homedetails/657-659-E-76th-Ave-Anchorage-AK-99518/2060505317_zpid/
+315 E 12th Ave UNIT 344,Anchorage,AK,99501,61.210808,-149.87889,2.0,,Sold 01/19/2023,https://www.zillow.com/homedetails/315-E-12th-Ave-UNIT-344-Anchorage-AK-99501/2060755019_zpid/
+657 E 76th Ave,Anchorage,AK,99518,,,6.0,,Sold 01/19/2023,https://www.zillow.com/homedetails/657-E-76th-Ave-Anchorage-AK-99518/2062368172_zpid/
+6922 W Bruns Dr,Wasilla,AK,99623,,,3.0,,Sold 01/19/2023,https://www.zillow.com/homedetails/6922-W-Bruns-Dr-Wasilla-AK-99623/2068006344_zpid/
+11601 E Yarrow Rd,Palmer,AK,99645,,,4.0,,Sold 01/19/2023,https://www.zillow.com/homedetails/11601-E-Yarrow-Rd-Palmer-AK-99645/2075163842_zpid/
+1311 W 40th Ave,Anchorage,AK,99503,61.184654,-149.9084,8.0,,Sold 01/18/2023,https://www.zillow.com/homedetails/1311-W-40th-Ave-Anchorage-AK-99503/25464_zpid/
+2910 Wiley Post Ave,Anchorage,AK,99517,61.18707,-149.93802,4.0,,Sold 01/18/2023,https://www.zillow.com/homedetails/2910-Wiley-Post-Ave-Anchorage-AK-99517/25703_zpid/
+2930 Westwind Ct,Anchorage,AK,99516,61.09451,-149.82762,6.0,,Sold 01/18/2023,https://www.zillow.com/homedetails/2930-Westwind-Ct-Anchorage-AK-99516/52733_zpid/
+16529 Baird Cir,Eagle River,AK,99577,61.34092,-149.57452,4.0,,Sold 01/18/2023,https://www.zillow.com/homedetails/16529-Baird-Cir-Eagle-River-AK-99577/68023377_zpid/
+1218 Wild Rose Ave,Fairbanks,AK,99701,64.83397,-147.7454,,,Sold 01/18/2023,https://www.zillow.com/homedetails/1218-Wild-Rose-Ave-Fairbanks-AK-99701/74502022_zpid/
+6862 W Knox Dr,Wasilla,AK,99623,61.578156,-149.6237,4.0,,Sold 01/18/2023,https://www.zillow.com/homedetails/6862-W-Knox-Dr-Wasilla-AK-99623/74523493_zpid/
+1735 S Heather Meadows Loop #22,Anchorage,AK,99507,61.13973,-149.85239,3.0,,Sold 01/18/2023,https://www.zillow.com/homedetails/1735-S-Heather-Meadows-Loop-22-Anchorage-AK-99507/79534477_zpid/
+4680 W Lakeside Dr,Wasilla,AK,99623,61.57475,-149.56842,3.0,,Sold 01/18/2023,https://www.zillow.com/homedetails/4680-W-Lakeside-Dr-Wasilla-AK-99623/90683280_zpid/
+33668 Nashwood Ave,Seward,AK,99664,60.13454,-149.36871,3.0,,Sold 01/18/2023,https://www.zillow.com/homedetails/33668-Nashwood-Ave-Seward-AK-99664/95188902_zpid/
+2875 N Birch Harbor Rd,Wasilla,AK,99623,61.61242,-149.78831,,,Sold 01/18/2023,https://www.zillow.com/homedetails/2875-N-Birch-Harbor-Rd-Wasilla-AK-99623/219456733_zpid/
+3751 S Well Site Rd,Wasilla,AK,99654,61.53975,-149.45712,4.0,,Sold 01/18/2023,https://www.zillow.com/homedetails/3751-S-Well-Site-Rd-Wasilla-AK-99654/219458943_zpid/
+5416 W Montclaire Ave,Wasilla,AK,99623,61.552876,-149.58742,3.0,,Sold 01/18/2023,https://www.zillow.com/homedetails/5416-W-Montclaire-Ave-Wasilla-AK-99623/219469452_zpid/
+15025 W Wild Rose Cir,Wasilla,AK,99623,61.543163,-149.82921,4.0,,Sold 01/18/2023,https://www.zillow.com/homedetails/15025-W-Wild-Rose-Cir-Wasilla-AK-99623/219473719_zpid/
+3017 Clinton Dr,Juneau,AK,99801,58.37401,-134.5978,,,Sold 01/18/2023,https://www.zillow.com/homedetails/3017-Clinton-Dr-Juneau-AK-99801/244288484_zpid/
+7311 W Captain Hook Dr #7331 & 735,Wasilla,AK,99623,,,,,Sold 01/18/2023,https://www.zillow.com/homedetails/7311-W-Captain-Hook-Dr-7331-735-Wasilla-AK-99623/2060625160_zpid/
+441 Dailey Ave APT 7,Anchorage,AK,99515,61.110565,-149.87384,2.0,,Sold 01/18/2023,https://www.zillow.com/homedetails/441-Dailey-Ave-APT-7-Anchorage-AK-99515/2063346573_zpid/
+6110 E 12th Ave #B8,Anchorage,AK,99504,,,2.0,,Sold 01/18/2023,https://www.zillow.com/homedetails/6110-E-12th-Ave-B8-Anchorage-AK-99504/2064922627_zpid/
+3801 S Krisun Dr,Wasilla,AK,99654,,,3.0,,Sold 01/18/2023,https://www.zillow.com/homedetails/3801-S-Krisun-Dr-Wasilla-AK-99654/2065395676_zpid/
+9818 W Carmel Rd,Wasilla,AK,99623,,,3.0,,Sold 01/18/2023,https://www.zillow.com/homedetails/9818-W-Carmel-Rd-Wasilla-AK-99623/2066606517_zpid/
+L8-B14 Chilkat Lake Rd,Haines,AK,99827,,,,,Sold 01/18/2023,https://www.zillow.com/homedetails/L8-B14-Chilkat-Lake-Rd-Haines-AK-99827/2067489553_zpid/
+6341 E 16th Ave,Anchorage,AK,99504,61.206287,-149.76193,5.0,,Sold 01/17/2023,https://www.zillow.com/homedetails/6341-E-16th-Ave-Anchorage-AK-99504/13552_zpid/
+207 Stewart St,Anchorage,AK,99508,61.22209,-149.7874,3.0,,Sold 01/17/2023,https://www.zillow.com/homedetails/207-Stewart-St-Anchorage-AK-99508/15291_zpid/
+4351 Edinburgh Dr,Anchorage,AK,99502,61.13446,-149.96248,3.0,,Sold 01/17/2023,https://www.zillow.com/homedetails/4351-Edinburgh-Dr-Anchorage-AK-99502/29952_zpid/
+3006 Bettles Bay Loop,Anchorage,AK,99515,61.128242,-149.93657,5.0,,Sold 01/17/2023,https://www.zillow.com/homedetails/3006-Bettles-Bay-Loop-Anchorage-AK-99515/36890_zpid/
+4020 Winchester Loop,Anchorage,AK,99507,61.138615,-149.8072,4.0,,Sold 01/17/2023,https://www.zillow.com/homedetails/4020-Winchester-Loop-Anchorage-AK-99507/42019_zpid/
+19413 1st St,Eagle River,AK,99577,61.311928,-149.52063,5.0,,Sold 01/17/2023,https://www.zillow.com/homedetails/19413-1st-St-Eagle-River-AK-99577/57814_zpid/
+21420 Rock Ptarmigan St,Chugiak,AK,99567,61.413883,-149.42664,4.0,,Sold 01/17/2023,https://www.zillow.com/homedetails/21420-Rock-Ptarmigan-St-Chugiak-AK-99567/60131_zpid/
+3851 N Hebrides Dr,Wasilla,AK,99654,61.62463,-149.41624,3.0,,Sold 01/17/2023,https://www.zillow.com/homedetails/3851-N-Hebrides-Dr-Wasilla-AK-99654/74521028_zpid/
+950 N Luke St,Wasilla,AK,99654,61.589012,-149.33171,4.0,,Sold 01/17/2023,https://www.zillow.com/homedetails/950-N-Luke-St-Wasilla-AK-99654/90693397_zpid/
+1191 S Corkey St,Wasilla,AK,99654,61.570618,-149.50005,3.0,,Sold 01/17/2023,https://www.zillow.com/homedetails/1191-S-Corkey-St-Wasilla-AK-99654/127129125_zpid/
+3212 Timberline Ct,Ketchikan,AK,99901,55.36036,-131.68176,2.0,,Sold 01/17/2023,https://www.zillow.com/homedetails/3212-Timberline-Ct-Ketchikan-AK-99901/194165331_zpid/
+5090 E Henhouse Loop,Wasilla,AK,99654,61.545666,-149.32126,4.0,,Sold 01/17/2023,https://www.zillow.com/homedetails/5090-E-Henhouse-Loop-Wasilla-AK-99654/325605674_zpid/
+21652 W Parks Hwy,Wasilla,AK,99623,,,,,Sold 01/17/2023,https://www.zillow.com/homedetails/21652-W-Parks-Hwy-Wasilla-AK-99623/2061457722_zpid/
+L9-B10 E George Kitchen Ave,Talkeetna,AK,99676,,,,,Sold 01/17/2023,https://www.zillow.com/homedetails/L9-B10-E-George-Kitchen-Ave-Talkeetna-AK-99676/2070921855_zpid/
+B004 W Blue Goose Rd,Wasilla,AK,99623,,,,,Sold 01/17/2023,https://www.zillow.com/homedetails/B004-W-Blue-Goose-Rd-Wasilla-AK-99623/2076749523_zpid/
+41338 Seward Hwy,Moose Pass,AK,99631,60.525005,-149.50552,1.0,,Sold 01/16/2023,https://www.zillow.com/homedetails/41338-Seward-Hwy-Moose-Pass-AK-99631/74513146_zpid/
+4233 Apollo Dr,Anchorage,AK,99504,61.181995,-149.75386,3.0,,Sold 01/13/2023,https://www.zillow.com/homedetails/4233-Apollo-Dr-Anchorage-AK-99504/20013_zpid/
+4241 Folker St UNIT D104,Anchorage,AK,99508,61.181335,-149.83041,2.0,,Sold 01/13/2023,https://www.zillow.com/homedetails/4241-Folker-St-UNIT-D104-Anchorage-AK-99508/21271_zpid/
+2152 Misty Glen Cir,Anchorage,AK,99502,61.146843,-149.91978,4.0,,Sold 01/13/2023,https://www.zillow.com/homedetails/2152-Misty-Glen-Cir-Anchorage-AK-99502/36806_zpid/
+13126 Bay Cir,Anchorage,AK,99515,61.102104,-149.86426,4.0,,Sold 01/13/2023,https://www.zillow.com/homedetails/13126-Bay-Cir-Anchorage-AK-99515/50510_zpid/
+12439 Crested Butte Dr,Eagle River,AK,99577,61.332752,-149.579,3.0,,Sold 01/13/2023,https://www.zillow.com/homedetails/12439-Crested-Butte-Dr-Eagle-River-AK-99577/55417_zpid/
+11811 Laurie Cir,Eagle River,AK,99577,61.32701,-149.54959,4.0,,Sold 01/13/2023,https://www.zillow.com/homedetails/11811-Laurie-Cir-Eagle-River-AK-99577/56035_zpid/
+8903 Northwood Park Cir,Eagle River,AK,99577,61.300846,-149.51714,3.0,,Sold 01/13/2023,https://www.zillow.com/homedetails/8903-Northwood-Park-Cir-Eagle-River-AK-99577/63550_zpid/
+10030 Skiff Cir,Anchorage,AK,99515,61.129467,-149.92908,3.0,,Sold 01/13/2023,https://www.zillow.com/homedetails/10030-Skiff-Cir-Anchorage-AK-99515/35723866_zpid/
+5654 Alora Loop #55,Anchorage,AK,99504,61.21794,-149.77608,3.0,,Sold 01/13/2023,https://www.zillow.com/homedetails/5654-Alora-Loop-55-Anchorage-AK-99504/59679406_zpid/
+8993 Little Brook St,Anchorage,AK,99507,61.13939,-149.81958,3.0,,Sold 01/13/2023,https://www.zillow.com/homedetails/8993-Little-Brook-St-Anchorage-AK-99507/59679922_zpid/
+13333 Konrad Dr,Eagle River,AK,99577,61.34117,-149.57451,4.0,,Sold 01/13/2023,https://www.zillow.com/homedetails/13333-Konrad-Dr-Eagle-River-AK-99577/68022478_zpid/
+202 Madcap Ln,Fairbanks,AK,99709,64.867935,-147.82153,7.0,,Sold 01/13/2023,https://www.zillow.com/homedetails/202-Madcap-Ln-Fairbanks-AK-99709/74488089_zpid/
+2614 Lauren Creek Loop #6,Anchorage,AK,99507,61.17317,-149.83382,3.0,,Sold 01/13/2023,https://www.zillow.com/homedetails/2614-Lauren-Creek-Loop-6-Anchorage-AK-99507/79536200_zpid/
+3945 Murphy Dome Rd,Fairbanks,AK,99709,64.92805,-148.04909,4.0,,Sold 01/13/2023,https://www.zillow.com/homedetails/3945-Murphy-Dome-Rd-Fairbanks-AK-99709/90667416_zpid/
+5981 E Camborne Dr,Palmer,AK,99645,61.557808,-149.30008,3.0,,Sold 01/13/2023,https://www.zillow.com/homedetails/5981-E-Camborne-Dr-Palmer-AK-99645/90688726_zpid/
+2145 S Togiak Ave,Wasilla,AK,99654,61.558838,-149.41917,6.0,,Sold 01/13/2023,https://www.zillow.com/homedetails/2145-S-Togiak-Ave-Wasilla-AK-99654/90696124_zpid/
+1262 N Miller Cir,Wasilla,AK,99623,61.593414,-149.76459,3.0,,Sold 01/13/2023,https://www.zillow.com/homedetails/1262-N-Miller-Cir-Wasilla-AK-99623/127129251_zpid/
+6830 E Riverwood Cir,Palmer,AK,99645,61.648552,-149.10959,2.0,,Sold 01/13/2023,https://www.zillow.com/homedetails/6830-E-Riverwood-Cir-Palmer-AK-99645/219470943_zpid/
+3471 N Fortune Cir,Wasilla,AK,99654,61.618565,-149.4927,3.0,,Sold 01/13/2023,https://www.zillow.com/homedetails/3471-N-Fortune-Cir-Wasilla-AK-99654/219474618_zpid/
+1790 S Countrywood Dr,Wasilla,AK,99623,61.563072,-149.60857,3.0,,Sold 01/13/2023,https://www.zillow.com/homedetails/1790-S-Countrywood-Dr-Wasilla-AK-99623/219476274_zpid/
+3400 N Charley Dr,Wasilla,AK,99654,61.62058,-149.30984,3.0,,Sold 01/13/2023,https://www.zillow.com/homedetails/3400-N-Charley-Dr-Wasilla-AK-99654/219476755_zpid/
+1280 Blackberry Dr,Fairbanks,AK,99712,64.91701,-147.64445,,,Sold 01/13/2023,https://www.zillow.com/homedetails/1280-Blackberry-Dr-Fairbanks-AK-99712/219810962_zpid/
+13216 Bruno Rd,Seward,AK,99664,60.172955,-149.38925,3.0,,Sold 01/13/2023,https://www.zillow.com/homedetails/13216-Bruno-Rd-Seward-AK-99664/223319882_zpid/
+L16a Wilma Ave,Seward,AK,99664,,,,,Sold 01/13/2023,https://www.zillow.com/homedetails/L16a-Wilma-Ave-Seward-AK-99664/2060136634_zpid/
+6964 Amarok Ave,Wasilla,AK,99654,,,3.0,,Sold 01/13/2023,https://www.zillow.com/homedetails/6964-Amarok-Ave-Wasilla-AK-99654/2060405111_zpid/
+1308 Karluk St,Anchorage,AK,99501,,,8.0,,Sold 01/13/2023,https://www.zillow.com/homedetails/1308-Karluk-St-Anchorage-AK-99501/2060645171_zpid/
+55675 Benjamin Ave,Homer,AK,99603,,,,,Sold 01/13/2023,https://www.zillow.com/homedetails/55675-Benjamin-Ave-Homer-AK-99603/2060999311_zpid/
+11763 W Jerry Cir,Wasilla,AK,99623,61.56719,-149.74803,10.0,,Sold 01/13/2023,https://www.zillow.com/homedetails/11763-W-Jerry-Cir-Wasilla-AK-99623/2090235910_zpid/
+440 E 11th Ave #B-6,Anchorage,AK,99501,61.211514,-149.87631,2.0,,Sold 01/12/2023,https://www.zillow.com/homedetails/440-E-11th-Ave-B-6-Anchorage-AK-99501/3568_zpid/
+6801 Dickerson Dr,Anchorage,AK,99504,61.22212,-149.75351,4.0,,Sold 01/12/2023,https://www.zillow.com/homedetails/6801-Dickerson-Dr-Anchorage-AK-99504/10560_zpid/
+7310 Bulen Dr,Anchorage,AK,99507,61.154373,-149.82259,3.0,,Sold 01/12/2023,https://www.zillow.com/homedetails/7310-Bulen-Dr-Anchorage-AK-99507/39720_zpid/
+13331 Brant Way,Anchorage,AK,99515,61.09999,-149.84966,4.0,,Sold 01/12/2023,https://www.zillow.com/homedetails/13331-Brant-Way-Anchorage-AK-99515/51259_zpid/
+5823 Hiland Rd,Eagle River,AK,99577,61.273056,-149.47737,3.0,,Sold 01/12/2023,https://www.zillow.com/homedetails/5823-Hiland-Rd-Eagle-River-AK-99577/58143_zpid/
+12118 Horseshoe Dr APT 7,Eagle River,AK,99577,61.32997,-149.56375,2.0,,Sold 01/12/2023,https://www.zillow.com/homedetails/12118-Horseshoe-Dr-APT-7-Eagle-River-AK-99577/35724628_zpid/
+2100 E Village Loop,Wasilla,AK,99654,61.607082,-149.3983,4.0,,Sold 01/12/2023,https://www.zillow.com/homedetails/2100-E-Village-Loop-Wasilla-AK-99654/74521101_zpid/
+4101 S Discovery Bay Dr,Wasilla,AK,99654,61.535507,-149.5292,3.0,,Sold 01/12/2023,https://www.zillow.com/homedetails/4101-S-Discovery-Bay-Dr-Wasilla-AK-99654/74525036_zpid/
+3901 S Eagle Bay Dr,Wasilla,AK,99623,61.538033,-149.59738,3.0,,Sold 01/12/2023,https://www.zillow.com/homedetails/3901-S-Eagle-Bay-Dr-Wasilla-AK-99623/90699179_zpid/
+13695 E Jersey Loop,Palmer,AK,99645,61.575706,-149.10101,3.0,,Sold 01/12/2023,https://www.zillow.com/homedetails/13695-E-Jersey-Loop-Palmer-AK-99645/90701371_zpid/
+268 Upper Rosian Dr,Soldotna,AK,99669,60.48677,-151.08589,2.0,,Sold 01/12/2023,https://www.zillow.com/homedetails/268-Upper-Rosian-Dr-Soldotna-AK-99669/120112434_zpid/
+3424 N Meadow Lakes Dr,Wasilla,AK,99623,61.611942,-149.64297,3.0,,Sold 01/12/2023,https://www.zillow.com/homedetails/3424-N-Meadow-Lakes-Dr-Wasilla-AK-99623/219463348_zpid/
+12332 W Round Table Dr,Wasilla,AK,99623,61.62336,-149.76054,2.0,,Sold 01/12/2023,https://www.zillow.com/homedetails/12332-W-Round-Table-Dr-Wasilla-AK-99623/219477694_zpid/
+29306 Glover St,Anchor Point,AK,99556,59.84745,-151.7936,,,Sold 01/12/2023,https://www.zillow.com/homedetails/29306-Glover-St-Anchor-Point-AK-99556/223326923_zpid/
+33537 Keystone Dr,Soldotna,AK,99669,60.46609,-150.96155,6.0,,Sold 01/12/2023,https://www.zillow.com/homedetails/33537-Keystone-Dr-Soldotna-AK-99669/304236974_zpid/
+Township Road B Meyers Cir,Wasilla,AK,99623,,,,,Sold 01/12/2023,https://www.zillow.com/homedetails/Township-Road-B-Meyers-Cir-Wasilla-AK-99623/2062183129_zpid/
+As 92 33 Lakefront No Rd,Skwentna,AK,99667,,,,,Sold 01/12/2023,https://www.zillow.com/homedetails/As-92-33-Lakefront-No-Rd-Skwentna-AK-99667/2063040074_zpid/
+8149 Sockeye Loop #12,Anchorage,AK,99507,,,3.0,,Sold 01/12/2023,https://www.zillow.com/homedetails/8149-Sockeye-Loop-12-Anchorage-AK-99507/2063563534_zpid/
+1316 Karluk St,Anchorage,AK,99501,,,8.0,,Sold 01/12/2023,https://www.zillow.com/homedetails/1316-Karluk-St-Anchorage-AK-99501/2091638651_zpid/
+3712 Deborah Ln,Anchorage,AK,99504,61.187065,-149.74142,4.0,,Sold 01/11/2023,https://www.zillow.com/homedetails/3712-Deborah-Ln-Anchorage-AK-99504/17808_zpid/
+1101 Southampton Dr,Anchorage,AK,99503,61.174473,-149.9058,3.0,,Sold 01/11/2023,https://www.zillow.com/homedetails/1101-Southampton-Dr-Anchorage-AK-99503/27684_zpid/
+8271 Barnett Dr,Anchorage,AK,99518,61.14677,-149.90541,3.0,,Sold 01/11/2023,https://www.zillow.com/homedetails/8271-Barnett-Dr-Anchorage-AK-99518/32874_zpid/
+11755 Galloway Loop #19,Eagle River,AK,99577,61.326645,-149.57773,2.0,,Sold 01/11/2023,https://www.zillow.com/homedetails/11755-Galloway-Loop-19-Eagle-River-AK-99577/63254784_zpid/
+1720 W 104th Ave,Anchorage,AK,99515,61.126404,-149.91185,4.0,,Sold 01/11/2023,https://www.zillow.com/homedetails/1720-W-104th-Ave-Anchorage-AK-99515/68019792_zpid/
+2958 S Kobuk Ave,Fairbanks,AK,99709,64.83485,-147.7897,2.0,,Sold 01/11/2023,https://www.zillow.com/homedetails/2958-S-Kobuk-Ave-Fairbanks-AK-99709/74485572_zpid/
+2781 E Fairview Loop,Wasilla,AK,99654,61.55923,-149.3807,,,Sold 01/11/2023,https://www.zillow.com/homedetails/2781-E-Fairview-Loop-Wasilla-AK-99654/90682982_zpid/
+36982 Midway Dr,Sterling,AK,99672,60.522106,-150.73436,3.0,,Sold 01/11/2023,https://www.zillow.com/homedetails/36982-Midway-Dr-Sterling-AK-99672/223317631_zpid/
+4750 W Kaylee River Cir,Wasilla,AK,99623,61.545532,-149.56866,6.0,,Sold 01/11/2023,https://www.zillow.com/homedetails/4750-W-Kaylee-River-Cir-Wasilla-AK-99623/247761269_zpid/
+1651 S Knik Goose Bay Rd,Wasilla,AK,99654,61.56545,-149.44568,,,Sold 01/11/2023,https://www.zillow.com/homedetails/1651-S-Knik-Goose-Bay-Rd-Wasilla-AK-99654/247763749_zpid/
+36525 Duwalapu Ln,Soldotna,AK,99669,60.507324,-151.03807,,,Sold 01/11/2023,https://www.zillow.com/homedetails/36525-Duwalapu-Ln-Soldotna-AK-99669/248938941_zpid/
+2501 Boniface Pkwy,Anchorage,AK,99504,61.19788,-149.77766,6.0,,Sold 01/11/2023,https://www.zillow.com/homedetails/2501-Boniface-Pkwy-Anchorage-AK-99504/305525526_zpid/
+198 Higher Ter,Girdwood,AK,99587,,,,,Sold 01/11/2023,https://www.zillow.com/homedetails/198-Higher-Ter-Girdwood-AK-99587/2062092902_zpid/
+Lb12 Abbey Rd,Willow,AK,99688,,,,,Sold 01/11/2023,https://www.zillow.com/homedetails/Lb12-Abbey-Rd-Willow-AK-99688/2063092590_zpid/
+L8-B1 Sierra Mesa Cir,Chugiak,AK,99567,,,,,Sold 01/11/2023,https://www.zillow.com/homedetails/L8-B1-Sierra-Mesa-Cir-Chugiak-AK-99567/2075649142_zpid/
+13540 Windward Ct,Anchorage,AK,99516,61.097733,-149.82573,4.0,,Sold 01/10/2023,https://www.zillow.com/homedetails/13540-Windward-Ct-Anchorage-AK-99516/52775_zpid/
+17401 Beaujolais Cir,Eagle River,AK,99577,61.33835,-149.55763,2.0,,Sold 01/10/2023,https://www.zillow.com/homedetails/17401-Beaujolais-Cir-Eagle-River-AK-99577/55085_zpid/
+17342 Rachel Ave,Eagle River,AK,99577,61.339455,-149.5582,3.0,,Sold 01/10/2023,https://www.zillow.com/homedetails/17342-Rachel-Ave-Eagle-River-AK-99577/55101_zpid/
+10704 Colville St,Eagle River,AK,99577,61.31706,-149.54338,3.0,,Sold 01/10/2023,https://www.zillow.com/homedetails/10704-Colville-St-Eagle-River-AK-99577/57008_zpid/
+11671 E Annie Ln,Palmer,AK,99645,61.573956,-149.15808,4.0,,Sold 01/10/2023,https://www.zillow.com/homedetails/11671-E-Annie-Ln-Palmer-AK-99645/74524502_zpid/
+29970 Naomi St,Soldotna,AK,99669,60.41522,-151.15892,4.0,,Sold 01/10/2023,https://www.zillow.com/homedetails/29970-Naomi-St-Soldotna-AK-99669/90669997_zpid/
+6901 W Sourdough Dr,Wasilla,AK,99623,61.605183,-149.62488,,,Sold 01/10/2023,https://www.zillow.com/homedetails/6901-W-Sourdough-Dr-Wasilla-AK-99623/219459427_zpid/
+3699 S Mink St,Wasilla,AK,99623,61.54049,-149.82349,3.0,,Sold 01/10/2023,https://www.zillow.com/homedetails/3699-S-Mink-St-Wasilla-AK-99623/219479849_zpid/
+52305 Kenai Spur Hwy,Kenai,AK,99611,60.733128,-151.28226,,,Sold 01/10/2023,https://www.zillow.com/homedetails/52305-Kenai-Spur-Hwy-Kenai-AK-99611/223303311_zpid/
+1745 2nd St,Douglas,AK,99824,58.28196,-134.4046,6.0,,Sold 01/10/2023,https://www.zillow.com/homedetails/1745-2nd-St-Douglas-AK-99824/302811104_zpid/
+L1-B1 Broadwater Dr,Eagle River,AK,99577,,,,,Sold 01/10/2023,https://www.zillow.com/homedetails/L1-B1-Broadwater-Dr-Eagle-River-AK-99577/2060887170_zpid/
+620 S Summit St,Klawock,AK,99925,,,3.0,,Sold 01/10/2023,https://www.zillow.com/homedetails/620-S-Summit-St-Klawock-AK-99925/2061352682_zpid/
+0 Only,Pelican,AK,99832,,,1.0,,Sold 01/10/2023,https://www.zillow.com/homedetails/0-Only-Pelican-AK-99832/2062504279_zpid/
+0 Harvey St,Soldotna,AK,99669,,,,,Sold 01/10/2023,https://www.zillow.com/homedetails/0-Harvey-St-Soldotna-AK-99669/2062683041_zpid/
+L4 W B Ct #1,Wasilla,AK,99623,,,,,Sold 01/10/2023,https://www.zillow.com/homedetails/L4-W-B-Ct-1-Wasilla-AK-99623/2064922337_zpid/
+4571 S Preston Hills Dr,Wasilla,AK,99623,61.535492,-149.71071,3.0,,Sold 01/10/2023,https://www.zillow.com/homedetails/4571-S-Preston-Hills-Dr-Wasilla-AK-99623/2067505116_zpid/
+2400 Douglas Dr,Anchorage,AK,99517,61.198795,-149.9455,3.0,,Sold 01/09/2023,https://www.zillow.com/homedetails/2400-Douglas-Dr-Anchorage-AK-99517/2133_zpid/
+8521 Shrub Ct,Anchorage,AK,99504,61.206768,-149.72182,5.0,,Sold 01/09/2023,https://www.zillow.com/homedetails/8521-Shrub-Ct-Anchorage-AK-99504/16516_zpid/
+7042 Timothy St,Anchorage,AK,99502,61.156822,-149.92636,4.0,,Sold 01/09/2023,https://www.zillow.com/homedetails/7042-Timothy-St-Anchorage-AK-99502/30918_zpid/
+8601 Molanary Dr UNIT 4,Anchorage,AK,99502,61.142616,-149.94997,2.0,,Sold 01/09/2023,https://www.zillow.com/homedetails/8601-Molanary-Dr-UNIT-4-Anchorage-AK-99502/34017_zpid/
+3530 Wildwood Dr,North Pole,AK,99705,64.77927,-147.28404,3.0,,Sold 01/09/2023,https://www.zillow.com/homedetails/3530-Wildwood-Dr-North-Pole-AK-99705/74496604_zpid/
+18178 E Walling Rd,Palmer,AK,99645,61.53387,-148.99242,3.0,,Sold 01/09/2023,https://www.zillow.com/homedetails/18178-E-Walling-Rd-Palmer-AK-99645/219473874_zpid/
+660 Kilo Ct,Fairbanks,AK,99712,64.83869,-147.54866,3.0,,Sold 01/09/2023,https://www.zillow.com/homedetails/660-Kilo-Ct-Fairbanks-AK-99712/219808150_zpid/
+105 Balder St,Petersburg,AK,99833,56.815517,-132.9558,3.0,,Sold 01/09/2023,https://www.zillow.com/homedetails/105-Balder-St-Petersburg-AK-99833/243013873_zpid/
+2415 Hemlock Ave APT 1007,Ketchikan,AK,99901,55.349667,-131.67413,2.0,,Sold 01/09/2023,https://www.zillow.com/homedetails/2415-Hemlock-Ave-APT-1007-Ketchikan-AK-99901/243044278_zpid/
+1601 W Patricia Ave,Wasilla,AK,99654,61.58457,-149.49097,4.0,,Sold 01/09/2023,https://www.zillow.com/homedetails/1601-W-Patricia-Ave-Wasilla-AK-99654/247785886_zpid/
+5783 Cliff Point Rd,Kodiak,AK,99615,57.721508,-152.46968,,,Sold 01/09/2023,https://www.zillow.com/homedetails/5783-Cliff-Point-Rd-Kodiak-AK-99615/325590914_zpid/
+L6 B Vall #8,Wasilla,AK,99623,,,,,Sold 01/09/2023,https://www.zillow.com/homedetails/L6-B-Vall-8-Wasilla-AK-99623/2060831703_zpid/
+0 Not Disclosed,Palmer,AK,99645,,,2.0,,Sold 01/09/2023,https://www.zillow.com/homedetails/0-Not-Disclosed-Palmer-AK-99645/2060941194_zpid/
+747 E Keltons Knob Cir,Wasilla,AK,99654,,,,,Sold 01/09/2023,https://www.zillow.com/homedetails/747-E-Keltons-Knob-Cir-Wasilla-AK-99654/2061203864_zpid/
+2194 Dalmore Cir,Palmer,AK,99645,,,3.0,,Sold 01/09/2023,https://www.zillow.com/homedetails/2194-Dalmore-Cir-Palmer-AK-99645/2062240757_zpid/
+LT One Trapper Ln,Willow,AK,99688,,,,,Sold 01/09/2023,https://www.zillow.com/homedetails/LT-One-Trapper-Ln-Willow-AK-99688/2063041504_zpid/
+9445 E Boyd Rd,Palmer,AK,99645,,,,,Sold 01/09/2023,https://www.zillow.com/homedetails/9445-E-Boyd-Rd-Palmer-AK-99645/2063092854_zpid/
+762 Winfield Way,Wasilla,AK,99623,61.58712,-149.73674,1.0,,Sold 01/09/2023,https://www.zillow.com/homedetails/762-Winfield-Way-Wasilla-AK-99623/2077458970_zpid/
+3901 Westwood Dr,Anchorage,AK,99517,61.195488,-149.95818,3.0,,Sold 01/06/2023,https://www.zillow.com/homedetails/3901-Westwood-Dr-Anchorage-AK-99517/2003_zpid/
+2114 Saratoga Ave,Anchorage,AK,99517,61.196514,-149.92479,4.0,,Sold 01/06/2023,https://www.zillow.com/homedetails/2114-Saratoga-Ave-Anchorage-AK-99517/2593_zpid/
+1804 McKinley Ave,Anchorage,AK,99517,61.184517,-149.91634,5.0,,Sold 01/06/2023,https://www.zillow.com/homedetails/1804-McKinley-Ave-Anchorage-AK-99517/26614_zpid/
+3440 W 86th Ave #A02,Anchorage,AK,99502,61.142544,-149.9438,2.0,,Sold 01/06/2023,https://www.zillow.com/homedetails/3440-W-86th-Ave-A02-Anchorage-AK-99502/33935_zpid/
+675 W 87th Ave,Anchorage,AK,99515,61.142796,-149.89166,4.0,,Sold 01/06/2023,https://www.zillow.com/homedetails/675-W-87th-Ave-Anchorage-AK-99515/34508_zpid/
+6100 Gross Dr,Anchorage,AK,99507,61.165718,-149.82352,2.0,,Sold 01/06/2023,https://www.zillow.com/homedetails/6100-Gross-Dr-Anchorage-AK-99507/42220_zpid/
+11050 Ridgecrest Dr,Anchorage,AK,99516,61.120644,-149.76016,4.0,,Sold 01/06/2023,https://www.zillow.com/homedetails/11050-Ridgecrest-Dr-Anchorage-AK-99516/43419_zpid/
+18211 Norway Dr,Anchorage,AK,99516,61.055542,-149.76231,3.0,,Sold 01/06/2023,https://www.zillow.com/homedetails/18211-Norway-Dr-Anchorage-AK-99516/54641_zpid/
+1634 Woodroe Ln #4,Anchorage,AK,99507,61.168236,-149.85155,3.0,,Sold 01/06/2023,https://www.zillow.com/homedetails/1634-Woodroe-Ln-4-Anchorage-AK-99507/63254295_zpid/
+3264 Mendenhall Loop Rd #14,Juneau,AK,99801,58.38088,-134.57686,2.0,,Sold 01/06/2023,https://www.zillow.com/homedetails/3264-Mendenhall-Loop-Rd-14-Juneau-AK-99801/74509586_zpid/
+5840 N Bunny Dr,Wasilla,AK,99654,61.647915,-149.30702,3.0,,Sold 01/06/2023,https://www.zillow.com/homedetails/5840-N-Bunny-Dr-Wasilla-AK-99654/74522981_zpid/
+12855 E Allison Ct,Palmer,AK,99645,61.558468,-149.12614,3.0,,Sold 01/06/2023,https://www.zillow.com/homedetails/12855-E-Allison-Ct-Palmer-AK-99645/84148667_zpid/
+460 E Diamond Wood Way,Wasilla,AK,99654,61.642246,-149.43864,4.0,,Sold 01/06/2023,https://www.zillow.com/homedetails/460-E-Diamond-Wood-Way-Wasilla-AK-99654/90691431_zpid/
+6202 Ophir Dr #60,Anchorage,AK,99504,61.22142,-149.7662,3.0,,Sold 01/06/2023,https://www.zillow.com/homedetails/6202-Ophir-Dr-60-Anchorage-AK-99504/122001597_zpid/
+2289 S Grand Birch Dr,Wasilla,AK,99623,61.557514,-149.55751,3.0,,Sold 01/06/2023,https://www.zillow.com/homedetails/2289-S-Grand-Birch-Dr-Wasilla-AK-99623/219482419_zpid/
+36050 Iceberg St,Soldotna,AK,99669,60.50404,-150.71027,,,Sold 01/06/2023,https://www.zillow.com/homedetails/36050-Iceberg-St-Soldotna-AK-99669/223318866_zpid/
+71349 Coleman Lantern Ave,Anchor Point,AK,99556,59.77914,-151.80508,2.0,,Sold 01/06/2023,https://www.zillow.com/homedetails/71349-Coleman-Lantern-Ave-Anchor-Point-AK-99556/223327258_zpid/
+0 Crab Man Rd,Ninilchik,AK,99639,,,0.0,,Sold 01/06/2023,https://www.zillow.com/homedetails/0-Crab-Man-Rd-Ninilchik-AK-99639/2060770420_zpid/
+2569 S Knollwood Dr,Wasilla,AK,99623,,,,,Sold 01/06/2023,https://www.zillow.com/homedetails/2569-S-Knollwood-Dr-Wasilla-AK-99623/2060772359_zpid/
+2621 N Northgate Pl,Wasilla,AK,99654,,,3.0,,Sold 01/06/2023,https://www.zillow.com/homedetails/2621-N-Northgate-Pl-Wasilla-AK-99654/2061731393_zpid/
+0 Road,Skwentna,AK,99667,,,,,Sold 01/06/2023,https://www.zillow.com/homedetails/0-Road-Skwentna-AK-99667/2063040300_zpid/
+21163 W Loc Lohmand Dr,Wasilla,AK,99623,,,,,Sold 01/06/2023,https://www.zillow.com/homedetails/21163-W-Loc-Lohmand-Dr-Wasilla-AK-99623/2072221143_zpid/
+2621 Kates,Wasilla,AK,99654,61.56225,-149.38387,12.0,,Sold 01/06/2023,https://www.zillow.com/homedetails/2621-Kates-Wasilla-AK-99654/2095864957_zpid/
+2529 Deborah St,Delta Junction,AK,99737,,,2.0,,Sold 01/06/2023,https://www.zillow.com/homedetails/2529-Deborah-St-Delta-Junction-AK-99737/2124227623_zpid/
+1411 Kelly Cir,Anchorage,AK,99504,61.208706,-149.77322,4.0,,Sold 01/05/2023,https://www.zillow.com/homedetails/1411-Kelly-Cir-Anchorage-AK-99504/13102_zpid/
+1938 Beaver Pl #B-5,Anchorage,AK,99504,61.202522,-149.76274,2.0,,Sold 01/05/2023,https://www.zillow.com/homedetails/1938-Beaver-Pl-B-5-Anchorage-AK-99504/14150_zpid/
+102 Fireoved Dr,Anchorage,AK,99508,61.2239,-149.78299,7.0,,Sold 01/05/2023,https://www.zillow.com/homedetails/102-Fireoved-Dr-Anchorage-AK-99508/15314_zpid/
+2902 Will Rogers Pl,Anchorage,AK,99517,61.182804,-149.93843,3.0,,Sold 01/05/2023,https://www.zillow.com/homedetails/2902-Will-Rogers-Pl-Anchorage-AK-99517/26399_zpid/
+2921 Rocky Bay Cir,Anchorage,AK,99515,61.128063,-149.93434,3.0,,Sold 01/05/2023,https://www.zillow.com/homedetails/2921-Rocky-Bay-Cir-Anchorage-AK-99515/36923_zpid/
+8021 Country Woods Dr,Anchorage,AK,99502,61.14848,-149.91618,3.0,,Sold 01/05/2023,https://www.zillow.com/homedetails/8021-Country-Woods-Dr-Anchorage-AK-99502/37159_zpid/
+8821 Dome Cir,Eagle River,AK,99577,61.30071,-149.53503,4.0,,Sold 01/05/2023,https://www.zillow.com/homedetails/8821-Dome-Cir-Eagle-River-AK-99577/63324_zpid/
+1715 Roberts Rd,Fairbanks,AK,99709,64.83315,-147.8189,,,Sold 01/05/2023,https://www.zillow.com/homedetails/1715-Roberts-Rd-Fairbanks-AK-99709/74482751_zpid/
+10301 W Lakeshore Dr,Wasilla,AK,99623,61.581764,-149.71126,2.0,,Sold 01/05/2023,https://www.zillow.com/homedetails/10301-W-Lakeshore-Dr-Wasilla-AK-99623/90700491_zpid/
+186 Matthew Paul Way #7,Anchorage,AK,99504,61.222427,-149.76181,3.0,,Sold 01/05/2023,https://www.zillow.com/homedetails/186-Matthew-Paul-Way-7-Anchorage-AK-99504/94645197_zpid/
+2211 Barnette St,Fairbanks,AK,99701,64.82723,-147.72993,7.0,,Sold 01/05/2023,https://www.zillow.com/homedetails/2211-Barnette-St-Fairbanks-AK-99701/219787323_zpid/
+1302 Hartzog Loop,North Pole,AK,99705,64.809525,-147.42372,6.0,,Sold 01/05/2023,https://www.zillow.com/homedetails/1302-Hartzog-Loop-North-Pole-AK-99705/219804013_zpid/
+25 Chacon St #A & B,Ketchikan,AK,99901,,,6.0,,Sold 01/05/2023,https://www.zillow.com/homedetails/25-Chacon-St-A-B-Ketchikan-AK-99901/2061358343_zpid/
+L4-B8 Caribou Lake Rem SW,Homer,AK,99603,,,,,Sold 01/05/2023,https://www.zillow.com/homedetails/L4-B8-Caribou-Lake-Rem-SW-Homer-AK-99603/2066669566_zpid/
+13 Columbine Ln,Gustavus,AK,99826,58.409313,-135.74307,3.0,,Sold 01/05/2023,https://www.zillow.com/homedetails/13-Columbine-Ln-Gustavus-AK-99826/2069142352_zpid/
+135 W Lake View Ave,Wasilla,AK,99654,,,,,Sold 01/05/2023,https://www.zillow.com/homedetails/135-W-Lake-View-Ave-Wasilla-AK-99654/2076016017_zpid/
+L10 Marble Is,Meyers Chuck,AK,99903,,,,,Sold 01/05/2023,https://www.zillow.com/homedetails/L10-Marble-Is-Meyers-Chuck-AK-99903/2080280244_zpid/
+2100 Minerva Way UNIT A6,Anchorage,AK,99515,61.134537,-149.91887,1.0,,Sold 01/05/2023,https://www.zillow.com/homedetails/2100-Minerva-Way-UNIT-A6-Anchorage-AK-99515/2089479115_zpid/
+7938 W Trenton Cir,Wasilla,AK,99623,,,2.0,,Sold 01/05/2023,https://www.zillow.com/homedetails/7938-W-Trenton-Cir-Wasilla-AK-99623/2105217721_zpid/
+2321 Nash Cir,Anchorage,AK,99508,61.19959,-149.79213,3.0,,Sold 01/04/2023,https://www.zillow.com/homedetails/2321-Nash-Cir-Anchorage-AK-99508/15741_zpid/
+3500 Hiland Dr,Anchorage,AK,99504,61.188644,-149.74524,4.0,,Sold 01/04/2023,https://www.zillow.com/homedetails/3500-Hiland-Dr-Anchorage-AK-99504/17236_zpid/
+3680 Milky Way Dr,Anchorage,AK,99517,61.189842,-149.95146,3.0,,Sold 01/04/2023,https://www.zillow.com/homedetails/3680-Milky-Way-Dr-Anchorage-AK-99517/24655_zpid/
+1811 Orchard Pl,Anchorage,AK,99502,61.146397,-149.91402,3.0,,Sold 01/04/2023,https://www.zillow.com/homedetails/1811-Orchard-Pl-Anchorage-AK-99502/36599_zpid/
+10048 Nantucket Cir,Anchorage,AK,99507,61.129276,-149.84158,3.0,,Sold 01/04/2023,https://www.zillow.com/homedetails/10048-Nantucket-Cir-Anchorage-AK-99507/46789_zpid/
+2110 Jarvis Ave,Anchorage,AK,99515,61.097557,-149.84364,3.0,,Sold 01/04/2023,https://www.zillow.com/homedetails/2110-Jarvis-Ave-Anchorage-AK-99515/51753_zpid/
+18310 Potter Bluff Cir,Anchorage,AK,99516,61.05532,-149.79355,3.0,,Sold 01/04/2023,https://www.zillow.com/homedetails/18310-Potter-Bluff-Cir-Anchorage-AK-99516/54591_zpid/
+23231 Glacier View Dr,Eagle River,AK,99577,61.304592,-149.45047,4.0,,Sold 01/04/2023,https://www.zillow.com/homedetails/23231-Glacier-View-Dr-Eagle-River-AK-99577/58284_zpid/
+4404 Portage Blvd,Juneau,AK,99801,58.39168,-134.57858,3.0,,Sold 01/04/2023,https://www.zillow.com/homedetails/4404-Portage-Blvd-Juneau-AK-99801/74511109_zpid/
+3108 Seclusion Bay Dr,Anchorage,AK,99515,61.12173,-149.93674,4.0,,Sold 01/04/2023,https://www.zillow.com/homedetails/3108-Seclusion-Bay-Dr-Anchorage-AK-99515/82588011_zpid/
+1150-1152 Woodland Ave,Ketchikan,AK,99901,55.341267,-131.63548,4.0,,Sold 01/04/2023,https://www.zillow.com/homedetails/1150-1152-Woodland-Ave-Ketchikan-AK-99901/113613849_zpid/
+522 Beacon Rd,Fairbanks,AK,99712,64.87212,-147.59827,2.0,,Sold 01/04/2023,https://www.zillow.com/homedetails/522-Beacon-Rd-Fairbanks-AK-99712/114481836_zpid/
+412 S Nordic Dr,Petersburg,AK,99833,56.8078,-132.96454,,,Sold 01/04/2023,https://www.zillow.com/homedetails/412-S-Nordic-Dr-Petersburg-AK-99833/243014604_zpid/
+6405 D St,Klawock,AK,99925,,,,,Sold 01/04/2023,https://www.zillow.com/homedetails/6405-D-St-Klawock-AK-99925/2061542308_zpid/
+8141 Sockeye Loop #10,Anchorage,AK,99507,,,3.0,,Sold 01/04/2023,https://www.zillow.com/homedetails/8141-Sockeye-Loop-10-Anchorage-AK-99507/2063563532_zpid/
+L24a Setter Lake Rd,Thorne Bay,AK,99919,,,,,Sold 01/04/2023,https://www.zillow.com/homedetails/L24a-Setter-Lake-Rd-Thorne-Bay-AK-99919/2063698894_zpid/
+6820 W Werner Dr,Wasilla,AK,99623,,,3.0,,Sold 01/04/2023,https://www.zillow.com/homedetails/6820-W-Werner-Dr-Wasilla-AK-99623/2069482463_zpid/
+21320 E Ski Trek Dr,Talkeetna,AK,99676,,,,,Sold 01/04/2023,https://www.zillow.com/homedetails/21320-E-Ski-Trek-Dr-Talkeetna-AK-99676/2090169595_zpid/
+5943 Glenkerry Dr,Anchorage,AK,99504,61.19867,-149.76903,3.0,,Sold 01/03/2023,https://www.zillow.com/homedetails/5943-Glenkerry-Dr-Anchorage-AK-99504/14934_zpid/
+281 Dailey Ave UNIT 13,Anchorage,AK,99515,61.110558,-149.87703,2.0,,Sold 01/03/2023,https://www.zillow.com/homedetails/281-Dailey-Ave-UNIT-13-Anchorage-AK-99515/46514_zpid/
+7174 N Douglas Hwy,Juneau,AK,99801,58.33406,-134.50357,4.0,,Sold 01/03/2023,https://www.zillow.com/homedetails/7174-N-Douglas-Hwy-Juneau-AK-99801/74512383_zpid/
+4555 S Navigators Cir,Wasilla,AK,99623,61.52963,-149.59085,4.0,,Sold 01/03/2023,https://www.zillow.com/homedetails/4555-S-Navigators-Cir-Wasilla-AK-99623/74524731_zpid/
+1015 4th St,Douglas,AK,99824,58.27637,-134.39677,2.0,,Sold 01/03/2023,https://www.zillow.com/homedetails/1015-4th-St-Douglas-AK-99824/230750212_zpid/
+715 Top Rail Ln #B4,Anchorage,AK,99501,61.221798,-149.88705,2.0,,Sold 01/03/2023,https://www.zillow.com/homedetails/715-Top-Rail-Ln-B4-Anchorage-AK-99501/333768018_zpid/
+2 Kupreanof Is,Petersburg,AK,99833,,,,,Sold 01/03/2023,https://www.zillow.com/homedetails/2-Kupreanof-Is-Petersburg-AK-99833/2062976559_zpid/
+15148 Washington Blvd,Palmer,AK,99645,,,5.0,,Sold 01/03/2023,https://www.zillow.com/homedetails/15148-Washington-Blvd-Palmer-AK-99645/2063195789_zpid/
+L1-B3 E Montana Creek Rd,Talkeetna,AK,99676,,,,,Sold 01/03/2023,https://www.zillow.com/homedetails/L1-B3-E-Montana-Creek-Rd-Talkeetna-AK-99676/2064277421_zpid/
+10110 W Stanley Dr,Wasilla,AK,99623,,,3.0,,Sold 01/03/2023,https://www.zillow.com/homedetails/10110-W-Stanley-Dr-Wasilla-AK-99623/2094995597_zpid/
+1050 S Lower Rd,Palmer,AK,99645,61.57097,-149.27744,,,Sold 01/02/2023,https://www.zillow.com/homedetails/1050-S-Lower-Rd-Palmer-AK-99645/2076017860_zpid/
+1650 N Pittman Rd,Wasilla,AK,99623,,,4.0,,Sold 12/31/2022,https://www.zillow.com/homedetails/1650-N-Pittman-Rd-Wasilla-AK-99623/2062967991_zpid/
+12655 W King Arthur Dr,Houston,AK,99694,,,,,Sold 12/31/2022,https://www.zillow.com/homedetails/12655-W-King-Arthur-Dr-Houston-AK-99694/2064894154_zpid/
+1200 I St UNIT 712,Anchorage,AK,99501,61.21068,-149.89989,2.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/1200-I-St-UNIT-712-Anchorage-AK-99501/655_zpid/
+2727 McCollie Ave,Anchorage,AK,99517,61.20286,-149.94017,4.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/2727-McCollie-Ave-Anchorage-AK-99517/1166_zpid/
+3541 E 20th Ave,Anchorage,AK,99508,61.2059,-149.82307,3.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/3541-E-20th-Ave-Anchorage-AK-99508/7690_zpid/
+8450 Brookridge Dr,Anchorage,AK,99504,61.194477,-149.72372,3.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/8450-Brookridge-Dr-Anchorage-AK-99504/20906_zpid/
+3500 E 42nd Ave,Anchorage,AK,99508,61.182377,-149.81554,9.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/3500-E-42nd-Ave-Anchorage-AK-99508/21045_zpid/
+1865 E 57th Ave,Anchorage,AK,99507,61.16978,-149.84602,3.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/1865-E-57th-Ave-Anchorage-AK-99507/23181_zpid/
+7521 Chad St,Anchorage,AK,99518,61.152477,-149.90405,3.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/7521-Chad-St-Anchorage-AK-99518/31759_zpid/
+8250 Summerset Dr,Anchorage,AK,99518,61.145985,-149.89638,3.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/8250-Summerset-Dr-Anchorage-AK-99518/32754_zpid/
+7839 Cranberry St,Anchorage,AK,99502,61.149548,-149.93639,3.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/7839-Cranberry-St-Anchorage-AK-99502/33185_zpid/
+8140 Country Woods Dr,Anchorage,AK,99502,61.146965,-149.91522,3.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/8140-Country-Woods-Dr-Anchorage-AK-99502/36625_zpid/
+8621 Geirinhas Pl,Anchorage,AK,99507,61.142525,-149.80833,3.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/8621-Geirinhas-Pl-Anchorage-AK-99507/41265_zpid/
+11721 Paddock Ln,Anchorage,AK,99516,61.114197,-149.77902,4.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/11721-Paddock-Ln-Anchorage-AK-99516/44593_zpid/
+2000 Brigadier Dr,Anchorage,AK,99507,61.13545,-149.8448,4.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/2000-Brigadier-Dr-Anchorage-AK-99507/47776_zpid/
+3210 Capstan Ct,Anchorage,AK,99516,61.09628,-149.82213,4.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/3210-Capstan-Ct-Anchorage-AK-99516/52843_zpid/
+17933 Chardonnay Cir,Eagle River,AK,99577,61.33939,-149.54765,3.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/17933-Chardonnay-Cir-Eagle-River-AK-99577/54999_zpid/
+17415 Palos Verdes Drive,Eagle River,AK,99577,61.315617,-149.5575,3.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/17415-Palos-Verdes-Drive-Eagle-River-AK-99577/57133_zpid/
+18215 Hidden Falls Ave,Eagle River,AK,99577,61.3048,-149.54231,3.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/18215-Hidden-Falls-Ave-Eagle-River-AK-99577/59620_zpid/
+444 Alyeska View Ave,GIRDWOOD,AK,99587,60.958138,-149.11482,2.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/444-Alyeska-View-Ave-Girdwood-AK-99587/64393_zpid/
+8540 Sahalee Dr,Anchorage,AK,99507,61.143024,-149.79324,3.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/8540-Sahalee-Dr-Anchorage-AK-99507/54823223_zpid/
+2427 Cloverwood Loop #13,Anchorage,AK,99508,61.198414,-149.78006,4.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/2427-Cloverwood-Loop-13-Anchorage-AK-99508/59679338_zpid/
+964 Oak Ridge Dr #8A,Anchorage,AK,99518,61.15772,-149.89629,3.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/964-Oak-Ridge-Dr-8A-Anchorage-AK-99518/63254432_zpid/
+3872 Ismo Dr,North Pole,AK,99705,64.744,-147.24808,3.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/3872-Ismo-Dr-North-Pole-AK-99705/74496860_zpid/
+329 W Redoubt Ave,Soldotna,AK,99669,60.487434,-151.08919,3.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/329-W-Redoubt-Ave-Soldotna-AK-99669/74517523_zpid/
+8106 W Mintz Ln,Wasilla,AK,99623,61.499718,-149.65344,3.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/8106-W-Mintz-Ln-Wasilla-AK-99623/84149112_zpid/
+6455 S Settlers Bay Dr,Wasilla,AK,99623,61.503098,-149.62502,3.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/6455-S-Settlers-Bay-Dr-Wasilla-AK-99623/90696339_zpid/
+3510 E 42nd Ave,Anchorage,AK,99508,61.182377,-149.81505,9.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/3510-E-42nd-Ave-Anchorage-AK-99508/92691930_zpid/
+417 Maple Ave,Kodiak,AK,99615,57.79793,-152.39734,2.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/417-Maple-Ave-Kodiak-AK-99615/104470850_zpid/
+4616 N Engstrom Rd,Wasilla,AK,99654,61.634045,-149.25972,4.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/4616-N-Engstrom-Rd-Wasilla-AK-99654/219462554_zpid/
+4052 N Alvins Aly,Wasilla,AK,99654,61.62644,-149.4955,,,Sold 12/30/2022,https://www.zillow.com/homedetails/4052-N-Alvins-Aly-Wasilla-AK-99654/219462838_zpid/
+704 S Freeman Way,Wasilla,AK,99623,61.576935,-149.84822,1.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/704-S-Freeman-Way-Wasilla-AK-99623/219478073_zpid/
+11401 E Lupine Rd,Palmer,AK,99645,61.674374,-149.1632,4.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/11401-E-Lupine-Rd-Palmer-AK-99645/219479377_zpid/
+7021 W Leckwold Dr,Wasilla,AK,99623,61.492767,-149.62491,5.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/7021-W-Leckwold-Dr-Wasilla-AK-99623/219481645_zpid/
+35975 View Ln,Soldotna,AK,99669,60.501854,-151.09393,4.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/35975-View-Ln-Soldotna-AK-99669/223312390_zpid/
+51466 Mariah Ct,Kasilof,AK,99610,60.284073,-151.25952,1.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/51466-Mariah-Ct-Kasilof-AK-99610/223323172_zpid/
+32222 Cottonwood Ln,Anchor Point,AK,99556,59.79717,-151.75143,2.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/32222-Cottonwood-Ln-Anchor-Point-AK-99556/223326565_zpid/
+48467 Aura Ln,Soldotna,AK,99669,60.475338,-151.1882,3.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/48467-Aura-Ln-Soldotna-AK-99669/223333371_zpid/
+107 Balder St,Petersburg,AK,99833,56.815517,-132.95609,2.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/107-Balder-St-Petersburg-AK-99833/243013874_zpid/
+51314 Timber Bay Ct,Homer,AK,99603,59.759247,-151.2137,3.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/51314-Timber-Bay-Ct-Homer-AK-99603/318361263_zpid/
+6036 Prominence Pointe Dr,Anchorage,AK,99516,61.068783,-149.76936,5.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/6036-Prominence-Pointe-Dr-Anchorage-AK-99516/333125893_zpid/
+47861 Snipe Ave,Soldotna,AK,99669,60.46226,-151.15228,4.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/47861-Snipe-Ave-Soldotna-AK-99669/337047464_zpid/
+11386 Conquistador Dr #39A,Eagle River,AK,99577,61.323196,-149.56773,2.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/11386-Conquistador-Dr-39A-Eagle-River-AK-99577/338223449_zpid/
+LOT 3 Toklat Way,Moose Pass,AK,99631,,,,,Sold 12/30/2022,https://www.zillow.com/homedetails/LOT-3-Toklat-Way-Moose-Pass-AK-99631/2060930561_zpid/
+Mi 9.25 Edgerton Hwy,Copper Center,AK,99573,,,2.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/Mi-9-25-Edgerton-Hwy-Copper-Center-AK-99573/2061003798_zpid/
+F L1 2 B56 Second & St,Nenana,AK,99760,,,,,Sold 12/30/2022,https://www.zillow.com/homedetails/F-L1-2-B56-Second-St-Nenana-AK-99760/2061769767_zpid/
+L Seven 8 B1 Keyes Poin,Pt Alsworth,AK,99653,,,,,Sold 12/30/2022,https://www.zillow.com/homedetails/L-Seven-8-B1-Keyes-Poin-Pt-Alsworth-AK-99653/2063147655_zpid/
+845 S Grantham Rd,Wasilla,AK,99654,,,4.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/845-S-Grantham-Rd-Wasilla-AK-99654/2064031061_zpid/
+2301 S Tongass Hwy,Ketchikan,AK,99901,55.32335,-131.60623,3.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/2301-S-Tongass-Hwy-Ketchikan-AK-99901/2070614954_zpid/
+14832 E Lydia Cir,Palmer,AK,99645,,,3.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/14832-E-Lydia-Cir-Palmer-AK-99645/2079808553_zpid/
+6524 Whispering Loop #A,Anchorage,AK,99504,61.22071,-149.75987,3.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/6524-Whispering-Loop-A-Anchorage-AK-99504/2097650822_zpid/
+1902 Rickert St APT 19,Fairbanks,AK,99701,64.83042,-147.71994,0.0,,Sold 12/30/2022,https://www.zillow.com/homedetails/1902-Rickert-St-APT-19-Fairbanks-AK-99701/2123680397_zpid/
+436 11th #A-5,Anchorage,AK,99501,61.211514,-149.87639,2.0,,Sold 12/29/2022,https://www.zillow.com/homedetails/436-11th-A-5-Anchorage-AK-99501/3559_zpid/
+3069 Brittany Pl,Anchorage,AK,99504,61.193565,-149.75374,3.0,,Sold 12/29/2022,https://www.zillow.com/homedetails/3069-Brittany-Pl-Anchorage-AK-99504/19342_zpid/
+4511 Folker St APT 17A,Anchorage,AK,99507,61.1795,-149.82962,1.0,,Sold 12/29/2022,https://www.zillow.com/homedetails/4511-Folker-St-APT-17A-Anchorage-AK-99507/21427_zpid/
+8037 Huckleberry St,Anchorage,AK,99502,61.14772,-149.94751,3.0,,Sold 12/29/2022,https://www.zillow.com/homedetails/8037-Huckleberry-St-Anchorage-AK-99502/33557_zpid/
+120 Pettis Rd,Anchorage,AK,99515,61.109703,-149.8801,4.0,,Sold 12/29/2022,https://www.zillow.com/homedetails/120-Pettis-Rd-Anchorage-AK-99515/46562_zpid/
+12039 Buttermilk Way,Eagle River,AK,99577,61.32955,-149.58002,2.0,,Sold 12/29/2022,https://www.zillow.com/homedetails/12039-Buttermilk-Way-Eagle-River-AK-99577/55798_zpid/
+22240 Deer Park Dr,Chugiak,AK,99567,61.421333,-149.47205,3.0,,Sold 12/29/2022,https://www.zillow.com/homedetails/22240-Deer-Park-Dr-Chugiak-AK-99567/59950_zpid/
+305 B St,Douglas,AK,99824,58.27535,-134.39308,4.0,,Sold 12/29/2022,https://www.zillow.com/homedetails/305-B-St-Douglas-AK-99824/74505833_zpid/
+8272 Garnet St,Juneau,AK,99801,58.39996,-134.55118,4.0,,Sold 12/29/2022,https://www.zillow.com/homedetails/8272-Garnet-St-Juneau-AK-99801/74510258_zpid/
+5050 E Barneys Ct,Wasilla,AK,99654,61.580597,-149.32364,4.0,,Sold 12/29/2022,https://www.zillow.com/homedetails/5050-E-Barneys-Ct-Wasilla-AK-99654/74519984_zpid/
+1763 S Leora Dr,Wasilla,AK,99623,61.56459,-149.67921,4.0,,Sold 12/29/2022,https://www.zillow.com/homedetails/1763-S-Leora-Dr-Wasilla-AK-99623/90690884_zpid/
+1208 Bainbridge Blvd,Fairbanks,AK,99701,64.855194,-147.73807,4.0,,Sold 12/29/2022,https://www.zillow.com/homedetails/1208-Bainbridge-Blvd-Fairbanks-AK-99701/103867344_zpid/
+1000 S Vicki Way,Wasilla,AK,99654,61.57291,-149.35155,4.0,,Sold 12/29/2022,https://www.zillow.com/homedetails/1000-S-Vicki-Way-Wasilla-AK-99654/219457694_zpid/
+12044 W Hollywood Rd,Wasilla,AK,99623,61.53927,-149.75539,3.0,,Sold 12/29/2022,https://www.zillow.com/homedetails/12044-W-Hollywood-Rd-Wasilla-AK-99623/219462084_zpid/
+1530 S Leora Dr,Wasilla,AK,99623,61.566174,-149.68408,4.0,,Sold 12/29/2022,https://www.zillow.com/homedetails/1530-S-Leora-Dr-Wasilla-AK-99623/219467821_zpid/
+2545 Twin Lakes Dr,Fairbanks,AK,99709,64.820564,-147.90085,4.0,,Sold 12/29/2022,https://www.zillow.com/homedetails/2545-Twin-Lakes-Dr-Fairbanks-AK-99709/219808989_zpid/
+41826 Sterling Hwy,Soldotna,AK,99669,60.501713,-150.99408,,,Sold 12/29/2022,https://www.zillow.com/homedetails/41826-Sterling-Hwy-Soldotna-AK-99669/223313018_zpid/
+223 Mill Bay Rd,Kodiak,AK,99615,57.790043,-152.40302,3.0,,Sold 12/29/2022,https://www.zillow.com/homedetails/223-Mill-Bay-Rd-Kodiak-AK-99615/239630379_zpid/
+48449 S Dolly Varden Dr,Wasilla,AK,99623,62.00919,-149.93219,1.0,,Sold 12/29/2022,https://www.zillow.com/homedetails/48449-S-Dolly-Varden-Dr-Wasilla-AK-99623/247785492_zpid/
+31760 Pokiak Ave,Soldotna,AK,99669,60.509842,-150.69986,1.0,,Sold 12/29/2022,https://www.zillow.com/homedetails/31760-Pokiak-Ave-Soldotna-AK-99669/304766565_zpid/
+5066 E Henhouse Loop,Wasilla,AK,99654,61.5455,-149.32176,4.0,,Sold 12/29/2022,https://www.zillow.com/homedetails/5066-E-Henhouse-Loop-Wasilla-AK-99654/305398224_zpid/
+10196 Kwalx St,Juneau,AK,99801,58.373997,-134.6138,4.0,,Sold 12/29/2022,https://www.zillow.com/homedetails/10196-Kwalx-St-Juneau-AK-99801/325548848_zpid/
+5580 Huffman Rd,Anchorage,AK,99516,,,4.0,,Sold 12/29/2022,https://www.zillow.com/homedetails/5580-Huffman-Rd-Anchorage-AK-99516/2060296628_zpid/
+11324 Discovery View Dr #208,Anchorage,AK,99515,,,2.0,,Sold 12/29/2022,https://www.zillow.com/homedetails/11324-Discovery-View-Dr-208-Anchorage-AK-99515/2060743593_zpid/
+10260 Jamestown Dr #A-7,Anchorage,AK,99507,,,1.0,,Sold 12/29/2022,https://www.zillow.com/homedetails/10260-Jamestown-Dr-A-7-Anchorage-AK-99507/2061110195_zpid/
+L202 Mountain Goat Ln,Kenai,AK,99611,,,,,Sold 12/29/2022,https://www.zillow.com/homedetails/L202-Mountain-Goat-Ln-Kenai-AK-99611/2062141749_zpid/
+B22 L16 1 Rd,Trail Skwentna,AK,99000,,,1.0,,Sold 12/29/2022,https://www.zillow.com/homedetails/B22-L16-1-Rd-Trail-Skwentna-AK-99000/2062348163_zpid/
+16 Raven Dr,Haines,AK,99827,,,2.0,,Sold 12/29/2022,https://www.zillow.com/homedetails/16-Raven-Dr-Haines-AK-99827/2062781722_zpid/
+6504 N Michelle Rae St,Wasilla,AK,99654,,,2.0,,Sold 12/29/2022,https://www.zillow.com/homedetails/6504-N-Michelle-Rae-St-Wasilla-AK-99654/2063147799_zpid/
+Township Road W1 No Rd,Willow,AK,99688,,,,,Sold 12/29/2022,https://www.zillow.com/homedetails/Township-Road-W1-No-Rd-Willow-AK-99688/2066767275_zpid/
+L10 11 Seventh St,Chitina,AK,99566,,,,,Sold 12/29/2022,https://www.zillow.com/homedetails/L10-11-Seventh-St-Chitina-AK-99566/2068675555_zpid/
+7700 Boundary Ave #A-1,Anchorage,AK,99504,61.22404,-149.73827,2.0,,Sold 12/28/2022,https://www.zillow.com/homedetails/7700-Boundary-Ave-A-1-Anchorage-AK-99504/10636_zpid/
+1011 Boston St,Anchorage,AK,99504,61.212955,-149.72884,7.0,,Sold 12/28/2022,https://www.zillow.com/homedetails/1011-Boston-St-Anchorage-AK-99504/12488_zpid/
+16935 Park Place St APT 6,Eagle River,AK,99577,61.326256,-149.56653,3.0,,Sold 12/28/2022,https://www.zillow.com/homedetails/16935-Park-Place-St-APT-6-Eagle-River-AK-99577/55992_zpid/
+2807 Discovery Bay Dr #23B,Anchorage,AK,99515,61.1184,-149.9306,3.0,,Sold 12/28/2022,https://www.zillow.com/homedetails/2807-Discovery-Bay-Dr-23B-Anchorage-AK-99515/68029231_zpid/
+595 Pleasure Dr,North Pole,AK,99705,64.84121,-147.48184,2.0,,Sold 12/28/2022,https://www.zillow.com/homedetails/595-Pleasure-Dr-North-Pole-AK-99705/74495364_zpid/
+2015 Long Cir,North Pole,AK,99705,64.77718,-147.25023,3.0,,Sold 12/28/2022,https://www.zillow.com/homedetails/2015-Long-Cir-North-Pole-AK-99705/74497881_zpid/
+528 Ash Ave,Kenai,AK,99611,60.570553,-151.2752,4.0,,Sold 12/28/2022,https://www.zillow.com/homedetails/528-Ash-Ave-Kenai-AK-99611/74515066_zpid/
+2841 S Walnut Wood Dr,Wasilla,AK,99623,61.55088,-149.78406,3.0,,Sold 12/28/2022,https://www.zillow.com/homedetails/2841-S-Walnut-Wood-Dr-Wasilla-AK-99623/74518440_zpid/
+79 Slater Dr,Fairbanks,AK,99701,64.84333,-147.70226,,,Sold 12/28/2022,https://www.zillow.com/homedetails/79-Slater-Dr-Fairbanks-AK-99701/219807481_zpid/
+38522 Birch Hill Dr,Soldotna,AK,99669,60.5127,-150.89922,3.0,,Sold 12/28/2022,https://www.zillow.com/homedetails/38522-Birch-Hill-Dr-Soldotna-AK-99669/223316205_zpid/
+L4 W B Ct #2,Wasilla,AK,99623,,,,,Sold 12/28/2022,https://www.zillow.com/homedetails/L4-W-B-Ct-2-Wasilla-AK-99623/2060613327_zpid/
+380 E 11th Ave #121,Anchorage,AK,99501,,,2.0,,Sold 12/28/2022,https://www.zillow.com/homedetails/380-E-11th-Ave-121-Anchorage-AK-99501/2060627925_zpid/
+1921 Stonegate Cir,Anchorage,AK,99515,61.13342,-149.9152,3.0,,Sold 12/28/2022,https://www.zillow.com/homedetails/1921-Stonegate-Cir-Anchorage-AK-99515/2060798926_zpid/
+1824 W That Rd,Wasilla,AK,99654,,,2.0,,Sold 12/28/2022,https://www.zillow.com/homedetails/1824-W-That-Rd-Wasilla-AK-99654/2060837857_zpid/
+14835 E Martin Dr,Willow,AK,99688,,,1.0,,Sold 12/28/2022,https://www.zillow.com/homedetails/14835-E-Martin-Dr-Willow-AK-99688/2061469218_zpid/
+4284 Taffy Cir,Wasilla,AK,99654,,,5.0,,Sold 12/28/2022,https://www.zillow.com/homedetails/4284-Taffy-Cir-Wasilla-AK-99654/2064114718_zpid/
+2785 S Blaire Dr,Wasilla,AK,99623,61.560993,-149.5379,4.0,,Sold 12/28/2022,https://www.zillow.com/homedetails/2785-S-Blaire-Dr-Wasilla-AK-99623/2064229460_zpid/
+11275 N Lakeside Dr,Willow,AK,99688,,,,,Sold 12/28/2022,https://www.zillow.com/homedetails/11275-N-Lakeside-Dr-Willow-AK-99688/2064920268_zpid/
+6020 White Birch Rd,Delta Junction,AK,99737,,,3.0,,Sold 12/28/2022,https://www.zillow.com/homedetails/6020-White-Birch-Rd-Delta-Junction-AK-99737/2079864009_zpid/
+7284 W Willow Fishhook Rd,Willow,AK,99688,,,,,Sold 12/28/2022,https://www.zillow.com/homedetails/7284-W-Willow-Fishhook-Rd-Willow-AK-99688/2092318693_zpid/
+315 Tundra Way,Kotzebue,AK,99752,,,1.0,,Sold 12/28/2022,https://www.zillow.com/homedetails/315-Tundra-Way-Kotzebue-AK-99752/2094659677_zpid/
+8600 Boundary Ave APT I2,Anchorage,AK,99504,61.224007,-149.72081,2.0,,Sold 12/27/2022,https://www.zillow.com/homedetails/8600-Boundary-Ave-APT-I2-Anchorage-AK-99504/11013_zpid/
+501 Idaho St,Anchorage,AK,99504,61.217785,-149.73666,6.0,,Sold 12/27/2022,https://www.zillow.com/homedetails/501-Idaho-St-Anchorage-AK-99504/11464_zpid/
+7031 Howard Ave,Anchorage,AK,99504,61.21656,-149.74986,3.0,,Sold 12/27/2022,https://www.zillow.com/homedetails/7031-Howard-Ave-Anchorage-AK-99504/12212_zpid/
+5330 Tudortop Cir,Anchorage,AK,99507,61.17238,-149.84326,4.0,,Sold 12/27/2022,https://www.zillow.com/homedetails/5330-Tudortop-Cir-Anchorage-AK-99507/22930_zpid/
+1721 E 53rd Ave,Anchorage,AK,99507,61.17351,-149.85115,4.0,,Sold 12/27/2022,https://www.zillow.com/homedetails/1721-E-53rd-Ave-Anchorage-AK-99507/23114_zpid/
+2240 E Stephen Cir,North Pole,AK,99705,64.826805,-147.42099,2.0,,Sold 12/27/2022,https://www.zillow.com/homedetails/2240-E-Stephen-Cir-North-Pole-AK-99705/74490494_zpid/
+400 W Jack Fish Rd,Wasilla,AK,99654,61.540497,-149.45984,3.0,,Sold 12/27/2022,https://www.zillow.com/homedetails/400-W-Jack-Fish-Rd-Wasilla-AK-99654/90700510_zpid/
+4592 Campbell Park Loop #34,Anchorage,AK,99507,61.17915,-149.83455,2.0,,Sold 12/27/2022,https://www.zillow.com/homedetails/4592-Campbell-Park-Loop-34-Anchorage-AK-99507/122004638_zpid/
+3146 Morgan Loop,Anchorage,AK,99516,61.11871,-149.82338,5.0,,Sold 12/27/2022,https://www.zillow.com/homedetails/3146-Morgan-Loop-Anchorage-AK-99516/123980700_zpid/
+611 Pacific Pl #8,Anchorage,AK,99501,61.216293,-149.90623,2.0,,Sold 12/27/2022,https://www.zillow.com/homedetails/611-Pacific-Pl-8-Anchorage-AK-99501/131683913_zpid/
+5731 W Shady Grove Ln,Wasilla,AK,99623,61.565075,-149.59547,3.0,,Sold 12/27/2022,https://www.zillow.com/homedetails/5731-W-Shady-Grove-Ln-Wasilla-AK-99623/219459339_zpid/
+3824 Lee Ct,Juneau,AK,99801,58.390453,-134.64265,3.0,,Sold 12/27/2022,https://www.zillow.com/homedetails/3824-Lee-Ct-Juneau-AK-99801/230751422_zpid/
+38575 McDowell Rd,Sterling,AK,99672,60.539654,-150.80264,5.0,,Sold 12/27/2022,https://www.zillow.com/homedetails/38575-McDowell-Rd-Sterling-AK-99672/248939032_zpid/
+7415 N Sushana Dr,Wasilla,AK,99654,,,3.0,,Sold 12/27/2022,https://www.zillow.com/homedetails/7415-N-Sushana-Dr-Wasilla-AK-99654/2060311843_zpid/
+4433 San Ernesto Ave #E112B,Anchorage,AK,99508,,,2.0,,Sold 12/27/2022,https://www.zillow.com/homedetails/4433-San-Ernesto-Ave-E112B-Anchorage-AK-99508/2060667344_zpid/
+2022 Lake Estates Ln,Fairbanks,AK,99701,,,,,Sold 12/27/2022,https://www.zillow.com/homedetails/2022-Lake-Estates-Ln-Fairbanks-AK-99701/2061242447_zpid/
+LOT C6 W Parks Hwy,Willow,AK,99688,,,,,Sold 12/27/2022,https://www.zillow.com/homedetails/LOT-C6-W-Parks-Hwy-Willow-AK-99688/2061910325_zpid/
+L3 B Laurie Meadows Dr #3,Wasilla,AK,99654,,,3.0,,Sold 12/27/2022,https://www.zillow.com/homedetails/L3-B-Laurie-Meadows-Dr-3-Wasilla-AK-99654/2063382341_zpid/
+49297 Dallas Dr,Kenai,AK,99611,,,2.0,,Sold 12/27/2022,https://www.zillow.com/homedetails/49297-Dallas-Dr-Kenai-AK-99611/2067667093_zpid/
+4111 N Greatland Cir,Wasilla,AK,99623,,,,,Sold 12/27/2022,https://www.zillow.com/homedetails/4111-N-Greatland-Cir-Wasilla-AK-99623/2075380016_zpid/
+9970 W Stanley Dr,Wasilla,AK,99623,,,,,Sold 12/27/2022,https://www.zillow.com/homedetails/9970-W-Stanley-Dr-Wasilla-AK-99623/2111929712_zpid/
+3127 Peterkin Ave,Anchorage,AK,99508,61.22623,-149.8222,12.0,,Sold 12/27/2022,https://www.zillow.com/homedetails/3127-Peterkin-Ave-Anchorage-AK-99508/2143118459_zpid/
+1421 L St,Anchorage,AK,99501,61.208286,-149.90312,4.0,,Sold 12/23/2022,https://www.zillow.com/homedetails/1421-L-St-Anchorage-AK-99501/910_zpid/
+2413 Chilligan Dr,Anchorage,AK,99517,61.198612,-149.95953,4.0,,Sold 12/23/2022,https://www.zillow.com/homedetails/2413-Chilligan-Dr-Anchorage-AK-99517/2061_zpid/
+1441 E 17th Ave APT 12,Anchorage,AK,99501,61.205196,-149.8551,2.0,,Sold 12/23/2022,https://www.zillow.com/homedetails/1441-E-17th-Ave-APT-12-Anchorage-AK-99501/4758_zpid/
+301 Krane Dr UNIT 2,Anchorage,AK,99504,61.220203,-149.75653,2.0,,Sold 12/23/2022,https://www.zillow.com/homedetails/301-Krane-Dr-UNIT-2-Anchorage-AK-99504/11735_zpid/
+4809 E 43rd Ave,Anchorage,AK,99508,61.18189,-149.79164,4.0,,Sold 12/23/2022,https://www.zillow.com/homedetails/4809-E-43rd-Ave-Anchorage-AK-99508/18892_zpid/
+3507 N Star St,Anchorage,AK,99503,61.18838,-149.9009,2.0,,Sold 12/23/2022,https://www.zillow.com/homedetails/3507-N-Star-St-Anchorage-AK-99503/25352_zpid/
+4208 Hayes St,Anchorage,AK,99503,61.182133,-149.9115,2.0,,Sold 12/23/2022,https://www.zillow.com/homedetails/4208-Hayes-St-Anchorage-AK-99503/26694_zpid/
+7715 Blackberry St,Anchorage,AK,99502,61.15068,-149.94388,3.0,,Sold 12/23/2022,https://www.zillow.com/homedetails/7715-Blackberry-St-Anchorage-AK-99502/33402_zpid/
+13351 Brant Way,Anchorage,AK,99515,61.099422,-149.8489,3.0,,Sold 12/23/2022,https://www.zillow.com/homedetails/13351-Brant-Way-Anchorage-AK-99515/51256_zpid/
+21223 Jayhawk Dr,Chugiak,AK,99567,61.403152,-149.48694,4.0,,Sold 12/23/2022,https://www.zillow.com/homedetails/21223-Jayhawk-Dr-Chugiak-AK-99567/61015_zpid/
+1099 Farmers Loop Rd,Fairbanks,AK,99709,64.898926,-147.7519,2.0,,Sold 12/23/2022,https://www.zillow.com/homedetails/1099-Farmers-Loop-Rd-Fairbanks-AK-99709/74495355_zpid/
+2665 Dagan Cir,North Pole,AK,99705,64.74756,-147.28201,4.0,,Sold 12/23/2022,https://www.zillow.com/homedetails/2665-Dagan-Cir-North-Pole-AK-99705/74500828_zpid/
+309 W Katmai Ave,Soldotna,AK,99669,60.49204,-151.08798,3.0,,Sold 12/23/2022,https://www.zillow.com/homedetails/309-W-Katmai-Ave-Soldotna-AK-99669/74517320_zpid/
+343 W Rockwell Ave,Soldotna,AK,99669,60.492947,-151.0902,3.0,,Sold 12/23/2022,https://www.zillow.com/homedetails/343-W-Rockwell-Ave-Soldotna-AK-99669/81603849_zpid/
+13862 E Hay Wagon Way,Palmer,AK,99645,61.579556,-149.09743,3.0,,Sold 12/23/2022,https://www.zillow.com/homedetails/13862-E-Hay-Wagon-Way-Palmer-AK-99645/84150121_zpid/
+965 W Wilder Ave,Wasilla,AK,99654,61.59807,-149.4758,6.0,,Sold 12/23/2022,https://www.zillow.com/homedetails/965-W-Wilder-Ave-Wasilla-AK-99654/219457731_zpid/
+3370 Venus Dr,North Pole,AK,99705,64.77839,-147.30118,,,Sold 12/23/2022,https://www.zillow.com/homedetails/3370-Venus-Dr-North-Pole-AK-99705/219798184_zpid/
+5930 Middle Fork Rd,Fairbanks,AK,99712,65.12724,-147.63368,0.0,,Sold 12/23/2022,https://www.zillow.com/homedetails/5930-Middle-Fork-Rd-Fairbanks-AK-99712/219801959_zpid/
+125 Teresa Turnaround,Fairbanks,AK,99712,64.90399,-147.63205,2.0,,Sold 12/23/2022,https://www.zillow.com/homedetails/125-Teresa-Turnaround-Fairbanks-AK-99712/219811323_zpid/
+2009 Stormin Norman Ave,North Pole,AK,99705,64.79182,-147.44096,,,Sold 12/23/2022,https://www.zillow.com/homedetails/2009-Stormin-Norman-Ave-North-Pole-AK-99705/251144489_zpid/
+TRACT Road 1 #I,Willow,AK,99688,,,2.0,,Sold 12/23/2022,https://www.zillow.com/homedetails/TRACT-Road-1-I-Willow-AK-99688/2060719567_zpid/
+12768 N Shelly Way,Willow,AK,99688,,,4.0,,Sold 12/23/2022,https://www.zillow.com/homedetails/12768-N-Shelly-Way-Willow-AK-99688/2060769957_zpid/
+8653 Dry Creek Loop #78,Anchorage,AK,99502,,,3.0,,Sold 12/23/2022,https://www.zillow.com/homedetails/8653-Dry-Creek-Loop-78-Anchorage-AK-99502/2061164071_zpid/
+8760 Dry Creek Loop #43A,Anchorage,AK,99502,,,3.0,,Sold 12/23/2022,https://www.zillow.com/homedetails/8760-Dry-Creek-Loop-43A-Anchorage-AK-99502/2064183163_zpid/
+4300 W Murray Dr,Wasilla,AK,99623,,,4.0,,Sold 12/23/2022,https://www.zillow.com/homedetails/4300-W-Murray-Dr-Wasilla-AK-99623/2065500998_zpid/
+34347 Jabila Dr,Soldotna,AK,99669,,,4.0,,Sold 12/23/2022,https://www.zillow.com/homedetails/34347-Jabila-Dr-Soldotna-AK-99669/2069776896_zpid/

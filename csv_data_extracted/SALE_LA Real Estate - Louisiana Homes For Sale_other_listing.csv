@@ -1,0 +1,801 @@
+street_address,city,state,zipCode,latitude,longitude,beds,sale_price,listed_date,property_link
+1433 Highway 662,Morgan City,LA,70380,29.711561,-91.079765,,$85000.0,17 hours ago,https://www.zillow.com/homedetails/1433-Highway-662-Morgan-City-LA-70380/2068767631_zpid/
+1543 Oakwood Dr,Lake charles,LA,70611,30.336567,-93.19508,4.0,$289000.0,2 days on Zillow,https://www.zillow.com/homedetails/1543-Oakwood-Dr-Lake-Charles-LA-70611/77611575_zpid/
+502 E Main St,New Roads,LA,70760,30.69386,-91.43037,3.0,$111111.0,71 days on Zillow,https://www.zillow.com/homedetails/502-E-Main-St-New-Roads-LA-70760/115172787_zpid/
+15940 Woodlawn Acres Ave,Baton Rouge,LA,70817,30.384327,-91.00679,3.0,$210000.0,5 days on Zillow,https://www.zillow.com/homedetails/15940-Woodlawn-Acres-Ave-Baton-Rouge-LA-70817/2087052888_zpid/
+5944 Highway 56,Chauvin,LA,70344,29.411045,-90.60686,4.0,$75000.0,5 days on Zillow,https://www.zillow.com/homedetails/5944-Highway-56-Chauvin-LA-70344/247821056_zpid/
+25 Zion St,Kenner,LA,70065,30.046204,-90.278496,3.0,$400000.0,2 days on Zillow,https://www.zillow.com/homedetails/25-Zion-St-Kenner-LA-70065/73761467_zpid/
+18022 Van Broussard Rd,Prairieville,LA,70769,30.328846,-90.957184,3.0,$180000.0,13 hours ago,https://www.zillow.com/homedetails/18022-Van-Broussard-Rd-Prairieville-LA-70769/72219915_zpid/
+299 Plum Orchard Ln,Benton,LA,71006,32.63572,-93.742615,4.0,$449900.0,17 hours ago,https://www.zillow.com/homedetails/299-Plum-Orchard-Ln-Benton-LA-71006/208129559_zpid/
+6970 Connaught Ct,New Orleans,LA,70128,30.042807,-89.96851,0.0,$0.0,18 hours ago,https://www.zillow.com/homedetails/6970-Connaught-Ct-New-Orleans-LA-70128/73811412_zpid/
+2219 Thornton Ct,Alexandria,LA,71301,31.295635,-92.45807,4.0,$185000.0,6 days on Zillow,https://www.zillow.com/homedetails/2219-Thornton-Ct-Alexandria-LA-71301/77703209_zpid/
+211 Frederick St,Bastrop,LA,71220,32.797638,-91.916435,0.0,$0.0,18 hours ago,https://www.zillow.com/homedetails/211-Frederick-St-Bastrop-LA-71220/115149659_zpid/
+701 Drew Ln,Minden,LA,71055,32.622982,-93.27158,3.0,$252000.0,14 hours ago,https://www.zillow.com/homedetails/701-Drew-Ln-Minden-LA-71055/106202080_zpid/
+212 Yvonne St APT D,Broussard,LA,70518,30.122894,-91.92907,2.0,$145000.0,13 hours ago,https://www.zillow.com/homedetails/212-Yvonne-St-APT-D-Broussard-LA-70518/110907794_zpid/
+5167 Mount Rushmore Dr,Marrero,LA,70072,29.853971,-90.11405,4.0,$150000.0,5 days on Zillow,https://www.zillow.com/homedetails/5167-Mount-Rushmore-Dr-Marrero-LA-70072/103916610_zpid/
+35866 Dock Butler Rd,Mount Hermon,LA,70450,30.94936,-90.29441,3.0,$259000.0,13 hours ago,https://www.zillow.com/homedetails/35866-Dock-Butler-Rd-Mount-Hermon-LA-70450/337799946_zpid/
+3005 Catherine St,Morgan City,LA,70380,29.694475,-91.17886,3.0,$130000.0,3 days on Zillow,https://www.zillow.com/homedetails/3005-Catherine-St-Morgan-City-LA-70380/115215332_zpid/
+4617 Sara Day St,Napoleonville,LA,70390,29.937078,-91.01577,4.0,$458000.0,15 hours ago,https://www.zillow.com/homedetails/4617-Sara-Day-St-Napoleonville-LA-70390/105992026_zpid/
+105 Dominus Dr,Broussard,LA,70518,30.15612,-91.98321,3.0,$499000.0,4 days on Zillow,https://www.zillow.com/homedetails/105-Dominus-Dr-Broussard-LA-70518/126833748_zpid/
+119 Hartwood Ct,Duson,LA,70529,30.24134,-92.18378,4.0,$260500.0,Open: M: 10:00 AM-6:00 ...,https://www.zillow.com/homedetails/119-Hartwood-Ct-Duson-LA-70529/2059090234_zpid/
+1130 Cooper Rd,Dequincy,LA,70633,30.410244,-93.40759,3.0,$648000.0,10 days on Zillow,https://www.zillow.com/homedetails/1130-Cooper-Rd-Dequincy-LA-70633/247897680_zpid/
+12318 Highland Dr,Geismar,LA,70734,30.24921,-90.993774,4.0,$270000.0,2 days on Zillow,https://www.zillow.com/homedetails/12318-Highland-Dr-Geismar-LA-70734/72221819_zpid/
+1005 Dean Chapel Rd,West Monroe,LA,71291,32.52755,-92.17957,4.0,$269900.0,8 days on Zillow,https://www.zillow.com/homedetails/1005-Dean-Chapel-Rd-West-Monroe-LA-71291/92477850_zpid/
+123 Hartwood Ct,Duson,LA,70529,30.24134,-92.18378,3.0,$230500.0,Open: M: 10:00 AM-6:00 ...,https://www.zillow.com/homedetails/123-Hartwood-Ct-Duson-LA-70529/2059090235_zpid/
+335 Washington St,Lake Charles,LA,70605,30.169651,-93.21899,3.0,$0.0,18 hours ago,https://www.zillow.com/homedetails/335-Washington-St-Lake-Charles-LA-70605/81666703_zpid/
+901 Fair Oaks Ln,Lake Charles,LA,70605,30.192669,-93.23383,3.0,$269000.0,1 day on Zillow,https://www.zillow.com/homedetails/901-Fair-Oaks-Ln-Lake-Charles-LA-70605/77593920_zpid/
+8320 Rainbow Dr,Baton Rouge,LA,70809,30.415413,-91.100395,3.0,$299999.0,15 hours ago,https://www.zillow.com/homedetails/8320-Rainbow-Dr-Baton-Rouge-LA-70809/66346359_zpid/
+8745 Section Rd,Port Allen,LA,70767,30.489532,-91.32534,5.0,$88992.0,4 days on Zillow,https://www.zillow.com/homedetails/8745-Section-Rd-Port-Allen-LA-70767/232950006_zpid/
+1062 Koonce Rd,Sulphur,LA,70663,30.300776,-93.3882,3.0,$220000.0,57 days on Zillow,https://www.zillow.com/homedetails/1062-Koonce-Rd-Sulphur-LA-70663/81582322_zpid/
+264 Paisley Pkwy,Sulphur,LA,70665,30.20393,-93.36909,4.0,$242500.0,Open: M: 10:00 AM-6:00 ...,https://www.zillow.com/homedetails/264-Paisley-Pkwy-Sulphur-LA-70665/2059090231_zpid/
+11037 Chaucer St,New Orleans,LA,70127,30.039227,-89.96651,4.0,$0.0,18 hours ago,https://www.zillow.com/homedetails/11037-Chaucer-St-New-Orleans-LA-70127/73814450_zpid/
+506 Pine St,Madisonville,LA,70447,30.406324,-90.1581,3.0,$360000.0,"$55,000 (Feb 20)",https://www.zillow.com/homedetails/506-Pine-St-Madisonville-LA-70447/96138292_zpid/
+612 Parkside Dr,Thibodaux,LA,70301,29.807516,-90.74474,3.0,$392000.0,2 days on Zillow,https://www.zillow.com/homedetails/612-Parkside-Dr-Thibodaux-LA-70301/119439554_zpid/
+1717 Sawgrass Dr,Westlake,LA,70669,30.27648,-93.2688,4.0,$277400.0,Open: M: 10:00 AM-6:00 ...,https://www.zillow.com/homedetails/1717-Sawgrass-Dr-Westlake-LA-70669/2059090238_zpid/
+6331 Westwind Ave,Baton Rouge,LA,70817,30.393677,-90.97588,4.0,$0.0,18 hours ago,https://www.zillow.com/homedetails/6331-Westwind-Ave-Baton-Rouge-LA-70817/66266025_zpid/
+852 Abita Chas,Bossier City,LA,71111,32.61989,-93.69155,3.0,$320000.0,1 day on Zillow,https://www.zillow.com/homedetails/852-Abita-Chas-Bossier-City-LA-71111/317168916_zpid/
+1107 W Saint Mary Blvd,Lafayette,LA,70506,30.221441,-92.0296,4.0,$360000.0,26 days on Zillow,https://www.zillow.com/homedetails/1107-W-Saint-Mary-Blvd-Lafayette-LA-70506/77642900_zpid/
+111 Stable Creek Dr,Lafayette,LA,70506,30.209232,-92.07962,3.0,$195000.0,16 days on Zillow,https://www.zillow.com/homedetails/111-Stable-Creek-Dr-Lafayette-LA-70506/123430667_zpid/
+1715 Sawgrass Dr,Westlake,LA,70669,30.27648,-93.2688,4.0,$322400.0,Open: M: 10:00 AM-6:00 ...,https://www.zillow.com/homedetails/1715-Sawgrass-Dr-Westlake-LA-70669/2059090237_zpid/
+4 Riverbend Ln,Covington,LA,70433,30.461914,-90.10222,4.0,$679000.0,81 days on Zillow,https://www.zillow.com/homedetails/4-Riverbend-Ln-Covington-LA-70433/96240954_zpid/
+1010 Highway 304 LOT 1,Thibodaux,LA,70301,29.807516,-90.74474,3.0,$65000.0,56 days on Zillow,https://www.zillow.com/homedetails/1010-Highway-304-LOT-1-Thibodaux-LA-70301/2060313615_zpid/
+17456 Les Chenier St,Prairieville,LA,70769,30.325594,-90.95713,3.0,$279000.0,"$6,000 (Feb 20)",https://www.zillow.com/homedetails/17456-Les-Chenier-St-Prairieville-LA-70769/35970335_zpid/
+100 Woodridge Cir,Pineville,LA,71360,31.34449,-92.38847,3.0,$235500.0,88 days on Zillow,https://www.zillow.com/homedetails/100-Woodridge-Cir-Pineville-LA-71360/77714805_zpid/
+2210 Redwood Dr,Monroe,LA,71201,32.534622,-92.10581,3.0,$169000.0,"$6,000 (Dec 13)",https://www.zillow.com/homedetails/2210-Redwood-Dr-Monroe-LA-71201/92482745_zpid/
+3037 Grace Harper Dr,Bossier City,LA,71112,32.448723,-93.63722,3.0,$249500.0,6 days on Zillow,https://www.zillow.com/homedetails/3037-Grace-Harper-Dr-Bossier-City-LA-71112/315200033_zpid/
+705 Roder St,Berwick,LA,70342,29.700768,-91.226074,3.0,$150000.0,26 days on Zillow,https://www.zillow.com/homedetails/705-Roder-St-Berwick-LA-70342/115210352_zpid/
+213 Dobbertine Rd,Lake Charles,LA,70607,30.160694,-93.2211,4.0,$61000.0,20 days on Zillow,https://www.zillow.com/homedetails/213-Dobbertine-Rd-Lake-Charles-LA-70607/242867805_zpid/
+3001 Virgil Cheveallier,Pollock,LA,71467,31.52698,-92.40504,3.0,$50000.0,13 days on Zillow,https://www.zillow.com/homedetails/3001-Virgil-Cheveallier-Pollock-LA-71467/115132834_zpid/
+1657 Savoie Rd,Cankton,LA,70584,30.346758,-92.11166,4.0,$229000.0,50 days on Zillow,https://www.zillow.com/homedetails/1657-Savoie-Rd-Cankton-LA-70584/119140065_zpid/
+Walker Rd LOT WP001,Kentwood,LA,70444,30.8568,-90.3442,,$191520.0,20 hours ago,https://www.zillow.com/homedetails/Walker-Rd-LOT-WP001-Kentwood-LA-70444/2059089773_zpid/
+350 Lake Loop,Deridder,LA,70634,30.743849,-93.09503,3.0,$80000.0,35 days on Zillow,https://www.zillow.com/homedetails/350-Lake-Loop-Deridder-LA-70634/106023032_zpid/
+1813 Donna Dr,Franklin,LA,70538,29.793,-91.5189,3.0,$110000.0,"$8,000 (Jan 26)",https://www.zillow.com/homedetails/1813-Donna-Dr-Franklin-LA-70538/2116757171_zpid/
+611 Harold St,Eunice,LA,70535,30.482079,-92.43274,4.0,$205000.0,6 days on Zillow,https://www.zillow.com/homedetails/611-Harold-St-Eunice-LA-70535/106143567_zpid/
+4840 Purdue Dr,Metairie,LA,70003,30.003683,-90.21186,3.0,$235000.0,"$10,000 (Jan 18)",https://www.zillow.com/homedetails/4840-Purdue-Dr-Metairie-LA-70003/73723663_zpid/
+502 Robert Lee Cir,Lafayette,LA,70506,30.223068,-92.047295,4.0,$299900.0,98 days on Zillow,https://www.zillow.com/homedetails/502-Robert-Lee-Cir-Lafayette-LA-70506/77640686_zpid/
+3316 Saint Philip St,New Orleans,LA,70119,29.97756,-90.087616,2.0,$379000.0,3 days on Zillow,https://www.zillow.com/homedetails/3316-Saint-Philip-St-New-Orleans-LA-70119/2059111394_zpid/
+7919 Pipes Ln,Ethel,LA,70730,30.873491,-91.095955,3.0,$529900.0,74 days on Zillow,https://www.zillow.com/homedetails/7919-Pipes-Ln-Ethel-LA-70730/106045053_zpid/
+12215 Chester Dr,Baton Rouge,LA,70810,30.362482,-91.08603,5.0,$599500.0,17 days on Zillow,https://www.zillow.com/homedetails/12215-Chester-Dr-Baton-Rouge-LA-70810/66350034_zpid/
+54 S Marigold Dr,Covington,LA,70433,30.451406,-90.128296,3.0,$275000.0,"$20,000 (Jan 31)",https://www.zillow.com/homedetails/54-S-Marigold-Dr-Covington-LA-70433/96161990_zpid/
+2552 Scarlett Dr,Lake Charles,LA,70611,30.345646,-93.21573,4.0,$379500.0,120 days on Zillow,https://www.zillow.com/homedetails/2552-Scarlett-Dr-Lake-Charles-LA-70611/77599304_zpid/
+680 Dumaine Dr,Bossier City,LA,71111,32.62369,-93.72304,4.0,$450000.0,76 days on Zillow,https://www.zillow.com/homedetails/680-Dumaine-Dr-Bossier-City-LA-71111/208129451_zpid/
+2017 Belle Grove Dr #BEL0007,Waxhaw,NC,28173,32.538815,-93.71097,4.0,$1110066.0,17 hours ago,https://www.zillow.com/homedetails/2017-Belle-Grove-Dr-BEL0007-Waxhaw-NC-28173/2059087451_zpid/
+1955 Bayou Dr,Shreveport,LA,71105,32.46096,-93.70056,3.0,$229000.0,$900 (Jan 25),https://www.zillow.com/homedetails/1955-Bayou-Dr-Shreveport-LA-71105/51339328_zpid/
+1214 Hoffpauir Rd,Ragley,LA,70657,30.48328,-93.265465,3.0,$165000.0,21 days on Zillow,https://www.zillow.com/homedetails/1214-Hoffpauir-Rd-Ragley-LA-70657/2059755083_zpid/
+254 Tanglewood Loop,Deridder,LA,70634,30.79663,-93.246925,5.0,$259000.0,"$5,000 (Dec 4)",https://www.zillow.com/homedetails/254-Tanglewood-Loop-Deridder-LA-70634/106015697_zpid/
+408 Arlington Ave,Houma,LA,70363,29.584736,-90.6871,3.0,$60000.0,48 days on Zillow,https://www.zillow.com/homedetails/408-Arlington-Ave-Houma-LA-70363/77754717_zpid/
+4555 Battington Ln,Sulphur,LA,70665,30.11277,-93.46431,4.0,$500000.0,"$7,000 (Feb 20)",https://www.zillow.com/homedetails/4555-Battington-Ln-Sulphur-LA-70665/2059268281_zpid/
+17536 Culps Bluff Ave,Baton Rouge,LA,70817,30.380144,-90.96814,4.0,$325000.0,49 days on Zillow,https://www.zillow.com/homedetails/17536-Culps-Bluff-Ave-Baton-Rouge-LA-70817/66231805_zpid/
+1033 Nelson Rd,Saint Martinville,LA,70582,30.079058,-91.87099,5.0,$343000.0,"$5,000 (Feb 15)",https://www.zillow.com/homedetails/1033-Nelson-Rd-Saint-Martinville-LA-70582/106153886_zpid/
+406 Windsong Dr,Youngsville,LA,70592,30.117249,-92.01099,4.0,$150000.0,25 days on Zillow,https://www.zillow.com/homedetails/406-Windsong-Dr-Youngsville-LA-70592/77639716_zpid/
+412 Bon Mange Cir,Lafayette,LA,70506,30.214127,-92.079735,4.0,$399000.0,"$16,000 (Feb 19)",https://www.zillow.com/homedetails/412-Bon-Mange-Cir-Lafayette-LA-70506/77684965_zpid/
+455 Meadow View Ct,Thibodaux,LA,70301,29.807516,-90.74474,3.0,$360000.0,65 days on Zillow,https://www.zillow.com/homedetails/455-Meadow-View-Ct-Thibodaux-LA-70301/119476759_zpid/
+512 Rowena St,Natchitoches,LA,71457,31.769585,-93.09069,5.0,$124999.0,44 days on Zillow,https://www.zillow.com/homedetails/512-Rowena-St-Natchitoches-LA-71457/106102917_zpid/
+279 Gene Stanley Rd,Ragley,LA,70657,30.492918,-93.20638,4.0,$245000.0,18 days on Zillow,https://www.zillow.com/homedetails/279-Gene-Stanley-Rd-Ragley-LA-70657/106020977_zpid/
+522 Park Rd,LAKE CHARLES,LA,70611,30.309906,-93.21664,4.0,$765500.0,20 days on Zillow,https://www.zillow.com/homedetails/522-Park-Rd-Lake-Charles-LA-70611/77616816_zpid/
+313 Saint Pierre Blvd,Carencro,LA,70520,30.319342,-92.058784,3.0,$230000.0,84 days on Zillow,https://www.zillow.com/homedetails/313-Saint-Pierre-Blvd-Carencro-LA-70520/145627826_zpid/
+6152 Grand Prairie Rd,Ville Platte,LA,70586,30.682676,-92.22763,3.0,$115000.0,62 days on Zillow,https://www.zillow.com/homedetails/6152-Grand-Prairie-Rd-Ville-Platte-LA-70586/230446119_zpid/
+105 Sea Blue Ln,Gray,LA,70359,29.674543,-90.735504,3.0,$176000.0,25 days on Zillow,https://www.zillow.com/homedetails/105-Sea-Blue-Ln-Gray-LA-70359/213712507_zpid/
+403 Zachary Way,Sterlington,LA,71280,32.67022,-92.036,4.0,$400000.0,11 hours ago,https://www.zillow.com/homedetails/403-Zachary-Way-Sterlington-LA-71280/2059083008_zpid/
+10875 Longfellow Trce,Shreveport,LA,71106,32.3438,-93.72054,4.0,$549000.0,12 days on Zillow,https://www.zillow.com/homedetails/10875-Longfellow-Trce-Shreveport-LA-71106/51322749_zpid/
+134 Church St,Lockport,LA,70374,29.644596,-90.53543,3.0,$148000.0,1 day on Zillow,https://www.zillow.com/homedetails/134-Church-St-Lockport-LA-70374/119432585_zpid/
+1232 Highway 906,Monterey,LA,71354,31.482891,-91.73149,3.0,$200000.0,250 days on Zillow,https://www.zillow.com/homedetails/1232-Highway-906-Monterey-LA-71354/232938968_zpid/
+6525 Audubon Blvd,Sorrento,LA,70778,30.15613,-90.88614,3.0,$235000.0,82 days on Zillow,https://www.zillow.com/homedetails/6525-Audubon-Blvd-Sorrento-LA-70778/113068125_zpid/
+1151 N 2nd St,Jena,LA,71342,31.690498,-92.13027,4.0,$165000.0,9 days on Zillow,https://www.zillow.com/homedetails/1151-N-2nd-St-Jena-LA-71342/115146864_zpid/
+1811 Shannon Rd,Alexandria,LA,71301,31.270002,-92.47724,3.0,$140000.0,"$3,000 (Feb 10)",https://www.zillow.com/homedetails/1811-Shannon-Rd-Alexandria-LA-71301/77698687_zpid/
+15354 Joor Rd,Zachary,LA,70791,30.59364,-91.047,3.0,$170000.0,50 days on Zillow,https://www.zillow.com/homedetails/15354-Joor-Rd-Zachary-LA-70791/66363050_zpid/
+800 Canaan Dr,Lafayette,LA,70508,30.156174,-92.03363,4.0,$435500.0,4 days on Zillow,https://www.zillow.com/homedetails/800-Canaan-Dr-Lafayette-LA-70508/77673328_zpid/
+23723 Fletcher Isle Rd,Ponchatoula,LA,70454,30.437773,-90.33389,3.0,$330000.0,23 days on Zillow,https://www.zillow.com/homedetails/23723-Fletcher-Isle-Rd-Ponchatoula-LA-70454/2065922310_zpid/
+1408 Maple St,Morgan City,LA,70380,29.709297,-91.20182,3.0,$150000.0,"$5,000 (Feb 12)",https://www.zillow.com/homedetails/1408-Maple-St-Morgan-City-LA-70380/115214920_zpid/
+18014 Grand Cypress Creek Ave,Baton Rouge,LA,70810,30.338411,-91.03077,4.0,$599999.0,Video Walkthrough,https://www.zillow.com/homedetails/18014-Grand-Cypress-Creek-Ave-Baton-Rouge-LA-70810/66298578_zpid/
+8401 Woodlands Trl,Greenwood,LA,71033,32.41827,-93.938194,4.0,$165000.0,33 days on Zillow,https://www.zillow.com/homedetails/8401-Woodlands-Trl-Greenwood-LA-71033/66807042_zpid/
+518 Terrace Lake Dr,Covington,LA,70435,30.529089,-90.059525,3.0,$309900.0,33 days on Zillow,https://www.zillow.com/homedetails/518-Terrace-Lake-Dr-Covington-LA-70435/2065937266_zpid/
+116 Pantheon Ln,Shreveport,LA,71115,32.415745,-93.68734,3.0,$245000.0,3 days on Zillow,https://www.zillow.com/homedetails/116-Pantheon-Ln-Shreveport-LA-71115/80861634_zpid/
+1223 Hubbard Brake Rd,Cheneyville,LA,71325,30.992878,-92.37492,3.0,$90000.0,"$10,000 (Feb 10)",https://www.zillow.com/homedetails/1223-Hubbard-Brake-Rd-Cheneyville-LA-71325/106058256_zpid/
+704 Sycamore St,Franklin,LA,70538,29.807234,-91.497604,3.0,$151000.0,10 days on Zillow,https://www.zillow.com/homedetails/704-Sycamore-St-Franklin-LA-70538/115204538_zpid/
+7956 Jefferson Place Blvd APT B,Baton Rouge,LA,70809,30.386774,-91.06445,3.0,$230000.0,2 days on Zillow,https://www.zillow.com/homedetails/7956-Jefferson-Place-Blvd-APT-B-Baton-Rouge-LA-70809/2126271988_zpid/
+15810 Chaumont Ave,Greenwell Springs,LA,70739,30.500092,-91.01231,3.0,$299900.0,193 days on Zillow,https://www.zillow.com/homedetails/15810-Chaumont-Ave-Greenwell-Springs-LA-70739/66355796_zpid/
+502 Wyatt Rd,Marthaville,LA,71450,31.712645,-93.45942,3.0,$289000.0,427 days on Zillow,https://www.zillow.com/homedetails/502-Wyatt-Rd-Marthaville-LA-71450/249509142_zpid/
+135 Lake Maclaine Ave,Thibodaux,LA,70301,29.813858,-90.83765,3.0,$285000.0,11 days on Zillow,https://www.zillow.com/homedetails/135-Lake-Maclaine-Ave-Thibodaux-LA-70301/119440642_zpid/
+3014 Woodland Dr,Jennings,LA,70546,30.25339,-92.671455,4.0,$475000.0,6 days on Zillow,https://www.zillow.com/homedetails/3014-Woodland-Dr-Jennings-LA-70546/118708015_zpid/
+5576 Highway 56,Chauvin,LA,70344,29.434456,-90.59657,3.0,$60000.0,112 days on Zillow,https://www.zillow.com/homedetails/5576-Highway-56-Chauvin-LA-70344/77763399_zpid/
+1107 Park Blvd,Baton Rouge,LA,70806,30.438171,-91.168495,3.0,$299000.0,1 day on Zillow,https://www.zillow.com/homedetails/1107-Park-Blvd-Baton-Rouge-LA-70806/66228769_zpid/
+4604 Highway 3278,Natchitoches,LA,71457,31.738531,-93.134674,4.0,$259000.0,"$6,000 (Jan 7)",https://www.zillow.com/homedetails/4604-Highway-3278-Natchitoches-LA-71457/106100627_zpid/
+3845 S Jasmine Dr,Lake Charles,LA,70605,30.15061,-93.29282,4.0,$1150000.0,5 days on Zillow,https://www.zillow.com/homedetails/3845-S-Jasmine-Dr-Lake-Charles-LA-70605/337023052_zpid/
+4621 Bridge Street Hwy,Saint Martinville,LA,70582,30.23942,-91.858,2.0,$160000.0,15 days on Zillow,https://www.zillow.com/homedetails/4621-Bridge-Street-Hwy-Saint-Martinville-LA-70582/106163447_zpid/
+5850 Weeping Willow Dr,Lake Charles,LA,70605,30.150997,-93.29064,3.0,$549500.0,7 days on Zillow,https://www.zillow.com/homedetails/5850-Weeping-Willow-Dr-Lake-Charles-LA-70605/299107746_zpid/
+4112 Emily Dr,Port Allen,LA,70767,30.489532,-91.32534,4.0,$420000.0,3 days on Zillow,https://www.zillow.com/homedetails/4112-Emily-Dr-Port-Allen-LA-70767/103936093_zpid/
+2663 Rhett Dr,Lake Charles,LA,70611,30.347788,-93.223816,4.0,$325250.0,60 days on Zillow,https://www.zillow.com/homedetails/2663-Rhett-Dr-Lake-Charles-LA-70611/77599320_zpid/
+6912 Spring Lake Dr,Maurice,LA,70555,30.103704,-92.09244,4.0,$254999.0,$1 (Feb 14),https://www.zillow.com/homedetails/6912-Spring-Lake-Dr-Maurice-LA-70555/2069066168_zpid/
+2212 McCloud St,Westlake,LA,70669,30.259752,-93.26059,3.0,$170000.0,4 days on Zillow,https://www.zillow.com/homedetails/2212-McCloud-St-Westlake-LA-70669/242849102_zpid/
+1029 N 10th St,Thibodaux,LA,70301,29.803389,-90.8243,2.0,$145000.0,54 days on Zillow,https://www.zillow.com/homedetails/1029-N-10th-St-Thibodaux-LA-70301/119437891_zpid/
+113 Logan St,Lafayette,LA,70506,30.204496,-92.10544,3.0,$224900.0,6 days on Zillow,https://www.zillow.com/homedetails/113-Logan-St-Lafayette-LA-70506/77653613_zpid/
+11083 Wood Meadow St,Bastrop,LA,71220,32.831547,-91.89672,4.0,$229900.0,13 days on Zillow,https://www.zillow.com/homedetails/11083-Wood-Meadow-St-Bastrop-LA-71220/233987138_zpid/
+43186 Sontheimer Rd,Hammond,LA,70403,30.472586,-90.48098,4.0,$315000.0,11 days on Zillow,https://www.zillow.com/homedetails/43186-Sontheimer-Rd-Hammond-LA-70403/77741405_zpid/
+512 S Lebanon St,Sulphur,LA,70663,30.22467,-93.33637,3.0,$144000.0,32 days on Zillow,https://www.zillow.com/homedetails/512-S-Lebanon-St-Sulphur-LA-70663/242811983_zpid/
+208 Hialeah Ave,Houma,LA,70363,29.578516,-90.697655,5.0,$150000.0,15 days on Zillow,https://www.zillow.com/homedetails/208-Hialeah-Ave-Houma-LA-70363/77757244_zpid/
+5223 Heidis Pl,Baton Rouge,LA,70817,30.405453,-91.01839,3.0,$315000.0,39 days on Zillow,https://www.zillow.com/homedetails/5223-Heidis-Pl-Baton-Rouge-LA-70817/66380581_zpid/
+6434 Soda Point Dr,Shreveport,LA,71107,32.642513,-93.896034,3.0,$215000.0,"$15,000 (Feb 18)",https://www.zillow.com/homedetails/6434-Soda-Point-Dr-Shreveport-LA-71107/103627811_zpid/
+16103 Morel Ave,Baton Rouge,LA,70817,30.380144,-90.96814,3.0,$199000.0,37 days on Zillow,https://www.zillow.com/homedetails/16103-Morel-Ave-Baton-Rouge-LA-70817/66360241_zpid/
+1079 Bayou Bay Ct,Frierson,LA,71027,32.286373,-93.698364,4.0,$249000.0,26 days on Zillow,https://www.zillow.com/homedetails/1079-Bayou-Bay-Ct-Frierson-LA-71027/2064313549_zpid/
+10340 Highway 1,Lockport,LA,70374,29.585728,-90.43971,4.0,$99999.0,18 days on Zillow,https://www.zillow.com/homedetails/10340-Highway-1-Lockport-LA-70374/119458040_zpid/
+689 Claiborne Rd,Calhoun,LA,71225,32.53102,-92.34072,3.0,$219000.0,5 days on Zillow,https://www.zillow.com/homedetails/689-Claiborne-Rd-Calhoun-LA-71225/92506947_zpid/
+126 Mike Dr,Ragley,LA,70657,30.460377,-93.21719,4.0,$144900.0,6 days on Zillow,https://www.zillow.com/homedetails/126-Mike-Dr-Ragley-LA-70657/106022183_zpid/
+683 Mosley Dr,Winnfield,LA,71483,31.883602,-92.65177,3.0,$160000.0,"$5,000 (Jan 24)",https://www.zillow.com/homedetails/683-Mosley-Dr-Winnfield-LA-71483/236524670_zpid/
+39299 Copperwood Ave,Prairieville,LA,70769,30.318117,-90.94639,4.0,$375000.0,15 days on Zillow,https://www.zillow.com/homedetails/39299-Copperwood-Ave-Prairieville-LA-70769/252165650_zpid/
+9513 Rochel Dr,Shreveport,LA,71115,32.395393,-93.70458,4.0,$415000.0,65 days on Zillow,https://www.zillow.com/homedetails/9513-Rochel-Dr-Shreveport-LA-71115/90173977_zpid/
+1004 Jacques Dr,Sulphur,LA,70663,30.233118,-93.33418,4.0,$299900.0,33 days on Zillow,https://www.zillow.com/homedetails/1004-Jacques-Dr-Sulphur-LA-70663/81673617_zpid/
+126 N Liberty St,Opelousas,LA,70570,30.533543,-92.102516,2.0,$75000.0,76 days on Zillow,https://www.zillow.com/homedetails/126-N-Liberty-St-Opelousas-LA-70570/289041243_zpid/
+2717 Point Dr,Monroe,LA,71201,32.5421,-92.110855,3.0,$355000.0,8 days on Zillow,https://www.zillow.com/homedetails/2717-Point-Dr-Monroe-LA-71201/92501491_zpid/
+644 Adee Ln,Gretna,LA,70056,29.873913,-90.0427,4.0,$399000.0,1 day on Zillow,https://www.zillow.com/homedetails/644-Adee-Ln-Gretna-LA-70056/103914446_zpid/
+100 Trojan Pl,Lafayette,LA,70508,30.114876,-92.03751,3.0,$145000.0,83 days on Zillow,https://www.zillow.com/homedetails/100-Trojan-Pl-Lafayette-LA-70508/77653892_zpid/
+3049 Cypress View Ln,Baton Rouge,LA,70810,30.32819,-91.12588,4.0,$425000.0,78 days on Zillow,https://www.zillow.com/homedetails/3049-Cypress-View-Ln-Baton-Rouge-LA-70810/188801173_zpid/
+183 Katie Cir,Shreveport,LA,71107,32.585766,-93.88086,4.0,$243995.0,6 days on Zillow,https://www.zillow.com/homedetails/183-Katie-Cir-Shreveport-LA-71107/2059149258_zpid/
+8404 Pines Rd,Shreveport,LA,71129,32.380375,-93.92734,2.0,$160000.0,8 days on Zillow,https://www.zillow.com/homedetails/8404-Pines-Rd-Shreveport-LA-71129/51380031_zpid/
+317 Unadilla St,Shreveport,LA,71106,32.390266,-93.732635,3.0,$199000.0,43 days on Zillow,https://www.zillow.com/homedetails/317-Unadilla-St-Shreveport-LA-71106/51342885_zpid/
+1859 Tulane Ave #1-2,Shreveport,LA,71103,32.47444,-93.76839,4.0,$106000.0,21 days on Zillow,https://www.zillow.com/homedetails/1859-Tulane-Ave-1-2-Shreveport-LA-71103/2059751594_zpid/
+114 Betty Ln,Lake Charles,LA,70607,30.010902,-93.2261,4.0,$268000.0,8 days on Zillow,https://www.zillow.com/homedetails/114-Betty-Ln-Lake-Charles-LA-70607/106025763_zpid/
+110 General Lee Dr,Hahnville,LA,70057,29.949251,-90.4135,3.0,$359000.0,"$10,000 (Jan 9)",https://www.zillow.com/homedetails/110-General-Lee-Dr-Hahnville-LA-70057/77718780_zpid/
+12979 Heather Dr,Walker,LA,70785,30.470255,-90.8705,3.0,$294000.0,4 days on Zillow,https://www.zillow.com/homedetails/12979-Heather-Dr-Walker-LA-70785/110916203_zpid/
+110 Tortoise Ln,Broussard,LA,70518,30.160675,-91.94668,3.0,$388999.0,29 days on Zillow,https://www.zillow.com/homedetails/110-Tortoise-Ln-Broussard-LA-70518/294836223_zpid/
+16560 Ja Elle Dr,Iowa,LA,70647,30.27078,-93.02587,3.0,$289900.0,$100 (Dec 31),https://www.zillow.com/homedetails/16560-Ja-Elle-Dr-Iowa-LA-70647/245269017_zpid/
+203A Aristile Rd,Morgan City,LA,70380,29.626368,-91.14857,3.0,$65000.0,43 days on Zillow,https://www.zillow.com/homedetails/203A-Aristile-Rd-Morgan-City-LA-70380/2062779266_zpid/
+2404 Emerson St,Monroe,LA,71201,32.5448,-92.116325,4.0,$320000.0,288 days on Zillow,https://www.zillow.com/homedetails/2404-Emerson-St-Monroe-LA-71201/2063355721_zpid/
+18006 M Williams Rd,Kentwood,LA,70444,30.919554,-90.42956,4.0,$559999.0,17 days on Zillow,https://www.zillow.com/homedetails/18006-M-Williams-Rd-Kentwood-LA-70444/2059520669_zpid/
+115 Harvest Hill Trl,Pollock,LA,71467,31.461039,-92.39386,3.0,$289900.0,6 days on Zillow,https://www.zillow.com/homedetails/115-Harvest-Hill-Trl-Pollock-LA-71467/233453461_zpid/
+1025 Langlinais Rd LOT 50,Youngsville,LA,70592,30.071793,-92.013596,3.0,$89830.0,3D Tour,https://www.zillow.com/homedetails/1025-Langlinais-Rd-LOT-50-Youngsville-LA-70592/110904571_zpid/
+225 Aurore Ave,Lafayette,LA,70506,30.211338,-92.04139,4.0,$370000.0,28 days on Zillow,https://www.zillow.com/homedetails/225-Aurore-Ave-Lafayette-LA-70506/77651870_zpid/
+1926 Golson Rd,Calhoun,LA,71225,32.477676,-92.349144,3.0,$300000.0,12 days on Zillow,https://www.zillow.com/homedetails/1926-Golson-Rd-Calhoun-LA-71225/198346661_zpid/
+2719 Jefferson Island Rd,New Iberia,LA,70560,29.92592,-91.87188,2.0,$25000.0,4 days on Zillow,https://www.zillow.com/homedetails/2719-Jefferson-Island-Rd-New-Iberia-LA-70560/221207724_zpid/
+83083 Highway 1129,Covington,LA,70435,30.595213,-90.11924,4.0,$398000.0,36 days on Zillow,https://www.zillow.com/homedetails/83083-Highway-1129-Covington-LA-70435/96240531_zpid/
+215 Foxglove Dr,Patterson,LA,70392,29.718714,-91.31497,4.0,$285500.0,37 days on Zillow,https://www.zillow.com/homedetails/215-Foxglove-Dr-Patterson-LA-70392/226432510_zpid/
+48080 Rogers A Rd,Saint Amant,LA,70774,30.218891,-90.79845,4.0,$199999.0,"$19,001 (Dec 6)",https://www.zillow.com/homedetails/48080-Rogers-A-Rd-Saint-Amant-LA-70774/82306926_zpid/
+513 Wilson Ave,Houma,LA,70364,29.603815,-90.722115,2.0,$199900.0,71 days on Zillow,https://www.zillow.com/homedetails/513-Wilson-Ave-Houma-LA-70364/77755170_zpid/
+825 Briar Marsh Rd,Ragley,LA,70657,30.408506,-93.1494,3.0,$245000.0,58 days on Zillow,https://www.zillow.com/homedetails/825-Briar-Marsh-Rd-Ragley-LA-70657/123374359_zpid/
+2420 N 8th St,West Monroe,LA,71291,32.52289,-92.14874,2.0,$157500.0,$500 (Feb 8),https://www.zillow.com/homedetails/2420-N-8th-St-West-Monroe-LA-71291/92514087_zpid/
+95 Terra Ave,Alexandria,LA,71303,31.273508,-92.50053,3.0,$258000.0,151 days on Zillow,https://www.zillow.com/homedetails/95-Terra-Ave-Alexandria-LA-71303/77707000_zpid/
+111 Sylvia St,Lafayette,LA,70506,30.230652,-92.08376,3.0,$100000.0,"$3,000 (Feb 12)",https://www.zillow.com/homedetails/111-Sylvia-St-Lafayette-LA-70506/77670594_zpid/
+433 Rosella Dr,Thibodaux,LA,70301,29.807749,-90.806335,4.0,$499900.0,90 days on Zillow,https://www.zillow.com/homedetails/433-Rosella-Dr-Thibodaux-LA-70301/337718098_zpid/
+320 Buccaneer Rd,Gray,LA,70359,29.687603,-90.77389,3.0,$294000.0,43 days on Zillow,https://www.zillow.com/homedetails/320-Buccaneer-Rd-Gray-LA-70359/119429420_zpid/
+469 Doc Loop,Winnsboro,LA,71295,32.02484,-91.74571,3.0,$165000.0,97 days on Zillow,https://www.zillow.com/homedetails/469-Doc-Loop-Winnsboro-LA-71295/106066679_zpid/
+1009 Laurel Ave,Denham Springs,LA,70726,30.49765,-90.93657,3.0,$270000.0,Open: 3/5 2-4pm,https://www.zillow.com/homedetails/1009-Laurel-Ave-Denham-Springs-LA-70726/210299505_zpid/
+157 Redwood St,Labadieville,LA,70372,29.837307,-90.96023,3.0,$220000.0,"$10,000 (Jan 2)",https://www.zillow.com/homedetails/157-Redwood-St-Labadieville-LA-70372/234002045_zpid/
+18 Houmas Pl APT A,Destrehan,LA,70047,29.968655,-90.37264,2.0,$165000.0,55 days on Zillow,https://www.zillow.com/homedetails/18-Houmas-Pl-APT-A-Destrehan-LA-70047/77722504_zpid/
+21252 Highway 102,Jennings,LA,70546,30.343925,-92.65309,3.0,$230000.0,19 days on Zillow,https://www.zillow.com/homedetails/21252-Highway-102-Jennings-LA-70546/106078332_zpid/
+2524 Elm Lawn Dr,Marrero,LA,70072,29.86179,-90.09433,4.0,$172500.0,34 days on Zillow,https://www.zillow.com/homedetails/2524-Elm-Lawn-Dr-Marrero-LA-70072/73694924_zpid/
+239 Shenandoah Dr,Dubach,LA,71235,32.700928,-92.65773,3.0,$369900.0,"$29,100 (Jan 12)",https://www.zillow.com/homedetails/239-Shenandoah-Dr-Dubach-LA-71235/106088791_zpid/
+152 Ronnie Dyson Rd,Longville,LA,70652,30.645363,-93.23444,3.0,$108900.0,74 days on Zillow,https://www.zillow.com/homedetails/152-Ronnie-Dyson-Rd-Longville-LA-70652/228934944_zpid/
+11 Sebron Ln,West Monroe,LA,71291,32.547726,-92.176094,4.0,$329000.0,"$50,995 (Dec 15)",https://www.zillow.com/homedetails/11-Sebron-Ln-West-Monroe-LA-71291/92495763_zpid/
+2775 Lavender St,New Orleans,LA,70122,29.998089,-90.04576,3.0,$180000.0,Open: Sun. 1-3pm,https://www.zillow.com/homedetails/2775-Lavender-St-New-Orleans-LA-70122/84455503_zpid/
+17036 Evergreen Hills Ave,Greenwell Springs,LA,70739,30.504597,-91.00032,3.0,$349999.0,"$5,000 (Jan 27)",https://www.zillow.com/homedetails/17036-Evergreen-Hills-Ave-Greenwell-Springs-LA-70739/2061618575_zpid/
+7835 Cal Dr,Shreveport,LA,71129,32.432423,-93.8435,4.0,$215000.0,5 days on Zillow,https://www.zillow.com/homedetails/7835-Cal-Dr-Shreveport-LA-71129/66807009_zpid/
+125 Ashley Ln,Vidalia,LA,71373,31.577545,-91.474915,3.0,$297500.0,29 days on Zillow,https://www.zillow.com/homedetails/125-Ashley-Ln-Vidalia-LA-71373/106030561_zpid/
+3550 Carlyss Dr LOT 64,Sulphur,LA,70665,30.202589,-93.38797,3.0,$90000.0,"$9,500 (Dec 1)",https://www.zillow.com/homedetails/3550-Carlyss-Dr-LOT-64-Sulphur-LA-70665/2062527452_zpid/
+1360 W Garfield St,Ponchatoula,LA,70802,30.4223,-91.19249,3.0,$75000.0,61 days on Zillow,https://www.zillow.com/homedetails/1360-W-Garfield-St-Ponchatoula-LA-70802/66281785_zpid/
+208 Marion St,Minden,LA,71055,32.696587,-93.281105,3.0,$60000.0,164 days on Zillow,https://www.zillow.com/homedetails/208-Marion-St-Minden-LA-71055/242522424_zpid/
+615 Highway 545,Dubach,LA,71235,32.72906,-92.64557,2.0,$125000.0,1 day on Zillow,https://www.zillow.com/homedetails/615-Highway-545-Dubach-LA-71235/106085818_zpid/
+7502 Shrewsbury Ave,Baton Rouge,LA,70808,30.400122,-91.1459,4.0,$423288.0,55 days on Zillow,https://www.zillow.com/homedetails/7502-Shrewsbury-Ave-Baton-Rouge-LA-70808/66279772_zpid/
+5781 Amoco Rd,Iowa,LA,70647,30.15675,-93.06456,3.0,$249900.0,137 days on Zillow,https://www.zillow.com/homedetails/5781-Amoco-Rd-Iowa-LA-70647/81669608_zpid/
+5635 N Lakeshore Dr,Shreveport,LA,71107,32.538822,-93.850075,3.0,$85000.0,36 days on Zillow,https://www.zillow.com/homedetails/5635-N-Lakeshore-Dr-Shreveport-LA-71107/80864896_zpid/
+668 Route 66,Dequincy,LA,70633,30.359043,-93.445595,3.0,$250000.0,91 days on Zillow,https://www.zillow.com/homedetails/668-Route-66-Dequincy-LA-70633/248895052_zpid/
+818 Russo St,New Iberia,LA,70563,30.029299,-91.81146,3.0,$215000.0,21 days on Zillow,https://www.zillow.com/homedetails/818-Russo-St-New-Iberia-LA-70563/113164897_zpid/
+2124 Division Rd,Sulphur,LA,70663,30.21734,-93.34875,3.0,$259000.0,56 days on Zillow,https://www.zillow.com/homedetails/2124-Division-Rd-Sulphur-LA-70663/243015660_zpid/
+124 E Shore Rd,Monroe,LA,71203,32.62969,-92.048035,4.0,$370000.0,43 days on Zillow,https://www.zillow.com/homedetails/124-E-Shore-Rd-Monroe-LA-71203/92495701_zpid/
+710 Hudsons Way,Baton Rouge,LA,70810,30.377527,-91.11462,3.0,$314900.0,44 days on Zillow,https://www.zillow.com/homedetails/710-Hudsons-Way-Baton-Rouge-LA-70810/103858963_zpid/
+130 Summerwood Dr,Sulphur,LA,70663,30.293451,-93.405365,3.0,$205000.0,"$20,000 (Feb 16)",https://www.zillow.com/homedetails/130-Summerwood-Dr-Sulphur-LA-70663/77609205_zpid/
+204 Hallmark Ave,Lafayette,LA,70508,30.132452,-92.03444,3.0,$325000.0,"$4,000 (Dec 9)",https://www.zillow.com/homedetails/204-Hallmark-Ave-Lafayette-LA-70508/110902362_zpid/
+741 Wilkinson St,Shreveport,LA,71104,32.485176,-93.745316,4.0,$159900.0,"$5,100 (Jan 20)",https://www.zillow.com/homedetails/741-Wilkinson-St-Shreveport-LA-71104/51336121_zpid/
+1315 Scotts Hideaway Rd,Farmerville,LA,71241,32.767567,-92.43778,3.0,$399000.0,26 days on Zillow,https://www.zillow.com/homedetails/1315-Scotts-Hideaway-Rd-Farmerville-LA-71241/115222704_zpid/
+5913 Marthas Dr,Alexandria,LA,71303,31.286533,-92.50928,4.0,$575000.0,"$10,000 (Dec 5)",https://www.zillow.com/homedetails/5913-Marthas-Dr-Alexandria-LA-71303/209935945_zpid/
+1900 E Pecan Ave,Bastrop,LA,71220,32.831547,-91.89672,4.0,$289000.0,58 days on Zillow,https://www.zillow.com/homedetails/1900-E-Pecan-Ave-Bastrop-LA-71220/115149791_zpid/
+529 Chester Lee St,Larose,LA,70373,29.584623,-90.379814,4.0,$140000.0,56 days on Zillow,https://www.zillow.com/homedetails/529-Chester-Lee-St-Larose-LA-70373/119474342_zpid/
+622 Plantation Ridge Ln,Baton Rouge,LA,70810,30.355036,-91.07893,4.0,$695000.0,1 day on Zillow,https://www.zillow.com/homedetails/622-Plantation-Ridge-Ln-Baton-Rouge-LA-70810/66271617_zpid/
+106 Savoy Rd,Goldonna,LA,71031,32.044216,-92.90685,5.0,$129900.0,33 days on Zillow,https://www.zillow.com/homedetails/106-Savoy-Rd-Goldonna-LA-71031/106106797_zpid/
+1057 Jno G Lewis Jr Dr,Saint Landry,LA,71367,30.843542,-92.28222,4.0,$169000.0,"$10,000 (Dec 16)",https://www.zillow.com/homedetails/1057-Jno-G-Lewis-Jr-Dr-Saint-Landry-LA-71367/106058549_zpid/
+19764 Palmer Rd,Livingston,LA,70754,30.40618,-90.74402,3.0,$80000.0,2 days on Zillow,https://www.zillow.com/homedetails/19764-Palmer-Rd-Livingston-LA-70754/333216539_zpid/
+1332 Sardis Church Rd #3-4,Farmerville,LA,71241,32.741154,-92.491425,1.0,$56000.0,"$22,000 (Feb 22)",https://www.zillow.com/homedetails/1332-Sardis-Church-Rd-3-4-Farmerville-LA-71241/2064178940_zpid/
+220 Elysian Fields Dr,Lafayette,LA,70508,30.174208,-92.03949,3.0,$459900.0,77 days on Zillow,https://www.zillow.com/homedetails/220-Elysian-Fields-Dr-Lafayette-LA-70508/81687655_zpid/
+1126 Upperline St,New Orleans,LA,70115,29.923082,-90.10807,2.0,$420000.0,43 days on Zillow,https://www.zillow.com/homedetails/1126-Upperline-St-New-Orleans-LA-70115/73836356_zpid/
+928 Morgan Bluff Rd,Pearl River,LA,70452,30.33088,-89.72478,5.0,$345000.0,"$20,000 (Nov 27)",https://www.zillow.com/homedetails/928-Morgan-Bluff-Rd-Pearl-River-LA-70452/96163211_zpid/
+59710 Clifts Cove Dr,Plaquemine,LA,70764,30.284088,-91.237045,3.0,$250000.0,"$10,000 (Jan 31)",https://www.zillow.com/homedetails/59710-Clifts-Cove-Dr-Plaquemine-LA-70764/2062938172_zpid/
+727 Unadilla St,Shreveport,LA,71106,32.465775,-93.74489,3.0,$289000.0,77 days on Zillow,https://www.zillow.com/homedetails/727-Unadilla-St-Shreveport-LA-71106/51342817_zpid/
+506A Aline St,La Place,LA,70068,30.060059,-90.4779,3.0,$159999.0,184 days on Zillow,https://www.zillow.com/homedetails/506A-Aline-St-La-Place-LA-70068/106114476_zpid/
+13510-13512 Granville St,New Orleans,LA,70129,30.03872,-89.9266,6.0,$249000.0,26 days on Zillow,https://www.zillow.com/homedetails/13510-13512-Granville-St-New-Orleans-LA-70129/2062304402_zpid/
+10241 Island Rd,Ventress,LA,70783,30.682959,-91.43735,3.0,$599000.0,"$21,000 (Feb 19)",https://www.zillow.com/homedetails/10241-Island-Rd-Ventress-LA-70783/115169868_zpid/
+1859 Tulane Ave,Shreveport,LA,71103,32.474373,-93.768585,4.0,$106000.0,1 day on Zillow,https://www.zillow.com/homedetails/1859-Tulane-Ave-Shreveport-LA-71103/51357681_zpid/
+1600 Marseille Dr APT 33,La Place,LA,70068,30.08198,-90.49399,2.0,$70000.0,43 days on Zillow,https://www.zillow.com/homedetails/1600-Marseille-Dr-APT-33-La-Place-LA-70068/106116312_zpid/
+5078 Live Oak Dr #11511,Saint Francisville,LA,70775,30.77871,-91.328255,3.0,$590000.0,"$35,000 (Jan 4)",https://www.zillow.com/homedetails/5078-Live-Oak-Dr-11511-Saint-Francisville-LA-70775/115232879_zpid/
+916 Saint Louis St APT C,New Orleans,LA,70112,29.9576,-90.06817,1.0,$275000.0,177 days on Zillow,https://www.zillow.com/homedetails/916-Saint-Louis-St-APT-C-New-Orleans-LA-70112/73780760_zpid/
+120 Pellegrin St,Chauvin,LA,70344,29.463558,-90.59177,3.0,$160000.0,5 days on Zillow,https://www.zillow.com/homedetails/120-Pellegrin-St-Chauvin-LA-70344/77762335_zpid/
+175 Lakeshore Dr,Oscar,LA,70762,30.611635,-91.458916,3.0,$330000.0,"$8,000 (Jan 13)",https://www.zillow.com/homedetails/175-Lakeshore-Dr-Oscar-LA-70762/234012835_zpid/
+108 Duty Rd,Farmerville,LA,71241,32.774662,-92.470314,3.0,$198000.0,7 days on Zillow,https://www.zillow.com/homedetails/108-Duty-Rd-Farmerville-LA-71241/234321908_zpid/
+643 Tucker Ave,Jefferson,LA,70121,29.95787,-90.15726,3.0,$384999.0,33 days on Zillow,https://www.zillow.com/homedetails/643-Tucker-Ave-Jefferson-LA-70121/73713232_zpid/
+11 Rue Lexie Xing,Natchitoches,LA,71457,31.75279,-93.05823,3.0,$259000.0,28 days on Zillow,https://www.zillow.com/homedetails/11-Rue-Lexie-Xing-Natchitoches-LA-71457/118957428_zpid/
+11403 Wintergreen Dr,Zachary,LA,70791,30.607365,-91.05849,5.0,$509999.0,12 days on Zillow,https://www.zillow.com/homedetails/11403-Wintergreen-Dr-Zachary-LA-70791/66344837_zpid/
+402 Henderson Hill Rd,Spearsville,LA,71277,32.922688,-92.55723,3.0,$180000.0,34 days on Zillow,https://www.zillow.com/homedetails/402-Henderson-Hill-Rd-Spearsville-LA-71277/115222043_zpid/
+104 Jolly Roger Dr,Monroe,LA,71203,32.58332,-92.06547,3.0,$235000.0,41 days on Zillow,https://www.zillow.com/homedetails/104-Jolly-Roger-Dr-Monroe-LA-71203/92517200_zpid/
+1325 Turner St,Alexandria,LA,71301,31.299055,-92.447685,3.0,$13000.0,112 days on Zillow,https://www.zillow.com/homedetails/1325-Turner-St-Alexandria-LA-71301/209911749_zpid/
+102 Floridian Ln,Lafayette,LA,70506,30.198755,-92.090614,2.0,$187500.0,29 days on Zillow,https://www.zillow.com/homedetails/102-Floridian-Ln-Lafayette-LA-70506/126794164_zpid/
+1020 Barron Rd,Pollock,LA,71467,31.571148,-92.35585,3.0,$99000.0,"$21,000 (Dec 2)",https://www.zillow.com/homedetails/1020-Barron-Rd-Pollock-LA-71467/115133236_zpid/
+3421 Truman St,Lake Charles,LA,70607,30.195803,-93.18599,3.0,$79500.0,14 days on Zillow,https://www.zillow.com/homedetails/3421-Truman-St-Lake-Charles-LA-70607/242830584_zpid/
+7208 Highway 1,Belle Rose,LA,70341,30.055168,-91.03646,3.0,$257300.0,20 days on Zillow,https://www.zillow.com/homedetails/7208-Highway-1-Belle-Rose-LA-70341/126541825_zpid/
+439 W Harrison Ave,New Orleans,LA,70124,30.006153,-90.12116,2.0,$385000.0,3 days on Zillow,https://www.zillow.com/homedetails/439-W-Harrison-Ave-New-Orleans-LA-70124/117548590_zpid/
+1818 Prospect Blvd,Houma,LA,70363,29.518717,-90.73557,3.0,$115000.0,29 days on Zillow,https://www.zillow.com/homedetails/1818-Prospect-Blvd-Houma-LA-70363/77758589_zpid/
+107 Sunrise Dr,Kinder,LA,70648,30.521242,-92.87023,4.0,$315000.0,15 days on Zillow,https://www.zillow.com/homedetails/107-Sunrise-Dr-Kinder-LA-70648/2061206775_zpid/
+119 Snapping Ln,Broussard,LA,70518,30.159073,-91.94608,4.0,$599000.0,7 days on Zillow,https://www.zillow.com/homedetails/119-Snapping-Ln-Broussard-LA-70518/249653144_zpid/
+3550 Carlyss Dr LOT 65,Sulphur,LA,70665,30.11277,-93.46431,4.0,$85000.0,117 days on Zillow,https://www.zillow.com/homedetails/3550-Carlyss-Dr-LOT-65-Sulphur-LA-70665/2060901807_zpid/
+506 N Spruce St,Hammond,LA,70401,30.508335,-90.46702,5.0,$315000.0,48 days on Zillow,https://www.zillow.com/homedetails/506-N-Spruce-St-Hammond-LA-70401/77730024_zpid/
+513 S Church St,Garyville,LA,70051,30.054028,-90.61942,3.0,$300000.0,"$5,900 (Feb 7)",https://www.zillow.com/homedetails/513-S-Church-St-Garyville-LA-70051/116001957_zpid/
+135 Boys Village Rd,Lake Charles,LA,70615,30.256119,-93.114716,3.0,$175000.0,"$20,000 (Jan 11)",https://www.zillow.com/homedetails/135-Boys-Village-Rd-Lake-Charles-LA-70615/81669877_zpid/
+447 Beverly Garden Dr,Metairie,LA,70001,29.99417,-90.14826,4.0,$599000.0,Open: Wed. 8am-8:30pm,https://www.zillow.com/homedetails/447-Beverly-Garden-Dr-Metairie-LA-70001/73740119_zpid/
+1041 Richmond Cir,Lake Charles,LA,70605,30.125467,-93.27482,3.0,$365000.0,19 days on Zillow,https://www.zillow.com/homedetails/1041-Richmond-Cir-Lake-Charles-LA-70605/126954600_zpid/
+954 Unadilla St,Shreveport,LA,71106,32.466152,-93.750114,5.0,$420000.0,184 days on Zillow,https://www.zillow.com/homedetails/954-Unadilla-St-Shreveport-LA-71106/51358795_zpid/
+264 Stanford Ave,Baton Rouge,LA,70808,30.402624,-91.16826,4.0,$500000.0,"$40,000 (Jan 24)",https://www.zillow.com/homedetails/264-Stanford-Ave-Baton-Rouge-LA-70808/66300387_zpid/
+1022 Forest Ridge Loop,Pearl River,LA,70452,30.337814,-89.73232,4.0,$348000.0,87 days on Zillow,https://www.zillow.com/homedetails/1022-Forest-Ridge-Loop-Pearl-River-LA-70452/96186172_zpid/
+503 W McClellan St,Ponchatoula,LA,70454,30.377424,-90.39195,2.0,$140000.0,"$10,000 (Dec 8)",https://www.zillow.com/homedetails/503-W-McClellan-St-Ponchatoula-LA-70454/77732029_zpid/
+1086 E Tank Farm Rd,Lake charles,LA,70607,30.125456,-93.20309,3.0,$279900.0,43 days on Zillow,https://www.zillow.com/homedetails/1086-E-Tank-Farm-Rd-Lake-Charles-LA-70607/77615539_zpid/
+277 Green Acres St,Larose,LA,70373,29.56859,-90.39464,3.0,$238000.0,"$8,000 (Dec 30)",https://www.zillow.com/homedetails/277-Green-Acres-St-Larose-LA-70373/119475878_zpid/
+870 Highway 772 E,Jena,LA,71342,31.60907,-92.153175,3.0,$189000.0,48 days on Zillow,https://www.zillow.com/homedetails/870-Highway-772-E-Jena-LA-71342/115146243_zpid/
+429 Audrey St,Sulphur,LA,70663,30.243414,-93.375114,3.0,$45000.0,"$3,000 (Jan 5)",https://www.zillow.com/homedetails/429-Audrey-St-Sulphur-LA-70663/243019058_zpid/
+320 G & South Loop,Deridder,LA,70634,30.81597,-93.105385,3.0,$265000.0,"$35,000 (Dec 9)",https://www.zillow.com/homedetails/320-G-South-Loop-Deridder-LA-70634/116502286_zpid/
+110 Decoy Dr,Lafayette,LA,70506,30.208,-92.0643,3.0,$369900.0,16 days on Zillow,https://www.zillow.com/homedetails/110-Decoy-Dr-Lafayette-LA-70506/307525104_zpid/
+4153 Saint Louis St,Slidell,LA,70461,30.311499,-89.736465,4.0,$145000.0,45 days on Zillow,https://www.zillow.com/homedetails/4153-Saint-Louis-St-Slidell-LA-70461/96152848_zpid/
+113 Edwards St,Benton,LA,71006,32.639347,-93.71185,3.0,$260000.0,185 days on Zillow,https://www.zillow.com/homedetails/113-Edwards-St-Benton-LA-71006/109784800_zpid/
+Tucker Store Rd,Spearsville,LA,71277,32.990356,-92.65634,3.0,$180000.0,6 days on Zillow,https://www.zillow.com/homedetails/Tucker-Store-Rd-Spearsville-LA-71277/305133213_zpid/
+10645 Wheeler Bend Ave,Baton Rouge,LA,70814,30.48902,-91.06555,3.0,$250000.0,59 days on Zillow,https://www.zillow.com/homedetails/10645-Wheeler-Bend-Ave-Baton-Rouge-LA-70814/66302343_zpid/
+789 Lakeshore Village Dr,Slidell,LA,70461,30.217367,-89.7529,4.0,$279000.0,"$7,000 (Feb 16)",https://www.zillow.com/homedetails/789-Lakeshore-Village-Dr-Slidell-LA-70461/111512169_zpid/
+2813 E Old Spanish Trl LOT 54,New Iberia,LA,70560,29.92592,-91.87188,3.0,$8000.0,77 days on Zillow,https://www.zillow.com/homedetails/2813-E-Old-Spanish-Trl-LOT-54-New-Iberia-LA-70560/2060495146_zpid/
+1424 Bayleaf Dr,Lake charles,LA,70611,30.325026,-93.22059,3.0,$90000.0,41 days on Zillow,https://www.zillow.com/homedetails/1424-Bayleaf-Dr-Lake-Charles-LA-70611/81581616_zpid/
+500 Eighth St,Houma,LA,70364,29.609375,-90.7254,4.0,$260000.0,39 days on Zillow,https://www.zillow.com/homedetails/500-Eighth-St-Houma-LA-70364/110380573_zpid/
+277 W 25th St,Larose,LA,70373,29.558079,-90.366,4.0,$260000.0,"$5,000 (Dec 31)",https://www.zillow.com/homedetails/277-W-25th-St-Larose-LA-70373/119426642_zpid/
+601 Elizabeth Ave,Lafayette,LA,70501,30.236609,-92.01122,3.0,$68500.0,15 days on Zillow,https://www.zillow.com/homedetails/601-Elizabeth-Ave-Lafayette-LA-70501/81691150_zpid/
+5761 Anchor Way,Shreveport,LA,71119,32.489372,-93.84024,3.0,$349000.0,94 days on Zillow,https://www.zillow.com/homedetails/5761-Anchor-Way-Shreveport-LA-71119/51354810_zpid/
+9672 Heron Springs Dr,Shreveport,LA,71106,32.390266,-93.732635,4.0,$310000.0,36 days on Zillow,https://www.zillow.com/homedetails/9672-Heron-Springs-Dr-Shreveport-LA-71106/103656588_zpid/
+422 McGowen Rd,Monroe,LA,71203,32.55488,-91.98397,4.0,$285000.0,54 days on Zillow,https://www.zillow.com/homedetails/422-McGowen-Rd-Monroe-LA-71203/92498315_zpid/
+2556 Dolores Dr,Marrero,LA,70072,29.826406,-90.13493,3.0,$230000.0,13 days on Zillow,https://www.zillow.com/homedetails/2556-Dolores-Dr-Marrero-LA-70072/248723422_zpid/
+9490 State Highway 44,Convent,LA,70723,30.052649,-90.83019,4.0,$915000.0,"$10,000 (Jan 19)",https://www.zillow.com/homedetails/9490-State-Highway-44-Convent-LA-70723/115195895_zpid/
+168 E 1st St,Reserve,LA,70084,30.092243,-90.56586,2.0,$25000.0,29 days on Zillow,https://www.zillow.com/homedetails/168-E-1st-St-Reserve-LA-70084/2059935045_zpid/
+6650 Perimeter Dr,Baton Rouge,LA,70812,30.514555,-91.12518,4.0,$131000.0,57 days on Zillow,https://www.zillow.com/homedetails/6650-Perimeter-Dr-Baton-Rouge-LA-70812/66318456_zpid/
+2457 Highland Rd,Baton Rouge,LA,70802,30.457165,-91.16964,0.0,$125000.0,1 day on Zillow,https://www.zillow.com/homedetails/2457-Highland-Rd-Baton-Rouge-LA-70802/66298269_zpid/
+33788 State Highway 16 #1B,Denham Springs,LA,70706,30.558395,-90.9545,2.0,$183999.0,28 days on Zillow,https://www.zillow.com/homedetails/33788-State-Highway-16-1B-Denham-Springs-LA-70706/2071749842_zpid/
+4327 Highway 1,Raceland,LA,70394,29.713293,-90.58018,2.0,$130000.0,66 days on Zillow,https://www.zillow.com/homedetails/4327-Highway-1-Raceland-LA-70394/119472645_zpid/
+5821 Crape Ct,Lake Charles,LA,70605,30.125467,-93.27482,4.0,$415000.0,"$14,999 (Jan 29)",https://www.zillow.com/homedetails/5821-Crape-Ct-Lake-Charles-LA-70605/242874133_zpid/
+10525 Rondo Ave,Baton Rouge,LA,70815,30.440311,-91.06913,4.0,$339500.0,"$10,000 (Dec 14)",https://www.zillow.com/homedetails/10525-Rondo-Ave-Baton-Rouge-LA-70815/66312149_zpid/
+350 Nellie St,Eunice,LA,70535,30.462988,-92.40069,3.0,$217500.0,126 days on Zillow,https://www.zillow.com/homedetails/350-Nellie-St-Eunice-LA-70535/106144867_zpid/
+105 Texaco St,New Iberia,LA,70563,30.025955,-91.82267,3.0,$280000.0,79 days on Zillow,https://www.zillow.com/homedetails/105-Texaco-St-New-Iberia-LA-70563/77629393_zpid/
+3302 Clarke Blvd,Shreveport,LA,71109,32.461353,-93.78912,4.0,$49954.0,47 days on Zillow,https://www.zillow.com/homedetails/3302-Clarke-Blvd-Shreveport-LA-71109/51362059_zpid/
+104 Woodland Ave,Ferriday,LA,71334,31.642513,-91.55549,3.0,$145000.0,"$15,000 (Jan 16)",https://www.zillow.com/homedetails/104-Woodland-Ave-Ferriday-LA-71334/106028386_zpid/
+120 McManor Cir,Donaldsonville,LA,70346,30.09554,-91.00697,5.0,$385000.0,83 days on Zillow,https://www.zillow.com/homedetails/120-McManor-Cir-Donaldsonville-LA-70346/1450296_zpid/
+1849 Harvard Ave,Gretna,LA,70056,29.887108,-90.02627,4.0,$275000.0,66 days on Zillow,https://www.zillow.com/homedetails/1849-Harvard-Ave-Gretna-LA-70056/73678058_zpid/
+317 Cleveland St,Lafayette,LA,70501,30.242758,-91.98954,3.0,$185000.0,20 days on Zillow,https://www.zillow.com/homedetails/317-Cleveland-St-Lafayette-LA-70501/126793768_zpid/
+178 Tara Pl,Many,LA,71449,31.596533,-93.44073,3.0,$258000.0,79 days on Zillow,https://www.zillow.com/homedetails/178-Tara-Pl-Many-LA-71449/112226137_zpid/
+317 Highland Oaks Ave,Gray,LA,70359,29.688574,-90.74772,3.0,$315000.0,27 days on Zillow,https://www.zillow.com/homedetails/317-Highland-Oaks-Ave-Gray-LA-70359/248313584_zpid/
+624 Eugene Garrett Rd,Winnfield,LA,71483,31.985056,-92.78112,3.0,$250000.0,41 days on Zillow,https://www.zillow.com/homedetails/624-Eugene-Garrett-Rd-Winnfield-LA-71483/115239322_zpid/
+1327 Mitchell St,Lake Charles,LA,70607,30.06392,-93.21316,3.0,$149000.0,100 days on Zillow,https://www.zillow.com/homedetails/1327-Mitchell-St-Lake-Charles-LA-70607/77597023_zpid/
+126 E Gregory Dr,Ragley,LA,70657,30.498434,-93.14683,3.0,$35000.0,21 days on Zillow,https://www.zillow.com/homedetails/126-E-Gregory-Dr-Ragley-LA-70657/106022182_zpid/
+2818 Legion St,Lake Charles,LA,70615,30.216452,-93.17625,,$30000.0,2 days on Zillow,https://www.zillow.com/homedetails/2818-Legion-St-Lake-Charles-LA-70615/77608608_zpid/
+1494 Ward Iii School Rd,Winnsboro,LA,71295,32.17555,-91.60145,4.0,$155000.0,7 days on Zillow,https://www.zillow.com/homedetails/1494-Ward-Iii-School-Rd-Winnsboro-LA-71295/106061135_zpid/
+475 N Perkins Ferry Rd APT 63,Lake Charles,LA,70611,30.307177,-93.23357,2.0,$74900.0,7 days on Zillow,https://www.zillow.com/homedetails/475-N-Perkins-Ferry-Rd-APT-63-Lake-Charles-LA-70611/114003905_zpid/
+2400 Demarest St,Lake Charles,LA,70601,30.208708,-93.220146,3.0,$95000.0,13 days on Zillow,https://www.zillow.com/homedetails/2400-Demarest-St-Lake-Charles-LA-70601/242797974_zpid/
+9231 W Highway 936,Saint Amant,LA,70774,30.227245,-90.7555,4.0,$269500.0,78 days on Zillow,https://www.zillow.com/homedetails/9231-W-Highway-936-Saint-Amant-LA-70774/72223205_zpid/
+6092 Pelican Crossing Dr,Gonzales,LA,70737,30.159395,-90.91243,4.0,$424900.0,6 days on Zillow,https://www.zillow.com/homedetails/6092-Pelican-Crossing-Dr-Gonzales-LA-70737/121251011_zpid/
+125 E Cotton Vincent Rd,Sulphur,LA,70665,30.154476,-93.37557,3.0,$569500.0,$500 (Jan 14),https://www.zillow.com/homedetails/125-E-Cotton-Vincent-Rd-Sulphur-LA-70665/299406594_zpid/
+111 Comeaux St,Pierre Part,LA,70339,29.961304,-91.20965,3.0,$108000.0,21 days on Zillow,https://www.zillow.com/homedetails/111-Comeaux-St-Pierre-Part-LA-70339/105997817_zpid/
+632 Joannes St,Bossier City,LA,71111,32.52909,-93.73233,1.0,$28500.0,1 day on Zillow,https://www.zillow.com/homedetails/632-Joannes-St-Bossier-City-LA-71111/109824667_zpid/
+624 Azalea St,Port Allen,LA,70767,30.447464,-91.211174,3.0,$140000.0,71 days on Zillow,https://www.zillow.com/homedetails/624-Azalea-St-Port-Allen-LA-70767/103934529_zpid/
+811 Bonfouca Ln,Mandeville,LA,70471,30.411419,-90.11951,4.0,$639000.0,1 day on Zillow,https://www.zillow.com/homedetails/811-Bonfouca-Ln-Mandeville-LA-70471/96151805_zpid/
+2824 Westbury St,Jefferson,LA,70121,29.964645,-90.15546,3.0,$139000.0,42 days on Zillow,https://www.zillow.com/homedetails/2824-Westbury-St-Jefferson-LA-70121/73718815_zpid/
+304 Levee St,Jonesville,LA,71343,31.62877,-91.813934,3.0,$180000.0,13 days on Zillow,https://www.zillow.com/homedetails/304-Levee-St-Jonesville-LA-71343/2118437469_zpid/
+Willie Brantley Rd,Farmerville,LA,71241,32.773903,-92.34289,3.0,$36000.0,1 day on Zillow,https://www.zillow.com/homedetails/Willie-Brantley-Rd-Farmerville-LA-71241/251980154_zpid/
+7792 McCown Rd,Iowa,LA,70647,30.218534,-93.00992,4.0,$729500.0,"$50,500 (Jan 15)",https://www.zillow.com/homedetails/7792-McCown-Rd-Iowa-LA-70647/81581651_zpid/
+148 E Cloverleaf Dr,Haughton,LA,71037,32.626183,-93.55792,,$55000.0,1 day on Zillow,https://www.zillow.com/homedetails/148-E-Cloverleaf-Dr-Haughton-LA-71037/109825572_zpid/
+4672 Pete Seay Rd,Sulphur,LA,70665,30.180582,-93.4186,3.0,$389000.0,"$10,000 (Feb 8)",https://www.zillow.com/homedetails/4672-Pete-Seay-Rd-Sulphur-LA-70665/77598281_zpid/
+413 Camellia Ave,La Place,LA,70068,30.082855,-90.51216,4.0,$300000.0,"$25,000 (Jan 22)",https://www.zillow.com/homedetails/413-Camellia-Ave-La-Place-LA-70068/106121351_zpid/
+304 George Turner Rd,Oakdale,LA,71463,30.88183,-92.68653,2.0,$256900.0,100 days on Zillow,https://www.zillow.com/homedetails/304-George-Turner-Rd-Oakdale-LA-71463/2082233994_zpid/
+115 Folden Rd,West Monroe,LA,71292,32.390842,-92.23202,3.0,$249900.0,1 day on Zillow,https://www.zillow.com/homedetails/115-Folden-Rd-West-Monroe-LA-71292/92489557_zpid/
+1015 Eagle Dr,Pierre Part,LA,70339,29.84434,-91.182686,3.0,$475000.0,31 days on Zillow,https://www.zillow.com/homedetails/1015-Eagle-Dr-Pierre-Part-LA-70339/106154527_zpid/
+805 Topsy Rd #32,Lake Charles,LA,70611,30.373482,-93.19475,3.0,$42900.0,83 days on Zillow,https://www.zillow.com/homedetails/805-Topsy-Rd-32-Lake-Charles-LA-70611/2060594141_zpid/
+515 Saint Anthony St,Raceland,LA,70394,29.707888,-90.61669,2.0,$120000.0,"$5,000 (Jan 7)",https://www.zillow.com/homedetails/515-Saint-Anthony-St-Raceland-LA-70394/119439274_zpid/
+217 Burndap Way,Lafayette,LA,70507,30.206772,-92.06388,3.0,$220000.0,"$10,000 (Jan 24)",https://www.zillow.com/homedetails/217-Burndap-Way-Lafayette-LA-70507/307525153_zpid/
+131 Autumn Pl,West Monroe,LA,71291,32.52335,-92.231895,3.0,$295000.0,1 day on Zillow,https://www.zillow.com/homedetails/131-Autumn-Pl-West-Monroe-LA-71291/2059099498_zpid/
+7874 Jefferson Place Blvd #9B,Baton Rouge,LA,70809,30.420444,-91.10334,2.0,$185000.0,98 days on Zillow,https://www.zillow.com/homedetails/7874-Jefferson-Place-Blvd-9B-Baton-Rouge-LA-70809/2060712010_zpid/
+104 Amanda Dr,Slidell,LA,70458,30.245228,-89.78139,3.0,$280000.0,22 days on Zillow,https://www.zillow.com/homedetails/104-Amanda-Dr-Slidell-LA-70458/96247473_zpid/
+121 Stonewall Jackson Dr,Zwolle,LA,71486,31.539116,-93.70915,2.0,$180000.0,113 days on Zillow,https://www.zillow.com/homedetails/121-Stonewall-Jackson-Dr-Zwolle-LA-71486/112227838_zpid/
+2484 Lafiton Ln,Port Allen,LA,70767,30.477434,-91.23911,3.0,$280000.0,34 days on Zillow,https://www.zillow.com/homedetails/2484-Lafiton-Ln-Port-Allen-LA-70767/232949786_zpid/
+119 Napoleon Ave,Napoleonville,LA,70390,29.945332,-91.024185,3.0,$199500.0,6 days on Zillow,https://www.zillow.com/homedetails/119-Napoleon-Ave-Napoleonville-LA-70390/234004812_zpid/
+295 Acacia Ln,Zwolle,LA,71486,31.530727,-93.68377,4.0,$390000.0,58 days on Zillow,https://www.zillow.com/homedetails/295-Acacia-Ln-Zwolle-LA-71486/112229018_zpid/
+17 D Craig Rd,Deville,LA,71328,31.352507,-92.19207,,$75000.0,1 day on Zillow,https://www.zillow.com/homedetails/17-D-Craig-Rd-Deville-LA-71328/2059102813_zpid/
+61641 Seal Rd,Angie,LA,70426,30.91522,-89.86006,3.0,$52000.0,"$3,000 (Feb 4)",https://www.zillow.com/homedetails/61641-Seal-Rd-Angie-LA-70426/333218337_zpid/
+125 Maryhill Rd,Pineville,LA,71360,31.364695,-92.41292,3.0,$148000.0,33 days on Zillow,https://www.zillow.com/homedetails/125-Maryhill-Rd-Pineville-LA-71360/84156299_zpid/
+23872 Monarch Point,Springfield,LA,70462,30.415115,-90.57146,4.0,$795900.0,"$4,000 (Jan 17)",https://www.zillow.com/homedetails/23872-Monarch-Point-Springfield-LA-70462/210281182_zpid/
+1801 Parks Rd,Benton,LA,71006,32.659702,-93.64129,4.0,$0.0,66 days on Zillow,https://www.zillow.com/homedetails/1801-Parks-Rd-Benton-LA-71006/123525958_zpid/
+1445 Maritzky Rd,Homer,LA,71040,32.78281,-93.12559,4.0,$225000.0,50 days on Zillow,https://www.zillow.com/homedetails/1445-Maritzky-Rd-Homer-LA-71040/245078986_zpid/
+625 River Rd,Gilbert,LA,71336,32.03285,-91.619995,3.0,$265000.0,19 days on Zillow,https://www.zillow.com/homedetails/625-River-Rd-Gilbert-LA-71336/106060322_zpid/
+4153 Highway 311,Houma,LA,70360,29.61471,-90.78495,5.0,$700000.0,15 days on Zillow,https://www.zillow.com/homedetails/4153-Highway-311-Houma-LA-70360/77775814_zpid/
+2187 E Gauthier Rd TRAILER 326,Lake Charles,LA,70607,30.137566,-93.186104,3.0,$65000.0,33 days on Zillow,https://www.zillow.com/homedetails/2187-E-Gauthier-Rd-TRAILER-326-Lake-Charles-LA-70607/2059986186_zpid/
+361 Lake Long Dr,Houma,LA,70364,29.599312,-90.60839,4.0,$150000.0,14 days on Zillow,https://www.zillow.com/homedetails/361-Lake-Long-Dr-Houma-LA-70364/119488055_zpid/
+305 1st St,Dequincy,LA,70633,30.453571,-93.43005,4.0,$49900.0,87 days on Zillow,https://www.zillow.com/homedetails/305-1st-St-Dequincy-LA-70633/242852388_zpid/
+1321 4th Ave,Glenmora,LA,71433,31.016788,-92.64285,3.0,$175900.0,139 days on Zillow,https://www.zillow.com/homedetails/1321-4th-Ave-Glenmora-LA-71433/77717153_zpid/
+2316 Leglise St,Mansura,LA,71350,31.054148,-92.047485,3.0,$160000.0,30 days on Zillow,https://www.zillow.com/homedetails/2316-Leglise-St-Mansura-LA-71350/106001780_zpid/
+14637 Gardenia St,Hosston,LA,71043,32.881104,-93.87359,4.0,$155000.0,5 days on Zillow,https://www.zillow.com/homedetails/14637-Gardenia-St-Hosston-LA-71043/51395188_zpid/
+10401 Siegen Ln,Baton Rouge,LA,70810,30.35322,-91.08139,2.0,$499000.0,40 days on Zillow,https://www.zillow.com/homedetails/10401-Siegen-Ln-Baton-Rouge-LA-70810/251067076_zpid/
+332 Leawood Ave,Sulphur,LA,70665,30.196737,-93.3689,4.0,$287999.0,75 days on Zillow,https://www.zillow.com/homedetails/332-Leawood-Ave-Sulphur-LA-70665/2091674739_zpid/
+2324 Litchwood Ln,Harvey,LA,70058,29.86411,-90.07848,3.0,$160000.0,29 days on Zillow,https://www.zillow.com/homedetails/2324-Litchwood-Ln-Harvey-LA-70058/73704876_zpid/
+115 Brooks Ln,West Monroe,LA,71291,32.53157,-92.22764,3.0,$160000.0,22 days on Zillow,https://www.zillow.com/homedetails/115-Brooks-Ln-West-Monroe-LA-71291/92493250_zpid/
+1103 Walnut St,Deridder,LA,70634,30.862003,-93.2963,3.0,$121000.0,23 days on Zillow,https://www.zillow.com/homedetails/1103-Walnut-St-Deridder-LA-70634/106018472_zpid/
+404 Davis St,Welsh,LA,70591,30.241549,-92.824814,2.0,$90000.0,40 days on Zillow,https://www.zillow.com/homedetails/404-Davis-St-Welsh-LA-70591/229961231_zpid/
+9311 Forshey St,New Orleans,LA,70118,29.945808,-90.12427,5.0,$147000.0,13 days on Zillow,https://www.zillow.com/homedetails/9311-Forshey-St-New-Orleans-LA-70118/2065912881_zpid/
+252 New Mineral Springs Rd,Calhoun,LA,71225,32.499798,-92.34112,3.0,$300000.0,12 days on Zillow,https://www.zillow.com/homedetails/252-New-Mineral-Springs-Rd-Calhoun-LA-71225/2063211890_zpid/
+21265 Waterfront East Dr,Maurepas,LA,70449,30.22318,-90.713394,3.0,$615000.0,29 days on Zillow,https://www.zillow.com/homedetails/21265-Waterfront-East-Dr-Maurepas-LA-70449/110899487_zpid/
+130 Saint Abigail Ln,Woodworth,LA,71485,31.161083,-92.46392,4.0,$415000.0,80 days on Zillow,https://www.zillow.com/homedetails/130-Saint-Abigail-Ln-Woodworth-LA-71485/336927360_zpid/
+256 Orchard Valley Cir,Ruston,LA,71270,32.56212,-92.69037,5.0,$550000.0,44 days on Zillow,https://www.zillow.com/homedetails/256-Orchard-Valley-Cir-Ruston-LA-71270/127032402_zpid/
+16/17 Treasure Isle Rd S,Slidell,LA,70461,30.181414,-89.75388,4.0,$8898000.0,85 days on Zillow,https://www.zillow.com/homedetails/16-17-Treasure-Isle-Rd-S-Slidell-LA-70461/96159415_zpid/
+310 Nicklaus St,Berwick,LA,70342,29.71298,-91.24751,4.0,$0.0,22 days on Zillow,https://www.zillow.com/homedetails/310-Nicklaus-St-Berwick-LA-70342/115216933_zpid/
+4234 Rayne Dr,New Orleans,LA,70122,30.000504,-90.07311,5.0,$185000.0,27 days on Zillow,https://www.zillow.com/homedetails/4234-Rayne-Dr-New-Orleans-LA-70122/73785099_zpid/
+624 7th St,Lake charles,LA,70601,30.218674,-93.21239,3.0,$235000.0,"$15,000 (Dec 16)",https://www.zillow.com/homedetails/624-7th-St-Lake-Charles-LA-70601/77615879_zpid/
+110 Koenck Ln,Leesville,LA,71446,31.059305,-93.26352,3.0,$250000.0,12 days on Zillow,https://www.zillow.com/homedetails/110-Koenck-Ln-Leesville-LA-71446/77776387_zpid/
+781 W 5th St,Laplace,LA,70068,30.065775,-90.507675,,$45000.0,13 days on Zillow,https://www.zillow.com/homedetails/781-W-5th-St-Laplace-LA-70068/2059424514_zpid/
+4621 Maplewood Dr,Sulphur,LA,70663,30.227474,-93.31369,4.0,$327000.0,13 days on Zillow,https://www.zillow.com/homedetails/4621-Maplewood-Dr-Sulphur-LA-70663/77615960_zpid/
+243 Weeks Rd,Leesville,LA,71446,31.17667,-93.25078,4.0,$350000.0,154 days on Zillow,https://www.zillow.com/homedetails/243-Weeks-Rd-Leesville-LA-71446/77778053_zpid/
+4524 Elmwood Pkwy,Metairie,LA,70003,30.020992,-90.21855,4.0,$774000.0,18 days on Zillow,https://www.zillow.com/homedetails/4524-Elmwood-Pkwy-Metairie-LA-70003/73727698_zpid/
+140 Landon Ln,Sunset,LA,70584,30.386961,-92.080536,3.0,$175000.0,"$4,500 (Feb 5)",https://www.zillow.com/homedetails/140-Landon-Ln-Sunset-LA-70584/2059768931_zpid/
+308 W Moore Ave,Vivian,LA,71082,32.878403,-93.98744,3.0,$18000.0,41 days on Zillow,https://www.zillow.com/homedetails/308-W-Moore-Ave-Vivian-LA-71082/51395647_zpid/
+311 E 12th St,Reserve,LA,70084,30.059366,-90.54596,3.0,$40000.0,30 days on Zillow,https://www.zillow.com/homedetails/311-E-12th-St-Reserve-LA-70084/299403442_zpid/
+113 Pineridge Rd,Franklinton,LA,70438,30.847738,-90.13552,3.0,$352000.0,"$5,000 (Jan 17)",https://www.zillow.com/homedetails/113-Pineridge-Rd-Franklinton-LA-70438/2062251673_zpid/
+26720 S Satsuma Rd,Livingston,LA,70754,30.426468,-90.77535,3.0,$170000.0,577 days on Zillow,https://www.zillow.com/homedetails/26720-S-Satsuma-Rd-Livingston-LA-70754/110895538_zpid/
+4410 Oaklawn St,Lake Charles,LA,70605,30.125467,-93.27482,0.0,$269500.0,"$5,500 (Jan 22)",https://www.zillow.com/homedetails/4410-Oaklawn-St-Lake-Charles-LA-70605/242853788_zpid/
+2077 Orleans Run Dr,Lake Charles,LA,70611,30.33501,-93.23876,4.0,$290000.0,"$15,000 (Dec 30)",https://www.zillow.com/homedetails/2077-Orleans-Run-Dr-Lake-Charles-LA-70611/2084222380_zpid/
+42543 Joelu Dr LOT 3,Franklinton,LA,70438,30.90128,-90.18413,4.0,$380000.0,147 days on Zillow,https://www.zillow.com/homedetails/42543-Joelu-Dr-LOT-3-Franklinton-LA-70438/2061432663_zpid/
+111 Cypress Bend Rd,Scott,LA,70583,30.277603,-92.17889,3.0,$375000.0,"$4,000 (Jan 19)",https://www.zillow.com/homedetails/111-Cypress-Bend-Rd-Scott-LA-70583/2061644463_zpid/
+111 Geist St,Houma,LA,70360,29.575434,-90.735535,3.0,$240000.0,26 days on Zillow,https://www.zillow.com/homedetails/111-Geist-St-Houma-LA-70360/77755932_zpid/
+5226 Highway 113,Deridder,LA,70634,30.748154,-93.02618,3.0,$55000.0,6 days on Zillow,https://www.zillow.com/homedetails/5226-Highway-113-Deridder-LA-70634/106023177_zpid/
+940 Kirby St TRAILER 16,Sulphur,LA,70663,30.248089,-93.37124,3.0,$65000.0,7 days on Zillow,https://www.zillow.com/homedetails/940-Kirby-St-TRAILER-16-Sulphur-LA-70663/123795124_zpid/
+162 Aurora Ln,Grand Isle,LA,70358,29.229929,-90.003845,3.0,$235000.0,357 days on Zillow,https://www.zillow.com/homedetails/162-Aurora-Ln-Grand-Isle-LA-70358/248723862_zpid/
+1601 Stonegate Ct,Baton Rouge,LA,70815,30.452698,-91.067955,2.0,$159000.0,14 days on Zillow,https://www.zillow.com/homedetails/1601-Stonegate-Ct-Baton-Rouge-LA-70815/66375738_zpid/
+River Rd,Iowa,LA,70647,30.301455,-93.06322,,$81500.0,20 days on Zillow,https://www.zillow.com/homedetails/River-Rd-Iowa-LA-70647/317302624_zpid/
+12388 Oak Alley Dr,Geismar,LA,70734,30.251698,-91.008255,4.0,$449900.0,18 days on Zillow,https://www.zillow.com/homedetails/12388-Oak-Alley-Dr-Geismar-LA-70734/72220545_zpid/
+749 Park Rd,Lake Charles,LA,70611,30.313288,-93.21985,3.0,$336000.0,$500 (Feb 9),https://www.zillow.com/homedetails/749-Park-Rd-Lake-Charles-LA-70611/242808144_zpid/
+3159 Baywood Ave,Lake Charles,LA,70607,30.17444,-93.15558,4.0,$268600.0,"$1,900 (Feb 21)",https://www.zillow.com/homedetails/3159-Baywood-Ave-Lake-Charles-LA-70607/248919760_zpid/
+414 Perkins St,Sulphur,LA,70663,30.293451,-93.405365,1.0,$94500.0,80 days on Zillow,https://www.zillow.com/homedetails/414-Perkins-St-Sulphur-LA-70663/242838677_zpid/
+15 River Ln,Lake Charles,LA,70605,30.173311,-93.29292,5.0,$1100000.0,"$100,000 (Jan 18)",https://www.zillow.com/homedetails/15-River-Ln-Lake-Charles-LA-70605/242848938_zpid/
+3052 Hudson Park Dr,Baton Rouge,LA,70810,30.327265,-91.12588,4.0,$345000.0,172 days on Zillow,https://www.zillow.com/homedetails/3052-Hudson-Park-Dr-Baton-Rouge-LA-70810/125450984_zpid/
+300 Kerry St,Baldwin,LA,70514,29.838606,-91.54203,3.0,$0.0,509 days on Zillow,https://www.zillow.com/homedetails/300-Kerry-St-Baldwin-LA-70514/115200372_zpid/
+31959 Tiboe Plz,Springfield,LA,70462,30.391066,-90.55321,3.0,$150000.0,80 days on Zillow,https://www.zillow.com/homedetails/31959-Tiboe-Plz-Springfield-LA-70462/251084677_zpid/
+6201 Bert Kouns Industrial Loop,Shreveport,LA,71129,32.401672,-93.87346,5.0,$90000.0,41 days on Zillow,https://www.zillow.com/homedetails/6201-Bert-Kouns-Industrial-Loop-Shreveport-LA-71129/117486035_zpid/
+200 N Middle Lndg,Minden,LA,71055,32.60815,-93.29988,12.0,$70000.0,"$9,900 (Feb 8)",https://www.zillow.com/homedetails/200-N-Middle-Lndg-Minden-LA-71055/317210075_zpid/
+12581 Arceneaux Rd,Welsh,LA,70591,30.160118,-92.831566,2.0,$40000.0,109 days on Zillow,https://www.zillow.com/homedetails/12581-Arceneaux-Rd-Welsh-LA-70591/106081423_zpid/
+607 Paris Ln,Houma,LA,70363,29.575245,-90.69699,3.0,$175000.0,33 days on Zillow,https://www.zillow.com/homedetails/607-Paris-Ln-Houma-LA-70363/77754466_zpid/
+5118 Timber Crest Dr,New Orleans,LA,70131,29.89917,-90.00066,3.0,$115000.0,106 days on Zillow,https://www.zillow.com/homedetails/5118-Timber-Crest-Dr-New-Orleans-LA-70131/73838903_zpid/
+1701 Palermo Dr,Sulphur,LA,70663,30.223253,-93.34256,3.0,$255000.0,20 days on Zillow,https://www.zillow.com/homedetails/1701-Palermo-Dr-Sulphur-LA-70663/77592716_zpid/
+2187 E Gauthier Rd TRAILER 562,Lake Charles,LA,70607,30.133245,-93.186005,3.0,$70000.0,"$10,000 (Dec 23)",https://www.zillow.com/homedetails/2187-E-Gauthier-Rd-TRAILER-562-Lake-Charles-LA-70607/2060684893_zpid/
+7731 Highway 56,Chauvin,LA,70344,29.274984,-90.64406,4.0,$775000.0,47 days on Zillow,https://www.zillow.com/homedetails/7731-Highway-56-Chauvin-LA-70344/2066005076_zpid/
+Betty Ln,Fordoche,LA,70732,30.594198,-91.61821,,$100000.0,75 days on Zillow,https://www.zillow.com/homedetails/Betty-Ln-Fordoche-LA-70732/2060477391_zpid/
+5113 Highway 849,Grayson,LA,71435,31.985884,-92.086945,3.0,$340000.0,263 days on Zillow,https://www.zillow.com/homedetails/5113-Highway-849-Grayson-LA-71435/115115305_zpid/
+312 N 12th St,Oakdale,LA,71463,30.8193,-92.61972,3.0,$95000.0,14 days on Zillow,https://www.zillow.com/homedetails/312-N-12th-St-Oakdale-LA-71463/2059460299_zpid/
+1304 Charlestown Ln,Lake Charles,LA,70605,30.1868,-93.24142,2.0,$495005000.0,37 days on Zillow,https://www.zillow.com/homedetails/1304-Charlestown-Ln-Lake-Charles-LA-70605/242827748_zpid/
+220 Mills St LOT 2,Scott,LA,70583,30.237703,-92.091125,3.0,$58300.0,84 days on Zillow,https://www.zillow.com/homedetails/220-Mills-St-LOT-2-Scott-LA-70583/2060608913_zpid/
+50572 Creekside Dr,Loranger,LA,70446,30.58453,-90.33648,3.0,$299999.0,$1 (Jan 4),https://www.zillow.com/homedetails/50572-Creekside-Dr-Loranger-LA-70446/77739393_zpid/
+2313 Poplar St,Lake Charles,LA,70601,30.23434,-93.22539,3.0,$98000.0,63 days on Zillow,https://www.zillow.com/homedetails/2313-Poplar-St-Lake-Charles-LA-70601/242864756_zpid/
+8060 Us Highway 171,Deridder,LA,70634,30.685621,-93.23871,,$52000.0,"$3,000 (Feb 1)",https://www.zillow.com/homedetails/8060-Us-Highway-171-Deridder-LA-70634/2060875823_zpid/
+19231 Plantation Trace Dr,Livingston,LA,70754,30.318253,-90.7682,3.0,$280000.0,62 days on Zillow,https://www.zillow.com/homedetails/19231-Plantation-Trace-Dr-Livingston-LA-70754/120279758_zpid/
+331 Santa Anna Dr,Lake Charles,LA,70611,30.336567,-93.19508,3.0,$220000.0,102 days on Zillow,https://www.zillow.com/homedetails/331-Santa-Anna-Dr-Lake-Charles-LA-70611/77617616_zpid/
+14218 Hatcher Rd,Clinton,LA,70722,30.820196,-90.94194,4.0,$510000.0,56 days on Zillow,https://www.zillow.com/homedetails/14218-Hatcher-Rd-Clinton-LA-70722/233417175_zpid/
+185 Ridge Rd,Castor,LA,71016,32.251095,-93.16385,3.0,$0.0,127 days on Zillow,https://www.zillow.com/homedetails/185-Ridge-Rd-Castor-LA-71016/115110808_zpid/
+40080 Crestwood Ln,Ponchatoula,LA,70454,30.440489,-90.52638,4.0,$285000.0,15 days on Zillow,https://www.zillow.com/homedetails/40080-Crestwood-Ln-Ponchatoula-LA-70454/239558219_zpid/
+9975 Stonewater Dr,Baton Rouge,LA,70818,30.54064,-91.033485,3.0,$339900.0,9 days on Zillow,https://www.zillow.com/homedetails/9975-Stonewater-Dr-Baton-Rouge-LA-70818/2066628523_zpid/
+1905 Riviere Ave,Metairie,LA,70003,29.992723,-90.20895,3.0,$265000.0,142 days on Zillow,https://www.zillow.com/homedetails/1905-Riviere-Ave-Metairie-LA-70003/73735530_zpid/
+1012 3rd St,Mamou,LA,70554,30.63734,-92.42296,5.0,$370000.0,35 days on Zillow,https://www.zillow.com/homedetails/1012-3rd-St-Mamou-LA-70554/106055710_zpid/
+2694 Addison Loop,Lake Charles,LA,70607,30.14535,-93.166855,,$55000.0,16 days on Zillow,https://www.zillow.com/homedetails/2694-Addison-Loop-Lake-Charles-LA-70607/242833888_zpid/
+2424 Oakmere Dr,Harvey,LA,70058,29.873177,-90.063705,4.0,$285000.0,24 days on Zillow,https://www.zillow.com/homedetails/2424-Oakmere-Dr-Harvey-LA-70058/304192840_zpid/
+660 Belle River Rd,Pierre Part,LA,70390,29.911669,-91.22199,3.0,$200000.0,56 days on Zillow,https://www.zillow.com/homedetails/660-Belle-River-Rd-Pierre-Part-LA-70390/246324915_zpid/
+714 Florida Ave,Slidell,LA,70458,30.28289,-89.77362,3.0,$178000.0,62 days on Zillow,https://www.zillow.com/homedetails/714-Florida-Ave-Slidell-LA-70458/96174531_zpid/
+2117 Forest Hills Blvd,Haughton,LA,71037,32.549747,-93.576,4.0,$0.0,8 days on Zillow,https://www.zillow.com/homedetails/2117-Forest-Hills-Blvd-Haughton-LA-71037/109824989_zpid/
+106 Moss Ln APT D,Houma,LA,70360,29.584272,-90.79639,1.0,$58000.0,26 days on Zillow,https://www.zillow.com/homedetails/106-Moss-Ln-APT-D-Houma-LA-70360/2066006746_zpid/
+187 Sir Thomas Henry Dr,Opelousas,LA,70570,30.52231,-92.046005,3.0,$299000.0,26 days on Zillow,https://www.zillow.com/homedetails/187-Sir-Thomas-Henry-Dr-Opelousas-LA-70570/106132154_zpid/
+195 Coon Trl,Monroe,LA,71203,32.573948,-92.066,3.0,$650000.0,41 days on Zillow,https://www.zillow.com/homedetails/195-Coon-Trl-Monroe-LA-71203/2062598129_zpid/
+8580 Old Hammond Hwy,Baton Rouge,LA,70809,30.4303,-91.09632,5.0,$600000.0,"$150,000 (Feb 1)",https://www.zillow.com/homedetails/8580-Old-Hammond-Hwy-Baton-Rouge-LA-70809/66285950_zpid/
+217 Ivy Ct,La Place,LA,70068,30.059635,-90.53982,3.0,$216900.0,47 days on Zillow,https://www.zillow.com/homedetails/217-Ivy-Ct-La-Place-LA-70068/2060215965_zpid/
+8078 Clearview Dr,Lake Charles,LA,70605,30.111036,-93.25892,3.0,$85000.0,"$3,000 (Feb 6)",https://www.zillow.com/homedetails/8078-Clearview-Dr-Lake-Charles-LA-70605/242825696_zpid/
+Tbd,Opelousas,LA,70570,30.527401,-91.9857,,$85000.0,60 days on Zillow,https://www.zillow.com/homedetails/Tbd-Opelousas-LA-70570/2060324251_zpid/
+819 Wiltz Dr,Baton Rouge,LA,70806,30.44118,-91.14424,3.0,$360000.0,48 days on Zillow,https://www.zillow.com/homedetails/819-Wiltz-Dr-Baton-Rouge-LA-70806/66300261_zpid/
+17049 Coles Creek Dr,Springfield,LA,70462,30.309368,-90.602234,3.0,$250000.0,34 days on Zillow,https://www.zillow.com/homedetails/17049-Coles-Creek-Dr-Springfield-LA-70462/2105821532_zpid/
+207 Highway 1079,Newellton,LA,71357,32.190247,-91.3164,3.0,$285000.0,108 days on Zillow,https://www.zillow.com/homedetails/207-Highway-1079-Newellton-LA-71357/121779002_zpid/
+908 Barnes St,Bridge City,LA,70094,29.936104,-90.16114,3.0,$145000.0,45 days on Zillow,https://www.zillow.com/homedetails/908-Barnes-St-Bridge-City-LA-70094/73709418_zpid/
+814 Union Ave,Bogalusa,LA,70427,30.79444,-89.87327,5.0,$120000.0,56 days on Zillow,https://www.zillow.com/homedetails/814-Union-Ave-Bogalusa-LA-70427/247289833_zpid/
+3124 Stonewall St,Shreveport,LA,71109,32.489445,-93.78763,4.0,$74000.0,27 days on Zillow,https://www.zillow.com/homedetails/3124-Stonewall-St-Shreveport-LA-71109/51352352_zpid/
+1761 Bass Rd,Leesville,LA,71446,30.944538,-93.31859,3.0,$185000.0,84 days on Zillow,https://www.zillow.com/homedetails/1761-Bass-Rd-Leesville-LA-71446/331235483_zpid/
+401 1st St,Winnfield,LA,71483,31.883602,-92.65177,2.0,$25000.0,77 days on Zillow,https://www.zillow.com/homedetails/401-1st-St-Winnfield-LA-71483/115236499_zpid/
+4808 Jasper St,Metairie,LA,70006,30.011421,-90.192604,6.0,$385000.0,"$35,000 (Dec 18)",https://www.zillow.com/homedetails/4808-Jasper-St-Metairie-LA-70006/73736287_zpid/
+1918 Westwood St,Lake charles,LA,70601,30.213306,-93.227516,3.0,$350000.0,"$9,000 (Jan 11)",https://www.zillow.com/homedetails/1918-Westwood-St-Lake-Charles-LA-70601/81675184_zpid/
+32875 Rivergate Cir APT 1,Springfield,LA,70462,30.375853,-90.53596,2.0,$325000.0,49 days on Zillow,https://www.zillow.com/homedetails/32875-Rivergate-Cir-APT-1-Springfield-LA-70462/2060257853_zpid/
+102 Eastwood Dr,Franklin,LA,70538,30.835943,-90.11588,3.0,$280000.0,168 days on Zillow,https://www.zillow.com/homedetails/102-Eastwood-Dr-Franklin-LA-70538/115203865_zpid/
+5201 Timber Crest Dr,New Orleans,LA,70131,29.89875,-89.9998,3.0,$125000.0,15 days on Zillow,https://www.zillow.com/homedetails/5201-Timber-Crest-Dr-New-Orleans-LA-70131/73838895_zpid/
+2124 Ethel Ln,Sulphur,LA,70665,30.11277,-93.46431,3.0,$45000.0,10 days on Zillow,https://www.zillow.com/homedetails/2124-Ethel-Ln-Sulphur-LA-70665/2059273288_zpid/
+11910 Parkbrook Ave,Baton Rouge,LA,70816,30.407587,-91.04824,4.0,$0.0,29 days on Zillow,https://www.zillow.com/homedetails/11910-Parkbrook-Ave-Baton-Rouge-LA-70816/66366073_zpid/
+102 Britain Cir,Lafayette,LA,70508,30.147636,-92.04985,4.0,$435000.0,42 days on Zillow,https://www.zillow.com/homedetails/102-Britain-Cir-Lafayette-LA-70508/77680675_zpid/
+752 Effie Hwy,Deville,LA,71328,31.285402,-92.16413,3.0,$120000.0,47 days on Zillow,https://www.zillow.com/homedetails/752-Effie-Hwy-Deville-LA-71328/230232344_zpid/
+200 Wellington Dr,Houma,LA,70360,29.584272,-90.79639,3.0,$299900.0,39 days on Zillow,https://www.zillow.com/homedetails/200-Wellington-Dr-Houma-LA-70360/77765550_zpid/
+2355 Jean Lafitte Blvd,Lafitte,LA,70067,29.742329,-90.130165,5.0,$515000.0,"$15,000 (Jan 16)",https://www.zillow.com/homedetails/2355-Jean-Lafitte-Blvd-Lafitte-LA-70067/73718296_zpid/
+4744B Highway 1,Raceland,LA,70394,29.690535,-90.5642,2.0,$400000.0,48 days on Zillow,https://www.zillow.com/homedetails/4744B-Highway-1-Raceland-LA-70394/119453236_zpid/
+3550 Carlyss Dr LOT 150,Sulphur,LA,70665,30.11277,-93.46431,3.0,$60000.0,37 days on Zillow,https://www.zillow.com/homedetails/3550-Carlyss-Dr-LOT-150-Sulphur-LA-70665/2060123990_zpid/
+1227 Guillory St,Westlake,LA,70669,30.241373,-93.26851,4.0,$379000.0,191 days on Zillow,https://www.zillow.com/homedetails/1227-Guillory-St-Westlake-LA-70669/81670017_zpid/
+3112 49th St,Metairie,LA,70001,29.982763,-90.15498,4.0,$289000.0,34 days on Zillow,https://www.zillow.com/homedetails/3112-49th-St-Metairie-LA-70001/73738767_zpid/
+2318 Saint Andrews Ave,Zachary,LA,70791,30.64373,-91.18142,4.0,$649900.0,111 days on Zillow,https://www.zillow.com/homedetails/2318-Saint-Andrews-Ave-Zachary-LA-70791/66387101_zpid/
+713 Bradley St,Lake charles,LA,70607,30.177769,-93.21145,6.0,$295000.0,"$16,000 (Jan 7)",https://www.zillow.com/homedetails/713-Bradley-St-Lake-Charles-LA-70607/77600920_zpid/
+648 Becky Ln,Lake Charles,LA,70605,30.306787,-93.22392,4.0,$349500.0,420 days on Zillow,https://www.zillow.com/homedetails/648-Becky-Ln-Lake-Charles-LA-70605/242850006_zpid/
+306 Music Rd,Monroe,LA,71203,32.585464,-92.027214,,$30000.0,12 days on Zillow,https://www.zillow.com/homedetails/306-Music-Rd-Monroe-LA-71203/101638893_zpid/
+Post Mill Rd LOT WP001,Marion,LA,71260,32.909,-92.2756,4.0,$309000.0,52 days on Zillow,https://www.zillow.com/homedetails/Post-Mill-Rd-LOT-WP001-Marion-LA-71260/2060278730_zpid/
+208 General Gardner Ave APT 207,Lafayette,LA,70501,30.217875,-92.01785,2.0,$119900.0,"$5,000 (Jan 22)",https://www.zillow.com/homedetails/208-General-Gardner-Ave-APT-207-Lafayette-LA-70501/110905052_zpid/
+150 Sam Breaux Rd,Hackberry,LA,70645,30.007547,-93.33443,,$125000.0,41 days on Zillow,https://www.zillow.com/homedetails/150-Sam-Breaux-Rd-Hackberry-LA-70645/2060160514_zpid/
+851 Plauche St,Morganza,LA,70759,30.727234,-91.597984,3.0,$96500.0,8 days on Zillow,https://www.zillow.com/homedetails/851-Plauche-St-Morganza-LA-70759/115168977_zpid/
+30908 N Summerfield Dr,Denham Springs,LA,70726,30.517609,-90.91923,4.0,$339000.0,"$10,900 (Jan 19)",https://www.zillow.com/homedetails/30908-N-Summerfield-Dr-Denham-Springs-LA-70726/110885051_zpid/
+6639 Joe Spears Rd,Iowa,LA,70647,30.195667,-93.10582,,$100000.0,52 days on Zillow,https://www.zillow.com/homedetails/6639-Joe-Spears-Rd-Iowa-LA-70647/2061656591_zpid/
+2715 Looney St,Shreveport,LA,71103,32.501987,-93.780716,3.0,$42500.0,"$12,500 (Jan 9)",https://www.zillow.com/homedetails/2715-Looney-St-Shreveport-LA-71103/51386724_zpid/
+3008 Rebecca Ln,Grand Isle,LA,70358,29.258434,-89.95931,4.0,$950000.0,33 days on Zillow,https://www.zillow.com/homedetails/3008-Rebecca-Ln-Grand-Isle-LA-70358/304198081_zpid/
+279 Settlers Park Dr,Shreveport,LA,71115,32.256493,-93.58288,2.0,$125000.0,22 days on Zillow,https://www.zillow.com/homedetails/279-Settlers-Park-Dr-Shreveport-LA-71115/51349040_zpid/
+3446 Stonebrook Pl,Shreveport,LA,71105,32.449547,-93.70862,1.0,$124500.0,50 days on Zillow,https://www.zillow.com/homedetails/3446-Stonebrook-Pl-Shreveport-LA-71105/51338532_zpid/
+43458 N Great Oak Ct,Prairieville,LA,70769,30.313208,-90.87684,3.0,$122700.0,78 days on Zillow,https://www.zillow.com/homedetails/43458-N-Great-Oak-Ct-Prairieville-LA-70769/35970699_zpid/
+184 E Hoyt Ave,Crowley,LA,70526,30.197931,-92.375145,3.0,$299975.0,"$15,022 (Jan 27)",https://www.zillow.com/homedetails/184-E-Hoyt-Ave-Crowley-LA-70526/225572575_zpid/
+3445 S Angelle St,Paulina,LA,70763,30.035845,-90.744255,3.0,$445000.0,15 days on Zillow,https://www.zillow.com/homedetails/3445-S-Angelle-St-Paulina-LA-70763/115194805_zpid/
+3833 Chatfield Ave,Baton Rouge,LA,70808,30.431608,-91.149605,3.0,$0.0,29 days on Zillow,https://www.zillow.com/homedetails/3833-Chatfield-Ave-Baton-Rouge-LA-70808/66278757_zpid/
+3495 Hwy 182,Berwick,LA,70342,29.710567,-91.247986,4.0,$515000.0,39 days on Zillow,https://www.zillow.com/homedetails/3495-Hwy-182-Berwick-LA-70342/115217025_zpid/
+40645 Ranch Rd,Slidell,LA,70461,30.281387,-89.72326,4.0,$190000.0,45 days on Zillow,https://www.zillow.com/homedetails/40645-Ranch-Rd-Slidell-LA-70461/96162307_zpid/
+6689 Willie Lou Ave,Houma,LA,70364,29.646078,-90.6755,3.0,$242588.0,99 days on Zillow,https://www.zillow.com/homedetails/6689-Willie-Lou-Ave-Houma-LA-70364/77772832_zpid/
+409 Ward Ln,Sulphur,LA,70663,30.219524,-93.33319,3.0,$0.0,29 days on Zillow,https://www.zillow.com/homedetails/409-Ward-Ln-Sulphur-LA-70663/81675432_zpid/
+5604 Willow Crest Dr,Shreveport,LA,71119,32.49488,-93.82988,2.0,$315000.0,54 days on Zillow,https://www.zillow.com/homedetails/5604-Willow-Crest-Dr-Shreveport-LA-71119/51354700_zpid/
+203 S Avenue O,Crowley,LA,70526,30.210255,-92.35947,3.0,$121000.0,"$11,000 (Jan 31)",https://www.zillow.com/homedetails/203-S-Avenue-O-Crowley-LA-70526/105985553_zpid/
+1811 Harvard St,Alexandria,LA,71301,31.26617,-92.47117,3.0,$69000.0,76 days on Zillow,https://www.zillow.com/homedetails/1811-Harvard-St-Alexandria-LA-71301/209920861_zpid/
+3400 Magazine St UNIT 15,New Orleans,LA,70115,29.92284,-90.088875,2.0,$358000.0,"$41,000 (Feb 8)",https://www.zillow.com/homedetails/3400-Magazine-St-UNIT-15-New-Orleans-LA-70115/84474776_zpid/
+2648 Cedar Creek St,Marrero,LA,70072,29.812206,-90.10707,3.0,$289000.0,92 days on Zillow,https://www.zillow.com/homedetails/2648-Cedar-Creek-St-Marrero-LA-70072/103916892_zpid/
+337 Bayou Rd,Port Barre,LA,70577,30.55929,-91.951996,3.0,$85000.0,122 days on Zillow,https://www.zillow.com/homedetails/337-Bayou-Rd-Port-Barre-LA-70577/222609140_zpid/
+3rd And Coleman Pl,Kenner,LA,70062,29.976475,-90.265625,0.0,$70000.0,51 days on Zillow,https://www.zillow.com/homedetails/3rd-And-Coleman-Pl-Kenner-LA-70062/2060274194_zpid/
+5859 Tom Hebert Rd #579,Lake Charles,LA,70607,30.06392,-93.21316,3.0,$79654.0,68 days on Zillow,https://www.zillow.com/homedetails/5859-Tom-Hebert-Rd-579-Lake-Charles-LA-70607/2060398792_zpid/
+246 Joan Ann Dr,Cut Off,LA,70345,29.494963,-90.291885,2.0,$140000.0,"$5,000 (Dec 11)",https://www.zillow.com/homedetails/246-Joan-Ann-Dr-Cut-Off-LA-70345/2060528474_zpid/
+680 Sharp Ln APT 612,Baton Rouge,LA,70815,30.458838,-91.070984,2.0,$83975.0,2073 days on Zillow,https://www.zillow.com/homedetails/680-Sharp-Ln-APT-612-Baton-Rouge-LA-70815/66227681_zpid/
+396 Patterson Rd,Longville,LA,70652,30.651476,-93.23747,0.0,$350000.0,55 days on Zillow,https://www.zillow.com/homedetails/396-Patterson-Rd-Longville-LA-70652/228935183_zpid/
+718 Patin Rd,Carencro,LA,70520,30.358395,-92.04045,,$78500.0,36 days on Zillow,https://www.zillow.com/homedetails/718-Patin-Rd-Carencro-LA-70520/140792083_zpid/
+4403 Highway 182 LOT 105,Opelousas,LA,70570,30.449503,-92.10259,3.0,$85057.0,3D Tour,https://www.zillow.com/homedetails/4403-Highway-182-LOT-105-Opelousas-LA-70570/2060179384_zpid/
+Donaldsonville,Donaldsonville,LA,70346,30.13038,-91.009026,,$16500.0,13 days on Zillow,https://www.zillow.com/homedetails/Donaldsonville-Donaldsonville-LA-70346/2059404782_zpid/
+Highway 921 LOT WP001,Clayton,LA,71326,31.830347,-91.57785,,$108000.0,6 days on Zillow,https://www.zillow.com/homedetails/Highway-921-LOT-WP001-Clayton-LA-71326/2059210958_zpid/
+101 Wauban Ave,Schriever,LA,70395,29.697233,-90.86309,3.0,$158000.0,31 days on Zillow,https://www.zillow.com/homedetails/101-Wauban-Ave-Schriever-LA-70395/2059961077_zpid/
+31879 Tiboe Plz,Springfield,LA,70462,30.39017,-90.55299,3.0,$399900.0,81 days on Zillow,https://www.zillow.com/homedetails/31879-Tiboe-Plz-Springfield-LA-70462/110895258_zpid/
+705 Mae St,Opelousas,LA,70570,30.525776,-92.06981,4.0,$165000.0,111 days on Zillow,https://www.zillow.com/homedetails/705-Mae-St-Opelousas-LA-70570/289065812_zpid/
+808 6th St,Rayne,LA,70578,30.227594,-92.27467,2.0,$125000.0,76 days on Zillow,https://www.zillow.com/homedetails/808-6th-St-Rayne-LA-70578/105974380_zpid/
+115 Fontenot St,Rayne,LA,70578,30.237309,-92.24764,2.0,$85000.0,Video Walkthrough,https://www.zillow.com/homedetails/115-Fontenot-St-Rayne-LA-70578/225554210_zpid/
+23255 Charles Dr,Robert,LA,70455,30.519733,-90.32726,3.0,$229400.0,$100 (Feb 10),https://www.zillow.com/homedetails/23255-Charles-Dr-Robert-LA-70455/2085091255_zpid/
+1800 Walker Dr,Westlake,LA,70669,30.25571,-93.27051,3.0,$80900.0,78 days on Zillow,https://www.zillow.com/homedetails/1800-Walker-Dr-Westlake-LA-70669/81581243_zpid/
+46514 Highway 22,Saint Amant,LA,70774,30.227245,-90.7555,,$70000.0,67 days on Zillow,https://www.zillow.com/homedetails/46514-Highway-22-Saint-Amant-LA-70774/1469755_zpid/
+65360 North Blvd,Pearl River,LA,70452,30.36871,-89.77798,4.0,$84000.0,200 days on Zillow,https://www.zillow.com/homedetails/65360-North-Blvd-Pearl-River-LA-70452/96239752_zpid/
+5859 Tom Hebert Rd TRAILER 195,Lake Charles,LA,70607,30.06392,-93.21316,3.0,$41848.0,68 days on Zillow,https://www.zillow.com/homedetails/5859-Tom-Hebert-Rd-TRAILER-195-Lake-Charles-LA-70607/2060394836_zpid/
+1357 Rose Garden Dr,Metairie,LA,70005,30.015099,-90.138916,3.0,$319000.0,83 days on Zillow,https://www.zillow.com/homedetails/1357-Rose-Garden-Dr-Metairie-LA-70005/73745206_zpid/
+514-16 E Soraparu St,New Orleans,LA,70130,29.923685,-90.074936,8.0,$349000.0,78 days on Zillow,https://www.zillow.com/homedetails/514-16-E-Soraparu-St-New-Orleans-LA-70130/2060509222_zpid/
+598 Denny Rd,Deville,LA,71328,31.29576,-92.31557,3.0,$0.0,6 days on Zillow,https://www.zillow.com/homedetails/598-Denny-Rd-Deville-LA-71328/77713526_zpid/
+Aladdin Rd,Erath,LA,70533,29.932217,-92.026566,,$45000.0,"$2,000 (Dec 15)",https://www.zillow.com/homedetails/Aladdin-Rd-Erath-LA-70533/2060962357_zpid/
+222 224th Hwy #3161,Cut Off,LA,70345,29.519606,-90.33921,8.0,$395000.0,30 days on Zillow,https://www.zillow.com/homedetails/222-224th-Hwy-3161-Cut-Off-LA-70345/2059957318_zpid/
+3600-02 Upperline St,New Orleans,LA,70125,29.94316,-90.106865,6.0,$365000.0,39 days on Zillow,https://www.zillow.com/homedetails/3600-02-Upperline-St-New-Orleans-LA-70125/2060135567_zpid/
+294 Hunt Rd,Ragley,LA,70657,30.536432,-93.17502,2.0,$0.0,36 days on Zillow,https://www.zillow.com/homedetails/294-Hunt-Rd-Ragley-LA-70657/228937935_zpid/
+309 Barataria St,Lockport,LA,70374,29.61527,-90.48663,1.0,$105000.0,"$10,000 (Jan 19)",https://www.zillow.com/homedetails/309-Barataria-St-Lockport-LA-70374/119450250_zpid/
+333 Le Belle Maison Dr,Raceland,LA,70394,29.722698,-90.64458,,$58000.0,4 days on Zillow,https://www.zillow.com/homedetails/333-Le-Belle-Maison-Dr-Raceland-LA-70394/2059128054_zpid/
+2000 Crochet Rd,New Iberia,LA,70563,30.01932,-91.71511,3.0,$385000.0,"$5,000 (Dec 17)",https://www.zillow.com/homedetails/2000-Crochet-Rd-New-Iberia-LA-70563/2061536846_zpid/
+16202 W Bennett Rd,Independence,LA,70443,30.637262,-90.52991,5.0,$580000.0,"$30,000 (Dec 3)",https://www.zillow.com/homedetails/16202-W-Bennett-Rd-Independence-LA-70443/2060713715_zpid/
+5226 Summer Pecan Rd,Slidell,LA,70461,30.22746,-89.7663,3.0,$264900.0,Open: M: 9:00 AM-5:00 P...,https://www.zillow.com/homedetails/5226-Summer-Pecan-Rd-Slidell-LA-70461/2061199005_zpid/
+3470 Lake Palourde Rd,Morgan City,LA,70380,29.688784,-91.10082,2.0,$235000.0,"$60,000 (Nov 30)",https://www.zillow.com/homedetails/3470-Lake-Palourde-Rd-Morgan-City-LA-70380/318454649_zpid/
+190 Cooper Ann Ln SUITE A & B,Hackberry,LA,70645,30.00271,-93.335625,5.0,$429500.0,19 days on Zillow,https://www.zillow.com/homedetails/190-Cooper-Ann-Ln-SUITE-A-B-Hackberry-LA-70645/248428872_zpid/
+815 Garden St,Bossier City,LA,71112,32.504955,-93.7026,2.0,$53900.0,182 days on Zillow,https://www.zillow.com/homedetails/815-Garden-St-Bossier-City-LA-71112/2146458222_zpid/
+Campground Rd LOT WP001,Montgomery,LA,71454,31.702572,-92.89294,,$188000.0,7 days on Zillow,https://www.zillow.com/homedetails/Campground-Rd-LOT-WP001-Montgomery-LA-71454/2059252890_zpid/
+22750 Blakeney Dr,Plaquemine,LA,70764,30.296549,-91.247604,3.0,$87500.0,69 days on Zillow,https://www.zillow.com/homedetails/22750-Blakeney-Dr-Plaquemine-LA-70764/115140543_zpid/
+324 Vinet Ave,New Orleans,LA,70121,29.956387,-90.17193,3.0,$199900.0,23 days on Zillow,https://www.zillow.com/homedetails/324-Vinet-Ave-New-Orleans-LA-70121/73720818_zpid/
+310 Meadow Ln,Natchitoches,LA,71457,31.68505,-93.079575,,$37500.0,23 days on Zillow,https://www.zillow.com/homedetails/310-Meadow-Ln-Natchitoches-LA-71457/306527456_zpid/
+3012 Delta Dr,Lake Charles,LA,70605,30.135317,-93.270454,,$120000.0,80 days on Zillow,https://www.zillow.com/homedetails/3012-Delta-Dr-Lake-Charles-LA-70605/77607918_zpid/
+2012 7th St,New Orleans,LA,70115,29.933275,-90.09098,2.0,$290000.0,16 days on Zillow,https://www.zillow.com/homedetails/2012-7th-St-New-Orleans-LA-70115/149047253_zpid/
+121 Gateway Dr,Lafayette,LA,70506,30.168718,-92.09692,3.0,$273000.0,94 days on Zillow,https://www.zillow.com/homedetails/121-Gateway-Dr-Lafayette-LA-70506/77635359_zpid/
+119 Nicci Ln,Lake Charles,LA,70607,30.03924,-93.25255,,$24999.0,169 days on Zillow,https://www.zillow.com/homedetails/119-Nicci-Ln-Lake-Charles-LA-70607/2061676106_zpid/
+225 Kathy Dr,Cameron,LA,70631,29.759886,-93.57892,,$60000.0,19 days on Zillow,https://www.zillow.com/homedetails/225-Kathy-Dr-Cameron-LA-70631/194537829_zpid/
+Corner Of Ash Street & Main St,Abbeville,LA,70510,29.94929,-92.15851,,$90000.0,167 days on Zillow,https://www.zillow.com/homedetails/Corner-Of-Ash-Street-Main-St-Abbeville-LA-70510/2061661860_zpid/
+11502 Kindall Dr,Abbeville,LA,70510,30.0032,-92.1656,3.0,$140000.0,43 days on Zillow,https://www.zillow.com/homedetails/11502-Kindall-Dr-Abbeville-LA-70510/226006114_zpid/
+1041 Pecan Ridge Dr,Saint Martinville,LA,70582,30.084997,-91.85866,3.0,$335000.0,404 days on Zillow,https://www.zillow.com/homedetails/1041-Pecan-Ridge-Dr-Saint-Martinville-LA-70582/106152999_zpid/
+5368 Waterside Dr,Lake Charles,LA,70607,30.16799,-93.15406,0.0,$160000.0,21 days on Zillow,https://www.zillow.com/homedetails/5368-Waterside-Dr-Lake-Charles-LA-70607/2059751188_zpid/
+11360 Kling Extension Rd,Geismar,LA,70734,30.233904,-90.980194,,$66000.0,11 days on Zillow,https://www.zillow.com/homedetails/11360-Kling-Extension-Rd-Geismar-LA-70734/1453407_zpid/
+1622 Woodland Pl,Bastrop,LA,71220,32.778156,-91.8923,3.0,$51750.0,8 days on Zillow,https://www.zillow.com/homedetails/1622-Woodland-Pl-Bastrop-LA-71220/115151417_zpid/
+5043 Highway 397 E,Bell City,LA,70630,30.066723,-93.108246,3.0,$164500.0,328 days on Zillow,https://www.zillow.com/homedetails/5043-Highway-397-E-Bell-City-LA-70630/2065068989_zpid/
+20140 Gardens Ct,Walker,LA,70785,30.487532,-90.89004,3.0,$225000.0,10 days on Zillow,https://www.zillow.com/homedetails/20140-Gardens-Ct-Walker-LA-70785/210298968_zpid/
+280 Pearl Margaret Dr,Gray,LA,70359,29.688704,-90.764366,,$95000.0,24 days on Zillow,https://www.zillow.com/homedetails/280-Pearl-Margaret-Dr-Gray-LA-70359/213709149_zpid/
+121 Shanee Dr,Gloster,LA,71030,32.221867,-93.749886,4.0,$0.0,43 days on Zillow,https://www.zillow.com/homedetails/121-Shanee-Dr-Gloster-LA-71030/106034391_zpid/
+2358 Urquhart St,New Orleans,LA,70117,29.970795,-90.0529,3.0,$375000.0,62 days on Zillow,https://www.zillow.com/homedetails/2358-Urquhart-St-New-Orleans-LA-70117/2060484096_zpid/
+11577 Hideaway St,Denham Springs,LA,70726,30.485918,-90.91196,4.0,$295000.0,"$10,000 (Feb 12)",https://www.zillow.com/homedetails/11577-Hideaway-St-Denham-Springs-LA-70726/2079086219_zpid/
+1234 Simon Bolivar Ave,New Orleans,LA,70113,29.943909,-90.07998,3.0,$395000.0,"$40,000 (Feb 7)",https://www.zillow.com/homedetails/1234-Simon-Bolivar-Ave-New-Orleans-LA-70113/148957630_zpid/
+115 Point Ln,Cypremort Pt,LA,70538,29.713615,-91.876656,,$110000.0,13 days on Zillow,https://www.zillow.com/homedetails/115-Point-Ln-Cypremort-Pt-LA-70538/226414350_zpid/
+3805 Houma Blvd,Metairie,LA,70006,30.010317,-90.1804,1.0,$140000.0,70 days on Zillow,https://www.zillow.com/homedetails/3805-Houma-Blvd-Metairie-LA-70006/103920606_zpid/
+Tbd High Hope Rd,Sulphur,LA,70663,30.314056,-93.31687,,$135000.0,20 days on Zillow,https://www.zillow.com/homedetails/Tbd-High-Hope-Rd-Sulphur-LA-70663/2096296700_zpid/
+0 Adcock Rd,Rodessa,LA,71069,32.956627,-93.94594,,$50000.0,77 days on Zillow,https://www.zillow.com/homedetails/0-Adcock-Rd-Rodessa-LA-71069/2073153275_zpid/
+2125 Benedetto Ln,Port Allen,LA,70767,30.498354,-91.25222,3.0,$220000.0,151 days on Zillow,https://www.zillow.com/homedetails/2125-Benedetto-Ln-Port-Allen-LA-70767/103937062_zpid/
+8066 Redfish St,Chauvin,LA,70344,29.25907,-90.6575,2.0,$215000.0,101 days on Zillow,https://www.zillow.com/homedetails/8066-Redfish-St-Chauvin-LA-70344/2060744212_zpid/
+5008 Alexander Dr,Metairie,LA,70003,30.026072,-90.21864,4.0,$525000.0,56 days on Zillow,https://www.zillow.com/homedetails/5008-Alexander-Dr-Metairie-LA-70003/73732764_zpid/
+Nelson Rd LOT WP001,Robeline,LA,71469,31.7177,-93.3538,,$45000.0,35 days on Zillow,https://www.zillow.com/homedetails/Nelson-Rd-LOT-WP001-Robeline-LA-71469/2060113960_zpid/
+251 Peale Cross Rd,Monterey,LA,71354,31.425207,-91.73603,4.0,$54000.0,322 days on Zillow,https://www.zillow.com/homedetails/251-Peale-Cross-Rd-Monterey-LA-71354/232938843_zpid/
+825 Louisiana Ave APT 6,New Orleans,LA,70115,29.920507,-90.08739,1.0,$214000.0,Open: Sat. 11am-1pm,https://www.zillow.com/homedetails/825-Louisiana-Ave-APT-6-New-Orleans-LA-70115/110379939_zpid/
+350 Emerald Forest Blvd APT 8103,Covington,LA,70433,30.44438,-90.0805,2.0,$204900.0,16 days on Zillow,https://www.zillow.com/homedetails/350-Emerald-Forest-Blvd-APT-8103-Covington-LA-70433/96144049_zpid/
+157 Rue Street John,Vacherie,LA,70090,29.920149,-90.62534,2.0,$100000.0,195 days on Zillow,https://www.zillow.com/homedetails/157-Rue-Street-John-Vacherie-LA-70090/2062208917_zpid/
+1713-15 Philip St,New Orleans,LA,70113,29.941887,-90.08857,4.0,$549000.0,129 days on Zillow,https://www.zillow.com/homedetails/1713-15-Philip-St-New-Orleans-LA-70113/2061132911_zpid/
+4727 Oak Dr,Lafitte,LA,70067,29.736177,-90.11661,4.0,$0.0,71 days on Zillow,https://www.zillow.com/homedetails/4727-Oak-Dr-Lafitte-LA-70067/73711692_zpid/
+612 Willowridge Dr,Luling,LA,70070,29.888323,-90.33978,5.0,$0.0,15 days on Zillow,https://www.zillow.com/homedetails/612-Willowridge-Dr-Luling-LA-70070/77720317_zpid/
+151 W 17th St,Reserve,LA,70084,30.058025,-90.57624,3.0,$0.0,22 days on Zillow,https://www.zillow.com/homedetails/151-W-17th-St-Reserve-LA-70084/116001546_zpid/
+235 Villere Dr,Destrehan,LA,70047,29.994833,-90.370735,3.0,$449000.0,5 days on Zillow,https://www.zillow.com/homedetails/235-Villere-Dr-Destrehan-LA-70047/117548717_zpid/
+2306 Fats Domino Ave,New Orleans,LA,70117,29.973642,-90.01197,,$20999.0,"$4,000 (Feb 18)",https://www.zillow.com/homedetails/2306-Fats-Domino-Ave-New-Orleans-LA-70117/2059259239_zpid/
+4717 Reich St,Metairie,LA,70006,30.021957,-90.19441,4.0,$479000.0,41 days on Zillow,https://www.zillow.com/homedetails/4717-Reich-St-Metairie-LA-70006/73743371_zpid/
+0 Elgie Ln,Arcadia,LA,71001,32.62727,-92.91791,,$45999.0,259 days on Zillow,https://www.zillow.com/homedetails/0-Elgie-Ln-Arcadia-LA-71001/2062958481_zpid/
+1395 Harris Manuel Rd,Mamou,LA,70554,30.579054,-92.389656,3.0,$0.0,155 days on Zillow,https://www.zillow.com/homedetails/1395-Harris-Manuel-Rd-Mamou-LA-70554/120279072_zpid/
+0 Bradleigh Blvd,Frierson,LA,71027,32.244095,-93.65699,,$75000.0,9 days on Zillow,https://www.zillow.com/homedetails/0-Bradleigh-Blvd-Frierson-LA-71027/2059267117_zpid/
+355 S 4th St,Ponchatoula,LA,70454,30.43575,-90.43739,4.0,$429000.0,152 days on Zillow,https://www.zillow.com/homedetails/355-S-4th-St-Ponchatoula-LA-70454/77731905_zpid/
+8223 Meadow Ln,Abbeville,LA,70510,30.00393,-92.11089,3.0,$0.0,8 days on Zillow,https://www.zillow.com/homedetails/8223-Meadow-Ln-Abbeville-LA-70510/106172276_zpid/
+1034 Pat St,Arnaudville,LA,70512,30.399302,-91.911255,3.0,$47300.0,38 days on Zillow,https://www.zillow.com/homedetails/1034-Pat-St-Arnaudville-LA-70512/225960529_zpid/
+3865 Lejeune Rd,Livonia,LA,70755,30.580603,-91.525406,3.0,$0.0,22 days on Zillow,https://www.zillow.com/homedetails/3865-Lejeune-Rd-Livonia-LA-70755/77687586_zpid/
+617 W Harrop St,Rayne,LA,70578,30.237776,-92.2753,3.0,$62000.0,72 days on Zillow,https://www.zillow.com/homedetails/617-W-Harrop-St-Rayne-LA-70578/2101477764_zpid/
+Bradleigh Blvd,Frierson,LA,71027,32.244858,-93.67766,,$89000.0,212 days on Zillow,https://www.zillow.com/homedetails/Bradleigh-Blvd-Frierson-LA-71027/2062273283_zpid/
+31575 Tickfaw Acres Rd,Holden,LA,70744,30.5267,-90.68983,2.0,$0.0,167 days on Zillow,https://www.zillow.com/homedetails/31575-Tickfaw-Acres-Rd-Holden-LA-70744/110889726_zpid/
+3002 8th St,Metairie,LA,70002,30.016104,-90.15202,2.0,$135000.0,134 days on Zillow,https://www.zillow.com/homedetails/3002-8th-St-Metairie-LA-70002/304219787_zpid/
+2229 N Twin Circle Ave,Gonzales,LA,70737,30.252407,-90.917725,4.0,$0.0,15 days on Zillow,https://www.zillow.com/homedetails/2229-N-Twin-Circle-Ave-Gonzales-LA-70737/72224462_zpid/
+Parish Rd LOT 240-WP001,Chatham,LA,71226,32.187,-92.4489,8.0,$216000.0,244 days on Zillow,https://www.zillow.com/homedetails/Parish-Rd-LOT-240-WP001-Chatham-LA-71226/2062677325_zpid/
+6711 Highway 996,Belle Rose,LA,70341,30.032408,-91.05959,3.0,$270000.0,19 days on Zillow,https://www.zillow.com/homedetails/6711-Highway-996-Belle-Rose-LA-70341/105995791_zpid/
+7145 Rue Grand Pre,Addis,LA,70710,30.365955,-91.2703,3.0,$0.0,22 days on Zillow,https://www.zillow.com/homedetails/7145-Rue-Grand-Pre-Addis-LA-70710/232945749_zpid/
+72 Plauche Dr,Chalmette,LA,70043,29.94884,-89.9777,3.0,$295000.0,776 days on Zillow,https://www.zillow.com/homedetails/72-Plauche-Dr-Chalmette-LA-70043/229357567_zpid/
+White Oak Cuttoff Rd LOT WP001,Homer,LA,71040,32.8181,-93.1225,,$99500.0,229 days on Zillow,https://www.zillow.com/homedetails/White-Oak-Cuttoff-Rd-LOT-WP001-Homer-LA-71040/2062486888_zpid/
+3422 Tide Wind Dr,Slidell,LA,70461,30.22746,-89.7663,4.0,$270900.0,Open: M: 9:00 AM-5:00 P...,https://www.zillow.com/homedetails/3422-Tide-Wind-Dr-Slidell-LA-70461/2059141614_zpid/
+188 Jessie Jones Dr,Benton,LA,71006,32.644028,-93.69227,,$375000.0,230 days on Zillow,https://www.zillow.com/homedetails/188-Jessie-Jones-Dr-Benton-LA-71006/252442647_zpid/
+7246 Woodlett Dr,Baton Rouge,LA,70818,30.516994,-91.034546,3.0,$110400.0,127 days on Zillow,https://www.zillow.com/homedetails/7246-Woodlett-Dr-Baton-Rouge-LA-70818/66355052_zpid/
+20265 Daniel Ln,Plaquemine,LA,70764,30.318268,-91.29562,3.0,$24000.0,69 days on Zillow,https://www.zillow.com/homedetails/20265-Daniel-Ln-Plaquemine-LA-70764/115140278_zpid/
+622 Amy Ct,Covington,LA,70433,30.473179,-90.154945,5.0,$369900.0,"$7,600 (Dec 7)",https://www.zillow.com/homedetails/622-Amy-Ct-Covington-LA-70433/96183645_zpid/
+16848 Kinchen Rd,Livingston,LA,70754,30.40618,-90.74402,,$61000.0,13 days on Zillow,https://www.zillow.com/homedetails/16848-Kinchen-Rd-Livingston-LA-70754/95222659_zpid/
+40438 Cypress Reserve Blvd,Ponchatoula,LA,70454,30.44331,-90.32561,4.0,$318365.0,Open: M: 9:00 AM-5:00 P...,https://www.zillow.com/homedetails/40438-Cypress-Reserve-Blvd-Ponchatoula-LA-70454/2060630462_zpid/
+2528 Bellevue Lakes St,Paulina,LA,70763,30.033691,-90.72939,,$105000.0,13 days on Zillow,https://www.zillow.com/homedetails/2528-Bellevue-Lakes-St-Paulina-LA-70763/318675238_zpid/
+333 Julia St APT 301,New Orleans,LA,70130,29.945242,-90.06699,1.0,$254500.0,83 days on Zillow,https://www.zillow.com/homedetails/333-Julia-St-APT-301-New-Orleans-LA-70130/148958399_zpid/
+Mayberry Ln,Livingston,LA,70754,30.356997,-90.72794,,$29900.0,68 days on Zillow,https://www.zillow.com/homedetails/Mayberry-Ln-Livingston-LA-70754/2065760370_zpid/
+677 Gearen Rd,Dequincy,LA,70633,30.492579,-93.419846,,$95000.0,183 days on Zillow,https://www.zillow.com/homedetails/677-Gearen-Rd-Dequincy-LA-70633/106020798_zpid/
+1702 Sawgrass Dr,Westlake,LA,70669,30.27648,-93.2688,3.0,$234900.0,Open: M: 10:00 AM-6:00 ...,https://www.zillow.com/homedetails/1702-Sawgrass-Dr-Westlake-LA-70669/2060938431_zpid/
+328 Pershing Hwy,Sunset,LA,70584,30.399055,-92.09447,,$80000.0,70 days on Zillow,https://www.zillow.com/homedetails/328-Pershing-Hwy-Sunset-LA-70584/2060423008_zpid/
+236 Haile Malone Rd,Farmerville,LA,71241,32.74402,-92.27145,4.0,$0.0,279 days on Zillow,https://www.zillow.com/homedetails/236-Haile-Malone-Rd-Farmerville-LA-71241/115225762_zpid/
+107 Willowview Dr,Broussard,LA,70518,30.139938,-91.959946,3.0,$0.0,15 days on Zillow,https://www.zillow.com/homedetails/107-Willowview-Dr-Broussard-LA-70518/77674153_zpid/
+321 Bayou Loop,Bossier city,LA,71112,32.4468,-93.596176,3.0,$104900.0,3D Tour,https://www.zillow.com/homedetails/321-Bayou-Loop-Bossier-City-LA-71112/208130187_zpid/
+1491 Walker Rd,Sulphur,LA,70605,30.183847,-93.40493,,$68000.0,34 days on Zillow,https://www.zillow.com/homedetails/1491-Walker-Rd-Sulphur-LA-70605/2100101688_zpid/
+1018 Troy Rd,New Iberia,LA,70563,30.028479,-91.78812,3.0,$0.0,15 days on Zillow,https://www.zillow.com/homedetails/1018-Troy-Rd-New-Iberia-LA-70563/113163076_zpid/
+604 Melody Dr,Metairie,LA,70002,29.997808,-90.1476,0.0,$238000.0,106 days on Zillow,https://www.zillow.com/homedetails/604-Melody-Dr-Metairie-LA-70002/73728769_zpid/
+60024 Highway 434,Lacombe,LA,70445,30.297253,-89.944786,,$65000.0,6 days on Zillow,https://www.zillow.com/homedetails/60024-Highway-434-Lacombe-LA-70445/2070315607_zpid/
+338 Edinburgh St,Metairie,LA,70001,29.977758,-90.13971,3.0,$525000.0,26 days on Zillow,https://www.zillow.com/homedetails/338-Edinburgh-St-Metairie-LA-70001/103919293_zpid/
+5475 Heberts Pass,Lake Charles,LA,70607,30.169737,-93.19283,4.0,$111800.0,78 days on Zillow,https://www.zillow.com/homedetails/5475-Heberts-Pass-Lake-Charles-LA-70607/243016021_zpid/
+1414 University Dr,Hammond,LA,70401,30.515999,-90.47512,4.0,$341000.0,250 days on Zillow,https://www.zillow.com/homedetails/1414-University-Dr-Hammond-LA-70401/77730707_zpid/
+6830 Canal Blvd,New Orleans,LA,70124,30.014645,-90.1073,3.0,$629000.0,18 days on Zillow,https://www.zillow.com/homedetails/6830-Canal-Blvd-New-Orleans-LA-70124/73777908_zpid/
+20210 Neal Rd,Loranger,LA,70446,30.695276,-90.39131,3.0,$0.0,22 days on Zillow,https://www.zillow.com/homedetails/20210-Neal-Rd-Loranger-LA-70446/84157630_zpid/
+232 Villere Dr,Destrehan,LA,70047,29.98558,-90.36653,4.0,$199990.0,8 days on Zillow,https://www.zillow.com/homedetails/232-Villere-Dr-Destrehan-LA-70047/77721510_zpid/
+112 E 5th St,Roanoke,LA,70581,30.234524,-92.74082,3.0,$0.0,8 days on Zillow,https://www.zillow.com/homedetails/112-E-5th-St-Roanoke-LA-70581/106079991_zpid/
+Ferry Rd LOT WP001,Sterlington,LA,71280,32.7368,-92.1938,,$80000.0,31 days on Zillow,https://www.zillow.com/homedetails/Ferry-Rd-LOT-WP001-Sterlington-LA-71280/2059963116_zpid/
+179 Barbara Dr,Crowley,LA,70526,30.194832,-92.329605,4.0,$42600.0,78 days on Zillow,https://www.zillow.com/homedetails/179-Barbara-Dr-Crowley-LA-70526/105987693_zpid/
+362 Platt Rd,Marion,LA,71260,32.83394,-92.27707,3.0,$55700.0,8 days on Zillow,https://www.zillow.com/homedetails/362-Platt-Rd-Marion-LA-71260/115221734_zpid/
+4613-15 Chestnut St,New Orleans,LA,70115,29.923264,-90.116005,4.0,$350000.0,39 days on Zillow,https://www.zillow.com/homedetails/4613-15-Chestnut-St-New-Orleans-LA-70115/2060135719_zpid/
+0 Geraldine Rd,Gibson,LA,70356,29.684439,-90.998314,,$64900.0,182 days on Zillow,https://www.zillow.com/homedetails/0-Geraldine-Rd-Gibson-LA-70356/2061800832_zpid/
+7966 Old Hecker Rd,Iowa,LA,70647,30.36775,-93.03569,,$220000.0,6 days on Zillow,https://www.zillow.com/homedetails/7966-Old-Hecker-Rd-Iowa-LA-70647/2059154421_zpid/
+Norris Trails St,Prairieville,LA,70769,30.300781,-90.91223,,$289000.0,6 days on Zillow,https://www.zillow.com/homedetails/Norris-Trails-St-Prairieville-LA-70769/2059149301_zpid/
+548 Focis St,Metairie,LA,70005,29.99708,-90.1297,3.0,$569000.0,76 days on Zillow,https://www.zillow.com/homedetails/548-Focis-St-Metairie-LA-70005/2065918285_zpid/
+2239 Gulf Beach Hwy,Cameron,LA,70631,29.853748,-93.5042,,$95000.0,27 days on Zillow,https://www.zillow.com/homedetails/2239-Gulf-Beach-Hwy-Cameron-LA-70631/194537636_zpid/
+2206 S Savannah Ln,Lake Charles,LA,70605,30.09345,-93.18958,4.0,$253000.0,Open: M: 10:00 AM-6:00 ...,https://www.zillow.com/homedetails/2206-S-Savannah-Ln-Lake-Charles-LA-70605/2066772272_zpid/
+354 Pretty Acres Ave,Hahnville,LA,70057,29.98678,-90.41273,4.0,$324785.0,Open: M: 9:00 AM-5:00 P...,https://www.zillow.com/homedetails/354-Pretty-Acres-Ave-Hahnville-LA-70057/2059537998_zpid/
+328 E Clay St,Crowley,LA,70526,30.208563,-92.3672,3.0,$0.0,57 days on Zillow,https://www.zillow.com/homedetails/328-E-Clay-St-Crowley-LA-70526/105985343_zpid/
+401 Azelie St,Lafayette,LA,70501,30.25578,-92.0068,2.0,$65000.0,46 days on Zillow,https://www.zillow.com/homedetails/401-Azelie-St-Lafayette-LA-70501/126792676_zpid/
+2860-62 Law St,New Orleans,LA,70117,29.983187,-90.03997,6.0,$260000.0,530 days on Zillow,https://www.zillow.com/homedetails/2860-62-Law-St-New-Orleans-LA-70117/2068551658_zpid/
+0 N Cross Dr #50,Shreveport,LA,71107,32.523525,-93.875885,,$230000.0,13 days on Zillow,https://www.zillow.com/homedetails/0-N-Cross-Dr-50-Shreveport-LA-71107/2082461669_zpid/
+288 Waterplant Rd,Schriever,LA,70395,29.727995,-90.790245,,$52000.0,12 days on Zillow,https://www.zillow.com/homedetails/288-Waterplant-Rd-Schriever-LA-70395/2099031721_zpid/
+8076 Blalock Ln,Iowa,LA,70647,30.26624,-93.01406,4.0,$243000.0,Open: M: 10:00 AM-6:00 ...,https://www.zillow.com/homedetails/8076-Blalock-Ln-Iowa-LA-70647/2078159925_zpid/
+393 Bill Golson Rd,West Monroe,LA,71292,32.438637,-92.178795,3.0,$0.0,78 days on Zillow,https://www.zillow.com/homedetails/393-Bill-Golson-Rd-West-Monroe-LA-71292/92495934_zpid/
+Grand Anse Hwy LOT WP001,Breaux Bridge,LA,70517,30.344055,-91.8085,,$275000.0,33 days on Zillow,https://www.zillow.com/homedetails/Grand-Anse-Hwy-LOT-WP001-Breaux-Bridge-LA-70517/2066485392_zpid/
+213 Mink Dr,Arabi,LA,70032,29.967,-89.98867,3.0,$130500.0,44 days on Zillow,https://www.zillow.com/homedetails/213-Mink-Dr-Arabi-LA-70032/126660892_zpid/
+701 Marietta St,Oak Grove,LA,71263,32.859688,-91.3828,3.0,$0.0,29 days on Zillow,https://www.zillow.com/homedetails/701-Marietta-St-Oak-Grove-LA-71263/236522954_zpid/
+526 W 74th St,Shreveport,LA,71106,32.425194,-93.75962,3.0,$29900.0,35 days on Zillow,https://www.zillow.com/homedetails/526-W-74th-St-Shreveport-LA-71106/51370855_zpid/
+3431 Tide Wind Dr,Slidell,LA,70461,30.22746,-89.7663,3.0,$266900.0,Open: M: 9:00 AM-5:00 P...,https://www.zillow.com/homedetails/3431-Tide-Wind-Dr-Slidell-LA-70461/2059141613_zpid/
+2092 Lafitte Dr,La Place,LA,70068,30.0875,-90.48135,3.0,$96000.0,39 days on Zillow,https://www.zillow.com/homedetails/2092-Lafitte-Dr-La-Place-LA-70068/106114239_zpid/
+30299 Woodland West Dr LOT 325,Lacombe,LA,70445,30.32548,-89.89566,,$54900.0,61 days on Zillow,https://www.zillow.com/homedetails/30299-Woodland-West-Dr-LOT-325-Lacombe-LA-70445/2060326913_zpid/
+37366 Wilton Seals Rd,Franklinton,LA,70438,30.788116,-90.26307,3.0,$0.0,15 days on Zillow,https://www.zillow.com/homedetails/37366-Wilton-Seals-Rd-Franklinton-LA-70438/106185309_zpid/
+6712 Lake Peigneur Rd,New Iberia,LA,70560,29.973417,-91.939415,5.0,$0.0,176 days on Zillow,https://www.zillow.com/homedetails/6712-Lake-Peigneur-Rd-New-Iberia-LA-70560/77619395_zpid/
+104 High St,Opelousas,LA,70570,30.538946,-92.14412,1.0,$51000.0,14 days on Zillow,https://www.zillow.com/homedetails/104-High-St-Opelousas-LA-70570/2059467410_zpid/
+330 French Turn Rd,Winnsboro,LA,71295,32.238716,-91.56021,,$0.0,29 days on Zillow,https://www.zillow.com/homedetails/330-French-Turn-Rd-Winnsboro-LA-71295/114005025_zpid/
+5958 Vienna Ct,New Orleans,LA,70126,30.02091,-90.04538,3.0,$230000.0,26 days on Zillow,https://www.zillow.com/homedetails/5958-Vienna-Ct-New-Orleans-LA-70126/73799267_zpid/
+113 Main St,Dubach,LA,71235,32.70086,-92.65496,3.0,$0.0,38 days on Zillow,https://www.zillow.com/homedetails/113-Main-St-Dubach-LA-71235/230249115_zpid/
+9412 Palmetto St,New Orleans,LA,70118,29.97454,-90.121216,3.0,$300000.0,77 days on Zillow,https://www.zillow.com/homedetails/9412-Palmetto-St-New-Orleans-LA-70118/149090269_zpid/
+908 N 12th St,Port Allen,LA,70767,30.460964,-91.21503,3.0,$0.0,22 days on Zillow,https://www.zillow.com/homedetails/908-N-12th-St-Port-Allen-LA-70767/103934631_zpid/
+208 Wilder Pl,Shreveport,LA,71104,32.49219,-93.73864,3.0,$185900.0,33 days on Zillow,https://www.zillow.com/homedetails/208-Wilder-Pl-Shreveport-LA-71104/51337054_zpid/
+100 Prytania Dr,Lafayette,LA,70503,30.151545,-92.06913,4.0,$0.0,15 days on Zillow,https://www.zillow.com/homedetails/100-Prytania-Dr-Lafayette-LA-70503/77646118_zpid/
+2524 Dabadie St,New Orleans,LA,70119,29.980154,-90.07322,3.0,$385000.0,27 days on Zillow,https://www.zillow.com/homedetails/2524-Dabadie-St-New-Orleans-LA-70119/84449933_zpid/
+40 Rosa St,Westwego,LA,70094,29.956676,-90.23932,4.0,$0.0,15 days on Zillow,https://www.zillow.com/homedetails/40-Rosa-St-Westwego-LA-70094/73711543_zpid/
+22148 Chinquapin Ave,Maurepas,LA,70449,30.260532,-90.71467,1.0,$155000.0,72 days on Zillow,https://www.zillow.com/homedetails/22148-Chinquapin-Ave-Maurepas-LA-70449/110890145_zpid/
+306 N 1st St,Amite,LA,70422,30.72994,-90.5104,0.0,$5000.0,239 days on Zillow,https://www.zillow.com/homedetails/306-N-1st-St-Amite-LA-70422/213650841_zpid/
+223 Hummingbird Ln,Slidell,LA,70458,30.295523,-89.759674,3.0,$0.0,33 days on Zillow,https://www.zillow.com/homedetails/223-Hummingbird-Ln-Slidell-LA-70458/96149970_zpid/
+7417 Henderson Gin Rd,Shreveport,LA,71107,32.621,-93.90817,3.0,$0.0,22 days on Zillow,https://www.zillow.com/homedetails/7417-Henderson-Gin-Rd-Shreveport-LA-71107/103639426_zpid/
+35 Oakwood Dr,Monroe,LA,71203,32.55677,-92.05956,3.0,$0.0,36 days on Zillow,https://www.zillow.com/homedetails/35-Oakwood-Dr-Monroe-LA-71203/92483666_zpid/
+1713 Henriette Delille St,New Orleans,LA,70116,29.968353,-90.06229,1.0,$415000.0,"$22,500 (Jan 11)",https://www.zillow.com/homedetails/1713-Henriette-Delille-St-New-Orleans-LA-70116/128602775_zpid/
+2732 Woodbrook Dr,Baton Rouge,LA,70816,30.43463,-91.02767,3.0,$102000.0,53 days on Zillow,https://www.zillow.com/homedetails/2732-Woodbrook-Dr-Baton-Rouge-LA-70816/2060291560_zpid/
+611 W Logan St,Sulphur,LA,70663,30.231169,-93.38383,3.0,$60250.0,73 days on Zillow,https://www.zillow.com/homedetails/611-W-Logan-St-Sulphur-LA-70663/81672793_zpid/
+5839 Weeping Willow Dr,Lake Charles,LA,70605,30.151575,-93.29038,,$75000.0,36 days on Zillow,https://www.zillow.com/homedetails/5839-Weeping-Willow-Dr-Lake-Charles-LA-70605/2070448822_zpid/
+21120 Highway 1061,Amite,LA,70422,30.789637,-90.36549,3.0,$0.0,160 days on Zillow,https://www.zillow.com/homedetails/21120-Highway-1061-Amite-LA-70422/77742596_zpid/
+4317 Genie St,Meraux,LA,70075,29.93969,-89.91713,,$48000.0,14 days on Zillow,https://www.zillow.com/homedetails/4317-Genie-St-Meraux-LA-70075/2065915471_zpid/
+54900 Babin Dr,White Castle,LA,70788,30.16513,-91.14638,3.0,$53300.0,41 days on Zillow,https://www.zillow.com/homedetails/54900-Babin-Dr-White-Castle-LA-70788/307192055_zpid/
+3400-02 N Rampart St,New Orleans,LA,70117,29.966259,-90.04394,4.0,$370000.0,33 days on Zillow,https://www.zillow.com/homedetails/3400-02-N-Rampart-St-New-Orleans-LA-70117/2065977095_zpid/
+Waterside Dr #II,Lake Charles,LA,70607,30.167788,-93.15426,,$160000.0,23 days on Zillow,https://www.zillow.com/homedetails/Waterside-Dr-II-Lake-Charles-LA-70607/2059772086_zpid/
+Dearing Ln LOT WP001,Fordoche,LA,70732,30.57918,-91.61266,,$823050.0,5 days on Zillow,https://www.zillow.com/homedetails/Dearing-Ln-LOT-WP001-Fordoche-LA-70732/2059141115_zpid/
+5114 Bridge Street Hwy,Saint Martinville,LA,70582,30.134256,-91.70438,3.0,$95000.0,171 days on Zillow,https://www.zillow.com/homedetails/5114-Bridge-Street-Hwy-Saint-Martinville-LA-70582/106150920_zpid/
+24296 Miller Rd,Livingston,LA,70754,30.361277,-90.681145,,$160000.0,82 days on Zillow,https://www.zillow.com/homedetails/24296-Miller-Rd-Livingston-LA-70754/2060555425_zpid/
+422 Par Rd #120,Gueydan,LA,70542,30.030285,-92.74249,,$200000.0,140 days on Zillow,https://www.zillow.com/homedetails/422-Par-Rd-120-Gueydan-LA-70542/2063179450_zpid/
+228 Grande Rue,Church Pt,LA,70525,30.296846,-92.18887,3.0,$208500.0,Open: WE WILL RESUME MA...,https://www.zillow.com/homedetails/228-Grande-Rue-Church-Pt-LA-70525/2059984969_zpid/
+208 Sophie St,Labadieville,LA,70372,29.819803,-90.95939,3.0,$103000.0,117 days on Zillow,https://www.zillow.com/homedetails/208-Sophie-St-Labadieville-LA-70372/105992722_zpid/
+133 Julie St,Paradis,LA,70080,29.878183,-90.43058,,$55000.0,"$10,000 (Dec 7)",https://www.zillow.com/homedetails/133-Julie-St-Paradis-LA-70080/77724278_zpid/
+342 N Airline Ave,Gramercy,LA,70052,30.052973,-90.693115,3.0,$0.0,43 days on Zillow,https://www.zillow.com/homedetails/342-N-Airline-Ave-Gramercy-LA-70052/115192532_zpid/
+1943 Lakeshore Dr,Mandeville,LA,70448,30.35242,-90.06758,6.0,$1175000.0,83 days on Zillow,https://www.zillow.com/homedetails/1943-Lakeshore-Dr-Mandeville-LA-70448/96180158_zpid/
+7334 Silverthorn Dr,Maurice,LA,70555,30.125448,-92.094864,,$0.0,36 days on Zillow,https://www.zillow.com/homedetails/7334-Silverthorn-Dr-Maurice-LA-70555/106174123_zpid/
+10240 Amelia Flower Ln LOT 8,Baton Rouge,LA,70810,30.356422,-91.05185,,$499000.0,34 days on Zillow,https://www.zillow.com/homedetails/10240-Amelia-Flower-Ln-LOT-8-Baton-Rouge-LA-70810/2080157991_zpid/
+517 Bon Temps Roule,Mandeville,LA,70471,30.40657,-90.12868,3.0,$299000.0,"$16,000 (Jan 29)",https://www.zillow.com/homedetails/517-Bon-Temps-Roule-Mandeville-LA-70471/96234966_zpid/
+8019 Lehigh St,New Orleans,LA,70127,30.033442,-89.97492,4.0,$153000.0,182 days on Zillow,https://www.zillow.com/homedetails/8019-Lehigh-St-New-Orleans-LA-70127/73812702_zpid/
+LOT 24 The Lake Dr,Broussard,LA,70518,30.084024,-91.943535,0.0,$75500.0,21 days on Zillow,https://www.zillow.com/homedetails/LOT-24-The-Lake-Dr-Broussard-LA-70518/2076891496_zpid/
+8155 Jefferson Hwy APT 312,Baton Rouge,LA,70809,30.423096,-91.102005,2.0,$90960.0,8 days on Zillow,https://www.zillow.com/homedetails/8155-Jefferson-Hwy-APT-312-Baton-Rouge-LA-70809/81892297_zpid/
+4154 Walnut St,Slidell,LA,70461,30.311417,-89.73159,3.0,$229900.0,8 days on Zillow,https://www.zillow.com/homedetails/4154-Walnut-St-Slidell-LA-70461/2059262878_zpid/
+83 Sub Of Helena Plantation,Ferriday,LA,71334,31.6669,-91.59618,,$115000.0,118 days on Zillow,https://www.zillow.com/homedetails/83-Sub-Of-Helena-Plantation-Ferriday-LA-71334/2066516686_zpid/
+348 Pretty Acres Ave,Hahnville,LA,70057,29.98678,-90.41273,4.0,$319850.0,Open: M: 9:00 AM-5:00 P...,https://www.zillow.com/homedetails/348-Pretty-Acres-Ave-Hahnville-LA-70057/2059537997_zpid/
+Vernon Lane & Hwy LOT 1053-WP001,Kentwood,LA,70444,30.9836,-90.5627,,$282345.0,39 days on Zillow,https://www.zillow.com/homedetails/Vernon-Lane-Hwy-LOT-1053-WP001-Kentwood-LA-70444/2060141748_zpid/
+106 Coon Dr,Thibodaux,LA,70301,29.716515,-90.76722,,$112000.0,37 days on Zillow,https://www.zillow.com/homedetails/106-Coon-Dr-Thibodaux-LA-70301/2060123604_zpid/
+1009 Domingue St,Breaux Bridge,LA,70517,30.33932,-91.84203,3.0,$50800.0,78 days on Zillow,https://www.zillow.com/homedetails/1009-Domingue-St-Breaux-Bridge-LA-70517/106155646_zpid/
+Harvest Ln,Loranger,LA,70446,30.628546,-90.34838,,$58000.0,68 days on Zillow,https://www.zillow.com/homedetails/Harvest-Ln-Loranger-LA-70446/2064160295_zpid/
+1521 Belle Pointe Blvd,La Place,LA,70068,30.081436,-90.52416,3.0,$0.0,22 days on Zillow,https://www.zillow.com/homedetails/1521-Belle-Pointe-Blvd-La-Place-LA-70068/106119495_zpid/
+123 Stoneburg Dr,Duson,LA,70529,30.183477,-92.17054,3.0,$0.0,8 days on Zillow,https://www.zillow.com/homedetails/123-Stoneburg-Dr-Duson-LA-70529/110902597_zpid/
+17075 Swamp Rd E,Prairieville,LA,70769,30.300781,-90.91223,3.0,$750000.0,"$50,000 (Feb 6)",https://www.zillow.com/homedetails/17075-Swamp-Rd-E-Prairieville-LA-70769/82309743_zpid/
+216 Stormy Ln,Monroe,LA,71203,32.562733,-91.97897,3.0,$49900.0,3D Tour,https://www.zillow.com/homedetails/216-Stormy-Ln-Monroe-LA-71203/2061889799_zpid/
+1507 Kathy St,Alexandria,LA,71303,31.342058,-92.51248,3.0,$59000.0,116 days on Zillow,https://www.zillow.com/homedetails/1507-Kathy-St-Alexandria-LA-71303/77706454_zpid/
+9102 Blom Blvd,Shreveport,LA,71118,32.404346,-93.78986,4.0,$0.0,41 days on Zillow,https://www.zillow.com/homedetails/9102-Blom-Blvd-Shreveport-LA-71118/51323548_zpid/
+Bibby Rd LOT WP01,Marion,LA,71260,32.984715,-92.157585,,$326105.0,378 days on Zillow,https://www.zillow.com/homedetails/Bibby-Rd-LOT-WP01-Marion-LA-71260/2066510856_zpid/
+35039 Paul Le Blanc Ln,Donaldsonville,LA,70346,30.145136,-91.023705,3.0,$39200.0,78 days on Zillow,https://www.zillow.com/homedetails/35039-Paul-Le-Blanc-Ln-Donaldsonville-LA-70346/1447867_zpid/
+2019 Saint Joseph Ave,Lake Charles,LA,70601,30.212149,-93.23955,,$80000.0,13 days on Zillow,https://www.zillow.com/homedetails/2019-Saint-Joseph-Ave-Lake-Charles-LA-70601/248895124_zpid/
+23085 Riverbank St,Vacherie,LA,70090,29.94397,-90.70537,4.0,$290075.0,Open: M: 9:00 AM-5:00 P...,https://www.zillow.com/homedetails/23085-Riverbank-St-Vacherie-LA-70090/2059523293_zpid/
+108 Sorrell Rd #1,Jeanerette,LA,70544,29.889,-91.6138,2.0,$22000.0,224 days on Zillow,https://www.zillow.com/homedetails/108-Sorrell-Rd-1-Jeanerette-LA-70544/2066875384_zpid/
+130 S Louisiana Ave,Montegut,LA,70377,29.47588,-90.55336,,$15500.0,84 days on Zillow,https://www.zillow.com/homedetails/130-S-Louisiana-Ave-Montegut-LA-70377/213693541_zpid/
+1809 Dale St,Morgan City,LA,70380,29.626368,-91.14857,3.0,$194000.0,14 days on Zillow,https://www.zillow.com/homedetails/1809-Dale-St-Morgan-City-LA-70380/226443664_zpid/
+423 Andrew Dr,Church Pt,LA,70525,30.387276,-92.24921,3.0,$55000.0,42 days on Zillow,https://www.zillow.com/homedetails/423-Andrew-Dr-Church-Pt-LA-70525/105977688_zpid/
+1651 Savanne Rd,Houma,LA,70360,29.611753,-90.8054,,$149900.0,45 days on Zillow,https://www.zillow.com/homedetails/1651-Savanne-Rd-Houma-LA-70360/2073916502_zpid/
+512 Oleander St,La Place,LA,70068,30.067688,-90.487404,4.0,$0.0,36 days on Zillow,https://www.zillow.com/homedetails/512-Oleander-St-La-Place-LA-70068/106118518_zpid/
+1286 Norris Rd,Oakdale,LA,71463,30.793465,-92.66661,,$0.0,36 days on Zillow,https://www.zillow.com/homedetails/1286-Norris-Rd-Oakdale-LA-71463/236316430_zpid/
+39346 Oaklyn Dr,Ponchatoula,LA,70454,30.377424,-90.39195,4.0,$339000.0,41 days on Zillow,https://www.zillow.com/homedetails/39346-Oaklyn-Dr-Ponchatoula-LA-70454/77746180_zpid/
+39500 Highway 23,Buras,LA,70041,29.351357,-89.49399,3.0,$129000.0,76 days on Zillow,https://www.zillow.com/homedetails/39500-Highway-23-Buras-LA-70041/248498542_zpid/
+Ray Ln,Breaux Bridge,LA,70517,30.349537,-91.795784,,$35000.0,15 days on Zillow,https://www.zillow.com/homedetails/Ray-Ln-Breaux-Bridge-LA-70517/2059489146_zpid/
+Shady Ln,Westlake,LA,70669,30.257132,-93.26687,,$65000.0,83 days on Zillow,https://www.zillow.com/homedetails/Shady-Ln-Westlake-LA-70669/317301937_zpid/
+12281 Providence Road Ext,Keithville,LA,71047,32.303143,-93.983345,4.0,$66100.0,78 days on Zillow,https://www.zillow.com/homedetails/12281-Providence-Road-Ext-Keithville-LA-71047/2060510646_zpid/
+Highway 531,Dubberly,LA,71024,32.551056,-93.246346,,$0.0,7 days on Zillow,https://www.zillow.com/homedetails/Highway-531-Dubberly-LA-71024/2059250080_zpid/
+207 Latin Dr,Lafayette,LA,70507,30.289476,-92.09819,3.0,$155000.0,62 days on Zillow,https://www.zillow.com/homedetails/207-Latin-Dr-Lafayette-LA-70507/123433319_zpid/
+2906 Highway 1,Labadieville,LA,70372,29.849846,-90.96426,3.0,$0.0,209 days on Zillow,https://www.zillow.com/homedetails/2906-Highway-1-Labadieville-LA-70372/121777956_zpid/
+233 Orangewood Dr,Lafayette,LA,70503,30.176357,-92.06757,4.0,$0.0,43 days on Zillow,https://www.zillow.com/homedetails/233-Orangewood-Dr-Lafayette-LA-70503/126792605_zpid/
+LOT 1 Choctaw Rd,Brusly,LA,70719,30.387684,-91.30267,,$250000.0,30 days on Zillow,https://www.zillow.com/homedetails/LOT-1-Choctaw-Rd-Brusly-LA-70719/2069494719_zpid/
+LOT 2 Choctaw Rd,Brusly,LA,70719,30.387873,-91.30195,,$250000.0,30 days on Zillow,https://www.zillow.com/homedetails/LOT-2-Choctaw-Rd-Brusly-LA-70719/2069494720_zpid/
+101 S Boudreaux St,Montegut,LA,70377,29.495054,-90.5527,4.0,$0.0,22 days on Zillow,https://www.zillow.com/homedetails/101-S-Boudreaux-St-Montegut-LA-70377/77764853_zpid/
+7400-7402 W Laverne St,New Orleans,LA,70126,30.027754,-90.023506,6.0,$300000.0,76 days on Zillow,https://www.zillow.com/homedetails/7400-7402-W-Laverne-St-New-Orleans-LA-70126/2060484810_zpid/
+2520 Deas St,Bossier City,LA,71111,32.550552,-93.71926,3.0,$0.0,8 days on Zillow,https://www.zillow.com/homedetails/2520-Deas-St-Bossier-City-LA-71111/109790746_zpid/
+1620 Cambridge Dr,La Place,LA,70068,30.078339,-90.479965,4.0,$0.0,22 days on Zillow,https://www.zillow.com/homedetails/1620-Cambridge-Dr-La-Place-LA-70068/106118444_zpid/
+1305 S Holly St,Hammond,LA,70401,30.517971,-90.45949,4.0,$350000.0,295 days on Zillow,https://www.zillow.com/homedetails/1305-S-Holly-St-Hammond-LA-70401/2063448684_zpid/
+Hey #773,Trout,LA,71371,31.6189,-92.20531,,$49500.0,34 days on Zillow,https://www.zillow.com/homedetails/Hey-773-Trout-LA-71371/2060003114_zpid/
+2713-2717 Highway 1,Labadieville,LA,70372,29.791002,-90.98525,0.0,$180000.0,36 days on Zillow,https://www.zillow.com/homedetails/2713-2717-Highway-1-Labadieville-LA-70372/2060118104_zpid/
+504 Emancipation Dr,Broussard,LA,70518,30.162628,-91.94451,3.0,$0.0,43 days on Zillow,https://www.zillow.com/homedetails/504-Emancipation-Dr-Broussard-LA-70518/77682755_zpid/
+24016 Bella Casa Ln,Husser,LA,70442,30.692137,-90.35426,,$69500.0,269 days on Zillow,https://www.zillow.com/homedetails/24016-Bella-Casa-Ln-Husser-LA-70442/2090658548_zpid/
+343 Caddo Ave,Benton,LA,71006,32.70128,-93.74247,3.0,$0.0,22 days on Zillow,https://www.zillow.com/homedetails/343-Caddo-Ave-Benton-LA-71006/109814978_zpid/
+802 Slattery Blvd,Shreveport,LA,71104,32.472645,-93.74627,3.0,$0.0,22 days on Zillow,https://www.zillow.com/homedetails/802-Slattery-Blvd-Shreveport-LA-71104/51358110_zpid/
+41191 Remington Dr,Sorrento,LA,70778,30.155968,-90.91257,4.0,$0.0,43 days on Zillow,https://www.zillow.com/homedetails/41191-Remington-Dr-Sorrento-LA-70778/81892622_zpid/
+1520 California St,Lake Charles,LA,70607,30.192265,-93.19807,,$22500.0,173 days on Zillow,https://www.zillow.com/homedetails/1520-California-St-Lake-Charles-LA-70607/242839435_zpid/
+Highway 124 LOT 2,Jonesville,LA,71343,31.69903,-91.83439,,$206064.0,89 days on Zillow,https://www.zillow.com/homedetails/Highway-124-LOT-2-Jonesville-LA-71343/2060632943_zpid/
+1020 The Lake Dr LOT 24,Broussard,LA,70518,30.084503,-91.94275,,$75500.0,15 days on Zillow,https://www.zillow.com/homedetails/1020-The-Lake-Dr-LOT-24-Broussard-LA-70518/2059472648_zpid/
+402 Goss Rd,Westlake,LA,70669,30.268263,-93.25003,3.0,$88900.0,59 days on Zillow,https://www.zillow.com/homedetails/402-Goss-Rd-Westlake-LA-70669/91779024_zpid/
+2112 Longwood Dr,La Place,LA,70068,30.087141,-90.49021,3.0,$0.0,15 days on Zillow,https://www.zillow.com/homedetails/2112-Longwood-Dr-La-Place-LA-70068/106115363_zpid/
+375 Pine Hills Dr,Calhoun,LA,71225,32.518005,-92.308334,4.0,$0.0,8 days on Zillow,https://www.zillow.com/homedetails/375-Pine-Hills-Dr-Calhoun-LA-71225/92505029_zpid/
+2121 Colonial Dr,La Place,LA,70068,30.091385,-90.49368,4.0,$0.0,22 days on Zillow,https://www.zillow.com/homedetails/2121-Colonial-Dr-La-Place-LA-70068/106115694_zpid/
+12941 Carrington Place Ave,Baton Rouge,LA,70817,30.407413,-91.035545,3.0,$0.0,29 days on Zillow,https://www.zillow.com/homedetails/12941-Carrington-Place-Ave-Baton-Rouge-LA-70817/66265568_zpid/
+6827 Sun Meadow Ln,Lake Charles,LA,70605,30.140026,-93.25556,4.0,$0.0,29 days on Zillow,https://www.zillow.com/homedetails/6827-Sun-Meadow-Ln-Lake-Charles-LA-70605/77613009_zpid/
+La McFatter Road Lot 13,Ragley,LA,70657,30.498434,-93.14683,,$75500.0,138 days on Zillow,https://www.zillow.com/homedetails/La-McFatter-Road-Lot-13-Ragley-LA-70657/2065624989_zpid/
+868 N 10th St,Pt Allen,LA,70767,30.46052,-91.21193,3.0,$215710.0,Open: Mon - Sunday By A...,https://www.zillow.com/homedetails/868-N-10th-St-Pt-Allen-LA-70767/2061215089_zpid/
+263 Sala Ave,Westwego,LA,70094,29.914452,-90.14304,3.0,$0.0,36 days on Zillow,https://www.zillow.com/homedetails/263-Sala-Ave-Westwego-LA-70094/296386476_zpid/
+213 Spurgeon Ln,Leesville,LA,71446,31.16803,-93.156624,3.0,$0.0,15 days on Zillow,https://www.zillow.com/homedetails/213-Spurgeon-Ln-Leesville-LA-71446/77778079_zpid/
+281 Paisley Pkwy,Sulphur,LA,70665,30.20393,-93.36909,4.0,$239500.0,Open: M: 10:00 AM-6:00 ...,https://www.zillow.com/homedetails/281-Paisley-Pkwy-Sulphur-LA-70665/2059469037_zpid/
+207 Codifer Blvd,Metairie,LA,70005,29.988298,-90.14016,3.0,$733000.0,59 days on Zillow,https://www.zillow.com/homedetails/207-Codifer-Blvd-Metairie-LA-70005/103924302_zpid/
+190 Tbd Hwy,Opelousas,LA,70570,,,0.0,$30000.0,35 days on Zillow,https://www.zillow.com/homedetails/190-Tbd-Hwy-Opelousas-LA-70570/2060103649_zpid/
+23105 Riverbank St,Vacherie,LA,70090,29.94397,-90.70537,3.0,$281710.0,Open: M: 9:00 AM-5:00 P...,https://www.zillow.com/homedetails/23105-Riverbank-St-Vacherie-LA-70090/2059523291_zpid/
+17599 Feather Ridge Dr,Prairieville,LA,70769,30.330622,-90.90458,4.0,$0.0,15 days on Zillow,https://www.zillow.com/homedetails/17599-Feather-Ridge-Dr-Prairieville-LA-70769/123621799_zpid/
+1335 Kenny Dr #A-K,Westwego,LA,70094,29.890108,-90.137436,3.0,$0.0,41 days on Zillow,https://www.zillow.com/homedetails/1335-Kenny-Dr-A-K-Westwego-LA-70094/2061681837_zpid/
+0 Cypress Bayou Ln,Lacombe,LA,70445,30.29209,-89.92062,,$90000.0,6 days on Zillow,https://www.zillow.com/homedetails/0-Cypress-Bayou-Ln-Lacombe-LA-70445/2062382800_zpid/
+432 Maple Loop,La Place,LA,70068,30.064861,-90.491646,3.0,$0.0,15 days on Zillow,https://www.zillow.com/homedetails/432-Maple-Loop-La-Place-LA-70068/106116147_zpid/
+103 John Hare Rd,Monroe,LA,71203,32.568974,-91.993034,3.0,$0.0,22 days on Zillow,https://www.zillow.com/homedetails/103-John-Hare-Rd-Monroe-LA-71203/92496575_zpid/
+20132 Highway 1062,Loranger,LA,70446,30.649328,-90.39384,,$80000.0,61 days on Zillow,https://www.zillow.com/homedetails/20132-Highway-1062-Loranger-LA-70446/77739389_zpid/
+Hancock Haven Rd,Chatham,LA,71226,32.269783,-92.539795,,$105000.0,21 days on Zillow,https://www.zillow.com/homedetails/Hancock-Haven-Rd-Chatham-LA-71226/2059748772_zpid/
+606 Little Corner Rd,Hessmer,LA,71341,31.071222,-92.13765,3.0,$0.0,124 days on Zillow,https://www.zillow.com/homedetails/606-Little-Corner-Rd-Hessmer-LA-71341/106007998_zpid/
+277 Paisley Pkwy,Sulphur,LA,70665,30.20393,-93.36909,3.0,$229500.0,Open: M: 10:00 AM-6:00 ...,https://www.zillow.com/homedetails/277-Paisley-Pkwy-Sulphur-LA-70665/2059465735_zpid/
+2612 4th St,Lake charles,LA,70615,30.222372,-93.179924,3.0,$0.0,4 days on Zillow,https://www.zillow.com/homedetails/2612-4th-St-Lake-Charles-LA-70615/242810845_zpid/
+Trap St,Abita springs,LA,70420,30.49373,-89.95408,0.0,$10000.0,8 days on Zillow,https://www.zillow.com/homedetails/Trap-St-Abita-Springs-LA-70420/96149752_zpid/
+24051 Sparrow Ln,Loranger,LA,70446,30.57517,-90.327354,,$29500.0,174 days on Zillow,https://www.zillow.com/homedetails/24051-Sparrow-Ln-Loranger-LA-70446/2061717842_zpid/
+3217-19 Cadiz St,New Orleans,LA,70125,29.9468,-90.1065,4.0,$369000.0,33 days on Zillow,https://www.zillow.com/homedetails/3217-19-Cadiz-St-New-Orleans-LA-70125/2059987246_zpid/
+2904 Moss Ln,Violet,LA,70092,29.910488,-89.89323,3.0,$0.0,22 days on Zillow,https://www.zillow.com/homedetails/2904-Moss-Ln-Violet-LA-70092/115181172_zpid/
+354 Dub Hearn Rd,Farmerville,LA,71241,32.77001,-92.32088,3.0,$96500.0,78 days on Zillow,https://www.zillow.com/homedetails/354-Dub-Hearn-Rd-Farmerville-LA-71241/115219677_zpid/
+625 W Lagrange St,Lake charles,LA,70605,30.194098,-93.22968,3.0,$0.0,55 days on Zillow,https://www.zillow.com/homedetails/625-W-Lagrange-St-Lake-Charles-LA-70605/77597723_zpid/
+258 Fir St,La Place,LA,70068,30.062984,-90.49865,3.0,$0.0,36 days on Zillow,https://www.zillow.com/homedetails/258-Fir-St-La-Place-LA-70068/106116185_zpid/
+3812 Sandra Ln,Lake Charles,LA,70605,30.187721,-93.2509,4.0,$0.0,8 days on Zillow,https://www.zillow.com/homedetails/3812-Sandra-Ln-Lake-Charles-LA-70605/77595078_zpid/
+LOT 325 Woodland West Dr,Lacombe,LA,70445,30.32585,-89.89477,0.0,$54900.0,"$4,100 (Dec 23)",https://www.zillow.com/homedetails/LOT-325-Woodland-West-Dr-Lacombe-LA-70445/2061909033_zpid/
+Gulde Rd,Trout,LA,71371,31.628513,-92.209526,,$85000.0,34 days on Zillow,https://www.zillow.com/homedetails/Gulde-Rd-Trout-LA-71371/2060005367_zpid/
+209 Latin Dr,Lafayette,LA,70507,30.289698,-92.09819,3.0,$155000.0,62 days on Zillow,https://www.zillow.com/homedetails/209-Latin-Dr-Lafayette-LA-70507/123431833_zpid/
+Jasmine Rd,Kaplan,LA,70548,29.982498,-92.218056,,$70000.0,33 days on Zillow,https://www.zillow.com/homedetails/Jasmine-Rd-Kaplan-LA-70548/2059989485_zpid/
+183 Bazile Dr,Braithwaite,LA,70040,29.871447,-89.96593,4.0,$0.0,43 days on Zillow,https://www.zillow.com/homedetails/183-Bazile-Dr-Braithwaite-LA-70040/115161286_zpid/
+111 N Eagle Dr,Houma,LA,70364,29.638166,-90.7439,,$45000.0,22 days on Zillow,https://www.zillow.com/homedetails/111-N-Eagle-Dr-Houma-LA-70364/2095552774_zpid/
+207 E 5th St,Crowley,LA,70526,30.214188,-92.37188,3.0,$230000.0,34 days on Zillow,https://www.zillow.com/homedetails/207-E-5th-St-Crowley-LA-70526/2060002525_zpid/
+18117 Old Trail Dr,Prairieville,LA,70769,30.33094,-90.957436,4.0,$0.0,15 days on Zillow,https://www.zillow.com/homedetails/18117-Old-Trail-Dr-Prairieville-LA-70769/246856144_zpid/
+1211 Kellison Ln,Sulphur,LA,70663,30.228474,-93.310844,,$0.0,26 days on Zillow,https://www.zillow.com/homedetails/1211-Kellison-Ln-Sulphur-LA-70663/77610374_zpid/
+0 Kristi Ln,Albany,LA,70711,30.552116,-90.71273,,$394615.0,116 days on Zillow,https://www.zillow.com/homedetails/0-Kristi-Ln-Albany-LA-70711/2060898514_zpid/
+202 Chumney Ln LOT 17,Monroe,LA,71203,32.5447,-91.96836,,$45000.0,"$3,000 (Jan 4)",https://www.zillow.com/homedetails/202-Chumney-Ln-LOT-17-Monroe-LA-71203/2061604694_zpid/
+24 Lakewood Estates Dr,New Orleans,LA,70131,29.904566,-90.00674,4.0,$0.0,21 days on Zillow,https://www.zillow.com/homedetails/24-Lakewood-Estates-Dr-New-Orleans-LA-70131/73831134_zpid/
+309 Long Hill Dr,Sulphur,LA,70665,30.204248,-93.37124,3.0,$0.0,8 days on Zillow,https://www.zillow.com/homedetails/309-Long-Hill-Dr-Sulphur-LA-70665/248902533_zpid/
+2187 E Gauthier Rd TRAILER 438,Lake Charles,LA,70607,30.13592,-93.184975,3.0,$84900.0,91 days on Zillow,https://www.zillow.com/homedetails/2187-E-Gauthier-Rd-TRAILER-438-Lake-Charles-LA-70607/2060641841_zpid/
+129 W 137th St,Cut Off,LA,70345,29.453442,-90.3068,2.0,$0.0,57 days on Zillow,https://www.zillow.com/homedetails/129-W-137th-St-Cut-Off-LA-70345/119419464_zpid/
+3707 Yale St,Lake Charles,LA,70607,30.190332,-93.20633,3.0,$0.0,160 days on Zillow,https://www.zillow.com/homedetails/3707-Yale-St-Lake-Charles-LA-70607/81665945_zpid/
+164 Green Trails Dr,Belle Chasse,LA,70037,29.887733,-89.98619,,$142500.0,112 days on Zillow,https://www.zillow.com/homedetails/164-Green-Trails-Dr-Belle-Chasse-LA-70037/317195058_zpid/
+10202 E Highway 936,Saint Amant,LA,70774,30.216503,-90.820045,4.0,$203000.0,217 days on Zillow,https://www.zillow.com/homedetails/10202-E-Highway-936-Saint-Amant-LA-70774/82308556_zpid/
+4213-15 Dhemecourt St,New Orleans,LA,70119,29.967888,-90.10105,4.0,$219000.0,103 days on Zillow,https://www.zillow.com/homedetails/4213-15-Dhemecourt-St-New-Orleans-LA-70119/2067600203_zpid/
+208 Braquet Rd,Carencro,LA,70520,30.33871,-92.05771,3.0,$225000.0,14 days on Zillow,https://www.zillow.com/homedetails/208-Braquet-Rd-Carencro-LA-70520/77674482_zpid/
+1015 Rankin Ave,Cottonwood,AZ,86326,32.436016,-93.884766,3.0,$229900.0,Open: M: 8:00 AM-5:00 P...,https://www.zillow.com/homedetails/1015-Rankin-Ave-Cottonwood-AZ-86326/2059540695_zpid/
+1585 Leonard Chapel Rd LOT WP001,Independence,LA,70443,30.686205,-90.578354,,$278000.0,62 days on Zillow,https://www.zillow.com/homedetails/1585-Leonard-Chapel-Rd-LOT-WP001-Independence-LA-70443/2060346944_zpid/
+419 Dennis Clark Rd,Winnsboro,LA,71295,32.01404,-91.74396,2.0,$200000.0,154 days on Zillow,https://www.zillow.com/homedetails/419-Dennis-Clark-Rd-Winnsboro-LA-71295/2061500279_zpid/
+2032 11th St,Lake Charles,LA,70601,30.214312,-93.19121,3.0,$0.0,34 days on Zillow,https://www.zillow.com/homedetails/2032-11th-St-Lake-Charles-LA-70601/81674289_zpid/
+4314 South Hwy #27-107,Sulphur,LA,70665,30.185658,-93.37911,3.0,$79900.0,76 days on Zillow,https://www.zillow.com/homedetails/4314-South-Hwy-27-107-Sulphur-LA-70665/2060485877_zpid/
+2203 S Savannah Ln,Lake Charles,LA,70605,30.09345,-93.18958,5.0,$300900.0,Open: M: 10:00 AM-6:00 ...,https://www.zillow.com/homedetails/2203-S-Savannah-Ln-Lake-Charles-LA-70605/2066093767_zpid/
+182 Rosethorn Ln,Grand Isle,LA,70358,29.222225,-90.0185,,$180000.0,45 days on Zillow,https://www.zillow.com/homedetails/182-Rosethorn-Ln-Grand-Isle-LA-70358/2070320102_zpid/
+LOT 12 Sierra Ridge Ct,Madisonville,LA,70447,30.41888,-90.19488,,$85000.0,26 days on Zillow,https://www.zillow.com/homedetails/LOT-12-Sierra-Ridge-Ct-Madisonville-LA-70447/2066797288_zpid/
+23317 Cypress Cv,Springfield,LA,70462,30.408354,-90.5814,5.0,$489492.0,19 days on Zillow,https://www.zillow.com/homedetails/23317-Cypress-Cv-Springfield-LA-70462/249352634_zpid/
+822 Shady Ln,Westlake,LA,70669,30.257162,-93.25617,4.0,$0.0,5 days on Zillow,https://www.zillow.com/homedetails/822-Shady-Ln-Westlake-LA-70669/81668644_zpid/
+114 Northern Oak Dr,Lafayette,LA,70507,30.28707,-92.01492,4.0,$284000.0,Open: Daily By Appointm...,https://www.zillow.com/homedetails/114-Northern-Oak-Dr-Lafayette-LA-70507/2066837932_zpid/
+4314 South Hwy #27-17,Sulphur,LA,70665,30.185436,-93.37969,3.0,$74900.0,85 days on Zillow,https://www.zillow.com/homedetails/4314-South-Hwy-27-17-Sulphur-LA-70665/2060612754_zpid/
+1010 George Touchet Rd,Breaux Bridge,LA,70517,30.265863,-91.82692,,$30000.0,212 days on Zillow,https://www.zillow.com/homedetails/1010-George-Touchet-Rd-Breaux-Bridge-LA-70517/106162633_zpid/
+6039 Braeburn Ct,Bossier City,LA,71111,32.568058,-93.63497,3.0,$0.0,43 days on Zillow,https://www.zillow.com/homedetails/6039-Braeburn-Ct-Bossier-City-LA-71111/109834356_zpid/
+1044-44 Avenue D,Westwego,LA,70094,29.89846,-90.14702,3.0,$250000.0,190 days on Zillow,https://www.zillow.com/homedetails/1044-44-Avenue-D-Westwego-LA-70094/2061914271_zpid/
+7978 Teal Glen Dr,Mooringsport,LA,71060,32.69541,-93.92938,3.0,$22900.0,8 days on Zillow,https://www.zillow.com/homedetails/7978-Teal-Glen-Dr-Mooringsport-LA-71060/87947554_zpid/
+43112 Holder Ln,Hammond,LA,70403,30.481049,-90.550674,0.0,$150000.0,51 days on Zillow,https://www.zillow.com/homedetails/43112-Holder-Ln-Hammond-LA-70403/2060271387_zpid/
+13664030,Lake Charles,LA,70611,30.320436,-93.18234,,$50500.0,"$6,000 (Dec 4)",https://www.zillow.com/homedetails/13664030-Lake-Charles-LA-70611/2060798922_zpid/
+311 S Central Blvd,Chauvin,LA,70344,29.513193,-90.5959,4.0,$0.0,22 days on Zillow,https://www.zillow.com/homedetails/311-S-Central-Blvd-Chauvin-LA-70344/77762294_zpid/
+Guillory St,Westlake,LA,70669,30.25687,-93.26666,,$65000.0,"$2,000 (Jan 14)",https://www.zillow.com/homedetails/Guillory-St-Westlake-LA-70669/2099580853_zpid/
+58120 Canal St,Plaquemine,LA,70764,30.280481,-91.23295,4.0,$0.0,15 days on Zillow,https://www.zillow.com/homedetails/58120-Canal-St-Plaquemine-LA-70764/115135343_zpid/
+1113 Louisiana Ave,Minden,LA,71055,32.628815,-93.270454,3.0,$0.0,19 days on Zillow,https://www.zillow.com/homedetails/1113-Louisiana-Ave-Minden-LA-71055/106204009_zpid/
+2766 Elmhurst St,Shreveport,LA,71108,32.443867,-93.78388,2.0,$0.0,8 days on Zillow,https://www.zillow.com/homedetails/2766-Elmhurst-St-Shreveport-LA-71108/51366851_zpid/
+1488 Highway 550,Marion,LA,71277,32.97192,-92.48965,0.0,$541000.0,108 days on Zillow,https://www.zillow.com/homedetails/1488-Highway-550-Marion-LA-71277/115225311_zpid/
+5712 Bay Oaks Dr,Monroe,LA,71203,32.531326,-92.049,3.0,$0.0,15 days on Zillow,https://www.zillow.com/homedetails/5712-Bay-Oaks-Dr-Monroe-LA-71203/92472271_zpid/
+1715 Highland Dr,New Iberia,LA,70560,30.05192,-91.91302,4.0,$237500.0,Open: M: 10:00 AM-6:00 ...,https://www.zillow.com/homedetails/1715-Highland-Dr-New-Iberia-LA-70560/2059757126_zpid/
+2970 Yorktown Dr,Baton Rouge,LA,70808,30.416183,-91.133736,4.0,$0.0,29 days on Zillow,https://www.zillow.com/homedetails/2970-Yorktown-Dr-Baton-Rouge-LA-70808/66284316_zpid/
+2187 E Gauthier Rd #611,Lake Charles,LA,70607,30.133198,-93.1849,3.0,$74900.0,91 days on Zillow,https://www.zillow.com/homedetails/2187-E-Gauthier-Rd-611-Lake-Charles-LA-70607/2060641834_zpid/
+2325 Highway 594,Monroe,LA,71203,32.54789,-91.99168,4.0,$0.0,43 days on Zillow,https://www.zillow.com/homedetails/2325-Highway-594-Monroe-LA-71203/92486694_zpid/
+W Beech Rd,Kaplan,LA,70548,29.974329,-92.3664,,$210000.0,281 days on Zillow,https://www.zillow.com/homedetails/W-Beech-Rd-Kaplan-LA-70548/2082754600_zpid/
+213 Lake Crescent Cir,Houma,LA,70360,29.616865,-90.787704,3.0,$0.0,6 days on Zillow,https://www.zillow.com/homedetails/213-Lake-Crescent-Cir-Houma-LA-70360/77775376_zpid/
+2236 Barbe St,Lake Charles,LA,70601,30.208998,-93.23727,,$35000.0,"$1,000 (Nov 29)",https://www.zillow.com/homedetails/2236-Barbe-St-Lake-Charles-LA-70601/2079040612_zpid/
+1717 Highland Dr,New Iberia,LA,70560,30.05192,-91.91302,4.0,$244500.0,Open: M: 10:00 AM-6:00 ...,https://www.zillow.com/homedetails/1717-Highland-Dr-New-Iberia-LA-70560/2059757125_zpid/
+State Highway 3127,Hahnville,LA,70057,29.99,-90.5,,$3293000.0,6 days on Zillow,https://www.zillow.com/homedetails/State-Highway-3127-Hahnville-LA-70057/2059210916_zpid/
+Highway 120 LOT WP001,Many,LA,71449,31.713,-93.435,,$130000.0,52 days on Zillow,https://www.zillow.com/homedetails/Highway-120-LOT-WP001-Many-LA-71449/2060278735_zpid/
+4622 Allen St,New Orleans,LA,70122,30.005154,-90.06708,,$69000.0,9 days on Zillow,https://www.zillow.com/homedetails/4622-Allen-St-New-Orleans-LA-70122/148986334_zpid/
+3657 E Cabella Rd,Sulphur,LA,70665,30.19953,-93.41057,,$57000.0,"$3,000 (Dec 23)",https://www.zillow.com/homedetails/3657-E-Cabella-Rd-Sulphur-LA-70665/2069148868_zpid/
+4134 Emily Dr,Port Allen,LA,70767,30.415579,-91.267426,0.0,$78000.0,"$7,000 (Jan 5)",https://www.zillow.com/homedetails/4134-Emily-Dr-Port-Allen-LA-70767/232952711_zpid/
+35440 Highway 1 N,Donaldsonville,LA,70346,30.10865,-91.009735,3.0,$0.0,17 days on Zillow,https://www.zillow.com/homedetails/35440-Highway-1-N-Donaldsonville-LA-70346/1447989_zpid/
+2160 Prairie Hayes Rd,Branch,LA,70516,30.383577,-92.320984,,$0.0,61 days on Zillow,https://www.zillow.com/homedetails/2160-Prairie-Hayes-Rd-Branch-LA-70516/105979961_zpid/
+74 Ball Powell St,Alexandria,LA,71301,31.30754,-92.46378,2.0,$0.0,15 days on Zillow,https://www.zillow.com/homedetails/74-Ball-Powell-St-Alexandria-LA-71301/77703349_zpid/
+30728 Akers Way,Lacombe,LA,70445,30.3763,-89.90377,3.0,$268300.0,Open: M: 9:00 AM-5:00 P...,https://www.zillow.com/homedetails/30728-Akers-Way-Lacombe-LA-70445/2060451356_zpid/
+245 Leah Dr,Mandeville,LA,70448,30.376064,-90.07719,4.0,$0.0,36 days on Zillow,https://www.zillow.com/homedetails/245-Leah-Dr-Mandeville-LA-70448/96138955_zpid/
+39 Eveland Ave,Sulphur,LA,70663,30.230143,-93.312546,3.0,$0.0,36 days on Zillow,https://www.zillow.com/homedetails/39-Eveland-Ave-Sulphur-LA-70663/77610196_zpid/
+2431 Hudson Pl,New Orleans,LA,70131,29.929285,-89.99914,4.0,$0.0,5 days on Zillow,https://www.zillow.com/homedetails/2431-Hudson-Pl-New-Orleans-LA-70131/73827161_zpid/
+164 Zach Ln,Eros,LA,71238,32.43658,-92.33456,4.0,$0.0,134 days on Zillow,https://www.zillow.com/homedetails/164-Zach-Ln-Eros-LA-71238/92481031_zpid/
+Mount Union Rd LOT WP001,Marion,LA,71260,32.93,-92.283,,$81400.0,13 days on Zillow,https://www.zillow.com/homedetails/Mount-Union-Rd-LOT-WP001-Marion-LA-71260/2059428249_zpid/
+607 Candle Glow Dr,New Iberia,LA,70563,29.99643,-91.754715,3.0,$0.0,71 days on Zillow,https://www.zillow.com/homedetails/607-Candle-Glow-Dr-New-Iberia-LA-70563/77627142_zpid/
+602 W Moore Ave,Vivian,LA,71082,32.878647,-93.99042,3.0,$55000.0,217 days on Zillow,https://www.zillow.com/homedetails/602-W-Moore-Ave-Vivian-LA-71082/51395579_zpid/
+12362 Hooper Rd,Baton Rouge,LA,70818,30.54828,-91.05455,0.0,$229000.0,46 days on Zillow,https://www.zillow.com/homedetails/12362-Hooper-Rd-Baton-Rouge-LA-70818/66357118_zpid/
+2187 E Gauthier Rd TRAILER 571,Lake Charles,LA,70607,30.13269,-93.186455,3.0,$79900.0,98 days on Zillow,https://www.zillow.com/homedetails/2187-E-Gauthier-Rd-TRAILER-571-Lake-Charles-LA-70607/2060704484_zpid/
+1002 31st St,Kenner,LA,70065,30.03047,-90.26906,,$87000.0,20 days on Zillow,https://www.zillow.com/homedetails/1002-31st-St-Kenner-LA-70065/73762348_zpid/
+1019 N Pierce St,Lafayette,LA,70501,30.242758,-91.98954,,$14900.0,10 days on Zillow,https://www.zillow.com/homedetails/1019-N-Pierce-St-Lafayette-LA-70501/123431614_zpid/
+Whippoorwill 2 Subdivision LOT 31,Stonewall,LA,71078,32.326332,-93.75304,,$20000.0,17 days on Zillow,https://www.zillow.com/homedetails/Whippoorwill-2-Subdivision-LOT-31-Stonewall-LA-71078/2059520649_zpid/
+195 Grande Rue,Church Pt,LA,70525,30.299955,-92.19264,3.0,$220600.0,Open: WE WILL RESUME MA...,https://www.zillow.com/homedetails/195-Grande-Rue-Church-Pt-LA-70525/2062661081_zpid/
+Main Hwy LOT WP001,Arnaudville,LA,70512,30.35039,-91.80368,,$195000.0,"$40,900 (Jan 31)",https://www.zillow.com/homedetails/Main-Hwy-LOT-WP001-Arnaudville-LA-70512/2064118475_zpid/
+204 Lakeview Dr,Doyline,LA,71023,32.43189,-93.39092,3.0,$0.0,36 days on Zillow,https://www.zillow.com/homedetails/204-Lakeview-Dr-Doyline-LA-71023/106213803_zpid/
+30253 Deaux Run,Albany,LA,70711,30.527788,-90.58229,3.0,$0.0,8 days on Zillow,https://www.zillow.com/homedetails/30253-Deaux-Run-Albany-LA-70711/249353260_zpid/
+60 Robert Rd,Waggaman,LA,70094,29.957409,-90.2391,3.0,$0.0,211 days on Zillow,https://www.zillow.com/homedetails/60-Robert-Rd-Waggaman-LA-70094/73716304_zpid/
+617 Brule Guillot Rd,Thibodaux,LA,70301,29.792288,-90.88391,,$60000.0,47 days on Zillow,https://www.zillow.com/homedetails/617-Brule-Guillot-Rd-Thibodaux-LA-70301/248415626_zpid/
+631 Gardenia St,La Place,LA,70068,30.147532,-90.432144,3.0,$119000.0,15 days on Zillow,https://www.zillow.com/homedetails/631-Gardenia-St-La-Place-LA-70068/2059774376_zpid/
+218 Stormy Ln,Monroe,LA,71203,32.56379,-91.9806,3.0,$69900.0,188 days on Zillow,https://www.zillow.com/homedetails/218-Stormy-Ln-Monroe-LA-71203/2061874095_zpid/
+279 Grande Rue,Church Pt,LA,70525,30.299946,-92.19269,3.0,$220600.0,Open: WE WILL RESUME MA...,https://www.zillow.com/homedetails/279-Grande-Rue-Church-Pt-LA-70525/2062661082_zpid/
+4919 Wall Ln,Pineville,LA,71405,31.39123,-92.42216,3.0,$0.0,43 days on Zillow,https://www.zillow.com/homedetails/4919-Wall-Ln-Pineville-LA-71405/112215709_zpid/

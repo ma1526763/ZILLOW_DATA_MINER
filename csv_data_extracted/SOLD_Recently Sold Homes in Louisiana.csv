@@ -1,0 +1,801 @@
+street_address,city,state,zipCode,latitude,longitude,beds,sold_price,sold_date,property_link
+9308 Pine Grove St,Shreveport,LA,71118,32.39757,-93.775856,3.0,,Sold 02/21/2023,https://www.zillow.com/homedetails/9308-Pine-Grove-St-Shreveport-LA-71118/51328613_zpid/
+843 Martha Ln,Shreveport,LA,71104,32.48595,-93.71593,2.0,,Sold 02/21/2023,https://www.zillow.com/homedetails/843-Martha-Ln-Shreveport-LA-71104/51337790_zpid/
+6165 Buncombe Rd,Shreveport,LA,71129,32.42884,-93.86494,3.0,,Sold 02/21/2023,https://www.zillow.com/homedetails/6165-Buncombe-Rd-Shreveport-LA-71129/51378647_zpid/
+8361 Oakley Dr,Zachary,LA,70791,30.68263,-91.18039,4.0,,Sold 02/21/2023,https://www.zillow.com/homedetails/8361-Oakley-Dr-Zachary-LA-70791/66387206_zpid/
+511 Cloverleaf Blvd,Alexandria,LA,71303,31.29933,-92.51352,3.0,,Sold 02/21/2023,https://www.zillow.com/homedetails/511-Cloverleaf-Blvd-Alexandria-LA-71303/77700789_zpid/
+4729 Handley Loop W,Pineville,LA,71360,31.383274,-92.44099,4.0,,Sold 02/21/2023,https://www.zillow.com/homedetails/4729-Handley-Loop-W-Pineville-LA-71360/77708608_zpid/
+1218 9th St,Lake Charles,LA,70601,30.216272,-93.20328,4.0,,Sold 02/21/2023,https://www.zillow.com/homedetails/1218-9th-St-Lake-Charles-LA-70601/81674914_zpid/
+715 Lake Rd,Stonewall,LA,71078,32.31553,-93.75077,,,Sold 02/21/2023,https://www.zillow.com/homedetails/715-Lake-Rd-Stonewall-LA-71078/106036098_zpid/
+808 Eagle Nest,Haughton,LA,71037,32.5622,-93.620674,3.0,,Sold 02/21/2023,https://www.zillow.com/homedetails/808-Eagle-Nest-Haughton-LA-71037/109793451_zpid/
+1441 Brad St,Benton,LA,71006,32.671856,-93.70042,4.0,,Sold 02/21/2023,https://www.zillow.com/homedetails/1441-Brad-St-Benton-LA-71006/109807111_zpid/
+222 Haney St,Patterson,LA,70392,29.71069,-91.31176,4.0,,Sold 02/21/2023,https://www.zillow.com/homedetails/222-Haney-St-Patterson-LA-70392/115208074_zpid/
+213 Jasmine Walk,Bossier City,LA,71111,32.587933,-93.72239,3.0,,Sold 02/21/2023,https://www.zillow.com/homedetails/213-Jasmine-Walk-Bossier-City-LA-71111/208129362_zpid/
+1114 Lacoy Rd,Pineville,LA,71360,31.359018,-92.447495,3.0,,Sold 02/21/2023,https://www.zillow.com/homedetails/1114-Lacoy-Rd-Pineville-LA-71360/209913724_zpid/
+28428 Middlebrook Way,Denham Springs,LA,70726,,,3.0,,Sold 02/21/2023,https://www.zillow.com/homedetails/28428-Middlebrook-Way-Denham-Springs-LA-70726/2060777545_zpid/
+28469 Middlebrook Way,Denham Springs,LA,70726,,,4.0,,Sold 02/21/2023,https://www.zillow.com/homedetails/28469-Middlebrook-Way-Denham-Springs-LA-70726/2060788437_zpid/
+0 Ida Rodessa Rd,Ida,LA,71044,,,,,Sold 02/21/2023,https://www.zillow.com/homedetails/0-Ida-Rodessa-Rd-Ida-LA-71044/2061188853_zpid/
+107 Rose Of Sharon Ln,Lafayette,LA,70508,30.11705,-92.075356,4.0,,Sold 02/21/2023,https://www.zillow.com/homedetails/107-Rose-Of-Sharon-Ln-Lafayette-LA-70508/2063180124_zpid/
+9336 Pine Grove St,Shreveport,LA,71118,32.395657,-93.77589,3.0,,Sold 02/20/2023,https://www.zillow.com/homedetails/9336-Pine-Grove-St-Shreveport-LA-71118/51328620_zpid/
+3323 Seminole Dr,Shreveport,LA,71107,32.5216,-93.830536,3.0,,Sold 02/20/2023,https://www.zillow.com/homedetails/3323-Seminole-Dr-Shreveport-LA-71107/51385822_zpid/
+4021 Delaware Ave,Kenner,LA,70065,30.029255,-90.24072,4.0,,Sold 02/20/2023,https://www.zillow.com/homedetails/4021-Delaware-Ave-Kenner-LA-70065/73758780_zpid/
+541 S David St,Church Pt,LA,70525,30.398996,-92.21381,3.0,,Sold 02/20/2023,https://www.zillow.com/homedetails/541-S-David-St-Church-Pt-LA-70525/105979372_zpid/
+107 S Saint Joseph Ave,Morse,LA,70559,30.124542,-92.500694,3.0,,Sold 02/20/2023,https://www.zillow.com/homedetails/107-S-Saint-Joseph-Ave-Morse-LA-70559/105983569_zpid/
+2140 Saint Mary St,Thibodaux,LA,70301,29.817623,-90.88806,3.0,,Sold 02/20/2023,https://www.zillow.com/homedetails/2140-Saint-Mary-St-Thibodaux-LA-70301/119482148_zpid/
+114 Rio Ridge Dr,Lafayette,LA,70508,30.128588,-92.04773,4.0,,Sold 02/20/2023,https://www.zillow.com/homedetails/114-Rio-Ridge-Dr-Lafayette-LA-70508/145623973_zpid/
+1006 Creek Breeze Ave LOT 45,Baton Rouge,LA,70820,,,3.0,,Sold 02/20/2023,https://www.zillow.com/homedetails/1006-Creek-Breeze-Ave-LOT-45-Baton-Rouge-LA-70820/2060637658_zpid/
+32124 Russell Trl,Denham Springs,LA,70726,30.532845,-90.95883,4.0,,Sold 02/20/2023,https://www.zillow.com/homedetails/32124-Russell-Trl-Denham-Springs-LA-70726/2060898862_zpid/
+2109 Orleans Dr,Lake Charles,LA,70611,,,3.0,,Sold 02/20/2023,https://www.zillow.com/homedetails/2109-Orleans-Dr-Lake-Charles-LA-70611/2061821600_zpid/
+7861 Joe Lynn Trl,Denham Springs,LA,70726,30.532967,-90.95887,4.0,,Sold 02/20/2023,https://www.zillow.com/homedetails/7861-Joe-Lynn-Trl-Denham-Springs-LA-70726/2062487603_zpid/
+106 Queens Way,Thibodaux,LA,70301,,,3.0,,Sold 02/20/2023,https://www.zillow.com/homedetails/106-Queens-Way-Thibodaux-LA-70301/2086137516_zpid/
+1008 Francais Dr,Shreveport,LA,71118,32.394424,-93.78442,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/1008-Francais-Dr-Shreveport-LA-71118/51327427_zpid/
+1051 Chipper Ln,Keithville,LA,71047,32.351654,-93.78039,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/1051-Chipper-Ln-Keithville-LA-71047/51330316_zpid/
+123 E Ratcliff St,Shreveport,LA,71104,32.474236,-93.73196,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/123-E-Ratcliff-St-Shreveport-LA-71104/51337439_zpid/
+819 E Washington St,Shreveport,LA,71104,32.48477,-93.71625,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/819-E-Washington-St-Shreveport-LA-71104/51337735_zpid/
+408 Albany Ave,Shreveport,LA,71105,32.46725,-93.72956,2.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/408-Albany-Ave-Shreveport-LA-71105/51341220_zpid/
+718 Erie St,Shreveport,LA,71106,32.460854,-93.744316,2.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/718-Erie-St-Shreveport-LA-71106/51343148_zpid/
+3854 Michigan Blvd,Shreveport,LA,71109,32.495953,-93.802605,1.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/3854-Michigan-Blvd-Shreveport-LA-71109/51354050_zpid/
+932 Greer Rd,Shreveport,LA,71107,32.588905,-93.83997,2.0,$110000.0,Sold 02/17/2023,https://www.zillow.com/homedetails/932-Greer-Rd-Shreveport-LA-71107/51390895_zpid/
+7999 Tealglen Dr,Mooringsport,LA,71060,32.694595,-93.93037,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/7999-Tealglen-Dr-Mooringsport-LA-71060/51393645_zpid/
+13633 Mail Box Rd,Vivian,LA,71082,32.838127,-93.92643,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/13633-Mail-Box-Rd-Vivian-LA-71082/51394764_zpid/
+821 Rosebud Ln,Shreveport,LA,71115,32.406948,-93.70266,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/821-Rosebud-Ln-Shreveport-LA-71115/60557054_zpid/
+9522 Overwood Dr,Greenwell Springs,LA,70739,30.534191,-91.017075,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/9522-Overwood-Dr-Greenwell-Springs-LA-70739/66229116_zpid/
+5147 Sleepy Hollow Dr,Baton Rouge,LA,70817,30.406557,-91.011444,2.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/5147-Sleepy-Hollow-Dr-Baton-Rouge-LA-70817/66229878_zpid/
+1516 Magnolia Ridge Dr,Baton Rouge,LA,70816,30.446058,-91.02638,2.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/1516-Magnolia-Ridge-Dr-Baton-Rouge-LA-70816/66235290_zpid/
+1305 Stuart Ave,Baton Rouge,LA,70808,30.408682,-91.15308,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/1305-Stuart-Ave-Baton-Rouge-LA-70808/66267942_zpid/
+222 Emerald Rd,Baton Rouge,LA,70810,30.367037,-91.11324,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/222-Emerald-Rd-Baton-Rouge-LA-70810/66272848_zpid/
+1338 Aberdeen Ave,Baton Rouge,LA,70808,30.409266,-91.15329,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/1338-Aberdeen-Ave-Baton-Rouge-LA-70808/66281844_zpid/
+6066 Jefferson Hwy,Baton Rouge,LA,70806,30.438854,-91.127686,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/6066-Jefferson-Hwy-Baton-Rouge-LA-70806/66293724_zpid/
+968 Woodhaven St,Baton Rouge,LA,70815,30.44531,-91.07492,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/968-Woodhaven-St-Baton-Rouge-LA-70815/66301169_zpid/
+2236 Davenport Ave,Baton Rouge,LA,70807,30.557348,-91.16983,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/2236-Davenport-Ave-Baton-Rouge-LA-70807/66331087_zpid/
+14615 Mora Dr,Baton Rouge,LA,70819,30.458107,-91.02383,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/14615-Mora-Dr-Baton-Rouge-LA-70819/66344549_zpid/
+2013 Cully Dr,Baton Rouge,LA,70816,30.435526,-90.99923,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/2013-Cully-Dr-Baton-Rouge-LA-70816/66345283_zpid/
+6312 Westridge Dr,Baton Rouge,LA,70817,30.394688,-91.03174,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/6312-Westridge-Dr-Baton-Rouge-LA-70817/66347824_zpid/
+1759 Mullen Dr,Baton Rouge,LA,70810,30.363134,-91.07421,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/1759-Mullen-Dr-Baton-Rouge-LA-70810/66355937_zpid/
+16591 Webster Dr,Baton Rouge,LA,70819,30.475718,-91.0047,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/16591-Webster-Dr-Baton-Rouge-LA-70819/66356336_zpid/
+10525 Welcome Hites Dr,Baker,LA,70714,30.566381,-91.06942,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/10525-Welcome-Hites-Dr-Baker-LA-70714/66359052_zpid/
+15315 Glenn Ave,Pride,LA,70770,30.595833,-91.017845,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/15315-Glenn-Ave-Pride-LA-70770/66377413_zpid/
+15866 N King Bradford Dr,Baton Rouge,LA,70816,30.42339,-91.01017,6.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/15866-N-King-Bradford-Dr-Baton-Rouge-LA-70816/66377701_zpid/
+13330 S Fairview Ave,Baton Rouge,LA,70816,30.439615,-91.03108,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/13330-S-Fairview-Ave-Baton-Rouge-LA-70816/66379291_zpid/
+330 Fulwar Skipwith Rd,Baton rouge,LA,70810,30.348125,-91.05447,5.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/330-Fulwar-Skipwith-Rd-Baton-Rouge-LA-70810/66386806_zpid/
+3818 Northshore Ave,Baton Rouge,LA,70820,30.390945,-91.204185,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/3818-Northshore-Ave-Baton-Rouge-LA-70820/66390003_zpid/
+6340 Summerlin Dr,Zachary,LA,70791,30.667875,-91.181694,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/6340-Summerlin-Dr-Zachary-LA-70791/66799410_zpid/
+115 Presido Ln,Shreveport,LA,71115,32.415257,-93.69001,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/115-Presido-Ln-Shreveport-LA-71115/66803907_zpid/
+9023 Boone Dr,Baton Rouge,LA,70810,30.376133,-91.116005,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/9023-Boone-Dr-Baton-Rouge-LA-70810/66804699_zpid/
+3101 Highland Rd APT 314,Baton Rouge,LA,70802,30.42049,-91.17691,2.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/3101-Highland-Rd-APT-314-Baton-Rouge-LA-70802/66805080_zpid/
+22120 Deer Haven Dr,Zachary,LA,70791,30.677979,-91.21592,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/22120-Deer-Haven-Dr-Zachary-LA-70791/66807598_zpid/
+2070 High Point Dr,Zachary,LA,70791,30.646334,-91.183075,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/2070-High-Point-Dr-Zachary-LA-70791/70846364_zpid/
+1117 Cleary Ave,Metairie,LA,70001,29.984743,-90.17024,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/1117-Cleary-Ave-Metairie-LA-70001/73739922_zpid/
+7004 Windmill Ln,Lake charles,LA,70605,30.136963,-93.238976,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/7004-Windmill-Ln-Lake-Charles-LA-70605/77593140_zpid/
+218 Juniper Rd,Sulphur,LA,70663,30.260593,-93.3718,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/218-Juniper-Rd-Sulphur-LA-70663/77601701_zpid/
+4549 Highland Dr,Lake Charles,LA,70605,30.174278,-93.24212,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/4549-Highland-Dr-Lake-Charles-LA-70605/77602893_zpid/
+914 McDaniel Dr,Lake charles,LA,70605,30.153906,-93.22805,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/914-McDaniel-Dr-Lake-Charles-LA-70605/77607717_zpid/
+3396 Saint Raphael Ln,Sulphur,LA,70663,30.29473,-93.4129,2.0,$279000.0,Sold 02/17/2023,https://www.zillow.com/homedetails/3396-Saint-Raphael-Ln-Sulphur-LA-70663/77618247_zpid/
+203 Estate Dr,New Iberia,LA,70563,30.00899,-91.773796,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/203-Estate-Dr-New-Iberia-LA-70563/77625135_zpid/
+608 Woodvale Ave,Lafayette,LA,70503,30.1927,-92.041595,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/608-Woodvale-Ave-Lafayette-LA-70503/77638107_zpid/
+205 Noble St,Lafayette,LA,70506,30.238632,-92.041405,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/205-Noble-St-Lafayette-LA-70506/77649081_zpid/
+132 Maurice St,Lafayette,LA,70506,30.209478,-92.045296,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/132-Maurice-St-Lafayette-LA-70506/77653576_zpid/
+111 Ophelia Ln,Lafayette,LA,70506,30.22351,-92.047775,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/111-Ophelia-Ln-Lafayette-LA-70506/77656095_zpid/
+324 Oak St,Lafayette,LA,70506,30.206387,-92.04298,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/324-Oak-St-Lafayette-LA-70506/77656892_zpid/
+328 Herlil Cir,Carencro,LA,70520,30.332994,-92.085464,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/328-Herlil-Cir-Carencro-LA-70520/77683873_zpid/
+203 Oneal St,Pineville,LA,71360,31.331223,-92.42315,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/203-Oneal-St-Pineville-LA-71360/77699462_zpid/
+119 Hickory Dr,Pineville,LA,71360,31.321102,-92.41372,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/119-Hickory-Dr-Pineville-LA-71360/77712605_zpid/
+503 Richmond Dr,Alexandria,LA,71302,31.285172,-92.4139,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/503-Richmond-Dr-Alexandria-LA-71302/77713441_zpid/
+215 Red Oak Dr,Pineville,LA,71360,31.341644,-92.37393,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/215-Red-Oak-Dr-Pineville-LA-71360/77715746_zpid/
+136 Broadway Ave,Schriever,LA,70395,29.747314,-90.81542,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/136-Broadway-Ave-Schriever-LA-70395/77774383_zpid/
+4947 Albany Rd,Shreveport,LA,71107,32.600628,-93.82676,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/4947-Albany-Rd-Shreveport-LA-71107/80861281_zpid/
+1377 Golden Rd,Sulphur,LA,70665,30.176382,-93.40306,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/1377-Golden-Rd-Sulphur-LA-70665/81580610_zpid/
+3264 Topsy Rd,Lake charles,LA,70611,30.39108,-93.165474,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/3264-Topsy-Rd-Lake-Charles-LA-70611/81673823_zpid/
+2413 Gardenia St,Lake Charles,LA,70601,30.209047,-93.19426,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/2413-Gardenia-St-Lake-Charles-LA-70601/81676967_zpid/
+1444 Egania St,New Orleans,LA,70117,29.966,-90.018585,5.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/1444-Egania-St-New-Orleans-LA-70117/84460570_zpid/
+131 N Aracobra St,Sulphur,LA,70663,30.223162,-93.370026,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/131-N-Aracobra-St-Sulphur-LA-70663/91782241_zpid/
+3212 Stowers Dr #11,Monroe,LA,71201,32.55377,-92.10474,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/3212-Stowers-Dr-11-Monroe-LA-71201/92485742_zpid/
+700 Silverthorne Ln,Covington,LA,70433,30.438742,-90.15614,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/700-Silverthorne-Ln-Covington-LA-70433/96243224_zpid/
+9958 Loveland Ct,Shreveport,LA,71106,32.3601,-93.71886,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/9958-Loveland-Ct-Shreveport-LA-71106/103659355_zpid/
+2311 Metairie Ct,Metairie,LA,70001,29.99559,-90.148094,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/2311-Metairie-Ct-Metairie-LA-70001/103919688_zpid/
+118 Hoosier Ln,Church Pt,LA,70525,30.296036,-92.172615,4.0,$250000.0,Sold 02/17/2023,https://www.zillow.com/homedetails/118-Hoosier-Ln-Church-Pt-LA-70525/105972034_zpid/
+320 Cherry St,Labadieville,LA,70372,29.829945,-90.9643,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/320-Cherry-St-Labadieville-LA-70372/105992341_zpid/
+225 Dogwood Trl W,Deridder,LA,70634,30.738956,-93.10921,,,Sold 02/17/2023,https://www.zillow.com/homedetails/225-Dogwood-Trl-W-Deridder-LA-70634/106024500_zpid/
+256 White Oak Ln,Natchitoches,LA,71457,31.792892,-93.124725,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/256-White-Oak-Ln-Natchitoches-LA-71457/106105357_zpid/
+148 Timber Trl,Sunset,LA,70584,30.40541,-92.07356,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/148-Timber-Trl-Sunset-LA-70584/106136441_zpid/
+1032 Brookewood Drive Dr,Saint Martinville,LA,70582,30.08525,-91.84429,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/1032-Brookewood-Drive-Dr-Saint-Martinville-LA-70582/106153012_zpid/
+1016 Guy Dr,Saint Martinville,LA,70582,30.051622,-91.82035,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/1016-Guy-Dr-Saint-Martinville-LA-70582/106154002_zpid/
+402 4th St,Abbeville,LA,70510,29.967684,-92.1421,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/402-4th-St-Abbeville-LA-70510/106164300_zpid/
+5908 Stumberg Ln UNIT 33,Baton Rouge,LA,70816,30.395285,-91.04011,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/5908-Stumberg-Ln-UNIT-33-Baton-Rouge-LA-70816/108609353_zpid/
+4809 Sheryl St,Bossier City,LA,71111,32.54185,-93.66897,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/4809-Sheryl-St-Bossier-City-LA-71111/109787833_zpid/
+3512 Glasscock Ave,Bossier City,LA,71112,32.485485,-93.67714,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/3512-Glasscock-Ave-Bossier-City-LA-71112/109796832_zpid/
+113 Couples Dr,Bossier City,LA,71111,32.564457,-93.66075,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/113-Couples-Dr-Bossier-City-LA-71111/109808853_zpid/
+5921 Wildcrest St,Bossier City,LA,71111,32.563595,-93.64171,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/5921-Wildcrest-St-Bossier-City-LA-71111/109823175_zpid/
+3406 Fox Run Cir,Haughton,LA,71037,32.57623,-93.614716,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/3406-Fox-Run-Cir-Haughton-LA-71037/109829773_zpid/
+1310 Violet Ave,Bossier City,LA,71112,32.466335,-93.66173,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/1310-Violet-Ave-Bossier-City-LA-71112/109832263_zpid/
+13304 Arnold Rd,Walker,LA,70785,30.53481,-90.865685,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/13304-Arnold-Rd-Walker-LA-70785/110880012_zpid/
+121 Country Living Dr,Lafayette,LA,70507,30.288141,-92.07149,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/121-Country-Living-Dr-Lafayette-LA-70507/110903187_zpid/
+111 Girard Park Dr APT 18,Lafayette,LA,70503,30.208769,-92.01698,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/111-Girard-Park-Dr-APT-18-Lafayette-LA-70503/110911918_zpid/
+13933 J R Dr,Walker,LA,70785,30.493404,-90.853775,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/13933-J-R-Dr-Walker-LA-70785/110916050_zpid/
+423 Pocahontas St,Denham Springs,LA,70726,30.479792,-90.94576,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/423-Pocahontas-St-Denham-Springs-LA-70726/110919696_zpid/
+16745 State Highway 16,French Settlement,LA,70733,30.320242,-90.8129,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/16745-State-Highway-16-French-Settlement-LA-70733/110921997_zpid/
+20084 Jones Ln,Ponchatoula,LA,70454,30.436111,-90.39452,,,Sold 02/17/2023,https://www.zillow.com/homedetails/20084-Jones-Ln-Ponchatoula-LA-70454/113946526_zpid/
+122 Southfork Dr,Youngsville,LA,70592,30.121458,-92.001274,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/122-Southfork-Dr-Youngsville-LA-70592/114247675_zpid/
+265 Swafford Rd,Colfax,LA,71417,31.551798,-92.64241,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/265-Swafford-Rd-Colfax-LA-71417/115129657_zpid/
+59023 Martin Luther King Blvd,Plaquemine,LA,70764,30.27614,-91.25136,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/59023-Martin-Luther-King-Blvd-Plaquemine-LA-70764/115135482_zpid/
+6352 Cherry Ridge Rd,Bastrop,LA,71220,32.79452,-91.88002,2.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/6352-Cherry-Ridge-Rd-Bastrop-LA-71220/115154118_zpid/
+7707 Highway 87,Jeanerette,LA,70544,29.886045,-91.52373,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/7707-Highway-87-Jeanerette-LA-70544/115200517_zpid/
+210 Louisa St,Morgan City,LA,70380,29.709467,-91.21619,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/210-Louisa-St-Morgan-City-LA-70380/115212022_zpid/
+403 Laurel St,Morgan city,LA,70380,29.712578,-91.21522,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/403-Laurel-St-Morgan-City-LA-70380/115212376_zpid/
+411 Antee Rd,Boyce,LA,71409,31.314888,-92.67296,0.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/411-Antee-Rd-Boyce-LA-71409/117973768_zpid/
+6966 Appleton Oaks Cir,Keithville,LA,71047,32.36285,-93.89782,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/6966-Appleton-Oaks-Cir-Keithville-LA-71047/118316552_zpid/
+110 Lakefront Dr,Natchitoches,LA,71457,31.764618,-93.13626,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/110-Lakefront-Dr-Natchitoches-LA-71457/118956053_zpid/
+1940 Glasgow Ave,Baton Rouge,LA,70808,30.41108,-91.14202,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/1940-Glasgow-Ave-Baton-Rouge-LA-70808/119323370_zpid/
+317 Country Village Dr,Raceland,LA,70394,29.661325,-90.548195,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/317-Country-Village-Dr-Raceland-LA-70394/119428293_zpid/
+1119 Caroline St,Thibodaux,LA,70301,29.78791,-90.82513,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/1119-Caroline-St-Thibodaux-LA-70301/119462550_zpid/
+4128 Highway 1,Raceland,LA,70394,29.722866,-90.59166,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/4128-Highway-1-Raceland-LA-70394/119492914_zpid/
+333 E Boyd Dr #20,Baton Rouge,LA,70808,30.401114,-91.17454,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/333-E-Boyd-Dr-20-Baton-Rouge-LA-70808/121250512_zpid/
+104 Iron Wood Way,Lafayette,LA,70508,30.132965,-92.05596,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/104-Iron-Wood-Way-Lafayette-LA-70508/123445127_zpid/
+635 Bossier Point Rd,Elm Grove,LA,71051,32.340252,-93.45142,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/635-Bossier-Point-Rd-Elm-Grove-LA-71051/123623661_zpid/
+1025 Richmond Cir,Lake Charles,LA,70605,30.16355,-93.237625,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/1025-Richmond-Cir-Lake-Charles-LA-70605/123795062_zpid/
+456 E River Rd,Glenmora,LA,71433,31.063032,-92.68485,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/456-E-River-Rd-Glenmora-LA-71433/124049159_zpid/
+6763 Eliza Dr,Addis,LA,70710,30.373823,-91.264984,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/6763-Eliza-Dr-Addis-LA-70710/124084035_zpid/
+326 Crossing North St,Thibodaux,LA,70301,29.768187,-90.7772,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/326-Crossing-North-St-Thibodaux-LA-70301/125070703_zpid/
+4018 Highway 8,Pollock,LA,71467,31.51762,-92.457466,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/4018-Highway-8-Pollock-LA-71467/126103765_zpid/
+1307 Thomassee Rd,Arnaudville,LA,70512,30.43266,-91.9928,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/1307-Thomassee-Rd-Arnaudville-LA-70512/126660107_zpid/
+210 La Villa Cir,Youngsville,LA,70592,30.133278,-91.999214,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/210-La-Villa-Cir-Youngsville-LA-70592/126792850_zpid/
+233 Marilyn Dr,Lafayette,LA,70503,30.195986,-92.051834,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/233-Marilyn-Dr-Lafayette-LA-70503/126793460_zpid/
+102 Silverwood Dr,Broussard,LA,70518,30.113747,-91.96793,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/102-Silverwood-Dr-Broussard-LA-70518/126834289_zpid/
+16 Xv Hales Rd,Rayville,LA,71269,32.351513,-91.7478,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/16-Xv-Hales-Rd-Rayville-LA-71269/126954927_zpid/
+106 Hazy River Way,Lafayette,LA,70508,30.116442,-92.05111,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/106-Hazy-River-Way-Lafayette-LA-70508/145623375_zpid/
+306 Old Silo Rd,Rayne,LA,70578,30.16614,-92.20032,3.0,$190000.0,Sold 02/17/2023,https://www.zillow.com/homedetails/306-Old-Silo-Rd-Rayne-LA-70578/145626300_zpid/
+1439 Lizardi St,New Orleans,LA,70117,29.966066,-90.01895,5.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/1439-Lizardi-St-New-Orleans-LA-70117/149021444_zpid/
+38 Mark Smith Dr,Mandeville,LA,70471,30.390242,-90.10297,5.0,$1050000.0,Sold 02/17/2023,https://www.zillow.com/homedetails/38-Mark-Smith-Dr-Mandeville-LA-70471/190881971_zpid/
+5783 Bellevue Rd,Haughton,LA,71037,32.664215,-93.530754,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/5783-Bellevue-Rd-Haughton-LA-71037/208099962_zpid/
+308 Gary K St,Pineville,LA,71360,31.33979,-92.3617,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/308-Gary-K-St-Pineville-LA-71360/209893425_zpid/
+11380 Palmetto Lake Ave,Denham Springs,LA,70726,30.45407,-90.90071,2.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/11380-Palmetto-Lake-Ave-Denham-Springs-LA-70726/210294818_zpid/
+5103 Bens Cir,New Iberia,LA,70560,29.937872,-91.78618,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/5103-Bens-Cir-New-Iberia-LA-70560/221209309_zpid/
+429 Pardee Rd,Campti,LA,71411,31.93195,-93.02877,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/429-Pardee-Rd-Campti-LA-71411/229923217_zpid/
+600 Goos St,Westlake,LA,70669,30.240042,-93.252365,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/600-Goos-St-Westlake-LA-70669/243016281_zpid/
+9942 Cook Rd,Bethany,LA,71007,32.369976,-94.00047,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/9942-Cook-Rd-Bethany-LA-71007/245744403_zpid/
+631 Riverscape Dr,Shreveport,LA,71104,32.496883,-93.71779,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/631-Riverscape-Dr-Shreveport-LA-71104/248587522_zpid/
+303 Vineyard Row,Lafayette,LA,70508,30.143822,-92.0455,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/303-Vineyard-Row-Lafayette-LA-70508/249654072_zpid/
+16460 Plank Rd,Baker,LA,70714,30.598307,-91.11848,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/16460-Plank-Rd-Baker-LA-70714/251066369_zpid/
+1151 Brockner St,Olla,LA,71465,31.902105,-92.23823,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/1151-Brockner-St-Olla-LA-71465/251336518_zpid/
+37359 Cypress Hollow Ave,Prairieville,LA,70769,30.2738,-90.97858,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/37359-Cypress-Hollow-Ave-Prairieville-LA-70769/309327158_zpid/
+920 Antler,Haughton,LA,71037,32.566414,-93.61538,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/920-Antler-Haughton-LA-71037/317176382_zpid/
+112 Orchard Park Ave,Lafayette,LA,70508,30.162565,-92.01619,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/112-Orchard-Park-Ave-Lafayette-LA-70508/317205994_zpid/
+182 Independence Dr LOT 19,Houma,LA,70360,,,,,Sold 02/17/2023,https://www.zillow.com/homedetails/182-Independence-Dr-LOT-19-Houma-LA-70360/2059127176_zpid/
+38198 State Highway 621,Gonzales,LA,70737,,,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/38198-State-Highway-621-Gonzales-LA-70737/2059431557_zpid/
+3709 Jared Michael Dr,Shreveport,LA,71107,,,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/3709-Jared-Michael-Dr-Shreveport-LA-71107/2059548115_zpid/
+Tabb Rd,Scott,LA,70583,,,,,Sold 02/17/2023,https://www.zillow.com/homedetails/Tabb-Rd-Scott-LA-70583/2059926076_zpid/
+13212 Alysha Dr LOT 60,Denham Springs,LA,70726,,,,,Sold 02/17/2023,https://www.zillow.com/homedetails/13212-Alysha-Dr-LOT-60-Denham-Springs-LA-70726/2059970832_zpid/
+30981 Honeysuckel St LOT 713,Denham Springs,LA,70726,,,,,Sold 02/17/2023,https://www.zillow.com/homedetails/30981-Honeysuckel-St-LOT-713-Denham-Springs-LA-70726/2059971095_zpid/
+30985 Honeysuckel St LOT 712,Denham Springs,LA,70726,,,,,Sold 02/17/2023,https://www.zillow.com/homedetails/30985-Honeysuckel-St-LOT-712-Denham-Springs-LA-70726/2059971302_zpid/
+13325 Alysha Dr LOT 66,Denham Springs,LA,70726,,,,,Sold 02/17/2023,https://www.zillow.com/homedetails/13325-Alysha-Dr-LOT-66-Denham-Springs-LA-70726/2059971380_zpid/
+13240 Alysha Dr LOT 61,Denham Springs,LA,70726,,,,,Sold 02/17/2023,https://www.zillow.com/homedetails/13240-Alysha-Dr-LOT-61-Denham-Springs-LA-70726/2059971628_zpid/
+34646 Quarter Horse Ln LOT 0,Walker,LA,70785,,,,,Sold 02/17/2023,https://www.zillow.com/homedetails/34646-Quarter-Horse-Ln-LOT-0-Walker-LA-70785/2060120083_zpid/
+121 San Juan Ln,Youngsville,LA,70592,,,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/121-San-Juan-Ln-Youngsville-LA-70592/2060148566_zpid/
+0 Montagne St,New Iberia,LA,70560,,,,,Sold 02/17/2023,https://www.zillow.com/homedetails/0-Montagne-St-New-Iberia-LA-70560/2060180205_zpid/
+16154 Highway 3235 #5B,Cut Off,LA,70345,,,,,Sold 02/17/2023,https://www.zillow.com/homedetails/16154-Highway-3235-5B-Cut-Off-LA-70345/2060186175_zpid/
+2421 Kingfisher Dr,Houma,LA,70364,,,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/2421-Kingfisher-Dr-Houma-LA-70364/2060207295_zpid/
+146 King George Dr,Thibodaux,LA,70301,,,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/146-King-George-Dr-Thibodaux-LA-70301/2060209516_zpid/
+283 Peacock Poin,Thibodaux,LA,70301,,,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/283-Peacock-Poin-Thibodaux-LA-70301/2060218484_zpid/
+181 White Castle,Iowa,LA,70647,,,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/181-White-Castle-Iowa-LA-70647/2060297467_zpid/
+6505 White Oleander Cir E,Lake Charles,LA,70605,,,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/6505-White-Oleander-Cir-E-Lake-Charles-LA-70605/2060303148_zpid/
+28397 Middlebrook Way,Denham Springs,LA,70726,,,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/28397-Middlebrook-Way-Denham-Springs-LA-70726/2060328966_zpid/
+354 Sugarland Cir,Opelousas,LA,70570,,,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/354-Sugarland-Cir-Opelousas-LA-70570/2060407911_zpid/
+Goldenrod St LOT 617/618,Denham Springs,LA,70726,,,,,Sold 02/17/2023,https://www.zillow.com/homedetails/Goldenrod-St-LOT-617-618-Denham-Springs-LA-70726/2060708801_zpid/
+420 Weaver Way,Maurice,LA,70555,,,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/420-Weaver-Way-Maurice-LA-70555/2060720059_zpid/
+11431 Greenwell Springs Port Hudson Rd,Zachary,LA,70791,,,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/11431-Greenwell-Springs-Port-Hudson-Rd-Zachary-LA-70791/2060728732_zpid/
+11579 Water View Ave,Denham Springs,LA,70726,,,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/11579-Water-View-Ave-Denham-Springs-LA-70726/2060873356_zpid/
+58665 Harding St,Plaquemine,LA,70764,,,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/58665-Harding-St-Plaquemine-LA-70764/2060998524_zpid/
+8725A Wilbur Rd,Baton Rouge,LA,70807,,,2.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/8725A-Wilbur-Rd-Baton-Rouge-LA-70807/2061219594_zpid/
+Mj 1 A La Hwy LOT 43,Albany,LA,70711,,,,,Sold 02/17/2023,https://www.zillow.com/homedetails/Mj-1-A-La-Hwy-LOT-43-Albany-LA-70711/2061634315_zpid/
+LOT 20 Silver Point Dr,Shreveport,LA,71106,,,,,Sold 02/17/2023,https://www.zillow.com/homedetails/LOT-20-Silver-Point-Dr-Shreveport-LA-71106/2062341544_zpid/
+5-A-2-B Dewey Breaux Rd #2-LOT 5-A,Gonzales,LA,70737,,,,,Sold 02/17/2023,https://www.zillow.com/homedetails/5-A-2-B-Dewey-Breaux-Rd-2-LOT-5-A-Gonzales-LA-70737/2062383185_zpid/
+37298 Renaissance Dr LOT 41,Prairieville,LA,70769,,,,,Sold 02/17/2023,https://www.zillow.com/homedetails/37298-Renaissance-Dr-LOT-41-Prairieville-LA-70769/2062393936_zpid/
+1754 Park Place Dr,Lake Charles,LA,70607,,,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/1754-Park-Place-Dr-Lake-Charles-LA-70607/2062907627_zpid/
+15 Silverstone Ave LOT 15,Pt Allen,LA,70767,,,,,Sold 02/17/2023,https://www.zillow.com/homedetails/15-Silverstone-Ave-LOT-15-Pt-Allen-LA-70767/2062956052_zpid/
+246 Cane Run Ct,Duson,LA,70529,,,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/246-Cane-Run-Ct-Duson-LA-70529/2062971565_zpid/
+908 Gold Finch Way,Lake Charles,LA,70611,,,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/908-Gold-Finch-Way-Lake-Charles-LA-70611/2063398608_zpid/
+114 Barbados Ln,Sunset,LA,70584,,,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/114-Barbados-Ln-Sunset-LA-70584/2065405345_zpid/
+120 Barbados Ln,Sunset,LA,70584,,,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/120-Barbados-Ln-Sunset-LA-70584/2065405346_zpid/
+Bayou Pierre Dr LOT 40A,Maurepas,LA,70449,,,,,Sold 02/17/2023,https://www.zillow.com/homedetails/Bayou-Pierre-Dr-LOT-40A-Maurepas-LA-70449/2065615708_zpid/
+10216 Creek Bend Ave #D,Baton Rouge,LA,70836,,,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/10216-Creek-Bend-Ave-D-Baton-Rouge-LA-70836/2066406804_zpid/
+5425 Iris Hollow Rd,Slidell,LA,70461,30.229462,-89.76829,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/5425-Iris-Hollow-Rd-Slidell-LA-70461/2066541298_zpid/
+4719 General Ewell Dr,Bossier City,LA,71112,32.465733,-93.65225,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/4719-General-Ewell-Dr-Bossier-City-LA-71112/2068824025_zpid/
+State Highway 16 G LOT 4-D,Denham Springs,LA,70706,,,,,Sold 02/17/2023,https://www.zillow.com/homedetails/State-Highway-16-G-LOT-4-D-Denham-Springs-LA-70706/2075322308_zpid/
+72373 Homestead St,Covington,LA,70435,,,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/72373-Homestead-St-Covington-LA-70435/2075775734_zpid/
+5167 Thompson Cove Dr,Saint Francisville,LA,70775,,,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/5167-Thompson-Cove-Dr-Saint-Francisville-LA-70775/2076521131_zpid/
+1106 Bayou Trce,Breaux Bridge,LA,70517,30.297836,-91.91957,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/1106-Bayou-Trce-Breaux-Bridge-LA-70517/2077676421_zpid/
+9403 Wahoo Ln,Abbeville,LA,70510,,,,,Sold 02/17/2023,https://www.zillow.com/homedetails/9403-Wahoo-Ln-Abbeville-LA-70510/2081503077_zpid/
+1184 Madison Ct,Zachary,LA,70791,,,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/1184-Madison-Ct-Zachary-LA-70791/2083030435_zpid/
+307 Crossfield Ct #80A,Shreveport,LA,71106,,,,,Sold 02/17/2023,https://www.zillow.com/homedetails/307-Crossfield-Ct-80A-Shreveport-LA-71106/2083457526_zpid/
+8702 E Highway 90,Jeanerette,LA,70544,29.918068,-91.72855,3.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/8702-E-Highway-90-Jeanerette-LA-70544/2086976297_zpid/
+0 N Arkansas St,Springhill,LA,71075,,,,,Sold 02/17/2023,https://www.zillow.com/homedetails/0-N-Arkansas-St-Springhill-LA-71075/2087006272_zpid/
+105 Harvest Creek Ln,Lafayette,LA,70508,,,4.0,,Sold 02/17/2023,https://www.zillow.com/homedetails/105-Harvest-Creek-Ln-Lafayette-LA-70508/2087866310_zpid/
+0 Linton Bellevue Rd,Benton,LA,71006,,,,,Sold 02/17/2023,https://www.zillow.com/homedetails/0-Linton-Bellevue-Rd-Benton-LA-71006/2106630272_zpid/
+13253 Bluff Rd,Prairieville,LA,70734,30.260843,-91.01136,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/13253-Bluff-Rd-Prairieville-LA-70734/1464332_zpid/
+350 Fontaine St,Shreveport,LA,71105,32.455727,-93.72559,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/350-Fontaine-St-Shreveport-LA-71105/51343585_zpid/
+521 N Marlborough Cir,Shreveport,LA,71106,32.425285,-93.73615,4.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/521-N-Marlborough-Cir-Shreveport-LA-71106/51349887_zpid/
+819 Ratcliff St,Shreveport,LA,71104,32.473915,-93.74674,2.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/819-Ratcliff-St-Shreveport-LA-71104/51358355_zpid/
+5203 Bienville Ave,Shreveport,LA,71108,32.46275,-93.77194,2.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/5203-Bienville-Ave-Shreveport-LA-71108/51360027_zpid/
+6115 Debbie St,Shreveport,LA,71119,32.48414,-93.862404,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/6115-Debbie-St-Shreveport-LA-71119/51376659_zpid/
+7718 Millwood Dr,Shreveport,LA,71107,32.602463,-93.93173,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/7718-Millwood-Dr-Shreveport-LA-71107/51392509_zpid/
+381 Atlantic Ave,Shreveport,LA,71105,32.463486,-93.72833,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/381-Atlantic-Ave-Shreveport-LA-71105/54850259_zpid/
+18024 Lake Iris Ave,Baton Rouge,LA,70817,30.349266,-90.98103,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/18024-Lake-Iris-Ave-Baton-Rouge-LA-70817/66235644_zpid/
+5802 Quivera St,Baton Rouge,LA,70805,30.503057,-91.148155,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/5802-Quivera-St-Baton-Rouge-LA-70805/66260384_zpid/
+15702 Riverdale Ave E,Baton Rouge,LA,70816,30.44962,-91.010605,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/15702-Riverdale-Ave-E-Baton-Rouge-LA-70816/66274989_zpid/
+4587 Mimosa St,Baton Rouge,LA,70808,30.412024,-91.144806,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/4587-Mimosa-St-Baton-Rouge-LA-70808/66276170_zpid/
+160 Cora Dr,Baton Rouge,LA,70815,30.453878,-91.08161,4.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/160-Cora-Dr-Baton-Rouge-LA-70815/66304825_zpid/
+1322 Sharlo Ave,Baton Rouge,LA,70820,30.390537,-91.18323,2.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/1322-Sharlo-Ave-Baton-Rouge-LA-70820/66344931_zpid/
+3126 McClendon Ct,Baton Rouge,LA,70810,30.315655,-91.12244,4.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/3126-McClendon-Ct-Baton-Rouge-LA-70810/66381256_zpid/
+1846 Claire Ave,Gretna,LA,70053,29.902948,-90.05904,4.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/1846-Claire-Ave-Gretna-LA-70053/73669942_zpid/
+5032 Highland Dr,Marrero,LA,70072,29.866808,-90.09927,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/5032-Highland-Dr-Marrero-LA-70072/73689823_zpid/
+1220 Westwood Dr,Marrero,LA,70072,29.887304,-90.126564,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/1220-Westwood-Dr-Marrero-LA-70072/73693879_zpid/
+3705 Purdue Dr,Metairie,LA,70003,30.010696,-90.20813,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/3705-Purdue-Dr-Metairie-LA-70003/73729873_zpid/
+239 Duperier Ave,New Iberia,LA,70563,30.010096,-91.81236,2.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/239-Duperier-Ave-New-Iberia-LA-70563/77631438_zpid/
+216 Longview Dr,Lafayette,LA,70506,30.229258,-92.05366,2.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/216-Longview-Dr-Lafayette-LA-70506/77650303_zpid/
+407 Kim Dr,Lafayette,LA,70503,30.192657,-92.04644,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/407-Kim-Dr-Lafayette-LA-70503/77650341_zpid/
+304 Sunny Ln,Lafayette,LA,70506,30.21018,-92.05758,4.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/304-Sunny-Ln-Lafayette-LA-70506/77654990_zpid/
+335 Gerald Dr,Lafayette,LA,70503,30.179731,-92.064384,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/335-Gerald-Dr-Lafayette-LA-70503/77675644_zpid/
+133 Benton Rd,Ball,LA,71405,31.420486,-92.41356,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/133-Benton-Rd-Ball-LA-71405/77717042_zpid/
+1033 Highland St,Lake charles,LA,70605,30.118277,-93.235954,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/1033-Highland-St-Lake-Charles-LA-70605/81660369_zpid/
+126 Beauregard St,Lake Charles,LA,70605,30.168291,-93.22288,4.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/126-Beauregard-St-Lake-Charles-LA-70605/81671474_zpid/
+613 Cleveland St,Lake Charles,LA,70601,30.222342,-93.21403,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/613-Cleveland-St-Lake-Charles-LA-70601/81674560_zpid/
+107 Desert Storm Dr,Duson,LA,70529,30.160322,-92.148,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/107-Desert-Storm-Dr-Duson-LA-70529/81688600_zpid/
+601 Idlewood Blvd,Lafayette,LA,70506,30.19285,-92.06579,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/601-Idlewood-Blvd-Lafayette-LA-70506/81691067_zpid/
+42326 Church Point Rd,Gonzales,LA,70737,30.242403,-90.89365,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/42326-Church-Point-Rd-Gonzales-LA-70737/82304907_zpid/
+110 Arlington Dr,West Monroe,LA,71291,32.51749,-92.198685,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/110-Arlington-Dr-West-Monroe-LA-71291/92492012_zpid/
+809 Tidwell Rd,West Monroe,LA,71292,32.447353,-92.22177,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/809-Tidwell-Rd-West-Monroe-LA-71292/92503716_zpid/
+616 Codifer Blvd,Metairie,LA,70005,29.987907,-90.14555,2.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/616-Codifer-Blvd-Metairie-LA-70005/103920328_zpid/
+3212 Tanner Rd,Scott,LA,70583,30.276457,-92.16828,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/3212-Tanner-Rd-Scott-LA-70583/105971942_zpid/
+1588 Loop Rd,Jonesville,LA,71343,31.618546,-91.783134,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/1588-Loop-Rd-Jonesville-LA-71343/106033029_zpid/
+151 Thayer Ave,Eunice,LA,70535,30.481153,-92.43221,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/151-Thayer-Ave-Eunice-LA-70535/106143455_zpid/
+410 S 7th St,Eunice,LA,70535,30.491302,-92.421875,4.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/410-S-7th-St-Eunice-LA-70535/106143795_zpid/
+1006 Academy Dr,Saint Martinville,LA,70582,30.127684,-91.845406,4.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/1006-Academy-Dr-Saint-Martinville-LA-70582/106149668_zpid/
+220 Church St,Saint Martinville,LA,70582,30.121956,-91.832054,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/220-Church-St-Saint-Martinville-LA-70582/106151679_zpid/
+1079 Sidney Guidry Rd,Saint Martinville,LA,70582,30.218071,-91.72101,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/1079-Sidney-Guidry-Rd-Saint-Martinville-LA-70582/106153617_zpid/
+1015 Berard Dumatrait Rd,Breaux Bridge,LA,70517,30.280125,-91.86884,5.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/1015-Berard-Dumatrait-Rd-Breaux-Bridge-LA-70517/106160770_zpid/
+1915 Michael St,Abbeville,LA,70510,29.96594,-92.116875,4.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/1915-Michael-St-Abbeville-LA-70510/106168749_zpid/
+5908 Stumberg Ln UNIT 27,Baton Rouge,LA,70816,30.395285,-91.04011,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/5908-Stumberg-Ln-UNIT-27-Baton-Rouge-LA-70816/108611392_zpid/
+273 Mahaffey Rd,Princeton,LA,71067,32.562496,-93.55012,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/273-Mahaffey-Rd-Princeton-LA-71067/109783699_zpid/
+2603 Palmetto Dr,Bossier City,LA,71111,32.574635,-93.717896,4.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/2603-Palmetto-Dr-Bossier-City-LA-71111/109794467_zpid/
+3231 Grand Lake Dr,Bossier City,LA,71111,32.619835,-93.70855,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/3231-Grand-Lake-Dr-Bossier-City-LA-71111/109813879_zpid/
+32470 Brandywood Dr,Denham Springs,LA,70706,30.539814,-90.96363,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/32470-Brandywood-Dr-Denham-Springs-LA-70706/110887119_zpid/
+604 Candleglow Dr,New Iberia,LA,70563,29.997503,-91.755325,4.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/604-Candleglow-Dr-New-Iberia-LA-70563/113162430_zpid/
+1033 Ursuline Ave,Shreveport,LA,71115,32.389656,-93.69998,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/1033-Ursuline-Ave-Shreveport-LA-71115/118318472_zpid/
+8936 Rue Blanc,Abbeville,LA,70510,30.018208,-92.11927,4.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/8936-Rue-Blanc-Abbeville-LA-70510/123443599_zpid/
+107 Darlene Dr,Lafayette,LA,70508,30.15905,-92.002884,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/107-Darlene-Dr-Lafayette-LA-70508/126836273_zpid/
+1927 E Milton Ave,Lafayette,LA,70508,30.111126,-92.03508,2.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/1927-E-Milton-Ave-Lafayette-LA-70508/140756190_zpid/
+3625 Hundred Oaks Ave,Baton Rouge,LA,70808,30.43261,-91.15229,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/3625-Hundred-Oaks-Ave-Baton-Rouge-LA-70808/188777457_zpid/
+43375 R Daigle Rd,Gonzales,LA,70737,30.238003,-90.87612,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/43375-R-Daigle-Rd-Gonzales-LA-70737/206834769_zpid/
+2422 Highway 121,Hineston,LA,71438,31.179192,-92.74492,0.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/2422-Highway-121-Hineston-LA-71438/209932400_zpid/
+12018 Haywards Dr,Maurice,LA,70555,30.082087,-92.18053,5.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/12018-Haywards-Dr-Maurice-LA-70555/226003132_zpid/
+211 Community St,New Roads,LA,70760,30.696175,-91.42838,2.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/211-Community-St-New-Roads-LA-70760/234014746_zpid/
+11507 Kindall Dr,Abbeville,LA,70510,30.003275,-92.166435,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/11507-Kindall-Dr-Abbeville-LA-70510/239665820_zpid/
+8561 Lemon Rd,Slaughter,LA,70777,30.704458,-91.0967,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/8561-Lemon-Rd-Slaughter-LA-70777/251067373_zpid/
+Emory Landing Rd,Deridder,LA,70634,30.7666,-93.11225,0.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/Emory-Landing-Rd-Deridder-LA-70634/305371229_zpid/
+Clifford Rd,Lake Charles,LA,70611,30.354227,-93.26677,,,Sold 02/16/2023,https://www.zillow.com/homedetails/Clifford-Rd-Lake-Charles-LA-70611/317301811_zpid/
+2410 Bald Cypress Dr,Baton Rouge,LA,70816,30.42867,-91.0211,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/2410-Bald-Cypress-Dr-Baton-Rouge-LA-70816/332939699_zpid/
+9152 Hearth Ln,Shreveport,LA,71129,,,4.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/9152-Hearth-Ln-Shreveport-LA-71129/2059134524_zpid/
+243 Jacks Cir,Ragley,LA,70657,30.469608,-93.1793,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/243-Jacks-Cir-Ragley-LA-70657/2059135508_zpid/
+LOT Morgan Shores Rd #A,Lake Arthur,LA,70549,,,,,Sold 02/16/2023,https://www.zillow.com/homedetails/LOT-Morgan-Shores-Rd-A-Lake-Arthur-LA-70549/2059973550_zpid/
+1555 Ravier Ln,Sunshine,LA,70780,,,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/1555-Ravier-Ln-Sunshine-LA-70780/2060195087_zpid/
+Arlington Dr,Metairie,LA,70001,,,,,Sold 02/16/2023,https://www.zillow.com/homedetails/Arlington-Dr-Metairie-LA-70001/2060210331_zpid/
+425 Madio Dr,Houma,LA,70364,,,4.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/425-Madio-Dr-Houma-LA-70364/2060210952_zpid/
+521 Independence Dr LOT 11,Houma,LA,70360,,,,,Sold 02/16/2023,https://www.zillow.com/homedetails/521-Independence-Dr-LOT-11-Houma-LA-70360/2060310706_zpid/
+43583 Collyns Cv LOT 9,Prairieville,LA,70769,,,,,Sold 02/16/2023,https://www.zillow.com/homedetails/43583-Collyns-Cv-LOT-9-Prairieville-LA-70769/2060484156_zpid/
+1007 Tanner Rd,Rayne,LA,70578,,,,,Sold 02/16/2023,https://www.zillow.com/homedetails/1007-Tanner-Rd-Rayne-LA-70578/2060522886_zpid/
+30717 Akers Way,Lacombe,LA,70445,,,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/30717-Akers-Way-Lacombe-LA-70445/2061199017_zpid/
+11612 Regal St,Denham Springs,LA,70726,,,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/11612-Regal-St-Denham-Springs-LA-70726/2061573455_zpid/
+314 Preserve Blvd,Bossier City,LA,71112,,,5.0,,Open: Sun. 2-4pm,https://www.zillow.com/homedetails/314-Preserve-Blvd-Bossier-City-LA-71112/2061692061_zpid/
+Division Rd LOT C,Saint Martinville,LA,70582,,,,,Sold 02/16/2023,https://www.zillow.com/homedetails/Division-Rd-LOT-C-Saint-Martinville-LA-70582/2062550142_zpid/
+125 Babineaux Rd #6,Sulphur,LA,70663,,,,,Sold 02/16/2023,https://www.zillow.com/homedetails/125-Babineaux-Rd-6-Sulphur-LA-70663/2062649096_zpid/
+17130 Tiger Bend Rd #3,Baton Rouge,LA,70817,,,,,Sold 02/16/2023,https://www.zillow.com/homedetails/17130-Tiger-Bend-Rd-3-Baton-Rouge-LA-70817/2063400533_zpid/
+11651 Willow Garden Ln LOT 372,Baton Rouge,LA,70810,,,,,Sold 02/16/2023,https://www.zillow.com/homedetails/11651-Willow-Garden-Ln-LOT-372-Baton-Rouge-LA-70810/2065452290_zpid/
+409 E Michigan St,Hammond,LA,70401,30.510176,-90.45818,,,Sold 02/16/2023,https://www.zillow.com/homedetails/409-E-Michigan-St-Hammond-LA-70401/2065919289_zpid/
+146 Martinique Ln,Sunset,LA,70584,,,4.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/146-Martinique-Ln-Sunset-LA-70584/2066361176_zpid/
+14533 Carla Dr LOT A,Walker,LA,70785,,,,,Sold 02/16/2023,https://www.zillow.com/homedetails/14533-Carla-Dr-LOT-A-Walker-LA-70785/2066660222_zpid/
+1060 Parker District Ave LOT 4,Saint Francisville,LA,70775,,,,,Sold 02/16/2023,https://www.zillow.com/homedetails/1060-Parker-District-Ave-LOT-4-Saint-Francisville-LA-70775/2072475887_zpid/
+14261 Forest Heights Subd Rd UNIT 29,Gonzales,LA,70737,30.276674,-90.89557,,,Sold 02/16/2023,https://www.zillow.com/homedetails/14261-Forest-Heights-Subd-Rd-UNIT-29-Gonzales-LA-70737/2077406078_zpid/
+2302 Marci Ct,Baton Rouge,LA,70807,30.55096,-91.16891,4.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/2302-Marci-Ct-Baton-Rouge-LA-70807/2082293152_zpid/
+9308 Pieta Ln,Baton Rouge,LA,70809,30.4141,-91.081,4.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/9308-Pieta-Ln-Baton-Rouge-LA-70809/2084710433_zpid/
+Berken Rd,Ragley,LA,70657,,,,,Sold 02/16/2023,https://www.zillow.com/homedetails/Berken-Rd-Ragley-LA-70657/2086828346_zpid/
+2021 S Woodcrest St,Denham Springs,LA,70726,30.466091,-90.96734,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/2021-S-Woodcrest-St-Denham-Springs-LA-70726/2092760677_zpid/
+8018 Versailles Dr,Denham Springs,LA,70706,30.5603,-90.9557,3.0,,Sold 02/16/2023,https://www.zillow.com/homedetails/8018-Versailles-Dr-Denham-Springs-LA-70706/2142918136_zpid/
+9037 Hilton Dr,Shreveport,LA,71118,32.407757,-93.81097,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/9037-Hilton-Dr-Shreveport-LA-71118/51324362_zpid/
+2862 Kaylin Dr,Shreveport,LA,71118,32.408516,-93.80737,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/2862-Kaylin-Dr-Shreveport-LA-71118/51324583_zpid/
+9557 Bonnydune Dr,Shreveport,LA,71106,32.38394,-93.76009,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/9557-Bonnydune-Dr-Shreveport-LA-71106/51329257_zpid/
+151 E Lister St,Shreveport,LA,71101,32.496964,-93.72922,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/151-E-Lister-St-Shreveport-LA-71101/51334214_zpid/
+172 Ockley Dr,Shreveport,LA,71105,32.471798,-93.71807,4.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/172-Ockley-Dr-Shreveport-LA-71105/51340907_zpid/
+3621 Greenway Pl,Shreveport,LA,71105,32.47342,-93.7231,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/3621-Greenway-Pl-Shreveport-LA-71105/51341804_zpid/
+1068 College St,Shreveport,LA,71104,32.49122,-93.753075,6.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/1068-College-St-Shreveport-LA-71104/51350762_zpid/
+4257 Hermosa Dr,Shreveport,LA,71119,32.461445,-93.87328,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/4257-Hermosa-Dr-Shreveport-LA-71119/51377137_zpid/
+3132 Seminole Dr,Shreveport,LA,71107,32.52734,-93.83138,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/3132-Seminole-Dr-Shreveport-LA-71107/51385902_zpid/
+43121 Beacon St,Prairieville,LA,70769,30.324993,-90.93724,4.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/43121-Beacon-St-Prairieville-LA-70769/55647687_zpid/
+1935 Cherokee St,Baton Rouge,LA,70806,30.441475,-91.16823,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/1935-Cherokee-St-Baton-Rouge-LA-70806/66230142_zpid/
+6240 Feather Nest Ln,Baton Rouge,LA,70817,30.394526,-90.978165,4.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/6240-Feather-Nest-Ln-Baton-Rouge-LA-70817/66230771_zpid/
+10722 Erin Vale Ave,Baton Rouge,LA,70810,30.372095,-91.09377,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/10722-Erin-Vale-Ave-Baton-Rouge-LA-70810/66245228_zpid/
+848 S Eugene St,Baton Rouge,LA,70806,30.440893,-91.16022,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/848-S-Eugene-St-Baton-Rouge-LA-70806/66265651_zpid/
+2525 Galahad Dr,Baton Rouge,LA,70816,30.427895,-91.04355,4.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/2525-Galahad-Dr-Baton-Rouge-LA-70816/66307366_zpid/
+16245 Morel Ave,Baton Rouge,LA,70817,30.382545,-91.0035,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/16245-Morel-Ave-Baton-Rouge-LA-70817/66357579_zpid/
+252 Ponderosa Dr,Baton Rouge,LA,70819,30.461054,-91.027756,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/252-Ponderosa-Dr-Baton-Rouge-LA-70819/66357950_zpid/
+9237 Baker Dr,Baton Rouge,LA,70809,30.413296,-91.08423,4.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/9237-Baker-Dr-Baton-Rouge-LA-70809/66360550_zpid/
+4518 Y A Tittle Ave APT 12,Baton Rouge,LA,70820,30.394594,-91.182274,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/4518-Y-A-Tittle-Ave-APT-12-Baton-Rouge-LA-70820/66808143_zpid/
+4516 Lefkoe St,Metairie,LA,70006,30.018852,-90.19146,,,Sold 02/15/2023,https://www.zillow.com/homedetails/4516-Lefkoe-St-Metairie-LA-70006/73717942_zpid/
+739 Phosphor Ave,Metairie,LA,70005,30.000814,-90.13879,2.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/739-Phosphor-Ave-Metairie-LA-70005/73718609_zpid/
+6500 Avenue A,New Orleans,LA,70124,30.010557,-90.11666,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/6500-Avenue-A-New-Orleans-LA-70124/73848496_zpid/
+2927 Sam Houston Forest Dr,Lake charles,LA,70611,30.33752,-93.26087,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/2927-Sam-Houston-Forest-Dr-Lake-Charles-LA-70611/77604071_zpid/
+2020 5th St,Lake Charles,LA,70601,30.22115,-93.191246,,,Sold 02/15/2023,https://www.zillow.com/homedetails/2020-5th-St-Lake-Charles-LA-70601/77615105_zpid/
+204 Caledonia Dr,Lafayette,LA,70508,30.133844,-92.039925,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/204-Caledonia-Dr-Lafayette-LA-70508/77660303_zpid/
+510 Beverly Dr,Lafayette,LA,70503,30.195444,-92.02274,2.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/510-Beverly-Dr-Lafayette-LA-70503/77666351_zpid/
+115 Keller St,Lafayette,LA,70503,30.19885,-92.007996,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/115-Keller-St-Lafayette-LA-70503/77670518_zpid/
+112 Ned L St,Broussard,LA,70518,30.1417,-91.95632,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/112-Ned-L-St-Broussard-LA-70518/77674038_zpid/
+311 Live Oak Dr,Lafayette,LA,70503,30.194813,-92.0478,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/311-Live-Oak-Dr-Lafayette-LA-70503/77674729_zpid/
+2170 Highway 457,Alexandria,LA,71302,31.205034,-92.3552,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/2170-Highway-457-Alexandria-LA-71302/77710422_zpid/
+201 Alida St,Hammond,LA,70403,30.50007,-90.51072,4.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/201-Alida-St-Hammond-LA-70403/77735365_zpid/
+412 Windward Dr,Houma,LA,70360,29.588736,-90.75349,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/412-Windward-Dr-Houma-LA-70360/77766358_zpid/
+289 Tyler Christian Dr,Houma,LA,70360,29.60945,-90.81408,4.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/289-Tyler-Christian-Dr-Houma-LA-70360/77766615_zpid/
+5478 Joe Courville Rd,Vinton,LA,70668,30.18277,-93.57065,3.0,$109900.0,Sold 02/15/2023,https://www.zillow.com/homedetails/5478-Joe-Courville-Rd-Vinton-LA-70668/81668077_zpid/
+44062 Maurice Bourgeois Rd,Saint Amant,LA,70774,30.248503,-90.86824,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/44062-Maurice-Bourgeois-Rd-Saint-Amant-LA-70774/82308420_zpid/
+126 Grand Rue De Josh,Opelousas,LA,70570,30.465584,-92.10881,4.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/126-Grand-Rue-De-Josh-Opelousas-LA-70570/106129448_zpid/
+708 Bankston Dr,Bogalusa,LA,70427,30.802427,-89.845695,4.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/708-Bankston-Dr-Bogalusa-LA-70427/106190375_zpid/
+5601 Bayou Dr,Bossier City,LA,71112,32.447983,-93.644875,4.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/5601-Bayou-Dr-Bossier-City-LA-71112/109790642_zpid/
+184 Doyal Rd,Benton,LA,71006,32.73666,-93.778275,6.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/184-Doyal-Rd-Benton-LA-71006/109799006_zpid/
+629 Alder Ln,Bossier City,LA,71111,32.622074,-93.73464,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/629-Alder-Ln-Bossier-City-LA-71111/109823377_zpid/
+209 S Madison Ct,Bossier City,LA,71111,32.564083,-93.71789,4.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/209-S-Madison-Ct-Bossier-City-LA-71111/109829264_zpid/
+4412 Ellis Ct,Benton,LA,71006,32.649036,-93.716896,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/4412-Ellis-Ct-Benton-LA-71006/109832600_zpid/
+8749 Fairoaks St,Denham Springs,LA,70726,30.437124,-90.94294,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/8749-Fairoaks-St-Denham-Springs-LA-70726/110887755_zpid/
+201 Swallows Pass,Carencro,LA,70520,30.304647,-92.082115,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/201-Swallows-Pass-Carencro-LA-70520/110903813_zpid/
+38314 Caneel Bay Ct,Gonzales,LA,70737,30.28166,-90.96356,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/38314-Caneel-Bay-Ct-Gonzales-LA-70737/113068564_zpid/
+1824 Elk St,Morgan City,LA,70380,29.698341,-91.18473,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/1824-Elk-St-Morgan-City-LA-70380/115215079_zpid/
+4990 Joan Marie Dr,Barataria,LA,70036,29.691631,-90.10323,,,Sold 02/15/2023,https://www.zillow.com/homedetails/4990-Joan-Marie-Dr-Barataria-LA-70036/117972831_zpid/
+7 Duperier Oaks Dr,New Iberia,LA,70563,30.015352,-91.80795,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/7-Duperier-Oaks-Dr-New-Iberia-LA-70563/123375428_zpid/
+310 Elmwood Dr,Lafayette,LA,70503,30.175173,-92.06536,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/310-Elmwood-Dr-Lafayette-LA-70503/126792369_zpid/
+305 Cypress View Dr,Youngsville,LA,70592,30.088863,-92.01579,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/305-Cypress-View-Dr-Youngsville-LA-70592/145627403_zpid/
+6017 Pepper Tree Dr,Alexandria,LA,71303,31.267712,-92.503296,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/6017-Pepper-Tree-Dr-Alexandria-LA-71303/209905567_zpid/
+141 Versailles Blvd,Alexandria,LA,71303,31.285152,-92.504105,0.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/141-Versailles-Blvd-Alexandria-LA-71303/209938339_zpid/
+30854 Wild Iris Way,Springfield,LA,70462,30.416397,-90.56788,4.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/30854-Wild-Iris-Way-Springfield-LA-70462/210281296_zpid/
+228 Rue Max,Houma,LA,70364,29.637545,-90.756386,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/228-Rue-Max-Houma-LA-70364/213717602_zpid/
+409 Beth Dr,Franklin,LA,70538,29.796436,-91.49723,,,Sold 02/15/2023,https://www.zillow.com/homedetails/409-Beth-Dr-Franklin-LA-70538/226423437_zpid/
+2304 Cedar Ln,Sulphur,LA,70663,30.219513,-93.35023,,,Sold 02/15/2023,https://www.zillow.com/homedetails/2304-Cedar-Ln-Sulphur-LA-70663/242796435_zpid/
+1911 Hodges St,Lake Charles,LA,70601,30.21372,-93.215805,2.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/1911-Hodges-St-Lake-Charles-LA-70601/242800413_zpid/
+1947 Chandler Ave,Lake Charles,LA,70607,30.169931,-93.19371,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/1947-Chandler-Ave-Lake-Charles-LA-70607/243017298_zpid/
+12059 Amsterdam Ave,Geismar,LA,70734,30.241709,-90.97794,4.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/12059-Amsterdam-Ave-Geismar-LA-70734/247120683_zpid/
+39161 Superior Wood Ave,Gonzales,LA,70737,30.245789,-90.9468,4.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/39161-Superior-Wood-Ave-Gonzales-LA-70737/247121104_zpid/
+203 San Sebastian Dr,Youngsville,LA,70592,30.071344,-92.03142,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/203-San-Sebastian-Dr-Youngsville-LA-70592/249654128_zpid/
+234 Tennyson Dr,Broussard,LA,70518,30.139566,-91.98673,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/234-Tennyson-Dr-Broussard-LA-70518/295456160_zpid/
+4265 Billops St,Baton Rouge,LA,70802,30.461107,-91.14716,2.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/4265-Billops-St-Baton-Rouge-LA-70802/317170324_zpid/
+2767 79th Ave,Baton Rouge,LA,70807,30.520227,-91.16347,4.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/2767-79th-Ave-Baton-Rouge-LA-70807/332938679_zpid/
+945 Mary Diane McCall Dr,Lake Charles,LA,70605,,,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/945-Mary-Diane-McCall-Dr-Lake-Charles-LA-70605/2059133599_zpid/
+621 Caledonia Dr,Bossier City,LA,71111,,,5.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/621-Caledonia-Dr-Bossier-City-LA-71111/2059247024_zpid/
+1088-C Landry Lane Ln,Morgan City,LA,70380,,,2.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/1088-C-Landry-Lane-Ln-Morgan-City-LA-70380/2059540362_zpid/
+133 Brimestone Loop,Benton,LA,71006,,,4.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/133-Brimestone-Loop-Benton-LA-71006/2059546844_zpid/
+138 Lightbourne Dr,Lafayette,LA,70506,,,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/138-Lightbourne-Dr-Lafayette-LA-70506/2059548291_zpid/
+99999 Hebron Rd,Homer,LA,71040,,,,,Sold 02/15/2023,https://www.zillow.com/homedetails/99999-Hebron-Rd-Homer-LA-71040/2059759208_zpid/
+TRACT Three Evangeline Dr #B,Donaldsonville,LA,70346,,,,,Sold 02/15/2023,https://www.zillow.com/homedetails/TRACT-Three-Evangeline-Dr-B-Donaldsonville-LA-70346/2059927168_zpid/
+130 Meadow Glen Dr,Youngsville,LA,70592,30.118137,-92.01218,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/130-Meadow-Glen-Dr-Youngsville-LA-70592/2060121897_zpid/
+Lakewood Pointe 31 Ln #31,Lake Charles,LA,70605,,,,,Sold 02/15/2023,https://www.zillow.com/homedetails/Lakewood-Pointe-31-Ln-31-Lake-Charles-LA-70605/2060191132_zpid/
+605-609 Coolidge St,Lafayette,LA,70503,,,,,Sold 02/15/2023,https://www.zillow.com/homedetails/605-609-Coolidge-St-Lafayette-LA-70503/2060210204_zpid/
+3555 Grand Caillou Rd,Houma,LA,70363,,,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/3555-Grand-Caillou-Rd-Houma-LA-70363/2060221626_zpid/
+5001 Drake Ln LOT 137,Grand Isle,LA,70358,,,,,Sold 02/15/2023,https://www.zillow.com/homedetails/5001-Drake-Ln-LOT-137-Grand-Isle-LA-70358/2060260134_zpid/
+614 High Way,Haughton,LA,71037,,,,,Sold 02/15/2023,https://www.zillow.com/homedetails/614-High-Way-Haughton-LA-71037/2060280428_zpid/
+LOT 3 Highway 311 LOT 3,Schriever,LA,70395,,,,,Sold 02/15/2023,https://www.zillow.com/homedetails/LOT-3-Highway-311-LOT-3-Schriever-LA-70395/2060298259_zpid/
+17097 Shearwater Trce,Prairieville,LA,70769,,,4.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/17097-Shearwater-Trce-Prairieville-LA-70769/2060331699_zpid/
+23172 Wilton Dr,Denham Springs,LA,70726,,,4.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/23172-Wilton-Dr-Denham-Springs-LA-70726/2060355271_zpid/
+41205 Marsh Ln,Gonzales,LA,70737,,,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/41205-Marsh-Ln-Gonzales-LA-70737/2060398687_zpid/
+13117 State Highway 10,Saint Francisville,LA,70775,,,4.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/13117-State-Highway-10-Saint-Francisville-LA-70775/2060681308_zpid/
+135 Lightbourne Dr,Lafayette,LA,70506,,,4.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/135-Lightbourne-Dr-Lafayette-LA-70506/2060943220_zpid/
+Peggy Ln #11,Lake Charles,LA,70607,,,,,Sold 02/15/2023,https://www.zillow.com/homedetails/Peggy-Ln-11-Lake-Charles-LA-70607/2060966258_zpid/
+18494 Ardoin Cove Rd,Iowa,LA,70647,,,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/18494-Ardoin-Cove-Rd-Iowa-LA-70647/2060975129_zpid/
+304 Big Lake Run,Youngsville,LA,70592,,,4.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/304-Big-Lake-Run-Youngsville-LA-70592/2061050481_zpid/
+7225 Laurel Ridge Dr,Greenwood,LA,71033,32.437225,-93.952805,3.0,$274700.0,Sold 02/15/2023,https://www.zillow.com/homedetails/7225-Laurel-Ridge-Dr-Greenwood-LA-71033/2061088939_zpid/
+6110 Main St,Ville Platte,LA,70586,,,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/6110-Main-St-Ville-Platte-LA-70586/2061362576_zpid/
+4334 Boulonnais Ave,Baton Rouge,LA,70820,,,4.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/4334-Boulonnais-Ave-Baton-Rouge-LA-70820/2061553856_zpid/
+1758 Park Place Dr,Lake Charles,LA,70607,,,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/1758-Park-Place-Dr-Lake-Charles-LA-70607/2061999256_zpid/
+1773 Downing Rd,Lake Charles,LA,70611,,,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/1773-Downing-Rd-Lake-Charles-LA-70611/2062307008_zpid/
+4507 Grenache Dr,Baton Rouge,LA,70817,,,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/4507-Grenache-Dr-Baton-Rouge-LA-70817/2062487621_zpid/
+2915 General Mitchell St,Lake Charles,LA,70615,30.202465,-93.174904,4.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/2915-General-Mitchell-St-Lake-Charles-LA-70615/2063259676_zpid/
+Perchville Hwy,Eunice,LA,70535,,,,,Sold 02/15/2023,https://www.zillow.com/homedetails/Perchville-Hwy-Eunice-LA-70535/2064221792_zpid/
+313 Dua Ln,Lafayette,LA,70508,,,4.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/313-Dua-Ln-Lafayette-LA-70508/2065687184_zpid/
+17827 W Colony Way,Baton Rouge,LA,70810,30.347694,-91.04194,4.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/17827-W-Colony-Way-Baton-Rouge-LA-70810/2067456631_zpid/
+158 Gulf View Road,Cameron,LA,70631,29.873775,-93.19124,,,Sold 02/15/2023,https://www.zillow.com/homedetails/158-Gulf-View-Road-Cameron-LA-70631/2071509377_zpid/
+172 Royal Oak Blvd,Thibodaux,LA,70301,,,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/172-Royal-Oak-Blvd-Thibodaux-LA-70301/2086137550_zpid/
+12643 Blackwater Rd,Baker,LA,70714,30.56933,-91.07236,3.0,,Sold 02/15/2023,https://www.zillow.com/homedetails/12643-Blackwater-Rd-Baker-LA-70714/2087314958_zpid/
+3525 Mackey Ln,Shreveport,LA,71118,32.41032,-93.823875,4.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/3525-Mackey-Ln-Shreveport-LA-71118/51325088_zpid/
+1401 Oden St UNIT 40,Shreveport,LA,71104,32.49209,-93.703964,1.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/1401-Oden-St-UNIT-40-Shreveport-LA-71104/51338436_zpid/
+5427 Sussex Ave,Shreveport,LA,71108,32.459293,-93.77307,2.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/5427-Sussex-Ave-Shreveport-LA-71108/51360079_zpid/
+4005 Buchanan St,Baker,LA,70714,30.583033,-91.157906,,,Sold 02/14/2023,https://www.zillow.com/homedetails/4005-Buchanan-St-Baker-LA-70714/66236798_zpid/
+1545 Perkins Rd,Baton Rouge,LA,70808,30.434914,-91.165924,2.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/1545-Perkins-Rd-Baton-Rouge-LA-70808/66239995_zpid/
+1450 Great Oak Dr,Baton Rouge,LA,70810,30.370632,-91.09293,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/1450-Great-Oak-Dr-Baton-Rouge-LA-70810/66244471_zpid/
+3164 Byron St,Baton Rouge,LA,70805,30.49331,-91.15801,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/3164-Byron-St-Baton-Rouge-LA-70805/66248085_zpid/
+352 East Dr,Baton Rouge,LA,70806,30.44554,-91.14982,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/352-East-Dr-Baton-Rouge-LA-70806/66274778_zpid/
+425 Westmoreland Dr,Baton Rouge,LA,70806,30.445091,-91.15347,2.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/425-Westmoreland-Dr-Baton-Rouge-LA-70806/66285988_zpid/
+714 N Allyson Dr,Baton Rouge,LA,70815,30.447765,-91.07263,4.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/714-N-Allyson-Dr-Baton-Rouge-LA-70815/66303642_zpid/
+11659 Sewanee Dr,Baton Rouge,LA,70816,30.428495,-91.05288,,,Sold 02/14/2023,https://www.zillow.com/homedetails/11659-Sewanee-Dr-Baton-Rouge-LA-70816/66304828_zpid/
+10971 Waverland Dr,Baton Rouge,LA,70815,30.455025,-91.06291,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/10971-Waverland-Dr-Baton-Rouge-LA-70815/66309564_zpid/
+1045 Broadmoor Cir,Baton Rouge,LA,70815,30.444304,-91.08776,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/1045-Broadmoor-Cir-Baton-Rouge-LA-70815/66315568_zpid/
+4615 Don Ave,Baker,LA,70714,30.589815,-91.15099,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/4615-Don-Ave-Baker-LA-70714/66336817_zpid/
+2616 Toulon Dr,Baton Rouge,LA,70816,30.426844,-91.06018,0.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/2616-Toulon-Dr-Baton-Rouge-LA-70816/66360040_zpid/
+3525 Berkley Hill Ave,Baton Rouge,LA,70809,30.41698,-91.08129,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/3525-Berkley-Hill-Ave-Baton-Rouge-LA-70809/66367654_zpid/
+20851 Pride Baywood Rd,Clinton,LA,70722,30.702543,-90.90099,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/20851-Pride-Baywood-Rd-Clinton-LA-70722/66382022_zpid/
+18411 Three Bars Dr,Baton Rouge,LA,70817,30.355062,-90.98835,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/18411-Three-Bars-Dr-Baton-Rouge-LA-70817/66807430_zpid/
+3609 Lake Winnipeg Dr,Harvey,LA,70058,29.856636,-90.04113,5.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/3609-Lake-Winnipeg-Dr-Harvey-LA-70058/73682949_zpid/
+601 Farrington Dr,Marrero,LA,70072,29.901865,-90.09118,,,Sold 02/14/2023,https://www.zillow.com/homedetails/601-Farrington-Dr-Marrero-LA-70072/73684640_zpid/
+5332 Oak Dr,Marrero,LA,70072,29.876963,-90.106026,2.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/5332-Oak-Dr-Marrero-LA-70072/73693023_zpid/
+2716 Dolores Dr,Marrero,LA,70072,29.836294,-90.11034,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/2716-Dolores-Dr-Marrero-LA-70072/73696134_zpid/
+652 Azalea Dr,Waggaman,LA,70094,29.945393,-90.2433,,,Sold 02/14/2023,https://www.zillow.com/homedetails/652-Azalea-Dr-Waggaman-LA-70094/73707338_zpid/
+4115 G St,Metairie,LA,70001,29.98759,-90.174644,,,Sold 02/14/2023,https://www.zillow.com/homedetails/4115-G-St-Metairie-LA-70001/73719529_zpid/
+4621 Shores Dr,Metairie,LA,70006,30.0199,-90.18943,4.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/4621-Shores-Dr-Metairie-LA-70006/73726228_zpid/
+3717 Ridgeway Dr,Metairie,LA,70002,30.01619,-90.148994,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/3717-Ridgeway-Dr-Metairie-LA-70002/73728797_zpid/
+4517 Purdue Dr,Metairie,LA,70003,30.019678,-90.21087,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/4517-Purdue-Dr-Metairie-LA-70003/73730052_zpid/
+1304 Wisteria Dr,Metairie,LA,70005,30.014317,-90.14025,4.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/1304-Wisteria-Dr-Metairie-LA-70005/73741659_zpid/
+8018 Olga St,Metairie,LA,70003,29.982643,-90.22221,,,Sold 02/14/2023,https://www.zillow.com/homedetails/8018-Olga-St-Metairie-LA-70003/73746295_zpid/
+5964 Argonne Blvd,New Orleans,LA,70124,29.998358,-90.10375,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/5964-Argonne-Blvd-New-Orleans-LA-70124/73775683_zpid/
+7300 Lakeshore Dr APT 5,New Orleans,LA,70124,30.022083,-90.11366,2.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/7300-Lakeshore-Dr-APT-5-New-Orleans-LA-70124/73776577_zpid/
+2413 Painters St,New Orleans,LA,70117,29.982641,-90.04956,4.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/2413-Painters-St-New-Orleans-LA-70117/73790672_zpid/
+6409 Saint Roch Ave,New Orleans,LA,70122,30.02461,-90.05623,4.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/6409-Saint-Roch-Ave-New-Orleans-LA-70122/73793928_zpid/
+13 Lake Breeze Dr UNIT 13,New Orleans,LA,70129,30.06452,-89.807236,2.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/13-Lake-Breeze-Dr-UNIT-13-New-Orleans-LA-70129/73825530_zpid/
+4121 Carondelet St,New Orleans,LA,70115,29.928047,-90.099335,2.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/4121-Carondelet-St-New-Orleans-LA-70115/73841769_zpid/
+2510 Dietz St,Lake Charles,LA,70601,30.207113,-93.2233,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/2510-Dietz-St-Lake-Charles-LA-70601/77617348_zpid/
+1192 Highway 115,Deville,LA,71328,31.365664,-92.16581,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/1192-Highway-115-Deville-LA-71328/77694582_zpid/
+248 Cherokee St APT 18B,New Orleans,LA,70118,29.936607,-90.13245,2.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/248-Cherokee-St-APT-18B-New-Orleans-LA-70118/84480244_zpid/
+332 Autumn Creek Dr,Madisonville,LA,70447,30.43092,-90.19619,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/332-Autumn-Creek-Dr-Madisonville-LA-70447/96151659_zpid/
+139 Spring Bayou Rd,Marksville,LA,71351,31.136791,-92.06095,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/139-Spring-Bayou-Rd-Marksville-LA-71351/106002085_zpid/
+3984 Shady Rdg,Zachary,LA,70791,30.64504,-91.17883,4.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/3984-Shady-Rdg-Zachary-LA-70791/108612972_zpid/
+1051 Spanish Moss Cir,Bossier City,LA,71111,32.618748,-93.708595,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/1051-Spanish-Moss-Cir-Bossier-City-LA-71111/109785494_zpid/
+2340 Northside Dr,Bossier City,LA,71111,32.538097,-93.71931,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/2340-Northside-Dr-Bossier-City-LA-71111/109787391_zpid/
+1358 Mark Ave,Bossier City,LA,71112,32.5105,-93.69198,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/1358-Mark-Ave-Bossier-City-LA-71112/109809472_zpid/
+120 Preston Bay Cir,Benton,LA,71006,32.652817,-93.6871,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/120-Preston-Bay-Cir-Benton-LA-71006/109818211_zpid/
+317 Brentwood Dr,Houma,LA,70360,29.569221,-90.75877,4.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/317-Brentwood-Dr-Houma-LA-70360/110383272_zpid/
+12765 Bonnie Bleu Dr,Denham Springs,LA,70726,30.448074,-90.871956,5.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/12765-Bonnie-Bleu-Dr-Denham-Springs-LA-70726/110880546_zpid/
+9274 Springfield Rd,Denham Springs,LA,70706,30.57981,-90.93365,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/9274-Springfield-Rd-Denham-Springs-LA-70706/110881671_zpid/
+37897 Nan Wesley Rd,Denham Springs,LA,70706,30.616959,-90.884125,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/37897-Nan-Wesley-Rd-Denham-Springs-LA-70706/110882206_zpid/
+37631 Rue De Lac,Denham Springs,LA,70706,30.600603,-90.935104,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/37631-Rue-De-Lac-Denham-Springs-LA-70706/110883101_zpid/
+9174 Chouteau Ct,Denham Springs,LA,70726,30.48177,-90.93579,4.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/9174-Chouteau-Ct-Denham-Springs-LA-70726/110898041_zpid/
+1415 Basswood Dr,Denham Springs,LA,70726,30.49705,-90.9353,4.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/1415-Basswood-Dr-Denham-Springs-LA-70726/110918703_zpid/
+718 Frenchmen St APT 3,New Orleans,LA,70116,29.964699,-90.057976,1.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/718-Frenchmen-St-APT-3-New-Orleans-LA-70116/114007872_zpid/
+520 E Louisiana State Dr,Kenner,LA,70065,30.0184,-90.265175,,,Sold 02/14/2023,https://www.zillow.com/homedetails/520-E-Louisiana-State-Dr-Kenner-LA-70065/117973301_zpid/
+930 N Roman St,New Orleans,LA,70116,29.967442,-90.073074,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/930-N-Roman-St-New-Orleans-LA-70116/126374049_zpid/
+1501 Marais St,New Orleans,LA,70116,29.969046,-90.06427,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/1501-Marais-St-New-Orleans-LA-70116/148977647_zpid/
+2521 Acacia St,New Orleans,LA,70122,29.996222,-90.05158,2.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/2521-Acacia-St-New-Orleans-LA-70122/148995404_zpid/
+6215 N Roman St,New Orleans,LA,70117,29.966309,-90.00627,,,Sold 02/14/2023,https://www.zillow.com/homedetails/6215-N-Roman-St-New-Orleans-LA-70117/149023649_zpid/
+25244 Chef Menteur Hwy,New Orleans,LA,70129,30.135607,-89.756294,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/25244-Chef-Menteur-Hwy-New-Orleans-LA-70129/149042668_zpid/
+1323 Saint Mary St #A,New Orleans,LA,70130,29.933334,-90.07543,1.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/1323-Saint-Mary-St-A-New-Orleans-LA-70130/149045367_zpid/
+3300 Saint Charles Ave APT 17,New Orleans,LA,70115,29.928501,-90.09011,0.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/3300-Saint-Charles-Ave-APT-17-New-Orleans-LA-70115/149070567_zpid/
+1227 Americana Blvd,Zachary,LA,70791,30.64959,-91.21058,4.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/1227-Americana-Blvd-Zachary-LA-70791/188789645_zpid/
+13541 Tiger Bend Rd,Baton Rouge,LA,70817,30.394732,-91.03368,,,Sold 02/14/2023,https://www.zillow.com/homedetails/13541-Tiger-Bend-Rd-Baton-Rouge-LA-70817/188793192_zpid/
+5013 Highway 28 E,Pineville,LA,71360,31.350292,-92.35708,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/5013-Highway-28-E-Pineville-LA-71360/209890688_zpid/
+9112 Devereaux Dr,Denham Springs,LA,70706,30.586126,-90.93504,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/9112-Devereaux-Dr-Denham-Springs-LA-70706/210263909_zpid/
+1921 Escude St,Mansura,LA,71350,31.061548,-92.04521,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/1921-Escude-St-Mansura-LA-71350/230242998_zpid/
+8151 Beechwood Loop,Olla,LA,71465,31.859015,-92.28144,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/8151-Beechwood-Loop-Olla-LA-71465/242404998_zpid/
+5729 Nelson Rd,Lake Charles,LA,70605,30.153734,-93.24901,,,Sold 02/14/2023,https://www.zillow.com/homedetails/5729-Nelson-Rd-Lake-Charles-LA-70605/242878586_zpid/
+14171 Coursey Cove Ave,Baton Rouge,LA,70817,30.411604,-91.02252,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/14171-Coursey-Cove-Ave-Baton-Rouge-LA-70817/247555544_zpid/
+8823 Black Birch Ave,Zachary,LA,70791,30.65675,-91.11349,4.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/8823-Black-Birch-Ave-Zachary-LA-70791/247555547_zpid/
+2805 New Orleans St,New Orleans,LA,70119,29.98636,-90.066315,0.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/2805-New-Orleans-St-New-Orleans-LA-70119/252074986_zpid/
+3915 Arkansas Ave,Kenner,LA,70065,30.027626,-90.244736,,,Sold 02/14/2023,https://www.zillow.com/homedetails/3915-Arkansas-Ave-Kenner-LA-70065/304205696_zpid/
+420 Wesley Coleman Rd,Longville,LA,70652,30.614511,-93.27899,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/420-Wesley-Coleman-Rd-Longville-LA-70652/315200725_zpid/
+Choupique Rd,Sulphur,LA,70665,30.151785,-93.43468,,,Sold 02/14/2023,https://www.zillow.com/homedetails/Choupique-Rd-Sulphur-LA-70665/317309810_zpid/
+900 Bartholomew St #315,New Orleans,LA,70117,29.963469,-90.0362,1.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/900-Bartholomew-St-315-New-Orleans-LA-70117/317339516_zpid/
+400-400 E Ansley Blvd,Alexandria,LA,71303,,,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/400-400-E-Ansley-Blvd-Alexandria-LA-71303/2059154414_zpid/
+836 Treasure Ln,Lake Charles,LA,70605,,,4.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/836-Treasure-Ln-Lake-Charles-LA-70605/2059244361_zpid/
+Gum Island Rd,Sulphur,LA,70665,,,,,Sold 02/14/2023,https://www.zillow.com/homedetails/Gum-Island-Rd-Sulphur-LA-70665/2059246324_zpid/
+207 Mill St,Jeanerette,LA,70544,29.916569,-91.667435,2.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/207-Mill-St-Jeanerette-LA-70544/2059566954_zpid/
+Lots 8 And 9 Packard St,Baton Rouge,LA,70811,,,,,Sold 02/14/2023,https://www.zillow.com/homedetails/Lots-8-And-9-Packard-St-Baton-Rouge-LA-70811/2059811186_zpid/
+30963 Wild Iris Way,Springfield,LA,70462,,,5.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/30963-Wild-Iris-Way-Springfield-LA-70462/2059954298_zpid/
+132 Adley Ave,Houma,LA,70364,,,4.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/132-Adley-Ave-Houma-LA-70364/2060209959_zpid/
+1751 Arkansas St LOT 12,Baton Rouge,LA,70802,,,,,Sold 02/14/2023,https://www.zillow.com/homedetails/1751-Arkansas-St-LOT-12-Baton-Rouge-LA-70802/2060263307_zpid/
+1611 E Washington St LOT 13,Baton Rouge,LA,70802,,,,,Sold 02/14/2023,https://www.zillow.com/homedetails/1611-E-Washington-St-LOT-13-Baton-Rouge-LA-70802/2060263760_zpid/
+143 Saint Edmunds Way,Bossier City,LA,71111,,,5.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/143-Saint-Edmunds-Way-Bossier-City-LA-71111/2060305915_zpid/
+13972 Barrington Ave,Denham Springs,LA,70726,,,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/13972-Barrington-Ave-Denham-Springs-LA-70726/2060331885_zpid/
+4176 Grassy Lake Dr,Bossier City,LA,71111,,,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/4176-Grassy-Lake-Dr-Bossier-City-LA-71111/2060558593_zpid/
+5544 Northwood Rd S,Shreveport,LA,71107,,,4.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/5544-Northwood-Rd-S-Shreveport-LA-71107/2060604777_zpid/
+1401 Elm Ave,Eunice,LA,70535,,,4.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/1401-Elm-Ave-Eunice-LA-70535/2060646910_zpid/
+168 Baja Trl,Thibodaux,LA,70301,29.73622,-90.75596,4.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/168-Baja-Trl-Thibodaux-LA-70301/2060675497_zpid/
+1545 Perkins Rd LOT 10 & 11,Baton Rouge,LA,70808,,,,,Sold 02/14/2023,https://www.zillow.com/homedetails/1545-Perkins-Rd-LOT-10-11-Baton-Rouge-LA-70808/2060946590_zpid/
+5432 Iris Hollow Rd,Slidell,LA,70461,,,4.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/5432-Iris-Hollow-Rd-Slidell-LA-70461/2061199009_zpid/
+8258 Treeline Dr,Gonzales,LA,70737,,,4.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/8258-Treeline-Dr-Gonzales-LA-70737/2061339028_zpid/
+9055 Worthington Ct,Alexandria,LA,71303,,,4.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/9055-Worthington-Ct-Alexandria-LA-71303/2061913846_zpid/
+122 Broussard Hill Dr,Broussard,LA,70518,,,4.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/122-Broussard-Hill-Dr-Broussard-LA-70518/2063041264_zpid/
+127 Broussard Hill Dr,Broussard,LA,70518,,,5.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/127-Broussard-Hill-Dr-Broussard-LA-70518/2063041952_zpid/
+241 Cane Run Ct,Duson,LA,70529,,,5.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/241-Cane-Run-Ct-Duson-LA-70529/2063444189_zpid/
+230 Cane Run Ct,Duson,LA,70529,,,5.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/230-Cane-Run-Ct-Duson-LA-70529/2065464698_zpid/
+20163 State Highway 42,Livingston,LA,70754,,,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/20163-State-Highway-42-Livingston-LA-70754/2067867849_zpid/
+19023 Merchants Trail Ave,Baton Rouge,LA,70817,30.356539,-90.97955,4.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/19023-Merchants-Trail-Ave-Baton-Rouge-LA-70817/2067888334_zpid/
+59735 Thomas Ross Dr,Plaquemine,LA,70764,,,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/59735-Thomas-Ross-Dr-Plaquemine-LA-70764/2076519234_zpid/
+8097 Kinslee Ln,Iowa,LA,70647,,,4.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/8097-Kinslee-Ln-Iowa-LA-70647/2078161818_zpid/
+13132 Elissa Ln,Baton Rouge,LA,70818,,,3.0,,Sold 02/14/2023,https://www.zillow.com/homedetails/13132-Elissa-Ln-Baton-Rouge-LA-70818/2078270012_zpid/
+7026 Preston Rd,Keithville,LA,71047,32.24975,-93.90183,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/7026-Preston-Rd-Keithville-LA-71047/51319596_zpid/
+9417 E Heatherstone Dr,Shreveport,LA,71129,32.39705,-93.84914,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/9417-E-Heatherstone-Dr-Shreveport-LA-71129/51330853_zpid/
+3805 Creswell Ave,Shreveport,LA,71106,32.470425,-93.74198,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/3805-Creswell-Ave-Shreveport-LA-71106/51342927_zpid/
+6439 Creswell Ave,Shreveport,LA,71106,32.44649,-93.73955,5.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/6439-Creswell-Ave-Shreveport-LA-71106/51346333_zpid/
+5912 Lexington Ave,Shreveport,LA,71106,32.453938,-93.7536,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/5912-Lexington-Ave-Shreveport-LA-71106/51368723_zpid/
+5115 Loyd Patrick Rd,Shreveport,LA,71107,32.60586,-93.86257,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/5115-Loyd-Patrick-Rd-Shreveport-LA-71107/51391997_zpid/
+5209 Berryville Ct,Baton Rouge,LA,70817,30.406141,-91.00732,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/5209-Berryville-Ct-Baton-Rouge-LA-70817/66235421_zpid/
+5344 Jackson Ave,Baton Rouge,LA,70806,30.4668,-91.1357,,,Sold 02/13/2023,https://www.zillow.com/homedetails/5344-Jackson-Ave-Baton-Rouge-LA-70806/66254627_zpid/
+345 Plantation Crest Ct,Baton Rouge,LA,70810,30.353577,-91.08066,4.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/345-Plantation-Crest-Ct-Baton-Rouge-LA-70810/66254837_zpid/
+9001 Kingcrest Pkwy,Baton Rouge,LA,70810,30.371399,-91.11988,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/9001-Kingcrest-Pkwy-Baton-Rouge-LA-70810/66265640_zpid/
+23811 Jim Price Rd,Greenwell Springs,LA,70739,30.697817,-90.90488,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/23811-Jim-Price-Rd-Greenwell-Springs-LA-70739/66267307_zpid/
+2236 E Contour Dr,Baton Rouge,LA,70809,30.429407,-91.08842,3.0,$170000.0,Sold 02/13/2023,https://www.zillow.com/homedetails/2236-E-Contour-Dr-Baton-Rouge-LA-70809/66282778_zpid/
+640 Maxine Dr,Baton Rouge,LA,70808,30.381182,-91.12411,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/640-Maxine-Dr-Baton-Rouge-LA-70808/66286678_zpid/
+9539 Great Smokey Ave,Baton Rouge,LA,70814,30.47652,-91.08204,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/9539-Great-Smokey-Ave-Baton-Rouge-LA-70814/66307519_zpid/
+484 Broadmoor Ave,Baton Rouge,LA,70815,30.449896,-91.09104,,,Sold 02/13/2023,https://www.zillow.com/homedetails/484-Broadmoor-Ave-Baton-Rouge-LA-70815/66314324_zpid/
+4400 Heath Dr,Baker,LA,70714,30.601881,-91.1533,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/4400-Heath-Dr-Baker-LA-70714/66341498_zpid/
+15344 Monica Ave,Baton Rouge,LA,70816,30.445473,-91.01507,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/15344-Monica-Ave-Baton-Rouge-LA-70816/66345542_zpid/
+12733 Country Ridge Ave,Baton Rouge,LA,70816,30.403118,-91.03884,,,Sold 02/13/2023,https://www.zillow.com/homedetails/12733-Country-Ridge-Ave-Baton-Rouge-LA-70816/66378640_zpid/
+9109 Compton Ct,Baton Rouge,LA,70809,30.418547,-91.08165,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/9109-Compton-Ct-Baton-Rouge-LA-70809/66801743_zpid/
+4045 Chestnut St,Marrero,LA,70072,29.886505,-90.08955,,,Sold 02/13/2023,https://www.zillow.com/homedetails/4045-Chestnut-St-Marrero-LA-70072/73687238_zpid/
+2741 Collette Dr,Marrero,LA,70072,29.816664,-90.1086,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/2741-Collette-Dr-Marrero-LA-70072/73698384_zpid/
+1215 Avenue H,Westwego,LA,70094,29.89601,-90.14804,,,Sold 02/13/2023,https://www.zillow.com/homedetails/1215-Avenue-H-Westwego-LA-70094/73703696_zpid/
+3809 Eastview Dr,Harvey,LA,70058,29.857237,-90.07403,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/3809-Eastview-Dr-Harvey-LA-70058/73706593_zpid/
+3013 Verna St,Metairie,LA,70003,30.003504,-90.202415,,,Sold 02/13/2023,https://www.zillow.com/homedetails/3013-Verna-St-Metairie-LA-70003/73725386_zpid/
+1229 Division St,Metairie,LA,70001,29.984709,-90.16412,4.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/1229-Division-St-Metairie-LA-70001/73747440_zpid/
+1710 Compromise St,Kenner,LA,70062,29.9883,-90.24104,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/1710-Compromise-St-Kenner-LA-70062/73754700_zpid/
+4125 Platt St,Kenner,LA,70065,30.040142,-90.2755,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/4125-Platt-St-Kenner-LA-70065/73759609_zpid/
+2515 Chartres St,New Orleans,LA,70117,29.964096,-90.052444,,,Sold 02/13/2023,https://www.zillow.com/homedetails/2515-Chartres-St-New-Orleans-LA-70117/73790203_zpid/
+2519 Chartres St,New Orleans,LA,70117,29.964108,-90.05235,4.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/2519-Chartres-St-New-Orleans-LA-70117/73795892_zpid/
+4824 Virgilian St,New Orleans,LA,70126,30.017406,-90.01718,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/4824-Virgilian-St-New-Orleans-LA-70126/73818450_zpid/
+5476 Grand Bayou Dr,New Orleans,LA,70129,30.041801,-89.92803,4.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/5476-Grand-Bayou-Dr-New-Orleans-LA-70129/73819050_zpid/
+3600 Mansfield Ave,New Orleans,LA,70131,29.916376,-89.98148,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/3600-Mansfield-Ave-New-Orleans-LA-70131/73829832_zpid/
+3719 Timber Bluff Ln,New Orleans,LA,70131,29.897696,-89.99808,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/3719-Timber-Bluff-Ln-New-Orleans-LA-70131/73831136_zpid/
+103 Danny Dr,New Orleans,LA,70131,29.935888,-90.00401,4.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/103-Danny-Dr-New-Orleans-LA-70131/73833281_zpid/
+1435 Octavia St,New Orleans,LA,70115,29.92755,-90.11409,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/1435-Octavia-St-New-Orleans-LA-70115/73835392_zpid/
+4901 S Claiborne Ave,New Orleans,LA,70125,29.940619,-90.107086,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/4901-S-Claiborne-Ave-New-Orleans-LA-70125/73836867_zpid/
+1419 E Houston River Rd,Sulphur,LA,70663,30.286333,-93.339195,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/1419-E-Houston-River-Rd-Sulphur-LA-70663/77593746_zpid/
+403 Starlin Dr,Sulphur,LA,70663,30.222046,-93.370995,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/403-Starlin-Dr-Sulphur-LA-70663/77607398_zpid/
+810 Post Oak Rd,Lake Charles,LA,70611,30.309687,-93.184204,4.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/810-Post-Oak-Rd-Lake-Charles-LA-70611/77615296_zpid/
+1604 Baez St,New Iberia,LA,70560,29.959806,-91.772575,,,Sold 02/13/2023,https://www.zillow.com/homedetails/1604-Baez-St-New-Iberia-LA-70560/77624312_zpid/
+223 Laken Ln,Lafayette,LA,70508,30.113789,-92.05863,4.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/223-Laken-Ln-Lafayette-LA-70508/77638288_zpid/
+212 Saxon Dr,Lafayette,LA,70508,30.180891,-92.029785,4.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/212-Saxon-Dr-Lafayette-LA-70508/77664707_zpid/
+201 Buffalo Run,Lafayette,LA,70503,30.135078,-92.08156,4.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/201-Buffalo-Run-Lafayette-LA-70503/77674130_zpid/
+128 Kirkwood Ln,Youngsville,LA,70592,30.116905,-92.01243,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/128-Kirkwood-Ln-Youngsville-LA-70592/77679944_zpid/
+4024 Huntwick Blvd,Alexandria,LA,71303,31.284582,-92.483696,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/4024-Huntwick-Blvd-Alexandria-LA-71303/77705780_zpid/
+108 Duet St,Houma,LA,70360,29.6183,-90.74861,2.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/108-Duet-St-Houma-LA-70360/77751183_zpid/
+211 Lasalle Dr,Bourg,LA,70343,29.558022,-90.60915,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/211-Lasalle-Dr-Bourg-LA-70343/77770353_zpid/
+10880 Walden Ferry Rd,Greenwood,LA,71033,32.438515,-94.03286,,,Sold 02/13/2023,https://www.zillow.com/homedetails/10880-Walden-Ferry-Rd-Greenwood-LA-71033/80862958_zpid/
+1317 Taylor St,Sulphur,LA,70663,30.222559,-93.36086,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/1317-Taylor-St-Sulphur-LA-70663/81667443_zpid/
+1031 Iris St,Lake Charles,LA,70601,30.224796,-93.2062,2.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/1031-Iris-St-Lake-Charles-LA-70601/81674596_zpid/
+809 Summer Breeze Dr APT 701,Baton Rouge,LA,70810,30.358753,-91.11702,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/809-Summer-Breeze-Dr-APT-701-Baton-Rouge-LA-70810/81895423_zpid/
+5222 Wildair Dr,New Orleans,LA,70122,30.011038,-90.06723,,,Sold 02/13/2023,https://www.zillow.com/homedetails/5222-Wildair-Dr-New-Orleans-LA-70122/84452876_zpid/
+4721 N Jace Matthew Ln,Iowa,LA,70647,30.159222,-93.11847,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/4721-N-Jace-Matthew-Ln-Iowa-LA-70647/91777204_zpid/
+74436 River Rd,Covington,LA,70435,30.51433,-90.09362,,,Sold 02/13/2023,https://www.zillow.com/homedetails/74436-River-Rd-Covington-LA-70435/96201153_zpid/
+Lincoln Rd,Monroe,LA,71202,32.439636,-92.07965,,,Sold 02/13/2023,https://www.zillow.com/homedetails/Lincoln-Rd-Monroe-LA-71202/101609288_zpid/
+2301 Edenborn Ave,Metairie,LA,70001,29.994284,-90.16233,,,Sold 02/13/2023,https://www.zillow.com/homedetails/2301-Edenborn-Ave-Metairie-LA-70001/103922669_zpid/
+4216 Transcontinental Dr,Metairie,LA,70006,30.01566,-90.1985,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/4216-Transcontinental-Dr-Metairie-LA-70006/103923980_zpid/
+303 Barrel Ln,Eunice,LA,70535,30.456675,-92.42773,4.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/303-Barrel-Ln-Eunice-LA-70535/105989662_zpid/
+113 Hickory St,Gloster,LA,71030,32.20149,-93.85048,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/113-Hickory-St-Gloster-LA-71030/106033890_zpid/
+195 Neil Way,Stonewall,LA,71078,32.323006,-93.76694,4.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/195-Neil-Way-Stonewall-LA-71078/106036337_zpid/
+107 J Alexander Rd,Logansport,LA,71049,31.984488,-93.94528,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/107-J-Alexander-Rd-Logansport-LA-71049/106041221_zpid/
+1094 Clifton Angelle Rd,Breaux Bridge,LA,70517,30.26867,-91.87853,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/1094-Clifton-Angelle-Rd-Breaux-Bridge-LA-70517/106161829_zpid/
+410 Country Club Dr,Benton,LA,71006,32.663662,-93.73039,4.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/410-Country-Club-Dr-Benton-LA-71006/109788458_zpid/
+1630 Williamsburg Dr,Bossier City,LA,71112,32.50714,-93.68669,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/1630-Williamsburg-Dr-Bossier-City-LA-71112/109791478_zpid/
+5003 Richland Pl,Bossier City,LA,71112,32.45625,-93.66604,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/5003-Richland-Pl-Bossier-City-LA-71112/109826046_zpid/
+1109 Bear Crk,Haughton,LA,71037,32.501846,-93.509056,4.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/1109-Bear-Crk-Haughton-LA-71037/109828216_zpid/
+120 Cedar Hills Dr,Youngsville,LA,70592,30.106817,-92.020935,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/120-Cedar-Hills-Dr-Youngsville-LA-70592/110905002_zpid/
+204 E Blackwell St,Oakdale,LA,71463,30.811216,-92.66157,4.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/204-E-Blackwell-St-Oakdale-LA-71463/115106808_zpid/
+302 Hebert St,Erath,LA,70533,29.960127,-92.03675,2.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/302-Hebert-St-Erath-LA-70533/116004323_zpid/
+227 Sugarland Est,Opelousas,LA,70570,30.499668,-92.04871,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/227-Sugarland-Est-Opelousas-LA-70570/119142627_zpid/
+133 Harvest Ct,Thibodaux,LA,70301,29.784397,-90.85572,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/133-Harvest-Ct-Thibodaux-LA-70301/119453487_zpid/
+37 Prairie Ave,New Iberia,LA,70560,30.002155,-91.81041,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/37-Prairie-Ave-New-Iberia-LA-70560/123375600_zpid/
+136 Milan Cir,Lafayette,LA,70508,30.154682,-92.05232,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/136-Milan-Cir-Lafayette-LA-70508/126788311_zpid/
+122 Ambiance Cir,Lafayette,LA,70508,30.13627,-92.030685,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/122-Ambiance-Cir-Lafayette-LA-70508/140785756_zpid/
+626 S Rocheblave St,New Orleans,LA,70119,29.958834,-90.089,,,Sold 02/13/2023,https://www.zillow.com/homedetails/626-S-Rocheblave-St-New-Orleans-LA-70119/148959490_zpid/
+835 Saint Louis St APT F,New Orleans,LA,70112,29.95733,-90.06726,1.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/835-Saint-Louis-St-APT-F-New-Orleans-LA-70112/148970203_zpid/
+3708 S Rocheblave St,New Orleans,LA,70125,29.947554,-90.10117,6.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/3708-S-Rocheblave-St-New-Orleans-LA-70125/149076652_zpid/
+2812 72nd Ave,Baton Rouge,LA,70807,30.514338,-91.16325,,,Sold 02/13/2023,https://www.zillow.com/homedetails/2812-72nd-Ave-Baton-Rouge-LA-70807/188660818_zpid/
+7264 Hanks Dr,Baton Rouge,LA,70812,30.495592,-91.1173,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/7264-Hanks-Dr-Baton-Rouge-LA-70812/188727657_zpid/
+1840 Pericles St,Baton Rouge,LA,70808,30.431953,-91.1635,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/1840-Pericles-St-Baton-Rouge-LA-70808/188800721_zpid/
+301 Teal Loop,West Monroe,LA,71291,32.5171,-92.21188,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/301-Teal-Loop-West-Monroe-LA-71291/198385497_zpid/
+24 Ball Powell St,Alexandria,LA,71301,31.30942,-92.46492,,,Sold 02/13/2023,https://www.zillow.com/homedetails/24-Ball-Powell-St-Alexandria-LA-71301/209919341_zpid/
+1707 W Main St,Ville Platte,LA,70586,30.694603,-92.297035,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/1707-W-Main-St-Ville-Platte-LA-70586/230448296_zpid/
+180 Greentree St,Doyline,LA,71023,32.533695,-93.40941,4.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/180-Greentree-St-Doyline-LA-71023/230569978_zpid/
+58030 Labauve Ave,Plaquemine,LA,70764,30.285654,-91.23456,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/58030-Labauve-Ave-Plaquemine-LA-70764/233429883_zpid/
+127 Almond Rd,Minden,LA,71055,32.629143,-93.22266,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/127-Almond-Rd-Minden-LA-71055/242517168_zpid/
+358 Saw Grass Loop,Covington,LA,70435,30.521353,-90.21265,4.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/358-Saw-Grass-Loop-Covington-LA-70435/251984207_zpid/
+1226 Delcambre Rd,Breaux Bridge,LA,70517,30.261154,-91.87556,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/1226-Delcambre-Rd-Breaux-Bridge-LA-70517/295045760_zpid/
+113 Hickory St,Iowa,LA,70647,30.23254,-93.01375,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/113-Hickory-St-Iowa-LA-70647/299406595_zpid/
+143 Gormley Ln,Grand Isle,LA,70358,29.19571,-90.074036,,,Sold 02/13/2023,https://www.zillow.com/homedetails/143-Gormley-Ln-Grand-Isle-LA-70358/304197481_zpid/
+500 Claiborne Ct,Jefferson,LA,70121,29.96207,-90.159836,,,Sold 02/13/2023,https://www.zillow.com/homedetails/500-Claiborne-Ct-Jefferson-LA-70121/304215941_zpid/
+133 Saint Rose Ave,Baton Rouge,LA,70806,30.44758,-91.16202,,,Sold 02/13/2023,https://www.zillow.com/homedetails/133-Saint-Rose-Ave-Baton-Rouge-LA-70806/317214671_zpid/
+3864 Lanier Dr,Baton Rouge,LA,70814,30.48586,-91.108154,,,Sold 02/13/2023,https://www.zillow.com/homedetails/3864-Lanier-Dr-Baton-Rouge-LA-70814/332938797_zpid/
+3619 S Kendrick Rd,Sulphur,LA,70663,,,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/3619-S-Kendrick-Rd-Sulphur-LA-70663/2059262452_zpid/
+119 Micah Edward,Maurice,LA,70555,,,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/119-Micah-Edward-Maurice-LA-70555/2059549078_zpid/
+47234 Highway 937 LOT 1-A,Saint Amant,LA,70774,,,,,Sold 02/13/2023,https://www.zillow.com/homedetails/47234-Highway-937-LOT-1-A-Saint-Amant-LA-70774/2060198114_zpid/
+420 Madio Dr,Houma,LA,70364,,,4.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/420-Madio-Dr-Houma-LA-70364/2060207673_zpid/
+13512 Marsala Ct,Baton Rouge,LA,70817,30.375277,-90.980225,4.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/13512-Marsala-Ct-Baton-Rouge-LA-70817/2060332709_zpid/
+4117-4119 Jupiter Dr,Chalmette,LA,70043,,,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/4117-4119-Jupiter-Dr-Chalmette-LA-70043/2060684894_zpid/
+7747 Amite Springs Dr,Denham Springs,LA,70706,,,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/7747-Amite-Springs-Dr-Denham-Springs-LA-70706/2061092895_zpid/
+0 Hedge Dr #4,Benton,LA,71006,,,,,Sold 02/13/2023,https://www.zillow.com/homedetails/0-Hedge-Dr-4-Benton-LA-71006/2062426547_zpid/
+35511 Grovemont Dr,Denham Springs,LA,70706,,,4.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/35511-Grovemont-Dr-Denham-Springs-LA-70706/2062611576_zpid/
+12418 Landry Ln LOT 10,Pt Allen,LA,70767,,,,,Sold 02/13/2023,https://www.zillow.com/homedetails/12418-Landry-Ln-LOT-10-Pt-Allen-LA-70767/2062931820_zpid/
+9506 Creekview Dr #G,Baton Rouge,LA,70836,,,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/9506-Creekview-Dr-G-Baton-Rouge-LA-70836/2064218992_zpid/
+408 S Polk St #2,Welsh,LA,70591,,,,,Sold 02/13/2023,https://www.zillow.com/homedetails/408-S-Polk-St-2-Welsh-LA-70591/2065775380_zpid/
+19052 Merchants Trail Ave,Baton Rouge,LA,70817,,,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/19052-Merchants-Trail-Ave-Baton-Rouge-LA-70817/2067320166_zpid/
+13147 Fowler Dr,Denham Springs,LA,70706,,,4.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/13147-Fowler-Dr-Denham-Springs-LA-70706/2067608026_zpid/
+133 Grace View Dr,Lafayette,LA,70506,,,4.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/133-Grace-View-Dr-Lafayette-LA-70506/2071770986_zpid/
+0 Sac Fox St,Shreveport,LA,71107,,,,,Sold 02/13/2023,https://www.zillow.com/homedetails/0-Sac-Fox-St-Shreveport-LA-71107/2072530617_zpid/
+90108 Basil Ln LOT 4,Saint Francisville,LA,70775,,,,,Sold 02/13/2023,https://www.zillow.com/homedetails/90108-Basil-Ln-LOT-4-Saint-Francisville-LA-70775/2077463943_zpid/
+1720-22 Marais St,New Orleans,LA,70116,,,,,Sold 02/13/2023,https://www.zillow.com/homedetails/1720-22-Marais-St-New-Orleans-LA-70116/2079263722_zpid/
+32 Magnolia Ct,Ponchatoula,LA,70454,,,4.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/32-Magnolia-Ct-Ponchatoula-LA-70454/2079287663_zpid/
+133 Saint Rose Ave,Baton Rouge,LA,70806,30.447588,-91.162025,3.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/133-Saint-Rose-Ave-Baton-Rouge-LA-70806/2085227469_zpid/
+1555 Sharlo Ave,Baton Rouge,LA,70820,30.39024,-91.18399,2.0,,Sold 02/13/2023,https://www.zillow.com/homedetails/1555-Sharlo-Ave-Baton-Rouge-LA-70820/2096799617_zpid/
+10860 Longfellow Trce,Shreveport,LA,71106,32.344135,-93.72147,5.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/10860-Longfellow-Trce-Shreveport-LA-71106/51322729_zpid/
+3001 Hoyte Dr,Shreveport,LA,71118,32.406086,-93.811325,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/3001-Hoyte-Dr-Shreveport-LA-71118/51324332_zpid/
+659 Slattery Blvd,Shreveport,LA,71104,32.47207,-93.743614,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/659-Slattery-Blvd-Shreveport-LA-71104/51336693_zpid/
+3512 Reily Ln,Shreveport,LA,71105,32.4801,-93.70871,4.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/3512-Reily-Ln-Shreveport-LA-71105/51339016_zpid/
+277 Leo Ave,Shreveport,LA,71105,32.462387,-93.72021,4.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/277-Leo-Ave-Shreveport-LA-71105/51341644_zpid/
+133 Deville Pl,Shreveport,LA,71115,32.424526,-93.69936,1.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/133-Deville-Pl-Shreveport-LA-71115/51349078_zpid/
+319 Colony Bnd,Shreveport,LA,71115,32.4164,-93.69334,2.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/319-Colony-Bnd-Shreveport-LA-71115/51349096_zpid/
+623 Stoney Creek Ave,Baton Rouge,LA,70808,30.36679,-91.126236,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/623-Stoney-Creek-Ave-Baton-Rouge-LA-70808/66226810_zpid/
+6011 Cottage Row Dr,Baton Rouge,LA,70817,30.394829,-90.99337,,,Sold 02/10/2023,https://www.zillow.com/homedetails/6011-Cottage-Row-Dr-Baton-Rouge-LA-70817/66229986_zpid/
+3045 Monroe Ave,Baton Rouge,LA,70802,30.469646,-91.158066,4.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/3045-Monroe-Ave-Baton-Rouge-LA-70802/66241148_zpid/
+5318 Sherwood St,Baton Rouge,LA,70805,30.489923,-91.13685,,,Sold 02/10/2023,https://www.zillow.com/homedetails/5318-Sherwood-St-Baton-Rouge-LA-70805/66244382_zpid/
+4761 Ritterman Ave,Baton Rouge,LA,70805,30.475054,-91.14221,2.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/4761-Ritterman-Ave-Baton-Rouge-LA-70805/66245489_zpid/
+2899 74th Ave,Baton Rouge,LA,70807,30.516436,-91.16174,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/2899-74th-Ave-Baton-Rouge-LA-70807/66248353_zpid/
+15145 Woodlore Dr,Baton Rouge,LA,70816,30.451485,-91.01424,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/15145-Woodlore-Dr-Baton-Rouge-LA-70816/66254294_zpid/
+350 E McKinley St,Baton Rouge,LA,70802,30.423618,-91.177795,,,Sold 02/10/2023,https://www.zillow.com/homedetails/350-E-McKinley-St-Baton-Rouge-LA-70802/66265809_zpid/
+2554 Torrey Pine Dr,Baton Rouge,LA,70816,30.4379,-91.035416,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/2554-Torrey-Pine-Dr-Baton-Rouge-LA-70816/66273533_zpid/
+11026 Ronson Dr,Greenwell Springs,LA,70739,30.55128,-90.99342,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/11026-Ronson-Dr-Greenwell-Springs-LA-70739/66282202_zpid/
+10847 Stone Pine Dr,Greenwell Springs,LA,70739,30.549652,-90.99414,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/10847-Stone-Pine-Dr-Greenwell-Springs-LA-70739/66282914_zpid/
+10522 Cedarbrook Dr,Baton Rouge,LA,70809,30.39641,-91.06868,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/10522-Cedarbrook-Dr-Baton-Rouge-LA-70809/66290419_zpid/
+420 N 25th St,Baton Rouge,LA,70802,30.451603,-91.16257,2.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/420-N-25th-St-Baton-Rouge-LA-70802/66293888_zpid/
+4770 Mimosa St,Baton Rouge,LA,70808,30.410528,-91.1429,,,Sold 02/10/2023,https://www.zillow.com/homedetails/4770-Mimosa-St-Baton-Rouge-LA-70808/66295216_zpid/
+4443 Blue Ribbon Dr,Baton Rouge,LA,70814,30.49006,-91.03747,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/4443-Blue-Ribbon-Dr-Baton-Rouge-LA-70814/66295432_zpid/
+155 Hazel St,Baton Rouge,LA,70802,30.435099,-91.18369,,,Sold 02/10/2023,https://www.zillow.com/homedetails/155-Hazel-St-Baton-Rouge-LA-70802/66297630_zpid/
+1850 Ramsey Dr,Baton Rouge,LA,70808,30.431437,-91.15244,2.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/1850-Ramsey-Dr-Baton-Rouge-LA-70808/66298344_zpid/
+19440 N Muirfield Cir,Baton Rouge,LA,70810,30.327328,-91.02092,5.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/19440-N-Muirfield-Cir-Baton-Rouge-LA-70810/66298568_zpid/
+12517 Warwick Ave,Baton Rouge,LA,70815,30.44486,-91.04452,5.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/12517-Warwick-Ave-Baton-Rouge-LA-70815/66310497_zpid/
+9574 Southmoor Dr,Baton Rouge,LA,70815,30.442255,-91.08189,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/9574-Southmoor-Dr-Baton-Rouge-LA-70815/66313287_zpid/
+9922 N Parkview Dr,Baton Rouge,LA,70815,30.446634,-91.07826,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/9922-N-Parkview-Dr-Baton-Rouge-LA-70815/66316284_zpid/
+6651 Avocado Dr,Baton Rouge,LA,70812,30.51233,-91.12476,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/6651-Avocado-Dr-Baton-Rouge-LA-70812/66331353_zpid/
+12244 Parklawn Ave,Baton Rouge,LA,70816,30.403646,-91.0448,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/12244-Parklawn-Ave-Baton-Rouge-LA-70816/66345326_zpid/
+4549 Blecker Dr,Baton Rouge,LA,70809,30.406384,-91.08958,4.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/4549-Blecker-Dr-Baton-Rouge-LA-70809/66351998_zpid/
+10314 Sagefield Dr,Baton Rouge,LA,70818,30.542261,-91.04676,5.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/10314-Sagefield-Dr-Baton-Rouge-LA-70818/66354756_zpid/
+16423 Ellis Ave,Baton Rouge,LA,70816,30.433434,-91.003716,,,Sold 02/10/2023,https://www.zillow.com/homedetails/16423-Ellis-Ave-Baton-Rouge-LA-70816/66358627_zpid/
+12556 Parknoll Ave,Baton Rouge,LA,70816,30.400333,-91.0415,4.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/12556-Parknoll-Ave-Baton-Rouge-LA-70816/66361225_zpid/
+1420 S Potwin Dr,Baton Rouge,LA,70810,30.358078,-91.07365,,,Sold 02/10/2023,https://www.zillow.com/homedetails/1420-S-Potwin-Dr-Baton-Rouge-LA-70810/66362901_zpid/
+9601 Prytania Ave,Baton Rouge,LA,70809,30.407528,-91.07861,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/9601-Prytania-Ave-Baton-Rouge-LA-70809/66385758_zpid/
+2115 Belle Pointe Aly,Baton Rouge,LA,70820,30.38653,-91.18278,2.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/2115-Belle-Pointe-Aly-Baton-Rouge-LA-70820/66808551_zpid/
+122 Grey Eagle Dr,Shreveport,LA,71115,32.429676,-93.687706,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/122-Grey-Eagle-Dr-Shreveport-LA-71115/70845154_zpid/
+12022 Brianna Ave,Baton Rouge,LA,70818,30.520924,-91.06254,4.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/12022-Brianna-Ave-Baton-Rouge-LA-70818/70847537_zpid/
+1125 Beechwood Dr,Harvey,LA,70058,29.896923,-90.06503,,,Sold 02/10/2023,https://www.zillow.com/homedetails/1125-Beechwood-Dr-Harvey-LA-70058/73681190_zpid/
+536 Avenue F,Marrero,LA,70072,29.90086,-90.09902,,,Sold 02/10/2023,https://www.zillow.com/homedetails/536-Avenue-F-Marrero-LA-70072/73684251_zpid/
+728 Lydia Ct,Marrero,LA,70072,29.899038,-90.09009,,,Sold 02/10/2023,https://www.zillow.com/homedetails/728-Lydia-Ct-Marrero-LA-70072/73685651_zpid/
+2604 Joy Ann Dr,Marrero,LA,70072,29.837688,-90.107376,,,Sold 02/10/2023,https://www.zillow.com/homedetails/2604-Joy-Ann-Dr-Marrero-LA-70072/73696759_zpid/
+3105 Kenta Dr,Marrero,LA,70072,29.848152,-90.12254,,,Sold 02/10/2023,https://www.zillow.com/homedetails/3105-Kenta-Dr-Marrero-LA-70072/73698146_zpid/
+4325 Lizabeth Dr,Marrero,LA,70072,29.865526,-90.092224,4.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/4325-Lizabeth-Dr-Marrero-LA-70072/73705857_zpid/
+634 Julius Ave,Jefferson,LA,70121,29.969168,-90.168335,,,Sold 02/10/2023,https://www.zillow.com/homedetails/634-Julius-Ave-Jefferson-LA-70121/73714847_zpid/
+6704 Phillip St,Metairie,LA,70003,29.9828,-90.2087,,,Sold 02/10/2023,https://www.zillow.com/homedetails/6704-Phillip-St-Metairie-LA-70003/73724366_zpid/
+565 Andrews Ave,Metairie,LA,70005,29.998,-90.130714,,,Sold 02/10/2023,https://www.zillow.com/homedetails/565-Andrews-Ave-Metairie-LA-70005/73733624_zpid/
+3740 Civic St,Metairie,LA,70001,29.97989,-90.16593,,,Sold 02/10/2023,https://www.zillow.com/homedetails/3740-Civic-St-Metairie-LA-70001/73737494_zpid/
+5605 Flagler St,Metairie,LA,70003,29.994513,-90.19849,4.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/5605-Flagler-St-Metairie-LA-70003/73738049_zpid/
+212 Trudeau Dr,Metairie,LA,70003,29.980213,-90.224686,,,Sold 02/10/2023,https://www.zillow.com/homedetails/212-Trudeau-Dr-Metairie-LA-70003/73753226_zpid/
+1 Heron St,New Orleans,LA,70124,30.020206,-90.086655,5.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/1-Heron-St-New-Orleans-LA-70124/73778784_zpid/
+13001 New Hampshire Dr,New Orleans,LA,70129,30.045877,-89.93488,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/13001-New-Hampshire-Dr-New-Orleans-LA-70129/73819647_zpid/
+170 Walnut St APT 4B,New Orleans,LA,70118,29.926765,-90.1331,2.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/170-Walnut-St-APT-4B-New-Orleans-LA-70118/73841847_zpid/
+2539 Octavia St,New Orleans,LA,70115,29.937899,-90.11133,5.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/2539-Octavia-St-New-Orleans-LA-70115/73842558_zpid/
+728 W Lagrange St,Lake charles,LA,70605,30.194864,-93.231705,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/728-W-Lagrange-St-Lake-Charles-LA-70605/77597679_zpid/
+4409 Ashland St,Lake charles,LA,70605,30.177574,-93.22709,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/4409-Ashland-St-Lake-Charles-LA-70605/77598574_zpid/
+502 McArthur St,Sulphur,LA,70663,30.234455,-93.38278,2.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/502-McArthur-St-Sulphur-LA-70663/77612014_zpid/
+502 Robert Lee Cir,Lafayette,LA,70506,30.223068,-92.047295,4.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/502-Robert-Lee-Cir-Lafayette-LA-70506/77640686_zpid/
+209 Medford Dr,Lafayette,LA,70507,30.289557,-92.01746,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/209-Medford-Dr-Lafayette-LA-70507/77651289_zpid/
+122 Satinwood Dr,Carencro,LA,70520,30.345284,-92.05113,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/122-Satinwood-Dr-Carencro-LA-70520/77651909_zpid/
+112 Wills Dr,Lafayette,LA,70506,30.168528,-92.0974,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/112-Wills-Dr-Lafayette-LA-70506/77664753_zpid/
+400 Vennard Ave,Lafayette,LA,70501,30.223116,-91.98121,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/400-Vennard-Ave-Lafayette-LA-70501/77676635_zpid/
+507 Harvest Dr,Lafayette,LA,70508,30.165236,-92.00589,2.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/507-Harvest-Dr-Lafayette-LA-70508/77681579_zpid/
+120 N Hillary Ave,Lafayette,LA,70506,30.190516,-92.09515,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/120-N-Hillary-Ave-Lafayette-LA-70506/77684884_zpid/
+106 Hershey Ct,Broussard,LA,70518,30.123446,-91.966835,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/106-Hershey-Ct-Broussard-LA-70518/77686357_zpid/
+310 Prince St,Pineville,LA,71360,31.309916,-92.42244,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/310-Prince-St-Pineville-LA-71360/77700511_zpid/
+3603 Bayou Rapides Rd,Alexandria,LA,71303,31.303593,-92.48374,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/3603-Bayou-Rapides-Rd-Alexandria-LA-71303/77701734_zpid/
+1025 Paradise Rd,Ball,LA,71405,31.411823,-92.39369,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/1025-Paradise-Rd-Ball-LA-71405/77715933_zpid/
+216 Beeson Dr,Ball,LA,71405,31.406626,-92.4154,4.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/216-Beeson-Dr-Ball-LA-71405/77715946_zpid/
+10240 Webb Rd,Hammond,LA,70403,30.464973,-90.544075,2.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/10240-Webb-Rd-Hammond-LA-70403/77743570_zpid/
+518 Harding Dr,Houma,LA,70364,29.623808,-90.73668,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/518-Harding-Dr-Houma-LA-70364/77750473_zpid/
+135 Blakefield Dr,Schriever,LA,70395,29.722033,-90.826256,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/135-Blakefield-Dr-Schriever-LA-70395/77773282_zpid/
+415 Albert St,Lake Charles,LA,70601,30.233753,-93.18851,,,Sold 02/10/2023,https://www.zillow.com/homedetails/415-Albert-St-Lake-Charles-LA-70601/81672362_zpid/
+328 Arceneaux Rd,Carencro,LA,70520,30.30975,-92.04275,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/328-Arceneaux-Rd-Carencro-LA-70520/81687871_zpid/
+403 Huntley Ave,Lafayette,LA,70508,30.184776,-92.03354,4.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/403-Huntley-Ave-Lafayette-LA-70508/81692059_zpid/
+18128 River Birch Dr,Prairieville,LA,70769,30.320103,-90.99835,4.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/18128-River-Birch-Dr-Prairieville-LA-70769/81821931_zpid/
+8155 Jefferson Hwy APT 607,Baton Rouge,LA,70809,30.423096,-91.102005,2.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/8155-Jefferson-Hwy-APT-607-Baton-Rouge-LA-70809/81894362_zpid/
+2017 Pleasure St,New Orleans,LA,70122,29.992899,-90.062874,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/2017-Pleasure-St-New-Orleans-LA-70122/84452258_zpid/
+207 Shelby Dr,Iowa,LA,70647,30.226086,-93.01591,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/207-Shelby-Dr-Iowa-LA-70647/91783035_zpid/
+1524 Belden St,Lake Charles,LA,70601,30.235447,-93.199165,,,Sold 02/10/2023,https://www.zillow.com/homedetails/1524-Belden-St-Lake-Charles-LA-70601/91783472_zpid/
+703 Glenmar Ave,Monroe,LA,71201,32.517048,-92.121376,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/703-Glenmar-Ave-Monroe-LA-71201/92474762_zpid/
+1170 Good Hope Rd,West Monroe,LA,71291,32.554146,-92.191605,2.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/1170-Good-Hope-Rd-West-Monroe-LA-71291/92498955_zpid/
+611 Dean St,Mandeville,LA,70448,30.372667,-90.025505,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/611-Dean-St-Mandeville-LA-70448/96150129_zpid/
+38055 Julia Dr,Pearl River,LA,70452,30.40405,-89.77047,,,Sold 02/10/2023,https://www.zillow.com/homedetails/38055-Julia-Dr-Pearl-River-LA-70452/96179593_zpid/
+27394 Tag A Long Rd,Lacombe,LA,70445,30.325315,-89.94758,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/27394-Tag-A-Long-Rd-Lacombe-LA-70445/96236347_zpid/
+12434 Steptoe Rd,Roseland,LA,70456,30.777885,-90.519485,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/12434-Steptoe-Rd-Roseland-LA-70456/102694304_zpid/
+4001 Metairie Ct,Metairie,LA,70002,30.0178,-90.14691,,,Sold 02/10/2023,https://www.zillow.com/homedetails/4001-Metairie-Ct-Metairie-LA-70002/103921863_zpid/
+2500 Manson Ave,Metairie,LA,70001,29.997171,-90.17472,,,Sold 02/10/2023,https://www.zillow.com/homedetails/2500-Manson-Ave-Metairie-LA-70001/103923657_zpid/
+1340 Bayou Mallet Hwy,Eunice,LA,70535,30.432007,-92.32866,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/1340-Bayou-Mallet-Hwy-Eunice-LA-70535/105977892_zpid/
+138 Paul Bellon Rd,Basile,LA,70515,30.479494,-92.59676,4.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/138-Paul-Bellon-Rd-Basile-LA-70515/105989818_zpid/
+444 Highway 3041,Bunkie,LA,71322,31.019682,-92.159164,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/444-Highway-3041-Bunkie-LA-71322/106007755_zpid/
+1947 Highway 107 S,Cottonport,LA,71327,30.955116,-92.025505,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/1947-Highway-107-S-Cottonport-LA-71327/106011073_zpid/
+1300 W 10th St,Deridder,LA,70634,30.836405,-93.29971,4.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/1300-W-10th-St-Deridder-LA-70634/106016930_zpid/
+120 E Hilly Ave,Ruston,LA,71270,32.51018,-92.63531,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/120-E-Hilly-Ave-Ruston-LA-71270/106093301_zpid/
+153 Aloys Cir,Natchitoches,LA,71457,31.747702,-93.073105,2.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/153-Aloys-Cir-Natchitoches-LA-71457/106099252_zpid/
+450 Camellia Ave,Eunice,LA,70535,30.500095,-92.41975,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/450-Camellia-Ave-Eunice-LA-70535/106144519_zpid/
+23428 Chuck Wagon Dr,Zachary,LA,70791,30.693853,-91.16975,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/23428-Chuck-Wagon-Dr-Zachary-LA-70791/108611070_zpid/
+5 Meadow Creek Dr,Bossier City,LA,71111,32.5622,-93.71157,1.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/5-Meadow-Creek-Dr-Bossier-City-LA-71111/109783001_zpid/
+503 Springfield Cir,Bossier City,LA,71112,32.45018,-93.66714,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/503-Springfield-Cir-Bossier-City-LA-71112/109790973_zpid/
+412 Blackwood Cir,Haughton,LA,71037,32.561592,-93.62139,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/412-Blackwood-Cir-Haughton-LA-71037/109798857_zpid/
+2208 Stockwell Rd,Bossier City,LA,71111,32.56588,-93.63674,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/2208-Stockwell-Rd-Bossier-City-LA-71111/109799744_zpid/
+112 Loop St,Bossier City,LA,71111,32.51336,-93.72861,2.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/112-Loop-St-Bossier-City-LA-71111/109804832_zpid/
+117 Chimney Ln,Haughton,LA,71037,32.56145,-93.59812,4.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/117-Chimney-Ln-Haughton-LA-71037/109804887_zpid/
+210 Butler Hill Rd,Benton,LA,71006,32.71349,-93.6807,4.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/210-Butler-Hill-Rd-Benton-LA-71006/109808237_zpid/
+3626 Amite River Dr,Bossier City,LA,71111,32.623245,-93.70978,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/3626-Amite-River-Dr-Bossier-City-LA-71111/109823239_zpid/
+5406 Coach Rd,Bossier City,LA,71111,32.564285,-93.65354,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/5406-Coach-Rd-Bossier-City-LA-71111/109831903_zpid/
+762 Hackberry Dr,Bossier City,LA,71111,32.619034,-93.73644,4.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/762-Hackberry-Dr-Bossier-City-LA-71111/109835453_zpid/
+14009 Morning Glory Ct,Walker,LA,70785,30.487818,-90.85364,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/14009-Morning-Glory-Ct-Walker-LA-70785/110878464_zpid/
+30915 S Summerfield Dr,Denham Springs,LA,70726,30.51521,-90.91952,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/30915-S-Summerfield-Dr-Denham-Springs-LA-70726/110885039_zpid/
+118 Tonbridge Dr,Lafayette,LA,70508,30.15756,-92.03539,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/118-Tonbridge-Dr-Lafayette-LA-70508/110901350_zpid/
+5500 Moss St,Lafayette,LA,70507,30.31456,-91.99943,7.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/5500-Moss-St-Lafayette-LA-70507/110901588_zpid/
+112 Arabie Ln,Rayne,LA,70578,30.14865,-92.16107,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/112-Arabie-Ln-Rayne-LA-70578/110904946_zpid/
+300 Lozes Ave APT 1002,Lafayette,LA,70508,30.170792,-92.013756,1.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/300-Lozes-Ave-APT-1002-Lafayette-LA-70508/110905812_zpid/
+3500 E Simcoe St #39,Lafayette,LA,70501,30.216389,-91.98288,2.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/3500-E-Simcoe-St-39-Lafayette-LA-70501/110908274_zpid/
+13408 Autumn Run Dr,Walker,LA,70785,30.518002,-90.866356,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/13408-Autumn-Run-Dr-Walker-LA-70785/114003073_zpid/
+240 Chimney Rock Blvd,Lafayette,LA,70508,30.125517,-92.03758,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/240-Chimney-Rock-Blvd-Lafayette-LA-70508/114247226_zpid/
+701 Rock Hill Rd,Bentley,LA,71407,31.504768,-92.51396,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/701-Rock-Hill-Rd-Bentley-LA-71407/115126820_zpid/
+273 Rock Hill Rd,Bentley,LA,71407,31.509909,-92.499954,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/273-Rock-Hill-Rd-Bentley-LA-71407/115127115_zpid/
+1323 Hooper Rd,Pineville,LA,71360,31.455788,-92.46453,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/1323-Hooper-Rd-Pineville-LA-71360/115128235_zpid/
+3585 Highway 8,Pollock,LA,71467,31.517736,-92.453995,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/3585-Highway-8-Pollock-LA-71467/115132615_zpid/
+1923 W Main St,Lutcher,LA,70071,30.043936,-90.69433,5.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/1923-W-Main-St-Lutcher-LA-70071/115193397_zpid/
+1102 Madrid Ave,Saint Gabriel,LA,70776,30.294336,-91.10724,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/1102-Madrid-Ave-Saint-Gabriel-LA-70776/119393379_zpid/
+105 Parkwood Dr,Houma,LA,70364,29.611315,-90.65789,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/105-Parkwood-Dr-Houma-LA-70364/119408397_zpid/
+304 Melanie Ln,Gray,LA,70359,29.67902,-90.729385,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/304-Melanie-Ln-Gray-LA-70359/119466019_zpid/
+122 W 11th St,Larose,LA,70373,29.567177,-90.37756,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/122-W-11th-St-Larose-LA-70373/119470433_zpid/
+1023 Bayou Blue By Pass Rd,Thibodaux,LA,70301,29.728277,-90.76837,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/1023-Bayou-Blue-By-Pass-Rd-Thibodaux-LA-70301/119474191_zpid/
+200 Harkey Dr,Thibodaux,LA,70301,29.822561,-90.810936,2.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/200-Harkey-Dr-Thibodaux-LA-70301/119479986_zpid/
+311 Jennifer St,Gray,LA,70359,29.67955,-90.73893,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/311-Jennifer-St-Gray-LA-70359/119486432_zpid/
+9199 Voltaire Ave,Denham Springs,LA,70706,30.564894,-90.93283,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/9199-Voltaire-Ave-Denham-Springs-LA-70706/120284529_zpid/
+2036 Fairwoods Dr,Shreveport,LA,71106,32.35964,-93.72583,4.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/2036-Fairwoods-Dr-Shreveport-LA-71106/121233763_zpid/
+10150 Winter Ct,Denham Springs,LA,70726,30.5141,-90.92039,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/10150-Winter-Ct-Denham-Springs-LA-70726/123286211_zpid/
+259 Millstone Dr,Thibodaux,LA,70301,29.788326,-90.854706,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/259-Millstone-Dr-Thibodaux-LA-70301/124855828_zpid/
+350 S Club Ave,Saint Gabriel,LA,70776,30.312136,-91.12009,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/350-S-Club-Ave-Saint-Gabriel-LA-70776/125578397_zpid/
+123 Ironside Dr,Lafayette,LA,70508,30.143194,-92.06463,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/123-Ironside-Dr-Lafayette-LA-70508/126834419_zpid/
+100 Saint Girons Dr,Lafayette,LA,70507,30.281372,-92.03338,,,Sold 02/10/2023,https://www.zillow.com/homedetails/100-Saint-Girons-Dr-Lafayette-LA-70507/140798399_zpid/
+117 Gideon Rd,Youngsville,LA,70592,30.06369,-91.98477,,,Sold 02/10/2023,https://www.zillow.com/homedetails/117-Gideon-Rd-Youngsville-LA-70592/140799772_zpid/
+118 Beauchamp Ln,Lafayette,LA,70506,30.164127,-92.09662,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/118-Beauchamp-Ln-Lafayette-LA-70506/145624473_zpid/
+2369 Rousseau St,New Orleans,LA,70130,29.923212,-90.07514,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/2369-Rousseau-St-New-Orleans-LA-70130/149043218_zpid/
+2921 Dickens Dr,New Orleans,LA,70131,29.920473,-89.98398,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/2921-Dickens-Dr-New-Orleans-LA-70131/149063494_zpid/
+1574 Kings Rd,Harvey,LA,70058,29.88165,-90.05043,,,Sold 02/10/2023,https://www.zillow.com/homedetails/1574-Kings-Rd-Harvey-LA-70058/178808852_zpid/
+2304 Justin Ln,Harvey,LA,70058,29.88227,-90.04797,,,Sold 02/10/2023,https://www.zillow.com/homedetails/2304-Justin-Ln-Harvey-LA-70058/178809335_zpid/
+1513 Kings Rd,Harvey,LA,70058,29.882347,-90.047966,,,Sold 02/10/2023,https://www.zillow.com/homedetails/1513-Kings-Rd-Harvey-LA-70058/178809343_zpid/
+1516 Kings Rd,Harvey,LA,70058,29.88254,-90.048225,,,Sold 02/10/2023,https://www.zillow.com/homedetails/1516-Kings-Rd-Harvey-LA-70058/178809357_zpid/
+2337 Justin Ln,Harvey,LA,70058,29.880821,-90.04756,,,Sold 02/10/2023,https://www.zillow.com/homedetails/2337-Justin-Ln-Harvey-LA-70058/178809685_zpid/
+2313 Justin Ln,Harvey,LA,70058,29.881605,-90.047585,,,Sold 02/10/2023,https://www.zillow.com/homedetails/2313-Justin-Ln-Harvey-LA-70058/178810261_zpid/
+2315 Justin Ln,Harvey,LA,70058,29.881573,-90.047585,,,Sold 02/10/2023,https://www.zillow.com/homedetails/2315-Justin-Ln-Harvey-LA-70058/178810264_zpid/
+761 N 39th St,Baton Rouge,LA,70802,30.455442,-91.15126,,,Sold 02/10/2023,https://www.zillow.com/homedetails/761-N-39th-St-Baton-Rouge-LA-70802/188676071_zpid/
+7719 N Maribel Ct,Baton Rouge,LA,70812,30.49178,-91.11173,4.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/7719-N-Maribel-Ct-Baton-Rouge-LA-70812/188728225_zpid/
+12285 Topaz Ln,Saint Francisville,LA,70775,30.832752,-91.31386,4.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/12285-Topaz-Ln-Saint-Francisville-LA-70775/194539319_zpid/
+1802 Dixie St,Alexandria,LA,71303,31.33116,-92.49334,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/1802-Dixie-St-Alexandria-LA-71303/209913205_zpid/
+708 Stewart St,Boyce,LA,71409,31.389961,-92.67298,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/708-Stewart-St-Boyce-LA-71409/209931924_zpid/
+500 2nd St,Rayne,LA,70578,30.231808,-92.27114,,,Sold 02/10/2023,https://www.zillow.com/homedetails/500-2nd-St-Rayne-LA-70578/225556565_zpid/
+141 Lesim Ln,Jennings,LA,70546,30.2481,-92.609505,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/141-Lesim-Ln-Jennings-LA-70546/225564376_zpid/
+1105 Red Cypress Rd,Patterson,LA,70392,29.693773,-91.31735,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/1105-Red-Cypress-Rd-Patterson-LA-70392/226430568_zpid/
+635 Teche Rd,Morgan City,LA,70380,29.69332,-91.26112,,,Sold 02/10/2023,https://www.zillow.com/homedetails/635-Teche-Rd-Morgan-City-LA-70380/226435308_zpid/
+404 E Solidell St,Chalmette,LA,70043,29.947836,-89.95705,,,Sold 02/10/2023,https://www.zillow.com/homedetails/404-E-Solidell-St-Chalmette-LA-70043/229359807_zpid/
+2513 Bartolo St,Meraux,LA,70075,29.936296,-89.93177,,,Sold 02/10/2023,https://www.zillow.com/homedetails/2513-Bartolo-St-Meraux-LA-70075/229373470_zpid/
+629 N Millet Ave,Gramercy,LA,70052,30.058834,-90.69437,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/629-N-Millet-Ave-Gramercy-LA-70052/232907485_zpid/
+59270 Island Dr,Plaquemine,LA,70764,30.279785,-91.2542,4.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/59270-Island-Dr-Plaquemine-LA-70764/233433935_zpid/
+3362 Highway 8,Pollock,LA,71467,31.517769,-92.455574,0.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/3362-Highway-8-Pollock-LA-71467/233452189_zpid/
+350 Crossing North St,Thibodaux,LA,70301,29.767727,-90.777985,4.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/350-Crossing-North-St-Thibodaux-LA-70301/239756115_zpid/
+763 Starlin Dr,Sulphur,LA,70663,30.221746,-93.3669,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/763-Starlin-Dr-Sulphur-LA-70663/242812954_zpid/
+820 Mathilda Dr,Sulphur,LA,70663,30.225384,-93.36804,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/820-Mathilda-Dr-Sulphur-LA-70663/242814928_zpid/
+775 E Burton St,Sulphur,LA,70663,30.241856,-93.37039,2.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/775-E-Burton-St-Sulphur-LA-70663/242875079_zpid/
+1027 Michelle Dr,Sulphur,LA,70663,30.234602,-93.336266,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/1027-Michelle-Dr-Sulphur-LA-70663/243016305_zpid/
+400 E Solidell St,Chalmette,LA,70043,29.94789,-89.95719,,,Sold 02/10/2023,https://www.zillow.com/homedetails/400-E-Solidell-St-Chalmette-LA-70043/245305672_zpid/
+114 Medalist Ave,Lafayette,LA,70503,30.171232,-92.08469,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/114-Medalist-Ave-Lafayette-LA-70503/245555578_zpid/
+9076 Cherry Laurel Ave,Zachary,LA,70791,30.658258,-91.11041,,,Sold 02/10/2023,https://www.zillow.com/homedetails/9076-Cherry-Laurel-Ave-Zachary-LA-70791/247555478_zpid/
+6521 Red Rose Dr,Baton Rouge,LA,70817,30.390955,-91.00314,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/6521-Red-Rose-Dr-Baton-Rouge-LA-70817/247555565_zpid/
+4392 Olivia Dr,Addis,LA,70710,30.374914,-91.2636,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/4392-Olivia-Dr-Addis-LA-70710/248099562_zpid/
+203 Grande St,Houma,LA,70363,29.586023,-90.695404,2.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/203-Grande-St-Houma-LA-70363/248167685_zpid/
+7245 Jadewood Dr,Shreveport,LA,71129,32.435833,-93.842094,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/7245-Jadewood-Dr-Shreveport-LA-71129/248585948_zpid/
+4518 Cherry Creek Rd,Shreveport,LA,71107,32.58851,-93.8838,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/4518-Cherry-Creek-Rd-Shreveport-LA-71107/248587574_zpid/
+105 Nation Rd,Deville,LA,71328,31.336452,-92.17351,8.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/105-Nation-Rd-Deville-LA-71328/248589911_zpid/
+370 Cotton Ln,Lake Charles,LA,70611,30.336567,-93.19508,3.0,$115000.0,Sold 02/10/2023,https://www.zillow.com/homedetails/370-Cotton-Ln-Lake-Charles-LA-70611/248902143_zpid/
+823 Martin Luther King Jr Dr,Lafayette,LA,70501,30.249395,-92.021996,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/823-Martin-Luther-King-Jr-Dr-Lafayette-LA-70501/249637316_zpid/
+7928 Settlers Cir,Baton Rouge,LA,70810,30.376192,-91.085144,4.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/7928-Settlers-Cir-Baton-Rouge-LA-70810/251967278_zpid/
+39209 Majestic Wood Ave,Gonzales,LA,70737,30.24373,-90.94771,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/39209-Majestic-Wood-Ave-Gonzales-LA-70737/252165364_zpid/
+4460 Park Shore Dr,Marrero,LA,70072,29.827883,-90.10077,,,Sold 02/10/2023,https://www.zillow.com/homedetails/4460-Park-Shore-Dr-Marrero-LA-70072/296386683_zpid/
+163 Labarre Dr,Metairie,LA,70001,29.981586,-90.15155,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/163-Labarre-Dr-Metairie-LA-70001/304201471_zpid/
+215 Stonewood Rd,Minden,LA,71055,32.715015,-93.399284,3.0,,Sold 02/10/2023,https://www.zillow.com/homedetails/215-Stonewood-Rd-Minden-LA-71055/311593686_zpid/
+3554 Plank Rd,Baton Rouge,LA,70805,30.4808,-91.1594,,,Sold 02/10/2023,https://www.zillow.com/homedetails/3554-Plank-Rd-Baton-Rouge-LA-70805/317179454_zpid/

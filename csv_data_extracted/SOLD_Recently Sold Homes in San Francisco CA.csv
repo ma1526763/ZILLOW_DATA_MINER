@@ -1,0 +1,801 @@
+street_address,city,state,zipCode,latitude,longitude,beds,sold_price,sold_date,property_link
+601 Van Ness Ave APT 729,San Francisco,CA,94102,37.78168,-122.42091,1,$515000.0,Sold 02/17/2023,https://www.zillow.com/homedetails/601-Van-Ness-Ave-APT-729-San-Francisco-CA-94102/15077790_zpid/
+888 7th St UNIT 208,San Francisco,CA,94107,37.77038,-122.40106,1,$416973.0,Sold 02/17/2023,https://www.zillow.com/homedetails/888-7th-St-UNIT-208-San-Francisco-CA-94107/89238460_zpid/
+100 Duboce Ave #502,San Francisco,CA,94103,,,1,$718181.0,Sold 02/17/2023,https://www.zillow.com/homedetails/100-Duboce-Ave-502-San-Francisco-CA-94103/2059923851_zpid/
+226 2nd Ave #3,San Francisco,CA,94118,,,1,$749000.0,Sold 02/17/2023,https://www.zillow.com/homedetails/226-2nd-Ave-3-San-Francisco-CA-94118/2060405319_zpid/
+135 Valencia St APT A307,San Francisco,CA,94103,37.771152,-122.42206,2,$715000.0,Sold 02/17/2023,https://www.zillow.com/homedetails/135-Valencia-St-APT-A307-San-Francisco-CA-94103/2069854052_zpid/
+343 Paul Ave,San Francisco,CA,94124,37.72303,-122.39914,2,$725000.0,Sold 02/15/2023,https://www.zillow.com/homedetails/343-Paul-Ave-San-Francisco-CA-94124/15159514_zpid/
+99 Rausch St UNIT 221,San Francisco,CA,94103,37.77637,-122.409164,1,$353498.0,Sold 02/15/2023,https://www.zillow.com/homedetails/99-Rausch-St-UNIT-221-San-Francisco-CA-94103/325647718_zpid/
+1219 Gilman Ave,San Francisco,CA,94124,37.72038,-122.392456,3,$650000.0,Sold 02/14/2023,https://www.zillow.com/homedetails/1219-Gilman-Ave-San-Francisco-CA-94124/15154584_zpid/
+5175 Diamond Heights Blvd APT 208,San Francisco,CA,94131,37.746204,-122.439926,2,$865000.0,Sold 02/13/2023,https://www.zillow.com/homedetails/5175-Diamond-Heights-Blvd-APT-208-San-Francisco-CA-94131/15199438_zpid/
+301 Crescent Ct APT 3417,San Francisco,CA,94134,37.711178,-122.38807,1,$550000.0,Sold 02/13/2023,https://www.zillow.com/homedetails/301-Crescent-Ct-APT-3417-San-Francisco-CA-94134/79845509_zpid/
+1220 La Playa St APT 303,San Francisco,CA,94122,37.763504,-122.50903,1,$329338.0,Sold 02/10/2023,https://www.zillow.com/homedetails/1220-La-Playa-St-APT-303-San-Francisco-CA-94122/15100792_zpid/
+1050 N Point St APT 508,San Francisco,CA,94109,37.805428,-122.42481,1,$760000.0,Sold 02/10/2023,https://www.zillow.com/homedetails/1050-N-Point-St-APT-508-San-Francisco-CA-94109/63196473_zpid/
+8200 Oceanview Ter APT 324,San Francisco,CA,94132,37.71016,-122.46747,2,$680000.0,Sold 02/10/2023,https://www.zillow.com/homedetails/8200-Oceanview-Ter-APT-324-San-Francisco-CA-94132/67090309_zpid/
+630 Mason St APT 802,San Francisco,CA,94108,37.789448,-122.41006,1,$730000.0,Sold 02/10/2023,https://www.zillow.com/homedetails/630-Mason-St-APT-802-San-Francisco-CA-94108/80755580_zpid/
+888 7th St UNIT 235,San Francisco,CA,94107,37.77038,-122.40106,1,$391048.0,Sold 02/10/2023,https://www.zillow.com/homedetails/888-7th-St-UNIT-235-San-Francisco-CA-94107/89239478_zpid/
+869 Vermont St,San Francisco,CA,94107,37.75868,-122.40361,1,$43000.0,Sold 02/09/2023,https://www.zillow.com/homedetails/869-Vermont-St-San-Francisco-CA-94107/15150333_zpid/
+41 Mount Vernon Ave,San Francisco,CA,94112,37.715122,-122.44369,2,$700000.0,Sold 02/09/2023,https://www.zillow.com/homedetails/41-Mount-Vernon-Ave-San-Francisco-CA-94112/15191698_zpid/
+1255 Oak St APT 3,San Francisco,CA,94117,37.772533,-122.43987,1,$740000.0,Sold 02/09/2023,https://www.zillow.com/homedetails/1255-Oak-St-APT-3-San-Francisco-CA-94117/2132955415_zpid/
+2225 23rd St UNIT 313,San Francisco,CA,94107,37.754463,-122.402245,2,$660000.0,Sold 02/08/2023,https://www.zillow.com/homedetails/2225-23rd-St-UNIT-313-San-Francisco-CA-94107/15152077_zpid/
+275 Burnett Ave APT 2,San Francisco,CA,94131,37.756752,-122.44575,1,$672500.0,Sold 02/07/2023,https://www.zillow.com/homedetails/275-Burnett-Ave-APT-2-San-Francisco-CA-94131/15130028_zpid/
+428 8th St #1,San Francisco,CA,94103,37.773155,-122.40824,1,$725000.0,Sold 02/07/2023,https://www.zillow.com/homedetails/428-8th-St-1-San-Francisco-CA-94103/80741094_zpid/
+100 Duboce Ave #203,San Francisco,CA,94103,,,1,$638000.0,Sold 02/07/2023,https://www.zillow.com/homedetails/100-Duboce-Ave-203-San-Francisco-CA-94103/2059923852_zpid/
+3036 Fulton St #4,San Francisco,CA,94118,,,2,$625000.0,Sold 02/07/2023,https://www.zillow.com/homedetails/3036-Fulton-St-4-San-Francisco-CA-94118/2061156938_zpid/
+428 8th St APT 101,San Francisco,CA,94103,37.773155,-122.40824,1,$725000.0,Sold 02/07/2023,https://www.zillow.com/homedetails/428-8th-St-APT-101-San-Francisco-CA-94103/2090357251_zpid/
+1151 Alabama St,San Francisco,CA,94110,,,2,$789000.0,Sold 02/06/2023,https://www.zillow.com/homedetails/1151-Alabama-St-San-Francisco-CA-94110/2060390760_zpid/
+240 Myrtle St,San Francisco,CA,94109,37.785217,-122.42216,2,$825000.0,Sold 02/03/2023,https://www.zillow.com/homedetails/240-Myrtle-St-San-Francisco-CA-94109/15077131_zpid/
+66 Arleta Ave,San Francisco,CA,94134,37.713093,-122.40391,2,$775000.0,Sold 02/03/2023,https://www.zillow.com/homedetails/66-Arleta-Ave-San-Francisco-CA-94134/15173852_zpid/
+950 Harrison St UNIT 104,San Francisco,CA,94107,37.77839,-122.40319,2,$55000.0,Sold 02/02/2023,https://www.zillow.com/homedetails/950-Harrison-St-UNIT-104-San-Francisco-CA-94107/80733888_zpid/
+542 Holloway Ave,San Francisco,CA,94112,37.722057,-122.45895,1,$660000.0,Sold 02/01/2023,https://www.zillow.com/homedetails/542-Holloway-Ave-San-Francisco-CA-94112/15187743_zpid/
+151 Alice B Toklas Pl UNIT 407,San Francisco,CA,94109,37.78521,-122.42045,1,$600000.0,Sold 01/31/2023,https://www.zillow.com/homedetails/151-Alice-B-Toklas-Pl-UNIT-407-San-Francisco-CA-94109/15077141_zpid/
+3155 Sacramento St,San Francisco,CA,94115,37.788177,-122.44479,4,$837000.0,Sold 01/31/2023,https://www.zillow.com/homedetails/3155-Sacramento-St-San-Francisco-CA-94115/63196848_zpid/
+2235 Mission St APT 3,San Francisco,CA,94110,37.761208,-122.418945,3,$815000.0,Sold 01/31/2023,https://www.zillow.com/homedetails/2235-Mission-St-APT-3-San-Francisco-CA-94110/96013087_zpid/
+144 27th St,San Francisco,CA,94110,37.74735,-122.42358,1,$590000.0,Sold 01/31/2023,https://www.zillow.com/homedetails/144-27th-St-San-Francisco-CA-94110/123597132_zpid/
+388 Fulton St #213,San Francisco,CA,94102,37.77904,-122.42311,2,$855000.0,Sold 01/31/2023,https://www.zillow.com/homedetails/388-Fulton-St-213-San-Francisco-CA-94102/249698503_zpid/
+1246 Montgomery St,San Francisco,CA,94133,37.800716,-122.40414,1,$690000.0,Sold 01/27/2023,https://www.zillow.com/homedetails/1246-Montgomery-St-San-Francisco-CA-94133/15065756_zpid/
+38 Bryant St APT 303,San Francisco,CA,94105,37.787464,-122.38897,1,$660000.0,Sold 01/27/2023,https://www.zillow.com/homedetails/38-Bryant-St-APT-303-San-Francisco-CA-94105/15148417_zpid/
+5800 3rd St UNIT 1411,San Francisco,CA,94124,37.725353,-122.39511,1,$590000.0,Sold 01/27/2023,https://www.zillow.com/homedetails/5800-3rd-St-UNIT-1411-San-Francisco-CA-94124/119657892_zpid/
+8 Jordan Ave APT 4,San Francisco,CA,94118,37.785793,-122.45664,1,$790000.0,Sold 01/27/2023,https://www.zillow.com/homedetails/8-Jordan-Ave-APT-4-San-Francisco-CA-94118/122063968_zpid/
+1020 Alabama St,San Francisco,CA,94110,37.75518,-122.411476,2,$785000.0,Sold 01/27/2023,https://www.zillow.com/homedetails/1020-Alabama-St-San-Francisco-CA-94110/332860867_zpid/
+250 King St UNIT 628,San Francisco,CA,94107,37.77801,-122.39325,1,$707500.0,Sold 01/26/2023,https://www.zillow.com/homedetails/250-King-St-UNIT-628-San-Francisco-CA-94107/69819517_zpid/
+388 Townsend St APT 7,San Francisco,CA,94107,37.77587,-122.39701,1,$707000.0,Sold 01/26/2023,https://www.zillow.com/homedetails/388-Townsend-St-APT-7-San-Francisco-CA-94107/80755805_zpid/
+233 Greenwich St #2,San Francisco,CA,94133,37.80279,-122.403824,1,$760000.0,Sold 01/26/2023,https://www.zillow.com/homedetails/233-Greenwich-St-2-San-Francisco-CA-94133/184817022_zpid/
+3036 Fulton St #5,San Francisco,CA,94118,,,1,$500000.0,Sold 01/25/2023,https://www.zillow.com/homedetails/3036-Fulton-St-5-San-Francisco-CA-94118/2060928605_zpid/
+1001 Jamestown Ave,San Francisco,CA,94124,37.71836,-122.3939,5,$840500.0,Sold 01/24/2023,https://www.zillow.com/homedetails/1001-Jamestown-Ave-San-Francisco-CA-94124/15155060_zpid/
+77 Dow Pl APT 110,San Francisco,CA,94107,37.784157,-122.39662,1,$769000.0,Sold 01/24/2023,https://www.zillow.com/homedetails/77-Dow-Pl-APT-110-San-Francisco-CA-94107/61288451_zpid/
+4392 Mission St #94,San Francisco,CA,94112,,,2,$660000.0,Sold 01/24/2023,https://www.zillow.com/homedetails/4392-Mission-St-94-San-Francisco-CA-94112/2061288514_zpid/
+134 Langton St,San Francisco,CA,94103,37.775715,-122.40789,2,$735000.0,Sold 01/23/2023,https://www.zillow.com/homedetails/134-Langton-St-San-Francisco-CA-94103/15147990_zpid/
+2001 McAllister St APT 229,San Francisco,CA,94118,37.776836,-122.44507,1,$675000.0,Sold 01/23/2023,https://www.zillow.com/homedetails/2001-McAllister-St-APT-229-San-Francisco-CA-94118/80742352_zpid/
+1400 Mission St #1302,San Francisco,CA,94103,37.775284,-122.41649,1,$400000.0,Sold 01/23/2023,https://www.zillow.com/homedetails/1400-Mission-St-1302-San-Francisco-CA-94103/303742044_zpid/
+108 Cortland Ave,San Francisco,CA,94110,37.73994,-122.42077,2,$725000.0,Sold 01/20/2023,https://www.zillow.com/homedetails/108-Cortland-Ave-San-Francisco-CA-94110/15162713_zpid/
+140 S Van Ness Ave UNIT 630,San Francisco,CA,94103,37.7717,-122.41885,1,$620000.0,Sold 01/20/2023,https://www.zillow.com/homedetails/140-S-Van-Ness-Ave-UNIT-630-San-Francisco-CA-94103/64969436_zpid/
+250 King St UNIT 882,San Francisco,CA,94107,37.77801,-122.39325,1,$3200.0,Sold 01/20/2023,https://www.zillow.com/homedetails/250-King-St-UNIT-882-San-Francisco-CA-94107/69820166_zpid/
+950 Columbus Ave APT 4,San Francisco,CA,94133,37.803333,-122.414116,1,$695000.0,Sold 01/19/2023,https://www.zillow.com/homedetails/950-Columbus-Ave-APT-4-San-Francisco-CA-94133/15064470_zpid/
+1 Daniel Burnham Ct APT 609,San Francisco,CA,94109,37.786755,-122.42249,2,$750000.0,Sold 01/19/2023,https://www.zillow.com/homedetails/1-Daniel-Burnham-Ct-APT-609-San-Francisco-CA-94109/15076612_zpid/
+1567 McAllister St #102,San Francisco,CA,94115,37.777584,-122.43775,2,$367000.0,Sold 01/18/2023,https://www.zillow.com/homedetails/1567-McAllister-St-102-San-Francisco-CA-94115/15085601_zpid/
+655 Corbett Ave #105,San Francisco,CA,94114,37.756413,-122.44318,1,$710000.0,Sold 01/18/2023,https://www.zillow.com/homedetails/655-Corbett-Ave-105-San-Francisco-CA-94114/15129909_zpid/
+327 Arleta Ave,San Francisco,CA,94134,37.714436,-122.40959,2,$560000.0,Sold 01/18/2023,https://www.zillow.com/homedetails/327-Arleta-Ave-San-Francisco-CA-94134/15174048_zpid/
+245 Shields St,San Francisco,CA,94132,37.71775,-122.465195,2,$840000.0,Sold 01/18/2023,https://www.zillow.com/homedetails/245-Shields-St-San-Francisco-CA-94132/15193172_zpid/
+5346 Mission St #5350,San Francisco,CA,94112,37.714207,-122.44341,2,$800000.0,Sold 01/18/2023,https://www.zillow.com/homedetails/5346-Mission-St-5350-San-Francisco-CA-94112/241587685_zpid/
+766-770 S Van Ness Ave,San Francisco,CA,94110,37.760902,-122.417435,7,$720000.0,Sold 01/18/2023,https://www.zillow.com/homedetails/766-770-S-Van-Ness-Ave-San-Francisco-CA-94110/332859543_zpid/
+252 Burrows St,San Francisco,CA,94134,37.72853,-122.406006,2,$2200.0,Sold 01/18/2023,https://www.zillow.com/homedetails/252-Burrows-St-San-Francisco-CA-94134/2060731657_zpid/
+770 S Van Ness Ave #770,San Francisco,CA,94110,,,2,$720000.0,Sold 01/18/2023,https://www.zillow.com/homedetails/770-S-Van-Ness-Ave-770-San-Francisco-CA-94110/2060815204_zpid/
+1800 46th Ave APT 302,San Francisco,CA,94122,37.75279,-122.50509,2,$850000.0,Sold 01/13/2023,https://www.zillow.com/homedetails/1800-46th-Ave-APT-302-San-Francisco-CA-94122/15113558_zpid/
+2035 21st Ave,San Francisco,CA,94116,37.749706,-122.47863,2,$725000.0,Sold 01/13/2023,https://www.zillow.com/homedetails/2035-21st-Ave-San-Francisco-CA-94116/15115788_zpid/
+3083 San Jose Ave,San Francisco,CA,94112,37.70967,-122.45711,2,$780000.0,Sold 01/13/2023,https://www.zillow.com/homedetails/3083-San-Jose-Ave-San-Francisco-CA-94112/15195954_zpid/
+159 4th Ave #2,San Francisco,CA,94118,,,1,$600000.0,Sold 01/13/2023,https://www.zillow.com/homedetails/159-4th-Ave-2-San-Francisco-CA-94118/2060842647_zpid/
+1865 California St APT 2,San Francisco,CA,94109,37.78973,-122.424904,1,$739000.0,Sold 01/12/2023,https://www.zillow.com/homedetails/1865-California-St-APT-2-San-Francisco-CA-94109/15074999_zpid/
+8400 Oceanview Ter APT 320,San Francisco,CA,94132,37.71042,-122.467705,1,$570000.0,Sold 01/12/2023,https://www.zillow.com/homedetails/8400-Oceanview-Ter-APT-320-San-Francisco-CA-94132/63107263_zpid/
+81 Frank Norris St UNIT 304,San Francisco,CA,94109,37.78912,-122.42006,1,$460000.0,Sold 01/12/2023,https://www.zillow.com/homedetails/81-Frank-Norris-St-UNIT-304-San-Francisco-CA-94109/82785330_zpid/
+1943 Jennings St,San Francisco,CA,94124,37.727673,-122.38781,2,$820000.0,Sold 01/11/2023,https://www.zillow.com/homedetails/1943-Jennings-St-San-Francisco-CA-94124/15154129_zpid/
+1305 Laguna St APT 5,San Francisco,CA,94115,37.783405,-122.42844,2,$609000.0,Sold 01/11/2023,https://www.zillow.com/homedetails/1305-Laguna-St-APT-5-San-Francisco-CA-94115/64972192_zpid/
+161 Laura St,San Francisco,CA,94112,37.711174,-122.45228,2,$840000.0,Sold 01/10/2023,https://www.zillow.com/homedetails/161-Laura-St-San-Francisco-CA-94112/15194713_zpid/
+8400 Oceanview Ter APT 319,San Francisco,CA,94132,37.71042,-122.467705,2,$690000.0,Sold 01/10/2023,https://www.zillow.com/homedetails/8400-Oceanview-Ter-APT-319-San-Francisco-CA-94132/67090382_zpid/
+286 Parnassus Ave,San Francisco,CA,94117,37.76456,-122.453995,1,$810000.0,Sold 01/09/2023,https://www.zillow.com/homedetails/286-Parnassus-Ave-San-Francisco-CA-94117/125244303_zpid/
+29-31 Downey St,San Francisco,CA,94117,37.768345,-122.447655,6,$592000.0,Sold 01/09/2023,https://www.zillow.com/homedetails/29-31-Downey-St-San-Francisco-CA-94117/325645713_zpid/
+615 Guerrero St APT 5,San Francisco,CA,94110,37.761265,-122.42344,1,$680000.0,Sold 01/09/2023,https://www.zillow.com/homedetails/615-Guerrero-St-APT-5-San-Francisco-CA-94110/2106911198_zpid/
+1345 16th Ave APT 7,San Francisco,CA,94122,37.762825,-122.47418,2,$805000.0,Sold 01/06/2023,https://www.zillow.com/homedetails/1345-16th-Ave-APT-7-San-Francisco-CA-94122/2079109757_zpid/
+330 Berry St UNIT 100,San Francisco,CA,94158,37.773525,-122.39674,3,$455253.0,Sold 01/05/2023,https://www.zillow.com/homedetails/330-Berry-St-UNIT-100-San-Francisco-CA-94158/96038703_zpid/
+280 28th St,San Francisco,CA,94131,37.74544,-122.42853,10,$800000.0,Sold 01/04/2023,https://www.zillow.com/homedetails/280-28th-St-San-Francisco-CA-94131/328349652_zpid/
+280 28th St APT 2,San Francisco,CA,94131,37.74544,-122.42853,2,$800000.0,Sold 01/04/2023,https://www.zillow.com/homedetails/280-28th-St-APT-2-San-Francisco-CA-94131/2126905678_zpid/
+298 Portola Dr APT 301,San Francisco,CA,94131,37.74748,-122.44452,1,$765000.0,Sold 01/03/2023,https://www.zillow.com/homedetails/298-Portola-Dr-APT-301-San-Francisco-CA-94131/15132627_zpid/
+451 Kansas St UNIT 360,San Francisco,CA,94107,37.764065,-122.403275,1,$745000.0,Sold 01/03/2023,https://www.zillow.com/homedetails/451-Kansas-St-UNIT-360-San-Francisco-CA-94107/89236500_zpid/
+83 McAllister St APT 504,San Francisco,CA,94102,37.7807,-122.41327,1,$435000.0,Sold 01/03/2023,https://www.zillow.com/homedetails/83-McAllister-St-APT-504-San-Francisco-CA-94102/89239949_zpid/
+601 Van Ness Ave APT 644,San Francisco,CA,94102,37.78168,-122.42091,1,$625000.0,Sold 12/30/2022,https://www.zillow.com/homedetails/601-Van-Ness-Ave-APT-644-San-Francisco-CA-94102/15077739_zpid/
+1004 Saddleback Dr,San Francisco,CA,94134,37.709526,-122.42688,2,$575000.0,Sold 12/30/2022,https://www.zillow.com/homedetails/1004-Saddleback-Dr-San-Francisco-CA-94134/15177650_zpid/
+1450 Franklin St #704,San Francisco,CA,94109,37.788055,-122.423256,1,$838000.0,Sold 12/30/2022,https://www.zillow.com/homedetails/1450-Franklin-St-704-San-Francisco-CA-94109/2078568969_zpid/
+336 Castro St APT 1,San Francisco,CA,94114,37.763546,-122.43558,1,$600000.0,Sold 12/29/2022,https://www.zillow.com/homedetails/336-Castro-St-APT-1-San-Francisco-CA-94114/54854570_zpid/
+336 Castro St APT 2,San Francisco,CA,94114,37.763546,-122.43558,1,$600000.0,Sold 12/29/2022,https://www.zillow.com/homedetails/336-Castro-St-APT-2-San-Francisco-CA-94114/54854571_zpid/
+336 Castro St APT 3,San Francisco,CA,94114,37.763546,-122.43558,1,$600000.0,Sold 12/29/2022,https://www.zillow.com/homedetails/336-Castro-St-APT-3-San-Francisco-CA-94114/54854572_zpid/
+336 Castro St APT 4,San Francisco,CA,94114,37.763546,-122.43558,1,$600000.0,Sold 12/29/2022,https://www.zillow.com/homedetails/336-Castro-St-APT-4-San-Francisco-CA-94114/54854573_zpid/
+1160 Mission St UNIT 1809,San Francisco,CA,94103,37.778683,-122.41246,1,$675000.0,Sold 12/29/2022,https://www.zillow.com/homedetails/1160-Mission-St-UNIT-1809-San-Francisco-CA-94103/82785926_zpid/
+1250 Clay St APT 303,San Francisco,CA,94108,37.79357,-122.41368,1,$690000.0,Sold 12/28/2022,https://www.zillow.com/homedetails/1250-Clay-St-APT-303-San-Francisco-CA-94108/15067751_zpid/
+2701 Van Ness Ave APT 210,San Francisco,CA,94109,37.80057,-122.42485,1,$800000.0,Sold 12/28/2022,https://www.zillow.com/homedetails/2701-Van-Ness-Ave-APT-210-San-Francisco-CA-94109/15071009_zpid/
+60 Rausch St APT 403,San Francisco,CA,94103,37.776127,-122.409676,1,$650000.0,Sold 12/28/2022,https://www.zillow.com/homedetails/60-Rausch-St-APT-403-San-Francisco-CA-94103/80743981_zpid/
+199 New Montgomery St UNIT 708,San Francisco,CA,94105,37.786606,-122.3991,1,$372826.0,Sold 12/28/2022,https://www.zillow.com/homedetails/199-New-Montgomery-St-UNIT-708-San-Francisco-CA-94105/80748562_zpid/
+2418 20th Ave APT 105,San Francisco,CA,94116,37.74268,-122.476395,1,$600000.0,Sold 12/28/2022,https://www.zillow.com/homedetails/2418-20th-Ave-APT-105-San-Francisco-CA-94116/96012297_zpid/
+1177 California St APT 1012,San Francisco,CA,94108,37.791027,-122.41365,1,$775000.0,Sold 12/27/2022,https://www.zillow.com/homedetails/1177-California-St-APT-1012-San-Francisco-CA-94108/15068465_zpid/
+1148 Eddy St UNIT B,San Francisco,CA,94109,37.782387,-122.42667,2,$743000.0,Sold 12/27/2022,https://www.zillow.com/homedetails/1148-Eddy-St-UNIT-B-San-Francisco-CA-94109/15077460_zpid/
+601 Van Ness Ave APT 43,San Francisco,CA,94102,37.78168,-122.42091,2,$630000.0,Sold 12/27/2022,https://www.zillow.com/homedetails/601-Van-Ness-Ave-APT-43-San-Francisco-CA-94102/15077567_zpid/
+18 Megan Dr,San Francisco,CA,94134,37.71409,-122.39826,2,$870000.0,Sold 12/27/2022,https://www.zillow.com/homedetails/18-Megan-Dr-San-Francisco-CA-94134/114313994_zpid/
+1930 Mission St #13,San Francisco,CA,94103,37.76619,-122.42024,2,$675000.0,Sold 12/23/2022,https://www.zillow.com/homedetails/1930-Mission-St-13-San-Francisco-CA-94103/15143201_zpid/
+250 King St UNIT 1304,San Francisco,CA,94107,37.77801,-122.39325,1,$520000.0,Sold 12/23/2022,https://www.zillow.com/homedetails/250-King-St-UNIT-1304-San-Francisco-CA-94107/69819469_zpid/
+718 Long Bridge St APT 220,San Francisco,CA,94158,37.77146,-122.39454,1,$425000.0,Sold 12/23/2022,https://www.zillow.com/homedetails/718-Long-Bridge-St-APT-220-San-Francisco-CA-94158/241585299_zpid/
+1930 Mission St UNIT 302,San Francisco,CA,94103,37.76619,-122.42024,2,$675000.0,Sold 12/23/2022,https://www.zillow.com/homedetails/1930-Mission-St-UNIT-302-San-Francisco-CA-94103/2113834106_zpid/
+631 Ofarrell St APT 502,San Francisco,CA,94109,37.78524,-122.41512,1,$400000.0,Sold 12/22/2022,https://www.zillow.com/homedetails/631-Ofarrell-St-APT-502-San-Francisco-CA-94109/15069426_zpid/
+190 Cervantes Blvd APT 303,San Francisco,CA,94123,37.804962,-122.44036,1,$828000.0,Sold 12/22/2022,https://www.zillow.com/homedetails/190-Cervantes-Blvd-APT-303-San-Francisco-CA-94123/15069926_zpid/
+562 Waller St,San Francisco,CA,94117,37.77111,-122.43299,4,$10000.0,Sold 12/22/2022,https://www.zillow.com/homedetails/562-Waller-St-San-Francisco-CA-94117/89240140_zpid/
+446 Fell St,San Francisco,CA,94102,37.7758,-122.425285,1,$640000.0,Sold 12/22/2022,https://www.zillow.com/homedetails/446-Fell-St-San-Francisco-CA-94102/2061474684_zpid/
+1 Daniel Burnham Ct APT 922,San Francisco,CA,94109,37.786755,-122.42249,1,$715000.0,Sold 12/21/2022,https://www.zillow.com/homedetails/1-Daniel-Burnham-Ct-APT-922-San-Francisco-CA-94109/15076669_zpid/
+1322 Gilman Ave,San Francisco,CA,94124,37.721878,-122.39403,3,$802000.0,Sold 12/21/2022,https://www.zillow.com/homedetails/1322-Gilman-Ave-San-Francisco-CA-94124/15154483_zpid/
+345 Church St APT 1B,San Francisco,CA,94114,37.76555,-122.42812,1,$765000.0,Sold 12/20/2022,https://www.zillow.com/homedetails/345-Church-St-APT-1B-San-Francisco-CA-94114/15143437_zpid/
+112 Albion St #112,San Francisco,CA,94110,,,2,$775000.0,Sold 12/20/2022,https://www.zillow.com/homedetails/112-Albion-St-112-San-Francisco-CA-94110/2060843938_zpid/
+925 Corbett Ave APT 303,San Francisco,CA,94131,37.752,-122.44323,1,$775000.0,Sold 12/16/2022,https://www.zillow.com/homedetails/925-Corbett-Ave-APT-303-San-Francisco-CA-94131/15131804_zpid/
+275 Edinburgh St,San Francisco,CA,94112,37.72456,-122.429146,2,$725000.0,Sold 12/16/2022,https://www.zillow.com/homedetails/275-Edinburgh-St-San-Francisco-CA-94112/15169262_zpid/
+452 Wilde Ave,San Francisco,CA,94134,37.717766,-122.40624,2,$812800.0,Sold 12/16/2022,https://www.zillow.com/homedetails/452-Wilde-Ave-San-Francisco-CA-94134/15172935_zpid/
+66 Hahn St,San Francisco,CA,94134,37.713825,-122.41548,2,$530000.0,Sold 12/16/2022,https://www.zillow.com/homedetails/66-Hahn-St-San-Francisco-CA-94134/15174503_zpid/
+555 4th St UNIT 610,San Francisco,CA,94107,37.779045,-122.39718,1,$555000.0,Sold 12/16/2022,https://www.zillow.com/homedetails/555-4th-St-UNIT-610-San-Francisco-CA-94107/79843116_zpid/
+8 Buchanan St UNIT 714,San Francisco,CA,94102,37.770073,-122.42621,1,$690000.0,Sold 12/16/2022,https://www.zillow.com/homedetails/8-Buchanan-St-UNIT-714-San-Francisco-CA-94102/184686311_zpid/
+520 Berry St #TOWNHOUSE,San Francisco,CA,94107,,,2,$482528.0,Sold 12/16/2022,https://www.zillow.com/homedetails/520-Berry-St-TOWNHOUSE-San-Francisco-CA-94107/2062377375_zpid/
+392 Corbett Ave,San Francisco,CA,94114,37.759136,-122.44626,1,$775000.0,Sold 12/16/2022,https://www.zillow.com/homedetails/392-Corbett-Ave-San-Francisco-CA-94114/2092953528_zpid/
+267 Santos St,San Francisco,CA,94134,37.708874,-122.41954,3,$830000.0,Sold 12/15/2022,https://www.zillow.com/homedetails/267-Santos-St-San-Francisco-CA-94134/15175785_zpid/
+1160 Mission St UNIT 1604,San Francisco,CA,94103,37.778683,-122.41246,1,$748800.0,Sold 12/15/2022,https://www.zillow.com/homedetails/1160-Mission-St-UNIT-1604-San-Francisco-CA-94103/82785912_zpid/
+51 Innes Ct UNIT 202,San Francisco,CA,94124,37.727055,-122.36772,2,$790000.0,Sold 12/15/2022,https://www.zillow.com/homedetails/51-Innes-Ct-UNIT-202-San-Francisco-CA-94124/303806733_zpid/
+413 Holloway Ave,San Francisco,CA,94112,37.721622,-122.457504,5,$850000.0,Sold 12/15/2022,https://www.zillow.com/homedetails/413-Holloway-Ave-San-Francisco-CA-94112/2062284444_zpid/
+1345 16th Ave APT 2,San Francisco,CA,94122,37.76276,-122.47395,1,$670000.0,Sold 12/15/2022,https://www.zillow.com/homedetails/1345-16th-Ave-APT-2-San-Francisco-CA-94122/2107010686_zpid/
+338 2nd Ave,San Francisco,CA,94118,37.782394,-122.459755,2,$560000.0,Sold 12/14/2022,https://www.zillow.com/homedetails/338-2nd-Ave-San-Francisco-CA-94118/15091581_zpid/
+1400 Mission St APT 1009,San Francisco,CA,94103,37.775284,-122.41649,1,$362163.0,Sold 12/14/2022,https://www.zillow.com/homedetails/1400-Mission-St-APT-1009-San-Francisco-CA-94103/241585173_zpid/
+855 La Playa St APT 456,San Francisco,CA,94121,37.7722,-122.51036,1,$665000.0,Sold 12/13/2022,https://www.zillow.com/homedetails/855-La-Playa-St-APT-456-San-Francisco-CA-94121/15100677_zpid/
+3256 16th St APT 4,San Francisco,CA,94103,37.764977,-122.42544,1,$306857.0,Sold 12/13/2022,https://www.zillow.com/homedetails/3256-16th-St-APT-4-San-Francisco-CA-94103/15143318_zpid/
+667 Edinburgh St,San Francisco,CA,94112,37.718517,-122.433716,2,$830000.0,Sold 12/13/2022,https://www.zillow.com/homedetails/667-Edinburgh-St-San-Francisco-CA-94112/15174745_zpid/
+666 Post St APT 904,San Francisco,CA,94109,37.787907,-122.4129,1,$599000.0,Sold 12/13/2022,https://www.zillow.com/homedetails/666-Post-St-APT-904-San-Francisco-CA-94109/63196410_zpid/
+400-402 Edinburgh St,San Francisco,CA,94112,,,4,$760000.0,Sold 12/13/2022,https://www.zillow.com/homedetails/400-402-Edinburgh-St-San-Francisco-CA-94112/2060686610_zpid/
+1155 Pine St APT 6,San Francisco,CA,94109,37.79006,-122.41485,1,$507000.0,Sold 12/12/2022,https://www.zillow.com/homedetails/1155-Pine-St-APT-6-San-Francisco-CA-94109/15069161_zpid/
+1534 Irving St APT 101,San Francisco,CA,94122,37.763924,-122.474556,2,$820000.0,Open: Sun. 2-3pm,https://www.zillow.com/homedetails/1534-Irving-St-APT-101-San-Francisco-CA-94122/15102068_zpid/
+666 Post St APT 602,San Francisco,CA,94109,37.787907,-122.4129,1,$555000.0,Sold 12/12/2022,https://www.zillow.com/homedetails/666-Post-St-APT-602-San-Francisco-CA-94109/63196396_zpid/
+701 Minnesota St APT 119,San Francisco,CA,94107,37.761314,-122.39005,1,$865000.0,Sold 12/12/2022,https://www.zillow.com/homedetails/701-Minnesota-St-APT-119-San-Francisco-CA-94107/80749561_zpid/
+1075 Market St UNIT 606,San Francisco,CA,94103,37.780643,-122.41161,1,$625000.0,Sold 12/12/2022,https://www.zillow.com/homedetails/1075-Market-St-UNIT-606-San-Francisco-CA-94103/303806746_zpid/
+639-641 18th Ave,San Francisco,CA,94121,37.775867,-122.477234,6,$510000.0,Sold 12/12/2022,https://www.zillow.com/homedetails/639-641-18th-Ave-San-Francisco-CA-94121/325873666_zpid/
+835 39th Ave,San Francisco,CA,94121,37.77304,-122.499596,2,$850000.0,Sold 12/09/2022,https://www.zillow.com/homedetails/835-39th-Ave-San-Francisco-CA-94121/15100162_zpid/
+555 4th St UNIT 649,San Francisco,CA,94107,37.779045,-122.39718,1,$585000.0,Sold 12/09/2022,https://www.zillow.com/homedetails/555-4th-St-UNIT-649-San-Francisco-CA-94107/79843608_zpid/
+855 Folsom St APT 532,San Francisco,CA,94107,37.780766,-122.40214,1,$760000.0,Sold 12/09/2022,https://www.zillow.com/homedetails/855-Folsom-St-APT-532-San-Francisco-CA-94107/80733321_zpid/
+260 King St UNIT 437,San Francisco,CA,94107,37.77725,-122.39376,1,$700000.0,Sold 12/09/2022,https://www.zillow.com/homedetails/260-King-St-UNIT-437-San-Francisco-CA-94107/80738208_zpid/
+4 Jennifer Pl,San Francisco,CA,94107,37.780018,-122.40233,1,$800000.0,Sold 12/09/2022,https://www.zillow.com/homedetails/4-Jennifer-Pl-San-Francisco-CA-94107/80745371_zpid/
+175 Bluxome St UNIT 306,San Francisco,CA,94107,37.774647,-122.399445,2,$827000.0,Sold 12/09/2022,https://www.zillow.com/homedetails/175-Bluxome-St-UNIT-306-San-Francisco-CA-94107/80752671_zpid/
+950 Harrison St UNIT 217,San Francisco,CA,94107,37.77839,-122.40319,1,$618000.0,Sold 12/09/2022,https://www.zillow.com/homedetails/950-Harrison-St-UNIT-217-San-Francisco-CA-94107/80753403_zpid/
+301 Main St UNIT 27A,San Francisco,CA,94105,37.789375,-122.39097,2,$5000.0,Sold 12/09/2022,https://www.zillow.com/homedetails/301-Main-St-UNIT-27A-San-Francisco-CA-94105/89239942_zpid/
+1875 Mission St APT 405,San Francisco,CA,94103,37.7671,-122.41945,1,$650000.0,Sold 12/09/2022,https://www.zillow.com/homedetails/1875-Mission-St-APT-405-San-Francisco-CA-94103/184817458_zpid/
+47 Maddux Ave,San Francisco,CA,94124,37.734474,-122.39806,2,$850000.0,Sold 12/08/2022,https://www.zillow.com/homedetails/47-Maddux-Ave-San-Francisco-CA-94124/15158194_zpid/
+489 Hill St,San Francisco,CA,94114,37.755295,-122.43178,1,$565000.0,Sold 12/08/2022,https://www.zillow.com/homedetails/489-Hill-St-San-Francisco-CA-94114/59700449_zpid/
+4343 3rd St APT 304,San Francisco,CA,94124,37.73809,-122.389206,3,$640000.0,Sold 12/08/2022,https://www.zillow.com/homedetails/4343-3rd-St-APT-304-San-Francisco-CA-94124/80622783_zpid/
+2832 Bryant St,San Francisco,CA,94110,,,1,$570000.0,Sold 12/08/2022,https://www.zillow.com/homedetails/2832-Bryant-St-San-Francisco-CA-94110/2061453078_zpid/
+900 Bush St APT 502,San Francisco,CA,94109,37.789944,-122.41273,1,$17500.0,Sold 12/06/2022,https://www.zillow.com/homedetails/900-Bush-St-APT-502-San-Francisco-CA-94109/15069054_zpid/
+403 Main St APT 604N,San Francisco,CA,94105,37.788242,-122.389786,1,$510000.0,Sold 12/06/2022,https://www.zillow.com/homedetails/403-Main-St-APT-604N-San-Francisco-CA-94105/15148621_zpid/
+2179 Quesada Ave,San Francisco,CA,94124,37.738216,-122.40058,5,$605500.0,Sold 12/06/2022,https://www.zillow.com/homedetails/2179-Quesada-Ave-San-Francisco-CA-94124/15156770_zpid/
+55 Ora Way UNIT 202B,San Francisco,CA,94131,37.741264,-122.436966,1,$391500.0,Sold 12/06/2022,https://www.zillow.com/homedetails/55-Ora-Way-UNIT-202B-San-Francisco-CA-94131/15199812_zpid/
+101 Crescent Way APT 2302,San Francisco,CA,94134,37.710762,-122.389565,2,$710000.0,Sold 12/06/2022,https://www.zillow.com/homedetails/101-Crescent-Way-APT-2302-San-Francisco-CA-94134/64971722_zpid/
+888 7th St UNIT 340,San Francisco,CA,94107,37.77038,-122.40106,2,$441482.0,Sold 12/06/2022,https://www.zillow.com/homedetails/888-7th-St-UNIT-340-San-Francisco-CA-94107/89236555_zpid/
+55 Ora Way UNIT B202,San Francisco,CA,94131,37.741264,-122.436966,1,$391120.0,Sold 12/06/2022,https://www.zillow.com/homedetails/55-Ora-Way-UNIT-B202-San-Francisco-CA-94131/2065467300_zpid/
+55 Vandewater St APT 10,San Francisco,CA,94133,37.805103,-122.41286,1,$790000.0,Sold 12/05/2022,https://www.zillow.com/homedetails/55-Vandewater-St-APT-10-San-Francisco-CA-94133/15063472_zpid/
+77 Dow Pl APT 700,San Francisco,CA,94107,37.784157,-122.39662,1,$730000.0,Sold 12/05/2022,https://www.zillow.com/homedetails/77-Dow-Pl-APT-700-San-Francisco-CA-94107/61288455_zpid/
+615 Guerrero St APT 4,San Francisco,CA,94110,37.761265,-122.42344,1,$680000.0,Sold 12/05/2022,https://www.zillow.com/homedetails/615-Guerrero-St-APT-4-San-Francisco-CA-94110/2112230985_zpid/
+355 Bryant St UNIT 206,San Francisco,CA,94107,37.78355,-122.39242,1,$3250.0,Sold 12/03/2022,https://www.zillow.com/homedetails/355-Bryant-St-UNIT-206-San-Francisco-CA-94107/80743013_zpid/
+1434 Newcomb Ave,San Francisco,CA,94124,37.73369,-122.38654,3,$605000.0,Sold 12/02/2022,https://www.zillow.com/homedetails/1434-Newcomb-Ave-San-Francisco-CA-94124/15156169_zpid/
+1435 Newcomb Ave,San Francisco,CA,94124,37.7333,-122.38691,2,$605000.0,Sold 12/02/2022,https://www.zillow.com/homedetails/1435-Newcomb-Ave-San-Francisco-CA-94124/15156226_zpid/
+101 Crescent Way APT 2402,San Francisco,CA,94134,37.710762,-122.389565,2,$585000.0,Sold 12/02/2022,https://www.zillow.com/homedetails/101-Crescent-Way-APT-2402-San-Francisco-CA-94134/64971729_zpid/
+1 Daniel Burnham Ct APT 515,San Francisco,CA,94109,37.786755,-122.42249,1,$575000.0,Sold 12/01/2022,https://www.zillow.com/homedetails/1-Daniel-Burnham-Ct-APT-515-San-Francisco-CA-94109/15076592_zpid/
+163 8th Ave,San Francisco,CA,94118,37.78539,-122.46707,3,$750000.0,Sold 12/01/2022,https://www.zillow.com/homedetails/163-8th-Ave-San-Francisco-CA-94118/15089743_zpid/
+260 King St UNIT 907,San Francisco,CA,94107,37.77725,-122.39376,1,$730000.0,Sold 12/01/2022,https://www.zillow.com/homedetails/260-King-St-UNIT-907-San-Francisco-CA-94107/69819641_zpid/
+936 Broadway St #A,San Francisco,CA,94133,37.79718,-122.412544,3,$3400.0,Sold 12/01/2022,https://www.zillow.com/homedetails/936-Broadway-St-A-San-Francisco-CA-94133/2077906091_zpid/
+333 1st St UNIT 1102,San Francisco,CA,94105,37.787125,-122.39396,1,$370742.0,Sold 11/30/2022,https://www.zillow.com/homedetails/333-1st-St-UNIT-1102-San-Francisco-CA-94105/64971582_zpid/
+451 Kansas St UNIT 551,San Francisco,CA,94107,37.764065,-122.403275,1,$770000.0,Sold 11/30/2022,https://www.zillow.com/homedetails/451-Kansas-St-UNIT-551-San-Francisco-CA-94107/89240508_zpid/
+1990 Green St APT 107,San Francisco,CA,94123,37.79685,-122.43182,1,$493500.0,Sold 11/29/2022,https://www.zillow.com/homedetails/1990-Green-St-APT-107-San-Francisco-CA-94123/15071987_zpid/
+601 Van Ness Ave APT 212,San Francisco,CA,94102,37.78168,-122.42091,1,$485000.0,Sold 11/29/2022,https://www.zillow.com/homedetails/601-Van-Ness-Ave-APT-212-San-Francisco-CA-94102/15077736_zpid/
+1684 Palou Ave,San Francisco,CA,94124,37.73509,-122.39233,2,$800000.0,Sold 11/29/2022,https://www.zillow.com/homedetails/1684-Palou-Ave-San-Francisco-CA-94124/15156411_zpid/
+660 Natoma St APT 1,San Francisco,CA,94103,37.77745,-122.41143,1,$545000.0,Sold 11/29/2022,https://www.zillow.com/homedetails/660-Natoma-St-APT-1-San-Francisco-CA-94103/89236994_zpid/
+542 Paris St,San Francisco,CA,94112,37.720253,-122.436356,4,$819000.0,Sold 11/29/2022,https://www.zillow.com/homedetails/542-Paris-St-San-Francisco-CA-94112/332862303_zpid/
+616 Moraga St APT 2,San Francisco,CA,94122,37.75667,-122.46942,1,$725000.0,Sold 11/29/2022,https://www.zillow.com/homedetails/616-Moraga-St-APT-2-San-Francisco-CA-94122/2075614017_zpid/
+1467 McKinnon Ave,San Francisco,CA,94124,37.734245,-122.38691,2,$700000.0,Sold 11/28/2022,https://www.zillow.com/homedetails/1467-McKinnon-Ave-San-Francisco-CA-94124/15156192_zpid/
+851 Van Ness Ave UNIT 400,San Francisco,CA,94109,37.78352,-122.42136,2,$788000.0,Sold 11/28/2022,https://www.zillow.com/homedetails/851-Van-Ness-Ave-UNIT-400-San-Francisco-CA-94109/60184295_zpid/
+8100 Oceanview Ter APT 220,San Francisco,CA,94132,37.71042,-122.467705,2,$698000.0,Sold 11/28/2022,https://www.zillow.com/homedetails/8100-Oceanview-Ter-APT-220-San-Francisco-CA-94132/67394654_zpid/
+61 Grace St,San Francisco,CA,94103,37.774944,-122.41444,3,$700000.0,Sold 11/28/2022,https://www.zillow.com/homedetails/61-Grace-St-San-Francisco-CA-94103/241586181_zpid/
+1050 N Point St APT 406,San Francisco,CA,94109,37.805428,-122.42481,1,$580000.0,Sold 11/23/2022,https://www.zillow.com/homedetails/1050-N-Point-St-APT-406-San-Francisco-CA-94109/63196465_zpid/
+420 Noe St #1A,San Francisco,CA,94114,,,2,$830000.0,Sold 11/23/2022,https://www.zillow.com/homedetails/420-Noe-St-1A-San-Francisco-CA-94114/2061301611_zpid/
+1932 Fell St APT 9,San Francisco,CA,94117,37.772793,-122.44985,2,$780000.0,Sold 11/23/2022,https://www.zillow.com/homedetails/1932-Fell-St-APT-9-San-Francisco-CA-94117/2087325129_zpid/
+2250 24th St UNIT 324,San Francisco,CA,94107,37.753872,-122.40201,2,$690000.0,Sold 11/22/2022,https://www.zillow.com/homedetails/2250-24th-St-UNIT-324-San-Francisco-CA-94107/15152078_zpid/
+1521 Sutter St APT 303,San Francisco,CA,94109,37.78673,-122.42592,1,$377588.0,Sold 11/22/2022,https://www.zillow.com/homedetails/1521-Sutter-St-APT-303-San-Francisco-CA-94109/96018939_zpid/
+300 Ivy St APT 302,San Francisco,CA,94102,37.777493,-122.42356,2,$478782.0,Sold 11/22/2022,https://www.zillow.com/homedetails/300-Ivy-St-APT-302-San-Francisco-CA-94102/123174801_zpid/
+407 Miguel St,San Francisco,CA,94131,37.73668,-122.42682,1,$537500.0,Sold 11/22/2022,https://www.zillow.com/homedetails/407-Miguel-St-San-Francisco-CA-94131/184818136_zpid/
+3638-3640 Cabrillo St,San Francisco,CA,94121,37.773975,-122.498024,2,$525000.0,Sold 11/22/2022,https://www.zillow.com/homedetails/3638-3640-Cabrillo-St-San-Francisco-CA-94121/331619823_zpid/
+1622-003B Quesada Ave,San Francisco,CA,94124,,,3,$850000.0,Sold 11/22/2022,https://www.zillow.com/homedetails/1622-003B-Quesada-Ave-San-Francisco-CA-94124/2066773130_zpid/
+1754 Larkin St APT 2,San Francisco,CA,94109,37.7942,-122.41946,1,$700000.0,Sold 11/22/2022,https://www.zillow.com/homedetails/1754-Larkin-St-APT-2-San-Francisco-CA-94109/2107993430_zpid/
+1840 Washington St APT 303,San Francisco,CA,94109,37.793213,-122.423744,1,$736500.0,Sold 11/21/2022,https://www.zillow.com/homedetails/1840-Washington-St-APT-303-San-Francisco-CA-94109/117673805_zpid/
+307 Page St APT 6,San Francisco,CA,94102,37.773502,-122.42594,1,$680000.0,Sold 11/21/2022,https://www.zillow.com/homedetails/307-Page-St-APT-6-San-Francisco-CA-94102/119685421_zpid/
+839 Garfield St,San Francisco,CA,94132,37.719444,-122.47051,1,$425000.0,Sold 11/18/2022,https://www.zillow.com/homedetails/839-Garfield-St-San-Francisco-CA-94132/15190052_zpid/
+65 Niagara Ave,San Francisco,CA,94112,37.7165,-122.44319,2,$750000.0,Sold 11/18/2022,https://www.zillow.com/homedetails/65-Niagara-Ave-San-Francisco-CA-94112/15191333_zpid/
+85 Ora Way UNIT 307E,San Francisco,CA,94131,37.740665,-122.43727,1,$599000.0,Sold 11/18/2022,https://www.zillow.com/homedetails/85-Ora-Way-UNIT-307E-San-Francisco-CA-94131/15199897_zpid/
+1335 Laguna St APT 2,San Francisco,CA,94115,37.783405,-122.42844,1,$460000.0,Sold 11/18/2022,https://www.zillow.com/homedetails/1335-Laguna-St-APT-2-San-Francisco-CA-94115/64972207_zpid/
+85 Ora Way UNIT E307,San Francisco,CA,94131,37.740665,-122.43727,1,$599000.0,Sold 11/18/2022,https://www.zillow.com/homedetails/85-Ora-Way-UNIT-E307-San-Francisco-CA-94131/2060989050_zpid/
+678 Morse St,San Francisco,CA,94112,37.711327,-122.44585,2,$715000.0,Sold 11/17/2022,https://www.zillow.com/homedetails/678-Morse-St-San-Francisco-CA-94112/15178851_zpid/
+1587 Dolores St,San Francisco,CA,94110,37.74412,-122.424034,1,$760000.0,Sold 11/17/2022,https://www.zillow.com/homedetails/1587-Dolores-St-San-Francisco-CA-94110/111931471_zpid/
+832 Sutter St #502,San Francisco,CA,94109,37.7888,-122.4142,1,$549000.0,Sold 11/17/2022,https://www.zillow.com/homedetails/832-Sutter-St-502-San-Francisco-CA-94109/2077736490_zpid/
+1250 Sacramento St APT 6,San Francisco,CA,94108,37.792675,-122.41354,1,$835000.0,Sold 11/17/2022,https://www.zillow.com/homedetails/1250-Sacramento-St-APT-6-San-Francisco-CA-94108/2085812283_zpid/
+1622 Quesada Ave,San Francisco,CA,94124,37.732758,-122.3899,3,$850000.0,Sold 11/16/2022,https://www.zillow.com/homedetails/1622-Quesada-Ave-San-Francisco-CA-94124/15156547_zpid/
+4 Wright St,San Francisco,CA,94110,37.747543,-122.40527,4,$820000.0,Sold 11/16/2022,https://www.zillow.com/homedetails/4-Wright-St-San-Francisco-CA-94110/15160389_zpid/
+192 Shawnee Ave,San Francisco,CA,94112,37.718987,-122.44756,4,$825000.0,Sold 11/16/2022,https://www.zillow.com/homedetails/192-Shawnee-Ave-San-Francisco-CA-94112/15191047_zpid/
+16 Jessie St APT 110,San Francisco,CA,94105,37.789906,-122.39894,1,$820888.0,Sold 11/16/2022,https://www.zillow.com/homedetails/16-Jessie-St-APT-110-San-Francisco-CA-94105/111710857_zpid/
+1425 S Van Ness Ave,San Francisco,CA,94110,37.750385,-122.415726,2,$825000.0,Sold 11/16/2022,https://www.zillow.com/homedetails/1425-S-Van-Ness-Ave-San-Francisco-CA-94110/2134081395_zpid/
+239 8th St APT 7,San Francisco,CA,94103,37.775974,-122.410774,1,$675000.0,Sold 11/15/2022,https://www.zillow.com/homedetails/239-8th-St-APT-7-San-Francisco-CA-94103/80752648_zpid/
+1175 Chestnut St APT 303,San Francisco,CA,94109,37.802258,-122.422516,1,$3100.0,Sold 11/15/2022,https://www.zillow.com/homedetails/1175-Chestnut-St-APT-303-San-Francisco-CA-94109/2060951998_zpid/
+1998 25th St,San Francisco,CA,94107,37.752434,-122.39829,5,$850000.0,Sold 11/14/2022,https://www.zillow.com/homedetails/1998-25th-St-San-Francisco-CA-94107/15152179_zpid/
+901 Bay Shore Blvd APT 206,San Francisco,CA,94124,37.73292,-122.40437,1,$240449.0,Sold 11/14/2022,https://www.zillow.com/homedetails/901-Bay-Shore-Blvd-APT-206-San-Francisco-CA-94124/80732953_zpid/
+318 Spear St UNIT 5E,San Francisco,CA,94105,37.789375,-122.39097,1,$4000.0,Sold 11/14/2022,https://www.zillow.com/homedetails/318-Spear-St-UNIT-5E-San-Francisco-CA-94105/89237647_zpid/
+371-375 Haight St #371A,San Francisco,CA,94102,,,1,$665000.0,Sold 11/14/2022,https://www.zillow.com/homedetails/371-375-Haight-St-371A-San-Francisco-CA-94102/2062193277_zpid/
+371-375 Haight St,San Francisco,CA,94102,37.772175,-122.42826,1,$688000.0,Sold 11/14/2022,https://www.zillow.com/homedetails/371-375-Haight-St-San-Francisco-CA-94102/2078429789_zpid/
+615 Brussels St,San Francisco,CA,94134,37.72453,-122.404274,3,$570000.0,Sold 11/10/2022,https://www.zillow.com/homedetails/615-Brussels-St-San-Francisco-CA-94134/15171831_zpid/
+170 King St UNIT 718,San Francisco,CA,94107,37.77882,-122.39136,1,$301874.0,Sold 11/10/2022,https://www.zillow.com/homedetails/170-King-St-UNIT-718-San-Francisco-CA-94107/82786315_zpid/
+435 Carl St,San Francisco,CA,94117,37.76486,-122.45624,1,$820000.0,Sold 11/10/2022,https://www.zillow.com/homedetails/435-Carl-St-San-Francisco-CA-94117/303806206_zpid/
+2483 Filbert St,San Francisco,CA,94123,37.797295,-122.44029,1,$610000.0,Sold 11/10/2022,https://www.zillow.com/homedetails/2483-Filbert-St-San-Francisco-CA-94123/2127056887_zpid/
+221 Steiner St,San Francisco,CA,94117,37.771255,-122.43227,2,$446500.0,Sold 11/09/2022,https://www.zillow.com/homedetails/221-Steiner-St-San-Francisco-CA-94117/15079167_zpid/
+1355 Shafter Ave,San Francisco,CA,94124,37.72825,-122.38634,2,$860000.0,Sold 11/09/2022,https://www.zillow.com/homedetails/1355-Shafter-Ave-San-Francisco-CA-94124/15154095_zpid/
+1148 Montgomery St,San Francisco,CA,94133,37.799896,-122.404015,2,$799000.0,Sold 11/09/2022,https://www.zillow.com/homedetails/1148-Montgomery-St-San-Francisco-CA-94133/325645479_zpid/
+1148 Montgomery St #D,San Francisco,CA,94133,,,2,$799000.0,Sold 11/09/2022,https://www.zillow.com/homedetails/1148-Montgomery-St-D-San-Francisco-CA-94133/2065695174_zpid/
+1160 Mission St UNIT 709,San Francisco,CA,94103,37.778683,-122.41246,1,$326254.0,Sold 11/08/2022,https://www.zillow.com/homedetails/1160-Mission-St-UNIT-709-San-Francisco-CA-94103/83127981_zpid/
+10 Kennedy Pl #203,San Francisco,CA,94124,37.728172,-122.36766,1,$549000.0,Sold 11/08/2022,https://www.zillow.com/homedetails/10-Kennedy-Pl-203-San-Francisco-CA-94124/325647862_zpid/
+250 King St UNIT 948,San Francisco,CA,94107,37.77801,-122.39325,1,$700000.0,Sold 11/07/2022,https://www.zillow.com/homedetails/250-King-St-UNIT-948-San-Francisco-CA-94107/69819545_zpid/
+1200 Gough St UNIT 9D,San Francisco,CA,94109,37.78497,-122.4243,1,$819000.0,Sold 11/04/2022,https://www.zillow.com/homedetails/1200-Gough-St-UNIT-9D-San-Francisco-CA-94109/15077035_zpid/
+601 Van Ness Ave APT 1006,San Francisco,CA,94102,37.78168,-122.42091,1,$540000.0,Sold 11/04/2022,https://www.zillow.com/homedetails/601-Van-Ness-Ave-APT-1006-San-Francisco-CA-94102/15077916_zpid/
+1503 La Salle Ave,San Francisco,CA,94124,37.735332,-122.38716,3,$799000.0,Sold 11/04/2022,https://www.zillow.com/homedetails/1503-La-Salle-Ave-San-Francisco-CA-94124/15155992_zpid/
+1701 Jackson St APT 601,San Francisco,CA,94109,37.79371,-122.42345,2,$4900.0,Sold 11/04/2022,https://www.zillow.com/homedetails/1701-Jackson-St-APT-601-San-Francisco-CA-94109/54854399_zpid/
+666 Post St APT 502,San Francisco,CA,94109,37.787907,-122.4129,1,$536500.0,Sold 11/04/2022,https://www.zillow.com/homedetails/666-Post-St-APT-502-San-Francisco-CA-94109/63196392_zpid/
+987 14th St,San Francisco,CA,94114,37.76719,-122.43531,1,$785000.0,Sold 11/04/2022,https://www.zillow.com/homedetails/987-14th-St-San-Francisco-CA-94114/64968915_zpid/
+1905 Laguna St APT 302,San Francisco,CA,94115,37.78872,-122.42904,1,$837000.0,Sold 11/03/2022,https://www.zillow.com/homedetails/1905-Laguna-St-APT-302-San-Francisco-CA-94115/15075115_zpid/
+701 Minna St APT 18,San Francisco,CA,94103,37.776714,-122.41274,2,$775000.0,Sold 11/03/2022,https://www.zillow.com/homedetails/701-Minna-St-APT-18-San-Francisco-CA-94103/80747841_zpid/
+231 Greenwich St APT 1,San Francisco,CA,94133,37.802895,-122.40381,1,$625000.0,Sold 11/03/2022,https://www.zillow.com/homedetails/231-Greenwich-St-APT-1-San-Francisco-CA-94133/184817024_zpid/
+1001 Pine St UNIT 1201,San Francisco,CA,94109,37.79052,-122.41267,1,$645000.0,Sold 11/02/2022,https://www.zillow.com/homedetails/1001-Pine-St-UNIT-1201-San-Francisco-CA-94109/15068922_zpid/
+2346 Clement St APT 3,San Francisco,CA,94121,37.78228,-122.48462,1,$845000.0,Sold 11/02/2022,https://www.zillow.com/homedetails/2346-Clement-St-APT-3-San-Francisco-CA-94121/63196973_zpid/
+2001 McAllister St APT 213,San Francisco,CA,94118,37.776836,-122.44507,1,$719000.0,Sold 11/02/2022,https://www.zillow.com/homedetails/2001-McAllister-St-APT-213-San-Francisco-CA-94118/80747725_zpid/
+688-692 Shotwell St,San Francisco,CA,94110,37.75744,-122.41596,9,$383500.0,Sold 11/02/2022,https://www.zillow.com/homedetails/688-692-Shotwell-St-San-Francisco-CA-94110/332859806_zpid/
+1370 11th Ave APT 5,San Francisco,CA,94122,37.76265,-122.46803,1,$498000.0,Sold 11/02/2022,https://www.zillow.com/homedetails/1370-11th-Ave-APT-5-San-Francisco-CA-94122/2061008752_zpid/
+1977CC Ofarrell St #2,San Francisco,CA,94115,37.78223,-122.43689,2,$715000.0,Sold 11/01/2022,https://www.zillow.com/homedetails/1977CC-Ofarrell-St-2-San-Francisco-CA-94115/15077365_zpid/
+1977 C Ofarrell St,San Francisco,CA,94115,,,2,$715000.0,Sold 11/01/2022,https://www.zillow.com/homedetails/1977-C-Ofarrell-St-San-Francisco-CA-94115/2062488874_zpid/
+1483 Sutter St UNIT 402,San Francisco,CA,94109,37.786716,-122.4242,1,$555000.0,Sold 10/31/2022,https://www.zillow.com/homedetails/1483-Sutter-St-UNIT-402-San-Francisco-CA-94109/15076328_zpid/
+825 La Playa St APT 424,San Francisco,CA,94121,37.77271,-122.51042,2,$800000.0,Sold 10/31/2022,https://www.zillow.com/homedetails/825-La-Playa-St-APT-424-San-Francisco-CA-94121/15100721_zpid/
+1839 15th St APT 255,San Francisco,CA,94103,37.76546,-122.42492,1,$700000.0,Sold 10/31/2022,https://www.zillow.com/homedetails/1839-15th-St-APT-255-San-Francisco-CA-94103/15143271_zpid/
+1503 McKinnon Ave,San Francisco,CA,94124,37.734707,-122.38772,2,$805000.0,Sold 10/31/2022,https://www.zillow.com/homedetails/1503-McKinnon-Ave-San-Francisco-CA-94124/15156162_zpid/
+1400 Mission St #1106,San Francisco,CA,94103,37.775284,-122.41649,1,$349294.0,Sold 10/31/2022,https://www.zillow.com/homedetails/1400-Mission-St-1106-San-Francisco-CA-94103/241585180_zpid/
+719 Larkin St UNIT 203,San Francisco,CA,94109,37.784546,-122.418076,1,$525000.0,Sold 10/31/2022,https://www.zillow.com/homedetails/719-Larkin-St-UNIT-203-San-Francisco-CA-94109/325648132_zpid/
+5853 Mission St APT 9,San Francisco,CA,94112,37.708813,-122.45142,1,$500000.0,Sold 10/28/2022,https://www.zillow.com/homedetails/5853-Mission-St-APT-9-San-Francisco-CA-94112/15178884_zpid/
+555 4th St UNIT 405,San Francisco,CA,94107,37.779335,-122.39652,1,$30000.0,Sold 10/28/2022,https://www.zillow.com/homedetails/555-4th-St-UNIT-405-San-Francisco-CA-94107/79844598_zpid/
+454 Lombard St APT 3,San Francisco,CA,94133,37.803604,-122.40907,1,$860000.0,Sold 10/27/2022,https://www.zillow.com/homedetails/454-Lombard-St-APT-3-San-Francisco-CA-94133/15064382_zpid/
+511 Missouri St,San Francisco,CA,94107,37.759647,-122.395935,4,$360000.0,Sold 10/27/2022,https://www.zillow.com/homedetails/511-Missouri-St-San-Francisco-CA-94107/15150803_zpid/
+714 London St,San Francisco,CA,94112,37.717945,-122.43919,2,$845000.0,Sold 10/27/2022,https://www.zillow.com/homedetails/714-London-St-San-Francisco-CA-94112/15176461_zpid/
+246 2nd St APT 1105,San Francisco,CA,94105,37.785744,-122.3974,1,$755000.0,Sold 10/27/2022,https://www.zillow.com/homedetails/246-2nd-St-APT-1105-San-Francisco-CA-94105/53153514_zpid/
+2002 3rd St APT 110,San Francisco,CA,94107,37.763805,-122.38929,1,$838000.0,Sold 10/27/2022,https://www.zillow.com/homedetails/2002-3rd-St-APT-110-San-Francisco-CA-94107/80743258_zpid/
+10 Kennedy Pl #304,San Francisco,CA,94124,37.728172,-122.36766,2,$699000.0,Sold 10/27/2022,https://www.zillow.com/homedetails/10-Kennedy-Pl-304-San-Francisco-CA-94124/325647873_zpid/
+1262 44th Ave #A,San Francisco,CA,94122,37.763084,-122.50364,1,$853000.0,Sold 10/27/2022,https://www.zillow.com/homedetails/1262-44th-Ave-A-San-Francisco-CA-94122/2061457287_zpid/
+1686 Great Hwy APT 3,San Francisco,CA,94122,37.75502,-122.50841,2,$810000.0,Sold 10/26/2022,https://www.zillow.com/homedetails/1686-Great-Hwy-APT-3-San-Francisco-CA-94122/15108085_zpid/
+1215 Jamestown Ave,San Francisco,CA,94124,37.72054,-122.39774,3,$830000.0,Sold 10/26/2022,https://www.zillow.com/homedetails/1215-Jamestown-Ave-San-Francisco-CA-94124/15159568_zpid/
+261 Silver Ave,San Francisco,CA,94112,37.7293,-122.431915,3,$850000.0,Sold 10/26/2022,https://www.zillow.com/homedetails/261-Silver-Ave-San-Francisco-CA-94112/15186920_zpid/
+1235 McAllister St APT 112,San Francisco,CA,94115,37.778034,-122.43251,1,$445666.0,Sold 10/25/2022,https://www.zillow.com/homedetails/1235-McAllister-St-APT-112-San-Francisco-CA-94115/15078154_zpid/
+140 S Van Ness Ave UNIT 940,San Francisco,CA,94103,37.7717,-122.41885,2,$850000.0,Sold 10/25/2022,https://www.zillow.com/homedetails/140-S-Van-Ness-Ave-UNIT-940-San-Francisco-CA-94103/64969875_zpid/
+8300 Oceanview Ter APT 306,San Francisco,CA,94132,37.71042,-122.467705,1,$605000.0,Sold 10/25/2022,https://www.zillow.com/homedetails/8300-Oceanview-Ter-APT-306-San-Francisco-CA-94132/67394898_zpid/
+351 Stoneridge Ln #5102,San Francisco,CA,94134,,,2,$690000.0,Sold 10/25/2022,https://www.zillow.com/homedetails/351-Stoneridge-Ln-5102-San-Francisco-CA-94134/2062652798_zpid/
+143 Habitat Ter,San Francisco,CA,94112,37.71091,-122.46086,3,$531775.0,Sold 10/25/2022,https://www.zillow.com/homedetails/143-Habitat-Ter-San-Francisco-CA-94112/2064109303_zpid/
+900 Bush St APT 302,San Francisco,CA,94109,37.789944,-122.41273,1,$540000.0,Sold 10/24/2022,https://www.zillow.com/homedetails/900-Bush-St-APT-302-San-Francisco-CA-94109/15069006_zpid/
+601 Van Ness Ave APT 75,San Francisco,CA,94102,37.78168,-122.42091,2,$729000.0,Sold 10/24/2022,https://www.zillow.com/homedetails/601-Van-Ness-Ave-APT-75-San-Francisco-CA-94102/15077599_zpid/
+351 Stoneridge Ln,San Francisco,CA,94134,37.710228,-122.42626,2,$690000.0,Sold 10/24/2022,https://www.zillow.com/homedetails/351-Stoneridge-Ln-San-Francisco-CA-94134/15177739_zpid/
+249 Shipley St APT 1,San Francisco,CA,94107,37.77889,-122.403755,2,$730000.0,Sold 10/24/2022,https://www.zillow.com/homedetails/249-Shipley-St-APT-1-San-Francisco-CA-94107/49815265_zpid/
+325 Berry St APT 614,San Francisco,CA,94158,37.773254,-122.39556,1,$800000.0,Sold 10/24/2022,https://www.zillow.com/homedetails/325-Berry-St-APT-614-San-Francisco-CA-94158/83153288_zpid/
+244 Downey St APT 3,San Francisco,CA,94117,37.76469,-122.44649,1,$825000.0,Sold 10/21/2022,https://www.zillow.com/homedetails/244-Downey-St-APT-3-San-Francisco-CA-94117/15087806_zpid/
+332 Silliman St,San Francisco,CA,94134,37.7305,-122.40878,2,$300000.0,Sold 10/21/2022,https://www.zillow.com/homedetails/332-Silliman-St-San-Francisco-CA-94134/15166943_zpid/
+95 Ora Way UNIT 202F,San Francisco,CA,94131,37.74037,-122.437485,1,$405000.0,Sold 10/21/2022,https://www.zillow.com/homedetails/95-Ora-Way-UNIT-202F-San-Francisco-CA-94131/15199910_zpid/
+342-344 Sussex St,San Francisco,CA,94131,37.73727,-122.43851,3,$835000.0,Sold 10/21/2022,https://www.zillow.com/homedetails/342-344-Sussex-St-San-Francisco-CA-94131/15200538_zpid/
+695 5th St APT 6,San Francisco,CA,94107,37.775696,-122.39724,1,$749000.0,Sold 10/21/2022,https://www.zillow.com/homedetails/695-5th-St-APT-6-San-Francisco-CA-94107/80756362_zpid/
+342 Sussex St,San Francisco,CA,94131,37.73727,-122.43851,3,$835000.0,Sold 10/21/2022,https://www.zillow.com/homedetails/342-Sussex-St-San-Francisco-CA-94131/2061257797_zpid/
+95 Ora Way UNIT F202,San Francisco,CA,94131,37.74037,-122.4375,1,$405000.0,Sold 10/21/2022,https://www.zillow.com/homedetails/95-Ora-Way-UNIT-F202-San-Francisco-CA-94131/2099255705_zpid/
+865 Corbett Ave APT 6,San Francisco,CA,94131,37.752983,-122.44337,2,$680000.0,Sold 10/20/2022,https://www.zillow.com/homedetails/865-Corbett-Ave-APT-6-San-Francisco-CA-94131/15131015_zpid/
+145 Gardenside Dr APT 9,San Francisco,CA,94131,37.754333,-122.444984,2,$30000.0,Sold 10/20/2022,https://www.zillow.com/homedetails/145-Gardenside-Dr-APT-9-San-Francisco-CA-94131/15132790_zpid/
+145 Gardenside Dr APT 10,San Francisco,CA,94131,37.754333,-122.444984,2,$30000.0,Sold 10/20/2022,https://www.zillow.com/homedetails/145-Gardenside-Dr-APT-10-San-Francisco-CA-94131/15132791_zpid/
+10 Kennedy Pl #305,San Francisco,CA,94124,37.728172,-122.36766,2,$699000.0,Sold 10/20/2022,https://www.zillow.com/homedetails/10-Kennedy-Pl-305-San-Francisco-CA-94124/325647874_zpid/
+198 Valencia St #302,San Francisco,CA,94103,,,1,$698000.0,Sold 10/20/2022,https://www.zillow.com/homedetails/198-Valencia-St-302-San-Francisco-CA-94103/2061088807_zpid/
+633 Capp St #A,San Francisco,CA,94110,37.756557,-122.417465,2,$725000.0,Sold 10/20/2022,https://www.zillow.com/homedetails/633-Capp-St-A-San-Francisco-CA-94110/2061787257_zpid/
+955 Corbett Ave APT 8,San Francisco,CA,94131,37.751587,-122.44341,1,$710000.0,Sold 10/19/2022,https://www.zillow.com/homedetails/955-Corbett-Ave-APT-8-San-Francisco-CA-94131/15131814_zpid/
+1221 Harrison St APT 17,San Francisco,CA,94103,37.7731,-122.408676,1,$834000.0,Sold 10/19/2022,https://www.zillow.com/homedetails/1221-Harrison-St-APT-17-San-Francisco-CA-94103/64971634_zpid/
+1 Wattson Pl #2,San Francisco,CA,94112,37.723564,-122.43688,2,$685000.0,Sold 10/19/2022,https://www.zillow.com/homedetails/1-Wattson-Pl-2-San-Francisco-CA-94112/184802007_zpid/
+208 N Lake Merced Hls APT 4D,San Francisco,CA,94132,37.713387,-122.483376,2,$760000.0,Sold 10/19/2022,https://www.zillow.com/homedetails/208-N-Lake-Merced-Hls-APT-4D-San-Francisco-CA-94132/2069857557_zpid/
+47-49 Ceres St,San Francisco,CA,94124,37.73018,-122.39404,3,$92500.0,Sold 10/18/2022,https://www.zillow.com/homedetails/47-49-Ceres-St-San-Francisco-CA-94124/15158888_zpid/
+340 6th St UNIT 201,San Francisco,CA,94103,37.7778,-122.40523,2,$835000.0,Sold 10/18/2022,https://www.zillow.com/homedetails/340-6th-St-UNIT-201-San-Francisco-CA-94103/80739515_zpid/
+234 27th St,San Francisco,CA,94131,37.747192,-122.42613,1,$630000.0,Sold 10/18/2022,https://www.zillow.com/homedetails/234-27th-St-San-Francisco-CA-94131/332862917_zpid/
+234 27th St #1,San Francisco,CA,94131,37.747192,-122.42613,1,$630000.0,Sold 10/18/2022,https://www.zillow.com/homedetails/234-27th-St-1-San-Francisco-CA-94131/2061869785_zpid/
+1235 McAllister St APT 312,San Francisco,CA,94115,37.778034,-122.43251,1,$461777.0,Sold 10/17/2022,https://www.zillow.com/homedetails/1235-McAllister-St-APT-312-San-Francisco-CA-94115/15078175_zpid/
+1730 Broderick St APT 1,San Francisco,CA,94115,37.78641,-122.44154,1,$815000.0,Sold 10/17/2022,https://www.zillow.com/homedetails/1730-Broderick-St-APT-1-San-Francisco-CA-94115/15083130_zpid/
+208 N Lake Merced Hls,San Francisco,CA,94132,37.713387,-122.483376,2,$760000.0,Sold 10/17/2022,https://www.zillow.com/homedetails/208-N-Lake-Merced-Hls-San-Francisco-CA-94132/15198538_zpid/
+655 5th St APT 7,San Francisco,CA,94107,37.77593,-122.39753,1,$735000.0,Sold 10/17/2022,https://www.zillow.com/homedetails/655-5th-St-APT-7-San-Francisco-CA-94107/80740965_zpid/
+3471 21st St APT 3,San Francisco,CA,94110,37.756485,-122.42487,1,$670000.0,Sold 10/17/2022,https://www.zillow.com/homedetails/3471-21st-St-APT-3-San-Francisco-CA-94110/2103471230_zpid/
+3289 22nd St,San Francisco,CA,94110,37.755157,-122.420654,4,$6300.0,Sold 10/16/2022,https://www.zillow.com/homedetails/3289-22nd-St-San-Francisco-CA-94110/2082807366_zpid/
+1175 Chestnut St #103,San Francisco,CA,94109,37.802258,-122.422516,1,$3000.0,Sold 10/15/2022,https://www.zillow.com/homedetails/1175-Chestnut-St-103-San-Francisco-CA-94109/2077409548_zpid/
+8 Buchanan St UNIT 604,San Francisco,CA,94102,37.770073,-122.42621,1,$685000.0,Sold 10/14/2022,https://www.zillow.com/homedetails/8-Buchanan-St-UNIT-604-San-Francisco-CA-94102/124397906_zpid/
+1754 Larkin St APT 1,San Francisco,CA,94109,37.7942,-122.41946,1,$700000.0,Sold 10/14/2022,https://www.zillow.com/homedetails/1754-Larkin-St-APT-1-San-Francisco-CA-94109/2084727219_zpid/
+631 Ofarrell St APT 1502,San Francisco,CA,94109,37.78524,-122.41512,1,$615000.0,Sold 10/13/2022,https://www.zillow.com/homedetails/631-Ofarrell-St-APT-1502-San-Francisco-CA-94109/15069543_zpid/
+1229 De Haro St,San Francisco,CA,94107,37.75415,-122.40027,1,$710000.0,Sold 10/13/2022,https://www.zillow.com/homedetails/1229-De-Haro-St-San-Francisco-CA-94107/79844867_zpid/
+950 Harrison St UNIT 201,San Francisco,CA,94107,37.77839,-122.40319,2,$790000.0,Sold 10/13/2022,https://www.zillow.com/homedetails/950-Harrison-St-UNIT-201-San-Francisco-CA-94107/80741755_zpid/
+2177 3rd St #501,San Francisco,CA,94107,37.76227,-122.3883,2,$12500.0,Sold 10/13/2022,https://www.zillow.com/homedetails/2177-3rd-St-501-San-Francisco-CA-94107/335654099_zpid/
+2040 Franklin St APT 602,San Francisco,CA,94109,37.793518,-122.42432,1,$810000.0,Sold 10/12/2022,https://www.zillow.com/homedetails/2040-Franklin-St-APT-602-San-Francisco-CA-94109/15073807_zpid/
+4343 3rd St APT 401,San Francisco,CA,94124,37.73809,-122.389206,3,$788000.0,Sold 10/12/2022,https://www.zillow.com/homedetails/4343-3rd-St-APT-401-San-Francisco-CA-94124/79841139_zpid/
+3450 18th St,San Francisco,CA,94110,37.76197,-122.42053,1,$800000.0,Sold 10/12/2022,https://www.zillow.com/homedetails/3450-18th-St-San-Francisco-CA-94110/82785798_zpid/
+2426 27th Ave,San Francisco,CA,94116,37.74213,-122.483894,2,$737500.0,Sold 10/11/2022,https://www.zillow.com/homedetails/2426-27th-Ave-San-Francisco-CA-94116/15122423_zpid/
+122 Prague St,San Francisco,CA,94112,37.72022,-122.42657,4,$620000.0,Sold 10/11/2022,https://www.zillow.com/homedetails/122-Prague-St-San-Francisco-CA-94112/15170554_zpid/
+5871 Mission St APT 3,San Francisco,CA,94112,37.70873,-122.45167,1,$595000.0,Sold 10/11/2022,https://www.zillow.com/homedetails/5871-Mission-St-APT-3-San-Francisco-CA-94112/15178890_zpid/
+832 Sutter St #503,San Francisco,CA,94109,37.788795,-122.4142,1,$548000.0,Sold 10/11/2022,https://www.zillow.com/homedetails/832-Sutter-St-503-San-Francisco-CA-94109/2096896378_zpid/
+2655 Bush St APT 129,San Francisco,CA,94115,37.78582,-122.440765,2,$4950.0,Sold 10/10/2022,https://www.zillow.com/homedetails/2655-Bush-St-APT-129-San-Francisco-CA-94115/241585964_zpid/
+275 Castro St #A,San Francisco,CA,94114,37.764484,-122.435036,2,$5500.0,Sold 10/10/2022,https://www.zillow.com/homedetails/275-Castro-St-A-San-Francisco-CA-94114/2061755355_zpid/
+645 Hyde St,San Francisco,CA,94109,37.786846,-122.41677,3,$800000.0,Sold 10/07/2022,https://www.zillow.com/homedetails/645-Hyde-St-San-Francisco-CA-94109/15069288_zpid/
+1839 15th St APT 154,San Francisco,CA,94103,37.76546,-122.42492,1,$850000.0,Sold 10/07/2022,https://www.zillow.com/homedetails/1839-15th-St-APT-154-San-Francisco-CA-94103/15143260_zpid/
+1068 De Haro St,San Francisco,CA,94107,37.756283,-122.40109,1,$840000.0,Sold 10/07/2022,https://www.zillow.com/homedetails/1068-De-Haro-St-San-Francisco-CA-94107/15151475_zpid/
+557 Fillmore St APT 1,San Francisco,CA,94117,37.77456,-122.43124,2,$694000.0,Sold 10/07/2022,https://www.zillow.com/homedetails/557-Fillmore-St-APT-1-San-Francisco-CA-94117/2139501347_zpid/
+900 Bush St APT 301,San Francisco,CA,94109,37.789944,-122.41273,1,$495000.0,Sold 10/06/2022,https://www.zillow.com/homedetails/900-Bush-St-APT-301-San-Francisco-CA-94109/15069005_zpid/
+136 Eastwood Dr,San Francisco,CA,94112,37.72838,-122.457054,4,$650000.0,Sold 10/06/2022,https://www.zillow.com/homedetails/136-Eastwood-Dr-San-Francisco-CA-94112/15140573_zpid/
+117 Marlin Ct #49,San Francisco,CA,94124,37.727474,-122.37178,4,$690000.0,Sold 10/06/2022,https://www.zillow.com/homedetails/117-Marlin-Ct-49-San-Francisco-CA-94124/15153118_zpid/
+117 Marlin Ct,San Francisco,CA,94124,37.727474,-122.37178,3,$690000.0,Sold 10/06/2022,https://www.zillow.com/homedetails/117-Marlin-Ct-San-Francisco-CA-94124/2061955019_zpid/
+240 Lombard St APT 727,San Francisco,CA,94111,37.80424,-122.4055,1,$580000.0,Sold 10/05/2022,https://www.zillow.com/homedetails/240-Lombard-St-APT-727-San-Francisco-CA-94111/15064182_zpid/
+51 Innes Ct UNIT 212,San Francisco,CA,94124,37.727055,-122.36772,2,$799000.0,Sold 10/05/2022,https://www.zillow.com/homedetails/51-Innes-Ct-UNIT-212-San-Francisco-CA-94124/303807097_zpid/
+1250 Clay St APT 201,San Francisco,CA,94108,37.79357,-122.41368,1,$650000.0,Sold 10/04/2022,https://www.zillow.com/homedetails/1250-Clay-St-APT-201-San-Francisco-CA-94108/15067733_zpid/
+1604 Church St APT 3,San Francisco,CA,94131,37.745056,-122.42712,2,$799000.0,Sold 10/04/2022,https://www.zillow.com/homedetails/1604-Church-St-APT-3-San-Francisco-CA-94131/2061242422_zpid/
+1212 Ridge Ct,San Francisco,CA,94134,37.70936,-122.425575,2,$655000.0,Sold 10/03/2022,https://www.zillow.com/homedetails/1212-Ridge-Ct-San-Francisco-CA-94134/15177681_zpid/
+1440 Broadway APT 407,San Francisco,CA,94109,37.796387,-122.42072,1,$805000.0,Sold 10/03/2022,https://www.zillow.com/homedetails/1440-Broadway-APT-407-San-Francisco-CA-94109/69817592_zpid/
+1350 Stevenson St,San Francisco,CA,94103,37.77074,-122.42187,2,$870000.0,Sold 10/03/2022,https://www.zillow.com/homedetails/1350-Stevenson-St-San-Francisco-CA-94103/89238933_zpid/
+888 7th St UNIT 355,San Francisco,CA,94107,37.77038,-122.40106,2,$447819.0,Sold 10/03/2022,https://www.zillow.com/homedetails/888-7th-St-UNIT-355-San-Francisco-CA-94107/89240596_zpid/
+335 Berry St UNIT 207,San Francisco,CA,94158,37.77295,-122.39631,1,$308248.0,Sold 10/03/2022,https://www.zillow.com/homedetails/335-Berry-St-UNIT-207-San-Francisco-CA-94158/96041446_zpid/
+207 King St APT 402,San Francisco,CA,94107,37.77759,-122.39199,2,$5200.0,Sold 10/01/2022,https://www.zillow.com/homedetails/207-King-St-APT-402-San-Francisco-CA-94107/80751504_zpid/
+279 Castro St,San Francisco,CA,94114,37.764484,-122.435036,1,$4000.0,Sold 10/01/2022,https://www.zillow.com/homedetails/279-Castro-St-San-Francisco-CA-94114/2082581059_zpid/
+240 Lombard St APT 939,San Francisco,CA,94111,37.80424,-122.4055,1,$720000.0,Sold 09/30/2022,https://www.zillow.com/homedetails/240-Lombard-St-APT-939-San-Francisco-CA-94111/15064224_zpid/
+81 Lansing St APT 305,San Francisco,CA,94105,37.78564,-122.394005,1,$483000.0,Sold 09/30/2022,https://www.zillow.com/homedetails/81-Lansing-St-APT-305-San-Francisco-CA-94105/15147612_zpid/
+208 Ellsworth St,San Francisco,CA,94110,37.74013,-122.41476,2,$425000.0,Sold 09/30/2022,https://www.zillow.com/homedetails/208-Ellsworth-St-San-Francisco-CA-94110/15162318_zpid/
+101 Crescent Way APT 2410,San Francisco,CA,94134,37.710762,-122.389565,2,$799000.0,Sold 09/30/2022,https://www.zillow.com/homedetails/101-Crescent-Way-APT-2410-San-Francisco-CA-94134/64972919_zpid/
+888 7th St UNIT 304,San Francisco,CA,94107,37.77038,-122.40106,1,$367391.0,Sold 09/30/2022,https://www.zillow.com/homedetails/888-7th-St-UNIT-304-San-Francisco-CA-94107/89240323_zpid/
+4800 3rd St UNIT 204,San Francisco,CA,94124,37.734745,-122.39108,1,$356000.0,Sold 09/30/2022,https://www.zillow.com/homedetails/4800-3rd-St-UNIT-204-San-Francisco-CA-94124/116156785_zpid/
+2255 Beach St,San Francisco,CA,94123,37.803085,-122.446205,3,$9950.0,Sold 09/30/2022,https://www.zillow.com/homedetails/2255-Beach-St-San-Francisco-CA-94123/125218177_zpid/
+451 Donahue St UNIT 315,San Francisco,CA,94124,37.729,-122.36964,2,$645000.0,Sold 09/30/2022,https://www.zillow.com/homedetails/451-Donahue-St-UNIT-315-San-Francisco-CA-94124/184818018_zpid/
+1300 22nd St APT 216,San Francisco,CA,94107,37.75796,-122.39457,1,$799000.0,Sold 09/30/2022,https://www.zillow.com/homedetails/1300-22nd-St-APT-216-San-Francisco-CA-94107/249664878_zpid/
+198 Valencia St #301,San Francisco,CA,94103,,,1,$699000.0,Sold 09/30/2022,https://www.zillow.com/homedetails/198-Valencia-St-301-San-Francisco-CA-94103/2061285866_zpid/
+601 Van Ness Ave APT 803,San Francisco,CA,94102,37.78168,-122.42091,1,$602000.0,Sold 09/29/2022,https://www.zillow.com/homedetails/601-Van-Ness-Ave-APT-803-San-Francisco-CA-94102/15077808_zpid/
+100-108 Garfield St,San Francisco,CA,94132,37.71998,-122.46376,3,$430500.0,Sold 09/29/2022,https://www.zillow.com/homedetails/100-108-Garfield-St-San-Francisco-CA-94132/15189527_zpid/
+45 Lottie Bennett Ln APT 1,San Francisco,CA,94115,37.78424,-122.42862,2,$588000.0,Sold 09/29/2022,https://www.zillow.com/homedetails/45-Lottie-Bennett-Ln-APT-1-San-Francisco-CA-94115/64972009_zpid/
+75 Collingwood St,San Francisco,CA,94114,37.761284,-122.43584,2,$790000.0,Sold 09/29/2022,https://www.zillow.com/homedetails/75-Collingwood-St-San-Francisco-CA-94114/2062116599_zpid/
+1101 Green St #203,San Francisco,CA,94109,37.798233,-122.4174,1,$838000.0,Sold 09/28/2022,https://www.zillow.com/homedetails/1101-Green-St-203-San-Francisco-CA-94109/15066197_zpid/
+720 York St UNIT 204,San Francisco,CA,94110,37.759827,-122.4092,1,$763000.0,Sold 09/28/2022,https://www.zillow.com/homedetails/720-York-St-UNIT-204-San-Francisco-CA-94110/53734654_zpid/
+3981 Alemany Blvd APT 217,San Francisco,CA,94132,37.71046,-122.46915,2,$750000.0,Sold 09/28/2022,https://www.zillow.com/homedetails/3981-Alemany-Blvd-APT-217-San-Francisco-CA-94132/67395089_zpid/
+733 Front St UNIT 511,San Francisco,CA,94111,37.79792,-122.3999,1,$3750.0,Sold 09/28/2022,https://www.zillow.com/homedetails/733-Front-St-UNIT-511-San-Francisco-CA-94111/89239895_zpid/
+370 Monterey Blvd APT 206,San Francisco,CA,94131,37.731842,-122.44339,2,$680000.0,Sold 09/28/2022,https://www.zillow.com/homedetails/370-Monterey-Blvd-APT-206-San-Francisco-CA-94131/89664915_zpid/
+1 Hawthorne St UNIT 2J,San Francisco,CA,94105,37.785767,-122.39887,1,$619000.0,Sold 09/28/2022,https://www.zillow.com/homedetails/1-Hawthorne-St-UNIT-2J-San-Francisco-CA-94105/121337316_zpid/
+3222 26th St,San Francisco,CA,94110,37.749447,-122.41419,3,$699000.0,Sold 09/28/2022,https://www.zillow.com/homedetails/3222-26th-St-San-Francisco-CA-94110/2062116597_zpid/
+1620 Grove St,San Francisco,CA,94117,,,4,$4950.0,Sold 09/28/2022,https://www.zillow.com/homedetails/1620-Grove-St-San-Francisco-CA-94117/2078531547_zpid/
+1235 McAllister St APT 215,San Francisco,CA,94115,37.778034,-122.43251,1,$470136.0,Sold 09/27/2022,https://www.zillow.com/homedetails/1235-McAllister-St-APT-215-San-Francisco-CA-94115/15078168_zpid/
+5800 3rd St UNIT 1412,San Francisco,CA,94124,37.725353,-122.39511,2,$700000.0,Sold 09/27/2022,https://www.zillow.com/homedetails/5800-3rd-St-UNIT-1412-San-Francisco-CA-94124/119685092_zpid/
+1400 Mission St APT 506,San Francisco,CA,94103,37.775284,-122.41649,1,$349108.0,Sold 09/27/2022,https://www.zillow.com/homedetails/1400-Mission-St-APT-506-San-Francisco-CA-94103/241585112_zpid/
+642 Shotwell St,San Francisco,CA,94110,37.758102,-122.41602,2,$840000.0,Sold 09/27/2022,https://www.zillow.com/homedetails/642-Shotwell-St-San-Francisco-CA-94110/332859805_zpid/
+198 Valencia St #503,San Francisco,CA,94103,,,1,$770000.0,Sold 09/27/2022,https://www.zillow.com/homedetails/198-Valencia-St-503-San-Francisco-CA-94103/2061285766_zpid/
+640 Shotwell St,San Francisco,CA,94110,37.758102,-122.41602,2,$840000.0,Sold 09/27/2022,https://www.zillow.com/homedetails/640-Shotwell-St-San-Francisco-CA-94110/2063296714_zpid/
+87 Cotter St,San Francisco,CA,94112,37.72782,-122.43476,2,$750000.0,Sold 09/26/2022,https://www.zillow.com/homedetails/87-Cotter-St-San-Francisco-CA-94112/15186726_zpid/
+200 Brannan St APT 225,San Francisco,CA,94107,37.7836,-122.39071,1,$820000.0,Sold 09/26/2022,https://www.zillow.com/homedetails/200-Brannan-St-APT-225-San-Francisco-CA-94107/69817858_zpid/
+3137 Rivera St,San Francisco,CA,94116,37.745464,-122.50017,2,$860000.0,Sold 09/23/2022,https://www.zillow.com/homedetails/3137-Rivera-St-San-Francisco-CA-94116/15118764_zpid/
+3375 17th St APT 201,San Francisco,CA,94110,37.763096,-122.421295,1,$450000.0,Sold 09/23/2022,https://www.zillow.com/homedetails/3375-17th-St-APT-201-San-Francisco-CA-94110/63197196_zpid/
+1420 Webster St APT 6,San Francisco,CA,94115,37.78407,-122.43011,3,$728000.0,Sold 09/23/2022,https://www.zillow.com/homedetails/1420-Webster-St-APT-6-San-Francisco-CA-94115/64971924_zpid/
+28 Megan Dr,San Francisco,CA,94134,37.71409,-122.39826,2,$865000.0,Sold 09/23/2022,https://www.zillow.com/homedetails/28-Megan-Dr-San-Francisco-CA-94134/114313996_zpid/
+2730 23rd St,San Francisco,CA,94110,37.75464,-122.40718,2,$675000.0,Sold 09/23/2022,https://www.zillow.com/homedetails/2730-23rd-St-San-Francisco-CA-94110/241586970_zpid/
+28 Megan Dr #1,San Francisco,CA,94134,,,2,$865000.0,Sold 09/23/2022,https://www.zillow.com/homedetails/28-Megan-Dr-1-San-Francisco-CA-94134/2062295524_zpid/
+2092 California St,San Francisco,CA,94109,37.789722,-122.42864,1,$805000.0,Sold 09/23/2022,https://www.zillow.com/homedetails/2092-California-St-San-Francisco-CA-94109/2079261209_zpid/
+930 Elizabeth St APT 1,San Francisco,CA,94114,37.75174,-122.44173,1,$670195.0,Sold 09/23/2022,https://www.zillow.com/homedetails/930-Elizabeth-St-APT-1-San-Francisco-CA-94114/2104400854_zpid/
+1991 San Jose Ave,San Francisco,CA,94112,37.725025,-122.44265,2,$730000.0,Sold 09/22/2022,https://www.zillow.com/homedetails/1991-San-Jose-Ave-San-Francisco-CA-94112/15141451_zpid/
+2225 23rd St UNIT 112,San Francisco,CA,94107,37.75388,-122.40201,1,$525000.0,Sold 09/22/2022,https://www.zillow.com/homedetails/2225-23rd-St-UNIT-112-San-Francisco-CA-94107/15152015_zpid/
+75 Ora Way UNIT 101D,San Francisco,CA,94131,37.740906,-122.43685,1,$426000.0,Sold 09/22/2022,https://www.zillow.com/homedetails/75-Ora-Way-UNIT-101D-San-Francisco-CA-94131/15199851_zpid/
+75 Ora Way UNIT D101,San Francisco,CA,94131,37.740906,-122.43685,1,$431916.0,Sold 09/22/2022,https://www.zillow.com/homedetails/75-Ora-Way-UNIT-D101-San-Francisco-CA-94131/2063245620_zpid/
+2040 Fell St APT 6,San Francisco,CA,94117,37.7726,-122.451584,1,$740000.0,Sold 09/21/2022,https://www.zillow.com/homedetails/2040-Fell-St-APT-6-San-Francisco-CA-94117/15086318_zpid/
+1638 19th Ave,San Francisco,CA,94122,37.757236,-122.4763,3,$610000.0,Sold 09/21/2022,https://www.zillow.com/homedetails/1638-19th-Ave-San-Francisco-CA-94122/15109456_zpid/
+380 Monterey Blvd APT 305,San Francisco,CA,94131,37.73184,-122.443985,3,$855000.0,Sold 09/21/2022,https://www.zillow.com/homedetails/380-Monterey-Blvd-APT-305-San-Francisco-CA-94131/15138645_zpid/
+109 S Lake Merced Hls,San Francisco,CA,94132,37.710056,-122.48363,2,$852000.0,Sold 09/20/2022,https://www.zillow.com/homedetails/109-S-Lake-Merced-Hls-San-Francisco-CA-94132/15198509_zpid/
+1238 Sutter St UNIT 801,San Francisco,CA,94109,37.78793,-122.42082,1,$605000.0,Sold 09/20/2022,https://www.zillow.com/homedetails/1238-Sutter-St-UNIT-801-San-Francisco-CA-94109/303806396_zpid/
+10 Kennedy Pl #108,San Francisco,CA,94124,37.728172,-122.36766,1,$575000.0,Sold 09/20/2022,https://www.zillow.com/homedetails/10-Kennedy-Pl-108-San-Francisco-CA-94124/325647857_zpid/
+109 Lake Merced Hls #3E,San Francisco,CA,94132,,,2,$852000.0,Sold 09/20/2022,https://www.zillow.com/homedetails/109-Lake-Merced-Hls-3E-San-Francisco-CA-94132/2069865123_zpid/
+250 King St UNIT 372,San Francisco,CA,94107,37.77801,-122.39325,1,$680000.0,Sold 09/19/2022,https://www.zillow.com/homedetails/250-King-St-UNIT-372-San-Francisco-CA-94107/69819565_zpid/
+45 Bartlett St UNIT 313,San Francisco,CA,94110,37.755936,-122.41929,1,$650000.0,Sold 09/19/2022,https://www.zillow.com/homedetails/45-Bartlett-St-UNIT-313-San-Francisco-CA-94110/184817601_zpid/
+219 Brannan St UNIT 12C,San Francisco,CA,94107,37.782646,-122.39039,1,$800000.0,Sold 09/16/2022,https://www.zillow.com/homedetails/219-Brannan-St-UNIT-12C-San-Francisco-CA-94107/51174987_zpid/
+1688 Pine St #W604,San Francisco,CA,94109,37.789555,-122.42328,1,$800000.0,Sold 09/16/2022,https://www.zillow.com/homedetails/1688-Pine-St-W604-San-Francisco-CA-94109/241585637_zpid/
+175 Bluxome St UNIT 206,San Francisco,CA,94107,37.774647,-122.399445,2,$842000.0,Sold 09/15/2022,https://www.zillow.com/homedetails/175-Bluxome-St-UNIT-206-San-Francisco-CA-94107/80751106_zpid/
+601 Van Ness Ave APT 351,San Francisco,CA,94102,37.78168,-122.42091,2,$710000.0,Sold 09/14/2022,https://www.zillow.com/homedetails/601-Van-Ness-Ave-APT-351-San-Francisco-CA-94102/15077875_zpid/
+627 San Bruno Ave,San Francisco,CA,94107,37.76133,-122.40484,3,$576500.0,Sold 09/14/2022,https://www.zillow.com/homedetails/627-San-Bruno-Ave-San-Francisco-CA-94107/15149290_zpid/
+1447 Silver Ave,San Francisco,CA,94134,37.731907,-122.40799,2,$650000.0,Sold 09/14/2022,https://www.zillow.com/homedetails/1447-Silver-Ave-San-Francisco-CA-94134/15165788_zpid/
+160 Jerrold Ave,San Francisco,CA,94124,37.729008,-122.37143,3,$860000.0,Sold 09/13/2022,https://www.zillow.com/homedetails/160-Jerrold-Ave-San-Francisco-CA-94124/15153023_zpid/
+77 Dow Pl APT 905,San Francisco,CA,94107,37.784157,-122.39662,1,$735000.0,Sold 09/13/2022,https://www.zillow.com/homedetails/77-Dow-Pl-APT-905-San-Francisco-CA-94107/61325306_zpid/
+65 Norfolk St UNIT 4,San Francisco,CA,94103,37.770885,-122.413445,1,$815000.0,Sold 09/13/2022,https://www.zillow.com/homedetails/65-Norfolk-St-UNIT-4-San-Francisco-CA-94103/80738970_zpid/
+451 Kansas St UNIT 366,San Francisco,CA,94107,37.764065,-122.403275,2,$434517.0,Sold 09/13/2022,https://www.zillow.com/homedetails/451-Kansas-St-UNIT-366-San-Francisco-CA-94107/89237451_zpid/
+619 22nd Ave,San Francisco,CA,94121,37.776012,-122.481544,2,$600000.0,Sold 09/09/2022,https://www.zillow.com/homedetails/619-22nd-Ave-San-Francisco-CA-94121/15097679_zpid/
+825 La Playa St APT 328,San Francisco,CA,94121,37.77271,-122.51042,1,$780000.0,Sold 09/09/2022,https://www.zillow.com/homedetails/825-La-Playa-St-APT-328-San-Francisco-CA-94121/15100714_zpid/
+451 Kansas St UNIT 409,San Francisco,CA,94107,37.764065,-122.403275,1,$772000.0,Sold 09/09/2022,https://www.zillow.com/homedetails/451-Kansas-St-UNIT-409-San-Francisco-CA-94107/89237154_zpid/
+701-707 15th Ave #701,San Francisco,CA,94118,,,1,$775000.0,Sold 09/09/2022,https://www.zillow.com/homedetails/701-707-15th-Ave-701-San-Francisco-CA-94118/2062222655_zpid/
+3009 Webster St,San Francisco,CA,94123,37.798412,-122.43434,4,$104500.0,Sold 09/08/2022,https://www.zillow.com/homedetails/3009-Webster-St-San-Francisco-CA-94123/15071334_zpid/
+250 King St UNIT 1206,San Francisco,CA,94107,37.77801,-122.39325,1,$3800.0,Sold 09/08/2022,https://www.zillow.com/homedetails/250-King-St-UNIT-1206-San-Francisco-CA-94107/80744686_zpid/
+10 Kennedy Pl #301,San Francisco,CA,94124,37.728172,-122.36766,1,$650000.0,Sold 09/08/2022,https://www.zillow.com/homedetails/10-Kennedy-Pl-301-San-Francisco-CA-94124/325647870_zpid/
+1288 Howard St #202,San Francisco,CA,94103,,,1,$755000.0,Sold 09/08/2022,https://www.zillow.com/homedetails/1288-Howard-St-202-San-Francisco-CA-94103/2062694792_zpid/
+5 Fella Pl APT 301,San Francisco,CA,94108,37.790775,-122.408356,1,$265000.0,Sold 09/07/2022,https://www.zillow.com/homedetails/5-Fella-Pl-APT-301-San-Francisco-CA-94108/15068775_zpid/
+932 Silliman St,San Francisco,CA,94134,37.728928,-122.41467,2,$755000.0,Sold 09/07/2022,https://www.zillow.com/homedetails/932-Silliman-St-San-Francisco-CA-94134/15166819_zpid/
+601 Van Ness Ave APT 907,San Francisco,CA,94102,37.78168,-122.42091,1,$515000.0,Sold 09/06/2022,https://www.zillow.com/homedetails/601-Van-Ness-Ave-APT-907-San-Francisco-CA-94102/15077881_zpid/
+1231 Quesada Ave,San Francisco,CA,94124,37.7282,-122.38292,3,$860000.0,Sold 09/06/2022,https://www.zillow.com/homedetails/1231-Quesada-Ave-San-Francisco-CA-94124/15153860_zpid/
+1401 Eddy St #2,San Francisco,CA,94115,37.78144,-122.43093,1,$560000.0,Sold 09/02/2022,https://www.zillow.com/homedetails/1401-Eddy-St-2-San-Francisco-CA-94115/15077519_zpid/
+165 Russ St,San Francisco,CA,94103,37.778275,-122.40711,1,$725000.0,Sold 09/02/2022,https://www.zillow.com/homedetails/165-Russ-St-San-Francisco-CA-94103/15147459_zpid/
+36 Bayview St,San Francisco,CA,94124,37.73272,-122.39286,3,$800000.0,Sold 09/02/2022,https://www.zillow.com/homedetails/36-Bayview-St-San-Francisco-CA-94124/15156847_zpid/
+36 Bay View St,San Francisco,CA,94124,37.73272,-122.39286,3,$800000.0,Sold 09/02/2022,https://www.zillow.com/homedetails/36-Bay-View-St-San-Francisco-CA-94124/15157263_zpid/
+1180 Plymouth Ave #1180A,San Francisco,CA,94112,37.723335,-122.45586,2,$850000.0,Sold 09/02/2022,https://www.zillow.com/homedetails/1180-Plymouth-Ave-1180A-San-Francisco-CA-94112/15188014_zpid/
+545 Leavenworth St APT 5,San Francisco,CA,94109,37.78611,-122.414955,1,$680000.0,Sold 09/02/2022,https://www.zillow.com/homedetails/545-Leavenworth-St-APT-5-San-Francisco-CA-94109/59700056_zpid/
+470 Grove St APT 2,San Francisco,CA,94102,37.777863,-122.42431,1,$660000.0,Sold 09/02/2022,https://www.zillow.com/homedetails/470-Grove-St-APT-2-San-Francisco-CA-94102/61288315_zpid/
+2001 McAllister St APT 214,San Francisco,CA,94118,37.776836,-122.44507,1,$775000.0,Sold 09/02/2022,https://www.zillow.com/homedetails/2001-McAllister-St-APT-214-San-Francisco-CA-94118/80733356_zpid/
+250 King St UNIT 1612,San Francisco,CA,94107,37.77801,-122.39325,1,$770000.0,Sold 09/02/2022,https://www.zillow.com/homedetails/250-King-St-UNIT-1612-San-Francisco-CA-94107/80738716_zpid/
+8 Landers St UNIT 102,San Francisco,CA,94114,37.767548,-122.42803,1,$775000.0,Sold 09/02/2022,https://www.zillow.com/homedetails/8-Landers-St-UNIT-102-San-Francisco-CA-94114/89239069_zpid/
+1875 Mission St APT 404,San Francisco,CA,94103,37.7671,-122.41945,1,$799000.0,Sold 09/02/2022,https://www.zillow.com/homedetails/1875-Mission-St-APT-404-San-Francisco-CA-94103/184816798_zpid/
+544 Velasco Ave,San Francisco,CA,94134,37.709595,-122.41736,2,$840000.0,Sold 08/31/2022,https://www.zillow.com/homedetails/544-Velasco-Ave-San-Francisco-CA-94134/15176937_zpid/
+1 Crescent Way APT 1213,San Francisco,CA,94134,37.71084,-122.39018,2,$538893.0,Sold 08/31/2022,https://www.zillow.com/homedetails/1-Crescent-Way-APT-1213-San-Francisco-CA-94134/64972874_zpid/
+270 Valencia St APT 405,San Francisco,CA,94103,37.76852,-122.42259,1,$676000.0,Sold 08/31/2022,https://www.zillow.com/homedetails/270-Valencia-St-APT-405-San-Francisco-CA-94103/69820023_zpid/
+1488 Harrison St APT 101,San Francisco,CA,94103,37.77093,-122.41242,2,$860000.0,Sold 08/31/2022,https://www.zillow.com/homedetails/1488-Harrison-St-APT-101-San-Francisco-CA-94103/80745362_zpid/
+8 Buchanan St UNIT 310,San Francisco,CA,94102,37.770073,-122.42621,1,$715000.0,Sold 08/31/2022,https://www.zillow.com/homedetails/8-Buchanan-St-UNIT-310-San-Francisco-CA-94102/184686242_zpid/
+3258 Market St APT 1,San Francisco,CA,94114,37.758743,-122.44512,2,$850000.0,Sold 08/31/2022,https://www.zillow.com/homedetails/3258-Market-St-APT-1-San-Francisco-CA-94114/241586162_zpid/
+3991-3995 24th St,San Francisco,CA,94114,37.751244,-122.431625,6,$517500.0,Sold 08/31/2022,https://www.zillow.com/homedetails/3991-3995-24th-St-San-Francisco-CA-94114/241587429_zpid/
+832 Sutter St #202,San Francisco,CA,94109,,,1,$495000.0,Sold 08/31/2022,https://www.zillow.com/homedetails/832-Sutter-St-202-San-Francisco-CA-94109/2065706738_zpid/
+1100 Leavenworth St APT 2,San Francisco,CA,94109,37.79146,-122.415634,2,$822000.0,Sold 08/31/2022,https://www.zillow.com/homedetails/1100-Leavenworth-St-APT-2-San-Francisco-CA-94109/2092378375_zpid/
+1370 Quesada Ave,San Francisco,CA,94124,37.73006,-122.385124,4,$998000.0,Sold 08/30/2022,https://www.zillow.com/homedetails/1370-Quesada-Ave-San-Francisco-CA-94124/15153692_zpid/
+444 Francisco St APT 204,San Francisco,CA,94133,37.804974,-122.41255,1,$635000.0,Sold 08/30/2022,https://www.zillow.com/homedetails/444-Francisco-St-APT-204-San-Francisco-CA-94133/64969706_zpid/
+355 1st St UNIT S1401,San Francisco,CA,94105,37.786858,-122.39324,1,$835000.0,Sold 08/30/2022,https://www.zillow.com/homedetails/355-1st-St-UNIT-S1401-San-Francisco-CA-94105/64972671_zpid/
+8400 Oceanview Ter APT 314,San Francisco,CA,94132,37.71042,-122.467705,2,$720000.0,Sold 08/30/2022,https://www.zillow.com/homedetails/8400-Oceanview-Ter-APT-314-San-Francisco-CA-94132/67395037_zpid/
+716 2nd Ave APT 6,San Francisco,CA,94118,37.775227,-122.45927,1,$769000.0,Sold 08/30/2022,https://www.zillow.com/homedetails/716-2nd-Ave-APT-6-San-Francisco-CA-94118/2114359727_zpid/
+1177 California St APT 1608,San Francisco,CA,94108,37.791027,-122.41365,1,$840000.0,Sold 08/29/2022,https://www.zillow.com/homedetails/1177-California-St-APT-1608-San-Francisco-CA-94108/15068385_zpid/
+201 Laguna St APT 10,San Francisco,CA,94102,37.772984,-122.42579,1,$760000.0,Sold 08/29/2022,https://www.zillow.com/homedetails/201-Laguna-St-APT-10-San-Francisco-CA-94102/15079001_zpid/
+5140 Diamond Heights Blvd APT 302A,San Francisco,CA,94131,37.74681,-122.44057,1,$800000.0,Sold 08/29/2022,https://www.zillow.com/homedetails/5140-Diamond-Heights-Blvd-APT-302A-San-Francisco-CA-94131/15199003_zpid/
+451 Donahue St UNIT 310,San Francisco,CA,94124,37.729,-122.36964,1,$237874.0,Sold 08/29/2022,https://www.zillow.com/homedetails/451-Donahue-St-UNIT-310-San-Francisco-CA-94124/184818015_zpid/
+5140 Diamond Heights Blvd APT A302,San Francisco,CA,94131,37.74681,-122.44057,1,$800000.0,Sold 08/29/2022,https://www.zillow.com/homedetails/5140-Diamond-Heights-Blvd-APT-A302-San-Francisco-CA-94131/2075614255_zpid/
+1972 Union St,San Francisco,CA,94123,37.797848,-122.43177,3,$5800.0,Sold 08/27/2022,https://www.zillow.com/homedetails/1972-Union-St-San-Francisco-CA-94123/2062210079_zpid/
+1900 Sutter St APT 6,San Francisco,CA,94115,37.786446,-122.432,2,$870000.0,Sold 08/26/2022,https://www.zillow.com/homedetails/1900-Sutter-St-APT-6-San-Francisco-CA-94115/15075569_zpid/
+1180 Eddy St UNIT D,San Francisco,CA,94109,37.782333,-122.42709,2,$865000.0,Sold 08/26/2022,https://www.zillow.com/homedetails/1180-Eddy-St-UNIT-D-San-Francisco-CA-94109/15077482_zpid/
+50 Nibbi Ct,San Francisco,CA,94134,37.710075,-122.3959,4,$370000.0,Sold 08/26/2022,https://www.zillow.com/homedetails/50-Nibbi-Ct-San-Francisco-CA-94134/15155475_zpid/
+1335 Laguna St APT 3,San Francisco,CA,94115,37.783405,-122.42844,2,$605000.0,Sold 08/26/2022,https://www.zillow.com/homedetails/1335-Laguna-St-APT-3-San-Francisco-CA-94115/64972208_zpid/
+8400 Oceanview Ter APT 204,San Francisco,CA,94132,37.71042,-122.467705,2,$725000.0,Sold 08/26/2022,https://www.zillow.com/homedetails/8400-Oceanview-Ter-APT-204-San-Francisco-CA-94132/67395662_zpid/
+250 King St UNIT 682,San Francisco,CA,94107,37.77801,-122.39325,1,$775000.0,Sold 08/26/2022,https://www.zillow.com/homedetails/250-King-St-UNIT-682-San-Francisco-CA-94107/69819584_zpid/
+260 King St UNIT 809,San Francisco,CA,94107,37.77725,-122.39376,1,$700000.0,Sold 08/26/2022,https://www.zillow.com/homedetails/260-King-St-UNIT-809-San-Francisco-CA-94107/69819634_zpid/
+2322 N Point St,San Francisco,CA,94123,37.80271,-122.4456,2,$715000.0,Sold 08/26/2022,https://www.zillow.com/homedetails/2322-N-Point-St-San-Francisco-CA-94123/79843581_zpid/
+900 Gilman Ave #12,San Francisco,CA,94124,37.717567,-122.38644,2,$503000.0,Sold 08/26/2022,https://www.zillow.com/homedetails/900-Gilman-Ave-12-San-Francisco-CA-94124/79847002_zpid/
+250 King St UNIT 1306,San Francisco,CA,94107,37.77801,-122.39325,1,$850000.0,Sold 08/26/2022,https://www.zillow.com/homedetails/250-King-St-UNIT-1306-San-Francisco-CA-94107/80732107_zpid/
+1310 Fillmore St APT 1004,San Francisco,CA,94115,37.78165,-122.4322,1,$720000.0,Sold 08/26/2022,https://www.zillow.com/homedetails/1310-Fillmore-St-APT-1004-San-Francisco-CA-94115/82785414_zpid/
+300 Berry St UNIT 420,San Francisco,CA,94158,37.774086,-122.39585,1,$740000.0,Sold 08/26/2022,https://www.zillow.com/homedetails/300-Berry-St-UNIT-420-San-Francisco-CA-94158/96018723_zpid/
+2956 Arelious Walker Dr,San Francisco,CA,94124,37.717464,-122.38617,2,$503000.0,Sold 08/26/2022,https://www.zillow.com/homedetails/2956-Arelious-Walker-Dr-San-Francisco-CA-94124/2092868043_zpid/
+1447 Jones St APT 1,San Francisco,CA,94109,37.794678,-122.41503,1,$2300.0,Sold 08/26/2022,https://www.zillow.com/homedetails/1447-Jones-St-APT-1-San-Francisco-CA-94109/2094882693_zpid/
+1591 Jackson St #304,San Francisco,CA,94109,37.793915,-122.421036,1,$800000.0,Sold 08/25/2022,https://www.zillow.com/homedetails/1591-Jackson-St-304-San-Francisco-CA-94109/15073764_zpid/
+565 Arguello Blvd APT 1,San Francisco,CA,94118,37.77994,-122.45916,1,$810000.0,Sold 08/25/2022,https://www.zillow.com/homedetails/565-Arguello-Blvd-APT-1-San-Francisco-CA-94118/82785694_zpid/
+1288 Howard St #103,San Francisco,CA,94103,,,1,$660000.0,Sold 08/25/2022,https://www.zillow.com/homedetails/1288-Howard-St-103-San-Francisco-CA-94103/2062351575_zpid/
+111 Chestnut St UNIT 313,San Francisco,CA,94111,37.80453,-122.40555,1,$625000.0,Sold 08/24/2022,https://www.zillow.com/homedetails/111-Chestnut-St-UNIT-313-San-Francisco-CA-94111/15064254_zpid/
+2121 Laguna St #240,San Francisco,CA,94115,37.79094,-122.42955,1,$750000.0,Sold 08/24/2022,https://www.zillow.com/homedetails/2121-Laguna-St-240-San-Francisco-CA-94115/15074349_zpid/
+2999 California St #704,San Francisco,CA,94115,37.787445,-122.44349,1,$671000.0,Sold 08/24/2022,https://www.zillow.com/homedetails/2999-California-St-704-San-Francisco-CA-94115/15082647_zpid/
+14 Ina Ct,San Francisco,CA,94112,37.72409,-122.42449,3,$860000.0,Open: Wed. 5:30-7pm,https://www.zillow.com/homedetails/14-Ina-Ct-San-Francisco-CA-94112/15169035_zpid/
+451 Kansas St UNIT 475,San Francisco,CA,94107,37.764065,-122.403275,1,$784000.0,Sold 08/24/2022,https://www.zillow.com/homedetails/451-Kansas-St-UNIT-475-San-Francisco-CA-94107/89236995_zpid/
+1400 Mission St APT 405,San Francisco,CA,94103,37.775284,-122.41649,2,$392616.0,Sold 08/24/2022,https://www.zillow.com/homedetails/1400-Mission-St-APT-405-San-Francisco-CA-94103/241585098_zpid/
+2121 Laguna St APT 24,San Francisco,CA,94115,37.79094,-122.42955,1,$750000.0,Sold 08/24/2022,https://www.zillow.com/homedetails/2121-Laguna-St-APT-24-San-Francisco-CA-94115/2062468663_zpid/
+829 Folsom St UNIT 506,San Francisco,CA,94107,37.781155,-122.40165,1,$610000.0,Sold 08/23/2022,https://www.zillow.com/homedetails/829-Folsom-St-UNIT-506-San-Francisco-CA-94107/111921846_zpid/
+1591 Jackson St #506,San Francisco,CA,94109,,,1,$759000.0,Sold 08/23/2022,https://www.zillow.com/homedetails/1591-Jackson-St-506-San-Francisco-CA-94109/2062219010_zpid/
+3220 26th St,San Francisco,CA,94110,,,3,$730000.0,Sold 08/23/2022,https://www.zillow.com/homedetails/3220-26th-St-San-Francisco-CA-94110/2062733976_zpid/
+3212 26th St,San Francisco,CA,94110,37.749447,-122.41419,3,$650000.0,Sold 08/23/2022,https://www.zillow.com/homedetails/3212-26th-St-San-Francisco-CA-94110/2094293769_zpid/
+655 Corbett Ave APT 501,San Francisco,CA,94114,37.756413,-122.44318,1,$725000.0,Sold 08/22/2022,https://www.zillow.com/homedetails/655-Corbett-Ave-APT-501-San-Francisco-CA-94114/15129933_zpid/
+2027 Market St APT 12,San Francisco,CA,94114,37.76831,-122.427414,1,$800000.0,Sold 08/22/2022,https://www.zillow.com/homedetails/2027-Market-St-APT-12-San-Francisco-CA-94114/15142767_zpid/
+1843 Egbert Ave,San Francisco,CA,94124,37.727165,-122.40109,3,$800000.0,Sold 08/22/2022,https://www.zillow.com/homedetails/1843-Egbert-Ave-San-Francisco-CA-94124/15159371_zpid/
+829 Folsom St UNIT 704,San Francisco,CA,94107,37.781155,-122.40165,1,$650000.0,Sold 08/22/2022,https://www.zillow.com/homedetails/829-Folsom-St-UNIT-704-San-Francisco-CA-94107/111931313_zpid/
+1954 Palou Ave,San Francisco,CA,94124,37.737946,-122.39737,2,$600000.0,Sold 08/19/2022,https://www.zillow.com/homedetails/1954-Palou-Ave-San-Francisco-CA-94124/15156333_zpid/
+255 Goettingen St,San Francisco,CA,94134,37.72864,-122.40698,1,$555000.0,Sold 08/19/2022,https://www.zillow.com/homedetails/255-Goettingen-St-San-Francisco-CA-94134/15168636_zpid/
+888 7th St #LL-13,San Francisco,CA,94107,37.77038,-122.40106,1,$705000.0,Sold 08/19/2022,https://www.zillow.com/homedetails/888-7th-St-LL-13-San-Francisco-CA-94107/89238498_zpid/
+751 Corbett Ave,San Francisco,CA,94131,37.7547,-122.442184,1,$866872.0,Sold 08/19/2022,https://www.zillow.com/homedetails/751-Corbett-Ave-San-Francisco-CA-94131/125217757_zpid/
+2364 Pacific Ave APT 1,San Francisco,CA,94115,37.793682,-122.43425,1,$825000.0,Sold 08/19/2022,https://www.zillow.com/homedetails/2364-Pacific-Ave-APT-1-San-Francisco-CA-94115/2088943473_zpid/
+552 Central Ave,San Francisco,CA,94117,37.774933,-122.44427,2,$840000.0,Sold 08/19/2022,https://www.zillow.com/homedetails/552-Central-Ave-San-Francisco-CA-94117/2120599149_zpid/
+1401 Eddy St #7,San Francisco,CA,94115,37.78144,-122.43093,1,$585000.0,Sold 08/18/2022,https://www.zillow.com/homedetails/1401-Eddy-St-7-San-Francisco-CA-94115/15077524_zpid/
+38 Bryant St APT 906,San Francisco,CA,94105,37.787464,-122.38897,1,$700000.0,Sold 08/18/2022,https://www.zillow.com/homedetails/38-Bryant-St-APT-906-San-Francisco-CA-94105/15148471_zpid/
+599 Athens St,San Francisco,CA,94112,37.718594,-122.43054,3,$760000.0,Sold 08/18/2022,https://www.zillow.com/homedetails/599-Athens-St-San-Francisco-CA-94112/2062962960_zpid/
+2619 47th Ave,San Francisco,CA,94116,37.737587,-122.50571,2,$250000.0,Sold 08/17/2022,https://www.zillow.com/homedetails/2619-47th-Ave-San-Francisco-CA-94116/15124493_zpid/
+655 Corbett Ave APT 507,San Francisco,CA,94114,37.756413,-122.44318,1,$698000.0,Sold 08/17/2022,https://www.zillow.com/homedetails/655-Corbett-Ave-APT-507-San-Francisco-CA-94114/15129939_zpid/
+109 Blanken Ave,San Francisco,CA,94134,37.71211,-122.40051,2,$775000.0,Sold 08/17/2022,https://www.zillow.com/homedetails/109-Blanken-Ave-San-Francisco-CA-94134/15155314_zpid/
+832 Sutter St,San Francisco,CA,94109,37.7888,-122.4142,1,$515000.0,Sold 08/17/2022,https://www.zillow.com/homedetails/832-Sutter-St-San-Francisco-CA-94109/300174175_zpid/
+832 Sutter St #303,San Francisco,CA,94109,37.7888,-122.4142,1,$515000.0,Sold 08/17/2022,https://www.zillow.com/homedetails/832-Sutter-St-303-San-Francisco-CA-94109/2062474697_zpid/
+76 Venus St,San Francisco,CA,94124,37.73181,-122.397514,2,$850000.0,Sold 08/16/2022,https://www.zillow.com/homedetails/76-Venus-St-San-Francisco-CA-94124/15157489_zpid/
+1208 8th Ave,San Francisco,CA,94122,37.76575,-122.46518,2,$3800.0,Sold 08/16/2022,https://www.zillow.com/homedetails/1208-8th-Ave-San-Francisco-CA-94122/249665575_zpid/
+832 Sutter St APT 301,San Francisco,CA,94109,37.7888,-122.4142,1,$515000.0,Sold 08/16/2022,https://www.zillow.com/homedetails/832-Sutter-St-APT-301-San-Francisco-CA-94109/2087018548_zpid/
+1260 Clay St APT 308,San Francisco,CA,94108,37.79357,-122.41368,1,$625000.0,Sold 08/15/2022,https://www.zillow.com/homedetails/1260-Clay-St-APT-308-San-Francisco-CA-94108/15067764_zpid/
+1177 California St APT 201,San Francisco,CA,94108,37.791027,-122.41365,1,$805000.0,Sold 08/15/2022,https://www.zillow.com/homedetails/1177-California-St-APT-201-San-Francisco-CA-94108/15068609_zpid/
+900 Gilman Ave #19,San Francisco,CA,94124,37.717567,-122.38644,2,$497000.0,Sold 08/15/2022,https://www.zillow.com/homedetails/900-Gilman-Ave-19-San-Francisco-CA-94124/79842013_zpid/
+988 Fulton St APT 114,San Francisco,CA,94117,37.777706,-122.43235,1,$740000.0,Sold 08/15/2022,https://www.zillow.com/homedetails/988-Fulton-St-APT-114-San-Francisco-CA-94117/79842546_zpid/
+81 Frank Norris St UNIT 506,San Francisco,CA,94109,37.78912,-122.42006,1,$500000.0,Sold 08/15/2022,https://www.zillow.com/homedetails/81-Frank-Norris-St-UNIT-506-San-Francisco-CA-94109/82785344_zpid/
+829 Folsom St UNIT 502,San Francisco,CA,94107,37.781155,-122.40165,1,$675000.0,Sold 08/15/2022,https://www.zillow.com/homedetails/829-Folsom-St-UNIT-502-San-Francisco-CA-94107/111928581_zpid/
+2992 Arelious Walker Dr,San Francisco,CA,94124,37.717407,-122.38622,2,$496957.0,Sold 08/15/2022,https://www.zillow.com/homedetails/2992-Arelious-Walker-Dr-San-Francisco-CA-94124/2067853666_zpid/
+139 Lake Merced Blvd #3C,San Francisco,CA,94132,37.729008,-122.495995,2,$810000.0,Sold 08/12/2022,https://www.zillow.com/homedetails/139-Lake-Merced-Blvd-3C-San-Francisco-CA-94132/15198483_zpid/
+250 King St UNIT 268,San Francisco,CA,94107,37.77801,-122.39325,1,$575000.0,Sold 08/12/2022,https://www.zillow.com/homedetails/250-King-St-UNIT-268-San-Francisco-CA-94107/69819556_zpid/
+1000 N Point St APT 1706,San Francisco,CA,94109,37.805508,-122.42416,1,$846000.0,Sold 08/12/2022,https://www.zillow.com/homedetails/1000-N-Point-St-APT-1706-San-Francisco-CA-94109/80750995_zpid/
+566 S Van Ness Ave APT 2,San Francisco,CA,94110,37.763992,-122.417816,2,$855000.0,Sold 08/12/2022,https://www.zillow.com/homedetails/566-S-Van-Ness-Ave-APT-2-San-Francisco-CA-94110/82785781_zpid/
+300 Berry St UNIT 920,San Francisco,CA,94158,37.774086,-122.39585,1,$765000.0,Sold 08/12/2022,https://www.zillow.com/homedetails/300-Berry-St-UNIT-920-San-Francisco-CA-94158/96048867_zpid/
+3831 Mission St #3835,San Francisco,CA,94110,37.735588,-122.42435,2,$695000.0,Sold 08/12/2022,https://www.zillow.com/homedetails/3831-Mission-St-3835-San-Francisco-CA-94110/241587224_zpid/
+139 S Lake Merced Hls APT 3C,San Francisco,CA,94132,37.708588,-122.48325,2,$810000.0,Sold 08/12/2022,https://www.zillow.com/homedetails/139-S-Lake-Merced-Hls-APT-3C-San-Francisco-CA-94132/2069854023_zpid/
+410AA Carl St,San Francisco,CA,94117,37.765457,-122.456215,2,$800000.0,Sold 08/11/2022,https://www.zillow.com/homedetails/410AA-Carl-St-San-Francisco-CA-94117/15087519_zpid/
+1614 Wallace Ave,San Francisco,CA,94124,37.727867,-122.391266,4,$750000.0,Sold 08/11/2022,https://www.zillow.com/homedetails/1614-Wallace-Ave-San-Francisco-CA-94124/15158292_zpid/
+1800 Washington St APT 817,San Francisco,CA,94109,37.79343,-122.42342,1,$865000.0,Sold 08/11/2022,https://www.zillow.com/homedetails/1800-Washington-St-APT-817-San-Francisco-CA-94109/54854440_zpid/
+2636 3rd St,San Francisco,CA,94107,,,4,$840000.0,Sold 08/11/2022,https://www.zillow.com/homedetails/2636-3rd-St-San-Francisco-CA-94107/2062652624_zpid/
+410 A Carl St,San Francisco,CA,94117,,,2,$800000.0,Sold 08/11/2022,https://www.zillow.com/homedetails/410-A-Carl-St-San-Francisco-CA-94117/2066804405_zpid/
+233 Schwerin St,San Francisco,CA,94134,37.710026,-122.41129,3,$650000.0,Sold 08/10/2022,https://www.zillow.com/homedetails/233-Schwerin-St-San-Francisco-CA-94134/15175559_zpid/
+8 Buchanan St UNIT 303,San Francisco,CA,94102,37.770073,-122.42621,1,$735000.0,Sold 08/10/2022,https://www.zillow.com/homedetails/8-Buchanan-St-UNIT-303-San-Francisco-CA-94102/184686235_zpid/
+1210 12th Ave APT 4,San Francisco,CA,94122,37.765453,-122.46943,1,$805000.0,Sold 08/09/2022,https://www.zillow.com/homedetails/1210-12th-Ave-APT-4-San-Francisco-CA-94122/116157071_zpid/
+180 Henry St,San Francisco,CA,94114,37.7668,-122.435036,3,$350000.0,Sold 08/09/2022,https://www.zillow.com/homedetails/180-Henry-St-San-Francisco-CA-94114/122245869_zpid/
+1688 Pine St UNIT E604,San Francisco,CA,94109,37.789555,-122.42328,1,$314156.0,Sold 08/09/2022,https://www.zillow.com/homedetails/1688-Pine-St-UNIT-E604-San-Francisco-CA-94109/241585766_zpid/
+1288 Howard St #305,San Francisco,CA,94103,,,1,$727000.0,Sold 08/09/2022,https://www.zillow.com/homedetails/1288-Howard-St-305-San-Francisco-CA-94103/2065407641_zpid/
+2701 Van Ness Ave APT 307,San Francisco,CA,94109,37.80057,-122.42485,1,$815000.0,Sold 08/08/2022,https://www.zillow.com/homedetails/2701-Van-Ness-Ave-APT-307-San-Francisco-CA-94109/15071022_zpid/
+1325 Indiana St UNIT 203,San Francisco,CA,94107,37.753677,-122.39041,1,$845000.0,Sold 08/08/2022,https://www.zillow.com/homedetails/1325-Indiana-St-UNIT-203-San-Francisco-CA-94107/61325375_zpid/
+2120 24th St APT 2,San Francisco,CA,94107,37.753555,-122.40088,2,$838000.0,Sold 08/08/2022,https://www.zillow.com/homedetails/2120-24th-St-APT-2-San-Francisco-CA-94107/2062680915_zpid/
+1951 Ofarrell St,San Francisco,CA,94115,37.78249,-122.43676,1,$640000.0,Sold 08/05/2022,https://www.zillow.com/homedetails/1951-Ofarrell-St-San-Francisco-CA-94115/15077349_zpid/
+655 Corbett Ave APT 606,San Francisco,CA,94114,37.756413,-122.44318,1,$765000.0,Sold 08/05/2022,https://www.zillow.com/homedetails/655-Corbett-Ave-APT-606-San-Francisco-CA-94114/15129944_zpid/
+250 King St UNIT 260,San Francisco,CA,94107,37.77801,-122.39325,1,$800000.0,Sold 08/05/2022,https://www.zillow.com/homedetails/250-King-St-UNIT-260-San-Francisco-CA-94107/69819552_zpid/
+177 Townsend St UNIT 431,San Francisco,CA,94107,37.779305,-122.39195,1,$698000.0,Sold 08/05/2022,https://www.zillow.com/homedetails/177-Townsend-St-UNIT-431-San-Francisco-CA-94107/82786261_zpid/
+1143 Anza St,San Francisco,CA,94118,37.77911,-122.46063,2,$783000.0,Sold 08/05/2022,https://www.zillow.com/homedetails/1143-Anza-St-San-Francisco-CA-94118/116156551_zpid/
+550 Innes Ave #203,San Francisco,CA,94124,37.728252,-122.368645,1,$585000.0,Sold 08/05/2022,https://www.zillow.com/homedetails/550-Innes-Ave-203-San-Francisco-CA-94124/241586719_zpid/
+832 Sutter St #201,San Francisco,CA,94109,37.788795,-122.4142,1,$495000.0,Sold 08/05/2022,https://www.zillow.com/homedetails/832-Sutter-St-201-San-Francisco-CA-94109/2097219717_zpid/
+33 Medau Pl,San Francisco,CA,94133,37.80179,-122.408325,2,$800000.0,Sold 08/04/2022,https://www.zillow.com/homedetails/33-Medau-Pl-San-Francisco-CA-94133/15065206_zpid/
+601 Van Ness Ave APT 842,San Francisco,CA,94102,37.78168,-122.42091,1,$600000.0,Sold 08/04/2022,https://www.zillow.com/homedetails/601-Van-Ness-Ave-APT-842-San-Francisco-CA-94102/15077842_zpid/
+4096 17th St APT 109,San Francisco,CA,94114,37.76282,-122.43724,2,$835000.0,Sold 08/04/2022,https://www.zillow.com/homedetails/4096-17th-St-APT-109-San-Francisco-CA-94114/15127533_zpid/
+132 Prospect Ave,San Francisco,CA,94110,37.74317,-122.41903,1,$699000.0,Sold 08/04/2022,https://www.zillow.com/homedetails/132-Prospect-Ave-San-Francisco-CA-94110/15161243_zpid/
+50 Jerrold Ave #313,San Francisco,CA,94124,37.72777,-122.36945,2,$780000.0,Sold 08/04/2022,https://www.zillow.com/homedetails/50-Jerrold-Ave-313-San-Francisco-CA-94124/241586759_zpid/
+588 Minna St #806,San Francisco,CA,94103,37.779068,-122.41033,1,$780000.0,Sold 08/04/2022,https://www.zillow.com/homedetails/588-Minna-St-806-San-Francisco-CA-94103/337887945_zpid/
+588 Minna St #806,San Francisco,CA,94103,,,1,$780000.0,Sold 08/04/2022,https://www.zillow.com/homedetails/588-Minna-St-806-San-Francisco-CA-94103/2062448428_zpid/
+1144 York St,San Francisco,CA,94110,37.75373,-122.4083,2,$785000.0,Sold 08/04/2022,https://www.zillow.com/homedetails/1144-York-St-San-Francisco-CA-94110/2101945345_zpid/
+322 6th St APT 10,San Francisco,CA,94103,37.777935,-122.405396,1,$795000.0,Sold 08/03/2022,https://www.zillow.com/homedetails/322-6th-St-APT-10-San-Francisco-CA-94103/64969366_zpid/
+901 Bay Shore Blvd APT 314,San Francisco,CA,94124,37.73292,-122.40437,1,$450000.0,Sold 08/03/2022,https://www.zillow.com/homedetails/901-Bay-Shore-Blvd-APT-314-San-Francisco-CA-94124/80753375_zpid/
+318 Spear St UNIT 4F,San Francisco,CA,94105,37.789375,-122.39097,1,$849000.0,Sold 08/03/2022,https://www.zillow.com/homedetails/318-Spear-St-UNIT-4F-San-Francisco-CA-94105/89239924_zpid/
+24 Victoria St,San Francisco,CA,94132,37.71121,-122.46499,2,$474000.0,Sold 08/02/2022,https://www.zillow.com/homedetails/24-Victoria-St-San-Francisco-CA-94132/15195336_zpid/
+3345 17th St APT 6,San Francisco,CA,94110,37.763145,-122.4205,1,$850000.0,Sold 08/02/2022,https://www.zillow.com/homedetails/3345-17th-St-APT-6-San-Francisco-CA-94110/63197194_zpid/
+1220 La Playa St APT 204,San Francisco,CA,94122,37.763504,-122.50903,1,$424707.0,Sold 08/01/2022,https://www.zillow.com/homedetails/1220-La-Playa-St-APT-204-San-Francisco-CA-94122/15100785_zpid/
+360 Guerrero St APT 404,San Francisco,CA,94103,37.76548,-122.42435,1,$800000.0,Sold 08/01/2022,https://www.zillow.com/homedetails/360-Guerrero-St-APT-404-San-Francisco-CA-94103/15143382_zpid/
+5264 3rd St APT 303,San Francisco,CA,94124,37.729828,-122.392815,2,$620000.0,Sold 08/01/2022,https://www.zillow.com/homedetails/5264-3rd-St-APT-303-San-Francisco-CA-94124/15158930_zpid/
+545 Leavenworth St APT 7,San Francisco,CA,94109,37.78611,-122.414955,1,$730000.0,Sold 08/01/2022,https://www.zillow.com/homedetails/545-Leavenworth-St-APT-7-San-Francisco-CA-94109/58478690_zpid/
+8100 Oceanview Ter APT 120,San Francisco,CA,94132,37.71042,-122.467705,2,$770000.0,Sold 08/01/2022,https://www.zillow.com/homedetails/8100-Oceanview-Ter-APT-120-San-Francisco-CA-94132/67090224_zpid/
+1001 Pine St UNIT 1203,San Francisco,CA,94109,37.79052,-122.41267,1,$55000.0,Sold 07/29/2022,https://www.zillow.com/homedetails/1001-Pine-St-UNIT-1203-San-Francisco-CA-94109/15068924_zpid/
+6850 Geary Blvd #103,San Francisco,CA,94121,37.780018,-122.493004,1,$680000.0,Sold 07/29/2022,https://www.zillow.com/homedetails/6850-Geary-Blvd-103-San-Francisco-CA-94121/15092284_zpid/
+8100 Oceanview Ter APT 424,San Francisco,CA,94132,37.71042,-122.467705,2,$738000.0,Sold 07/29/2022,https://www.zillow.com/homedetails/8100-Oceanview-Ter-APT-424-San-Francisco-CA-94132/67394753_zpid/
+400 Beale St APT 2004,San Francisco,CA,94105,37.786903,-122.39092,1,$838000.0,Sold 07/29/2022,https://www.zillow.com/homedetails/400-Beale-St-APT-2004-San-Francisco-CA-94105/80732201_zpid/
+1011 23rd St APT 19,San Francisco,CA,94107,37.75503,-122.39025,2,$251500.0,Sold 07/29/2022,https://www.zillow.com/homedetails/1011-23rd-St-APT-19-San-Francisco-CA-94107/80746509_zpid/
+3825 Mission St #3829,San Francisco,CA,94110,37.735657,-122.42431,2,$810000.0,Sold 07/29/2022,https://www.zillow.com/homedetails/3825-Mission-St-3829-San-Francisco-CA-94110/241587225_zpid/
+1868 Van Ness Ave UNIT 205,San Francisco,CA,94109,37.79291,-122.42242,1,$825000.0,Sold 07/29/2022,https://www.zillow.com/homedetails/1868-Van-Ness-Ave-UNIT-205-San-Francisco-CA-94109/249664839_zpid/
+172AA Langton St,San Francisco,CA,94103,37.775337,-122.40742,2,$640000.0,Sold 07/29/2022,https://www.zillow.com/homedetails/172AA-Langton-St-San-Francisco-CA-94103/249665035_zpid/
+661 Peralta Ave,San Francisco,CA,94110,37.742043,-122.40861,4,$699000.0,Sold 07/29/2022,https://www.zillow.com/homedetails/661-Peralta-Ave-San-Francisco-CA-94110/328349658_zpid/
+3310 Mission St #1,San Francisco,CA,94110,,,1,$810000.0,Sold 07/29/2022,https://www.zillow.com/homedetails/3310-Mission-St-1-San-Francisco-CA-94110/2063205741_zpid/
+490 33rd Ave #103,San Francisco,CA,94121,,,1,$680000.0,Sold 07/29/2022,https://www.zillow.com/homedetails/490-33rd-Ave-103-San-Francisco-CA-94121/2063433220_zpid/
+172 Langton St #A,San Francisco,CA,94103,,,2,$640000.0,Sold 07/29/2022,https://www.zillow.com/homedetails/172-Langton-St-A-San-Francisco-CA-94103/2069864442_zpid/
+661 Peralta Ave APT 3,San Francisco,CA,94110,37.742043,-122.40861,1,$699000.0,Sold 07/29/2022,https://www.zillow.com/homedetails/661-Peralta-Ave-APT-3-San-Francisco-CA-94110/2097522364_zpid/
+835 Wisconsin St,San Francisco,CA,94107,37.756783,-122.398575,2,$647000.0,Sold 07/28/2022,https://www.zillow.com/homedetails/835-Wisconsin-St-San-Francisco-CA-94107/15151696_zpid/
+1 Wattson Pl #5,San Francisco,CA,94112,37.723564,-122.43688,2,$778500.0,Sold 07/28/2022,https://www.zillow.com/homedetails/1-Wattson-Pl-5-San-Francisco-CA-94112/63197679_zpid/
+8200 Oceanview Ter APT 401,San Francisco,CA,94132,37.71016,-122.46747,2,$765000.0,Sold 07/28/2022,https://www.zillow.com/homedetails/8200-Oceanview-Ter-APT-401-San-Francisco-CA-94132/67090304_zpid/
+555 Innes Ave #308,San Francisco,CA,94124,37.728016,-122.36923,1,$525000.0,Sold 07/28/2022,https://www.zillow.com/homedetails/555-Innes-Ave-308-San-Francisco-CA-94124/241586745_zpid/
+51 Innes Ct APT 301,San Francisco,CA,94124,37.727055,-122.36772,2,$849000.0,Sold 07/27/2022,https://www.zillow.com/homedetails/51-Innes-Ct-APT-301-San-Francisco-CA-94124/303807182_zpid/
+832 Sutter St APT 302,San Francisco,CA,94109,37.7888,-122.4142,1,$515000.0,Sold 07/27/2022,https://www.zillow.com/homedetails/832-Sutter-St-APT-302-San-Francisco-CA-94109/2092848990_zpid/
+25 Guerrero St APT 202,San Francisco,CA,94103,37.770443,-122.42437,1,$635000.0,Sold 07/26/2022,https://www.zillow.com/homedetails/25-Guerrero-St-APT-202-San-Francisco-CA-94103/2075614088_zpid/
+855 La Playa St APT 154,San Francisco,CA,94121,37.7722,-122.51036,1,$650827.0,Sold 07/25/2022,https://www.zillow.com/homedetails/855-La-Playa-St-APT-154-San-Francisco-CA-94121/15100731_zpid/
+1688 Wallace Ave APT 303,San Francisco,CA,94124,37.72851,-122.39255,2,$540000.0,Sold 07/25/2022,https://www.zillow.com/homedetails/1688-Wallace-Ave-APT-303-San-Francisco-CA-94124/61325445_zpid/
+52 Innes Ct APT 204,San Francisco,CA,94124,37.72757,-122.367256,2,$297737.0,Sold 07/25/2022,https://www.zillow.com/homedetails/52-Innes-Ct-APT-204-San-Francisco-CA-94124/303806644_zpid/
+470 Clementina St UNIT 101,San Francisco,CA,94103,37.77957,-122.40564,1,$539000.0,Sold 07/22/2022,https://www.zillow.com/homedetails/470-Clementina-St-UNIT-101-San-Francisco-CA-94103/64972468_zpid/
+1238 Sutter St #501,San Francisco,CA,94109,37.78793,-122.42082,1,$605000.0,Sold 07/21/2022,https://www.zillow.com/homedetails/1238-Sutter-St-501-San-Francisco-CA-94109/303807108_zpid/
+219-221 Lily St,San Francisco,CA,94102,37.774136,-122.424515,4,$840000.0,Sold 07/21/2022,https://www.zillow.com/homedetails/219-221-Lily-St-San-Francisco-CA-94102/332851582_zpid/
+221 Lily St,San Francisco,CA,94102,37.774166,-122.424644,2,$840000.0,Sold 07/21/2022,https://www.zillow.com/homedetails/221-Lily-St-San-Francisco-CA-94102/2065546048_zpid/
+832 Sutter St APT 401,San Francisco,CA,94109,37.7888,-122.4142,1,$525000.0,Sold 07/21/2022,https://www.zillow.com/homedetails/832-Sutter-St-APT-401-San-Francisco-CA-94109/2092333843_zpid/
+666 Post St APT 802,San Francisco,CA,94109,37.787907,-122.4129,1,$599000.0,Sold 07/20/2022,https://www.zillow.com/homedetails/666-Post-St-APT-802-San-Francisco-CA-94109/63196404_zpid/
+280 Spear St #3M,San Francisco,CA,94105,37.790325,-122.39153,2,$712000.0,Sold 07/20/2022,https://www.zillow.com/homedetails/280-Spear-St-3M-San-Francisco-CA-94105/335653850_zpid/
+2415 Van Ness Ave APT 403,San Francisco,CA,94109,37.797886,-122.42424,1,$525000.0,Sold 07/19/2022,https://www.zillow.com/homedetails/2415-Van-Ness-Ave-APT-403-San-Francisco-CA-94109/15072093_zpid/
+2040 Franklin St APT 708,San Francisco,CA,94109,37.793518,-122.42432,1,$775000.0,Sold 07/19/2022,https://www.zillow.com/homedetails/2040-Franklin-St-APT-708-San-Francisco-CA-94109/15073822_zpid/
+111 Chestnut St UNIT 302,San Francisco,CA,94111,37.80453,-122.40555,2,$860000.0,Sold 07/18/2022,https://www.zillow.com/homedetails/111-Chestnut-St-UNIT-302-San-Francisco-CA-94111/15064243_zpid/
+607 Duncan St,San Francisco,CA,94131,37.745502,-122.43383,2,$528000.0,Sold 07/18/2022,https://www.zillow.com/homedetails/607-Duncan-St-San-Francisco-CA-94131/15182803_zpid/
+250 King St UNIT 732,San Francisco,CA,94107,37.77801,-122.39325,1,$732500.0,Sold 07/18/2022,https://www.zillow.com/homedetails/250-King-St-UNIT-732-San-Francisco-CA-94107/69819533_zpid/
+701 Minna St APT 7,San Francisco,CA,94103,37.776714,-122.41274,2,$715000.0,Sold 07/18/2022,https://www.zillow.com/homedetails/701-Minna-St-APT-7-San-Francisco-CA-94103/80756017_zpid/
+50 Jerrold Ave #214,San Francisco,CA,94124,37.72777,-122.36945,2,$700000.0,Sold 07/18/2022,https://www.zillow.com/homedetails/50-Jerrold-Ave-214-San-Francisco-CA-94124/241586525_zpid/
+960 Bush St #610,San Francisco,CA,94109,37.789944,-122.41273,1,$520000.0,Sold 07/15/2022,https://www.zillow.com/homedetails/960-Bush-St-610-San-Francisco-CA-94109/15069021_zpid/
+120 Rutland St,San Francisco,CA,94134,37.717026,-122.405556,1,$710000.0,Sold 07/15/2022,https://www.zillow.com/homedetails/120-Rutland-St-San-Francisco-CA-94134/15173014_zpid/
+221 Clara St APT 7,San Francisco,CA,94107,37.77894,-122.402756,1,$740000.0,Sold 07/15/2022,https://www.zillow.com/homedetails/221-Clara-St-APT-7-San-Francisco-CA-94107/80734256_zpid/
+733 Front St UNIT 206,San Francisco,CA,94111,37.79792,-122.3999,1,$705000.0,Sold 07/15/2022,https://www.zillow.com/homedetails/733-Front-St-UNIT-206-San-Francisco-CA-94111/89239106_zpid/
+888 7th St #LL-04,San Francisco,CA,94107,37.77038,-122.40106,1,$560000.0,Sold 07/15/2022,https://www.zillow.com/homedetails/888-7th-St-LL-04-San-Francisco-CA-94107/89239725_zpid/
+1530 Jones St #5,San Francisco,CA,94133,,,1,$830000.0,Sold 07/15/2022,https://www.zillow.com/homedetails/1530-Jones-St-5-San-Francisco-CA-94133/2063458404_zpid/
+121 Gambier St,San Francisco,CA,94134,37.727814,-122.42197,3,$350000.0,Sold 07/14/2022,https://www.zillow.com/homedetails/121-Gambier-St-San-Francisco-CA-94134/15166685_zpid/
+1 Wattson Pl UNIT 11,San Francisco,CA,94112,37.723564,-122.43688,2,$768500.0,Sold 07/12/2022,https://www.zillow.com/homedetails/1-Wattson-Pl-UNIT-11-San-Francisco-CA-94112/63197685_zpid/
+69 Clementina St UNIT 302,San Francisco,CA,94105,37.78641,-122.39637,1,$599000.0,Sold 07/12/2022,https://www.zillow.com/homedetails/69-Clementina-St-UNIT-302-San-Francisco-CA-94105/69819226_zpid/
+1115 Gilman Ave,San Francisco,CA,94124,37.719284,-122.390526,1,$650000.0,Sold 07/11/2022,https://www.zillow.com/homedetails/1115-Gilman-Ave-San-Francisco-CA-94124/15154631_zpid/
+1 Crescent Way APT 1208,San Francisco,CA,94134,37.71084,-122.39018,2,$820000.0,Sold 07/11/2022,https://www.zillow.com/homedetails/1-Crescent-Way-APT-1208-San-Francisco-CA-94134/64971685_zpid/
+330 Berry St UNIT 305,San Francisco,CA,94158,37.773525,-122.39674,2,$498888.0,Sold 07/11/2022,https://www.zillow.com/homedetails/330-Berry-St-UNIT-305-San-Francisco-CA-94158/96051241_zpid/
+1300 22nd St #116,San Francisco,CA,94107,37.75796,-122.39457,1,$820000.0,Sold 07/11/2022,https://www.zillow.com/homedetails/1300-22nd-St-116-San-Francisco-CA-94107/249665236_zpid/
+121 9th St #501,San Francisco,CA,94103,37.776066,-122.41407,1,$685000.0,Sold 07/08/2022,https://www.zillow.com/homedetails/121-9th-St-501-San-Francisco-CA-94103/115828564_zpid/
+788 Minna St UNIT 501,San Francisco,CA,94103,37.77604,-122.414,1,$685000.0,Sold 07/08/2022,https://www.zillow.com/homedetails/788-Minna-St-UNIT-501-San-Francisco-CA-94103/2100784924_zpid/
+888 7th St UNIT 213,San Francisco,CA,94107,37.77038,-122.40106,1,$590000.0,Sold 07/07/2022,https://www.zillow.com/homedetails/888-7th-St-UNIT-213-San-Francisco-CA-94107/89240472_zpid/
+451 Donahue St #405,San Francisco,CA,94124,37.729,-122.36964,1,$549000.0,Sold 07/07/2022,https://www.zillow.com/homedetails/451-Donahue-St-405-San-Francisco-CA-94124/184818024_zpid/
+2701 Van Ness Ave APT 311,San Francisco,CA,94109,37.80057,-122.42485,1,$840000.0,Sold 07/06/2022,https://www.zillow.com/homedetails/2701-Van-Ness-Ave-APT-311-San-Francisco-CA-94109/15071029_zpid/
+655 5th St APT 12,San Francisco,CA,94107,37.77593,-122.39753,1,$809100.0,Sold 07/06/2022,https://www.zillow.com/homedetails/655-5th-St-APT-12-San-Francisco-CA-94107/80748096_zpid/
+747 Natoma St #2,San Francisco,CA,94103,37.775936,-122.4128,1,$858000.0,Sold 07/05/2022,https://www.zillow.com/homedetails/747-Natoma-St-2-San-Francisco-CA-94103/15147387_zpid/
+400 Beale St APT 313,San Francisco,CA,94105,37.786903,-122.39092,1,$715000.0,Sold 07/05/2022,https://www.zillow.com/homedetails/400-Beale-St-APT-313-San-Francisco-CA-94105/67090197_zpid/
+2345 Jackson St APT 4,San Francisco,CA,94115,37.79232,-122.43359,1,$760000.0,Sold 07/05/2022,https://www.zillow.com/homedetails/2345-Jackson-St-APT-4-San-Francisco-CA-94115/96049332_zpid/
+747 Natoma St APT 102,San Francisco,CA,94103,37.775936,-122.4128,1,$858000.0,Sold 07/05/2022,https://www.zillow.com/homedetails/747-Natoma-St-APT-102-San-Francisco-CA-94103/2063414932_zpid/
+3235 Gough St APT 303,San Francisco,CA,94123,37.803215,-122.42866,1,$722500.0,Sold 07/05/2022,https://www.zillow.com/homedetails/3235-Gough-St-APT-303-San-Francisco-CA-94123/2103603408_zpid/
+1817 California St APT 101,San Francisco,CA,94109,37.78956,-122.42454,2,$840000.0,Sold 07/01/2022,https://www.zillow.com/homedetails/1817-California-St-APT-101-San-Francisco-CA-94109/15074948_zpid/
+8 Brush Pl,San Francisco,CA,94103,37.77551,-122.40856,1,$799000.0,Sold 07/01/2022,https://www.zillow.com/homedetails/8-Brush-Pl-San-Francisco-CA-94103/15147970_zpid/
+1000 N Point St APT 507,San Francisco,CA,94109,37.805508,-122.42416,1,$710000.0,Sold 07/01/2022,https://www.zillow.com/homedetails/1000-N-Point-St-APT-507-San-Francisco-CA-94109/80741796_zpid/
+2844 Pierce St,San Francisco,CA,94123,37.796352,-122.4384,1,$857000.0,Sold 07/01/2022,https://www.zillow.com/homedetails/2844-Pierce-St-San-Francisco-CA-94123/184816809_zpid/
+1400 Mission St APT 1011,San Francisco,CA,94103,37.775284,-122.41649,2,$389778.0,Sold 07/01/2022,https://www.zillow.com/homedetails/1400-Mission-St-APT-1011-San-Francisco-CA-94103/241585175_zpid/
+33 Vandewater St APT 201,San Francisco,CA,94133,37.805138,-122.41258,1,$735000.0,Sold 06/30/2022,https://www.zillow.com/homedetails/33-Vandewater-St-APT-201-San-Francisco-CA-94133/15063481_zpid/
+3701 Geary Blvd #101,San Francisco,CA,94118,37.78094,-122.45917,2,$362500.0,Sold 06/30/2022,https://www.zillow.com/homedetails/3701-Geary-Blvd-101-San-Francisco-CA-94118/15094511_zpid/
+2825 26th St #F,San Francisco,CA,94110,37.749214,-122.407265,3,$567500.0,Sold 06/30/2022,https://www.zillow.com/homedetails/2825-26th-St-F-San-Francisco-CA-94110/15152903_zpid/
+51 Innes Ct APT 208,San Francisco,CA,94124,37.727055,-122.36772,1,$548000.0,Sold 06/30/2022,https://www.zillow.com/homedetails/51-Innes-Ct-APT-208-San-Francisco-CA-94124/303806859_zpid/
+1601 Birchwood Ct,San Francisco,CA,94134,37.708714,-122.42604,3,$788000.0,Sold 06/30/2022,https://www.zillow.com/homedetails/1601-Birchwood-Ct-San-Francisco-CA-94134/2063215380_zpid/
+1330-1336 Guerrero St #1334,San Francisco,CA,94110,,,2,$795000.0,Sold 06/30/2022,https://www.zillow.com/homedetails/1330-1336-Guerrero-St-1334-San-Francisco-CA-94110/2063464892_zpid/
+5853 Mission St APT 8,San Francisco,CA,94112,37.708813,-122.45142,2,$600000.0,Sold 06/29/2022,https://www.zillow.com/homedetails/5853-Mission-St-APT-8-San-Francisco-CA-94112/15178883_zpid/
+246 2nd St APT 504,San Francisco,CA,94105,37.785744,-122.3974,1,$725000.0,Sold 06/29/2022,https://www.zillow.com/homedetails/246-2nd-St-APT-504-San-Francisco-CA-94105/53153481_zpid/
+8300 Oceanview Ter APT 116,San Francisco,CA,94132,37.71042,-122.467705,1,$580000.0,Sold 06/29/2022,https://www.zillow.com/homedetails/8300-Oceanview-Ter-APT-116-San-Francisco-CA-94132/67394799_zpid/
+1932 Fell St APT 11,San Francisco,CA,94117,37.772793,-122.44985,1,$649000.0,Sold 06/29/2022,https://www.zillow.com/homedetails/1932-Fell-St-APT-11-San-Francisco-CA-94117/2082585221_zpid/
+151 Alice B Toklas Pl UNIT 509,San Francisco,CA,94109,37.78521,-122.42045,1,$815000.0,Sold 06/28/2022,https://www.zillow.com/homedetails/151-Alice-B-Toklas-Pl-UNIT-509-San-Francisco-CA-94109/15077150_zpid/
+1400 Webster St APT 3,San Francisco,CA,94115,37.78407,-122.43011,3,$739999.0,Sold 06/28/2022,https://www.zillow.com/homedetails/1400-Webster-St-APT-3-San-Francisco-CA-94115/64971915_zpid/
+631-635 6th Ave,San Francisco,CA,94118,37.776596,-122.464294,9,$725000.0,Sold 06/27/2022,https://www.zillow.com/homedetails/631-635-6th-Ave-San-Francisco-CA-94118/331614847_zpid/
+250 King St UNIT 526,San Francisco,CA,94107,37.77801,-122.39325,2,$4500.0,Sold 06/25/2022,https://www.zillow.com/homedetails/250-King-St-UNIT-526-San-Francisco-CA-94107/80746469_zpid/
+3457 26th St,San Francisco,CA,94110,37.74876,-122.4195,1,$770000.0,Sold 06/24/2022,https://www.zillow.com/homedetails/3457-26th-St-San-Francisco-CA-94110/82786459_zpid/
+5800 3rd St UNIT 1417,San Francisco,CA,94124,37.725353,-122.39511,2,$775000.0,Sold 06/24/2022,https://www.zillow.com/homedetails/5800-3rd-St-UNIT-1417-San-Francisco-CA-94124/119685337_zpid/
+719 Larkin St #705,San Francisco,CA,94109,37.784546,-122.418076,1,$520000.0,Sold 06/24/2022,https://www.zillow.com/homedetails/719-Larkin-St-705-San-Francisco-CA-94109/325648104_zpid/
+1105-1107 Stanyan St,San Francisco,CA,94117,37.764282,-122.45278,6,$515000.0,Sold 06/24/2022,https://www.zillow.com/homedetails/1105-1107-Stanyan-St-San-Francisco-CA-94117/332858289_zpid/
+1107 Stanyan St #A,San Francisco,CA,94117,37.764282,-122.45278,1,$515000.0,Sold 06/24/2022,https://www.zillow.com/homedetails/1107-Stanyan-St-A-San-Francisco-CA-94117/2063362938_zpid/
+601 Van Ness Ave APT 1127,San Francisco,CA,94102,37.78168,-122.42091,1,$500000.0,Sold 06/23/2022,https://www.zillow.com/homedetails/601-Van-Ness-Ave-APT-1127-San-Francisco-CA-94102/15077998_zpid/
+11 Bowman Ct,San Francisco,CA,94124,37.73774,-122.382164,2,$700000.0,Sold 06/23/2022,https://www.zillow.com/homedetails/11-Bowman-Ct-San-Francisco-CA-94124/15153504_zpid/
+555 4th St UNIT 407,San Francisco,CA,94107,37.779045,-122.39718,1,$775000.0,Sold 06/23/2022,https://www.zillow.com/homedetails/555-4th-St-UNIT-407-San-Francisco-CA-94107/79846969_zpid/
+451 Kansas St UNIT 522,San Francisco,CA,94107,37.764065,-122.403275,1,$839000.0,Sold 06/23/2022,https://www.zillow.com/homedetails/451-Kansas-St-UNIT-522-San-Francisco-CA-94107/89238637_zpid/
+1 Daniel Burnham Ct APT 904,San Francisco,CA,94109,37.786755,-122.42249,1,$725000.0,Sold 06/22/2022,https://www.zillow.com/homedetails/1-Daniel-Burnham-Ct-APT-904-San-Francisco-CA-94109/15076660_zpid/
+81 Lansing St APT 309,San Francisco,CA,94105,37.78564,-122.394005,1,$749000.0,Sold 06/22/2022,https://www.zillow.com/homedetails/81-Lansing-St-APT-309-San-Francisco-CA-94105/15147616_zpid/
+75 Zampa Ln APT 5,San Francisco,CA,94115,37.784267,-122.4305,3,$733000.0,Sold 06/22/2022,https://www.zillow.com/homedetails/75-Zampa-Ln-APT-5-San-Francisco-CA-94115/64971953_zpid/
+901 Bush St APT 302,San Francisco,CA,94109,37.78952,-122.41228,1,$549500.0,Sold 06/22/2022,https://www.zillow.com/homedetails/901-Bush-St-APT-302-San-Francisco-CA-94109/89238746_zpid/
+1378-1380 11th Ave,San Francisco,CA,94122,37.762512,-122.46802,5,$50000.0,Sold 06/22/2022,https://www.zillow.com/homedetails/1378-1380-11th-Ave-San-Francisco-CA-94122/332856856_zpid/
+55 Vandewater St,San Francisco,CA,94133,37.805103,-122.41286,1,$810000.0,Sold 06/21/2022,https://www.zillow.com/homedetails/55-Vandewater-St-San-Francisco-CA-94133/15063469_zpid/
+601 Van Ness Ave APT 1030,San Francisco,CA,94102,37.78168,-122.42091,1,$549000.0,Sold 06/21/2022,https://www.zillow.com/homedetails/601-Van-Ness-Ave-APT-1030-San-Francisco-CA-94102/15077943_zpid/
+300 3rd St APT 1011,San Francisco,CA,94107,37.783184,-122.39912,1,$774500.0,Sold 06/21/2022,https://www.zillow.com/homedetails/300-3rd-St-APT-1011-San-Francisco-CA-94107/15147832_zpid/
+140 Divisadero St #3,San Francisco,CA,94117,37.769615,-122.43641,1,$827316.0,Sold 06/21/2022,https://www.zillow.com/homedetails/140-Divisadero-St-3-San-Francisco-CA-94117/325647826_zpid/
+55 Vandewater St APT 7,San Francisco,CA,94133,37.805103,-122.41286,1,$810000.0,Sold 06/21/2022,https://www.zillow.com/homedetails/55-Vandewater-St-APT-7-San-Francisco-CA-94133/2067567257_zpid/
+260 King St UNIT 765,San Francisco,CA,94107,37.77725,-122.39376,2,$4200.0,Sold 06/18/2022,https://www.zillow.com/homedetails/260-King-St-UNIT-765-San-Francisco-CA-94107/69819790_zpid/
+368 Elm St APT 206,San Francisco,CA,94102,37.78138,-122.42314,1,$700000.0,Sold 06/17/2022,https://www.zillow.com/homedetails/368-Elm-St-APT-206-San-Francisco-CA-94102/79843029_zpid/
+750 Van Ness Ave UNIT 403,San Francisco,CA,94102,37.78238,-122.420166,1,$615000.0,Sold 06/17/2022,https://www.zillow.com/homedetails/750-Van-Ness-Ave-UNIT-403-San-Francisco-CA-94102/82785467_zpid/
+655 Corbett Ave #B,San Francisco,CA,94114,37.756413,-122.44318,2,$860000.0,Sold 06/16/2022,https://www.zillow.com/homedetails/655-Corbett-Ave-B-San-Francisco-CA-94114/15129908_zpid/
+308 Duncan St,San Francisco,CA,94131,37.7463,-122.42738,3,$260000.0,Sold 06/16/2022,https://www.zillow.com/homedetails/308-Duncan-St-San-Francisco-CA-94131/332862954_zpid/
+13 Lucky St,San Francisco,CA,94110,37.752228,-122.41339,2,$488000.0,Sold 06/16/2022,https://www.zillow.com/homedetails/13-Lucky-St-San-Francisco-CA-94110/2141727191_zpid/
+1 Daniel Burnham Ct APT 1506,San Francisco,CA,94109,37.786755,-122.42249,1,$850000.0,Sold 06/15/2022,https://www.zillow.com/homedetails/1-Daniel-Burnham-Ct-APT-1506-San-Francisco-CA-94109/15076722_zpid/
+721 Cayuga Ave,San Francisco,CA,94112,37.72659,-122.43681,4,$411075.0,Sold 06/15/2022,https://www.zillow.com/homedetails/721-Cayuga-Ave-San-Francisco-CA-94112/15140142_zpid/
+8400 Oceanview Ter APT 106,San Francisco,CA,94132,37.71042,-122.467705,1,$585000.0,Sold 06/15/2022,https://www.zillow.com/homedetails/8400-Oceanview-Ter-APT-106-San-Francisco-CA-94132/67394908_zpid/
+1370 Natoma St,San Francisco,CA,94103,37.767254,-122.41865,3,$835000.0,Sold 06/15/2022,https://www.zillow.com/homedetails/1370-Natoma-St-San-Francisco-CA-94103/2063588937_zpid/
+1310 Fillmore St APT 505,San Francisco,CA,94115,37.78165,-122.4322,1,$750000.0,Sold 06/14/2022,https://www.zillow.com/homedetails/1310-Fillmore-St-APT-505-San-Francisco-CA-94115/82785377_zpid/
+451 Kansas St UNIT 559,San Francisco,CA,94107,37.764065,-122.403275,1,$849000.0,Sold 06/14/2022,https://www.zillow.com/homedetails/451-Kansas-St-UNIT-559-San-Francisco-CA-94107/89239365_zpid/
+41 Kiska Rd,San Francisco,CA,94124,37.730213,-122.37898,2,$484921.0,Sold 06/13/2022,https://www.zillow.com/homedetails/41-Kiska-Rd-San-Francisco-CA-94124/15153236_zpid/
+555 4th St UNIT 514,San Francisco,CA,94107,37.779045,-122.39718,1,$789000.0,Sold 06/13/2022,https://www.zillow.com/homedetails/555-4th-St-UNIT-514-San-Francisco-CA-94107/79846055_zpid/
+1370-1374 Natoma St,San Francisco,CA,94103,37.767254,-122.41865,9,$835000.0,Sold 06/13/2022,https://www.zillow.com/homedetails/1370-1374-Natoma-St-San-Francisco-CA-94103/325645977_zpid/
+15 San Carlos St,San Francisco,CA,94110,37.762432,-122.41998,2,$770000.0,Sold 06/13/2022,https://www.zillow.com/homedetails/15-San-Carlos-St-San-Francisco-CA-94110/2117436524_zpid/
+300 3rd St APT 507,San Francisco,CA,94107,37.783184,-122.39912,1,$705000.0,Sold 06/10/2022,https://www.zillow.com/homedetails/300-3rd-St-APT-507-San-Francisco-CA-94107/15147717_zpid/
+270 Valencia St APT 505,San Francisco,CA,94103,37.76852,-122.42259,1,$685000.0,Sold 06/10/2022,https://www.zillow.com/homedetails/270-Valencia-St-APT-505-San-Francisco-CA-94103/69820026_zpid/
+3118 18th St APT 8,San Francisco,CA,94110,37.76238,-122.41339,1,$820000.0,Sold 06/10/2022,https://www.zillow.com/homedetails/3118-18th-St-APT-8-San-Francisco-CA-94110/80739887_zpid/
+170 King St UNIT 1005,San Francisco,CA,94107,37.77882,-122.39136,1,$860000.0,Sold 06/10/2022,https://www.zillow.com/homedetails/170-King-St-UNIT-1005-San-Francisco-CA-94107/82786366_zpid/
+285 Main St #212,San Francisco,CA,94105,37.789608,-122.39188,2,$385500.0,Sold 06/10/2022,https://www.zillow.com/homedetails/285-Main-St-212-San-Francisco-CA-94105/335654426_zpid/
+587 Paris St,San Francisco,CA,94112,37.719364,-122.43634,2,$500000.0,Sold 06/09/2022,https://www.zillow.com/homedetails/587-Paris-St-San-Francisco-CA-94112/15174599_zpid/
+1160 Mission St UNIT 1412,San Francisco,CA,94103,37.778683,-122.41246,1,$730000.0,Sold 06/09/2022,https://www.zillow.com/homedetails/1160-Mission-St-UNIT-1412-San-Francisco-CA-94103/83154197_zpid/
+733 Front St UNIT 413,San Francisco,CA,94111,37.79792,-122.3999,1,$735000.0,Sold 06/09/2022,https://www.zillow.com/homedetails/733-Front-St-UNIT-413-San-Francisco-CA-94111/89239617_zpid/
+191 Boutwell St,San Francisco,CA,94124,37.734486,-122.4053,1,$785000.0,Sold 06/08/2022,https://www.zillow.com/homedetails/191-Boutwell-St-San-Francisco-CA-94124/15157783_zpid/
+71 Granada Ave,San Francisco,CA,94112,37.7195,-122.457466,1,$107000.0,Sold 06/08/2022,https://www.zillow.com/homedetails/71-Granada-Ave-San-Francisco-CA-94112/15190665_zpid/
+77 Collingwood St,San Francisco,CA,94114,37.761284,-122.43584,2,$799000.0,Sold 06/08/2022,https://www.zillow.com/homedetails/77-Collingwood-St-San-Francisco-CA-94114/2064205254_zpid/
+3301-3311 Cesar Chavez St #3307,San Francisco,CA,94110,,,2,$800000.0,Sold 06/08/2022,https://www.zillow.com/homedetails/3301-3311-Cesar-Chavez-St-3307-San-Francisco-CA-94110/2065431911_zpid/
+56 Woodward St #A,San Francisco,CA,94103,37.769005,-122.421036,1,$385000.0,Sold 06/07/2022,https://www.zillow.com/homedetails/56-Woodward-St-A-San-Francisco-CA-94103/2065640629_zpid/
+3981 Alemany Blvd APT 207,San Francisco,CA,94132,37.71046,-122.46915,1,$650000.0,Sold 06/06/2022,https://www.zillow.com/homedetails/3981-Alemany-Blvd-APT-207-San-Francisco-CA-94132/63107227_zpid/
+2001 McAllister St APT 238,San Francisco,CA,94118,37.776836,-122.44507,1,$825000.0,Sold 06/06/2022,https://www.zillow.com/homedetails/2001-McAllister-St-APT-238-San-Francisco-CA-94118/80740360_zpid/
+5900 3rd St UNIT 2205,San Francisco,CA,94124,37.724594,-122.39483,1,$675000.0,Sold 06/06/2022,https://www.zillow.com/homedetails/5900-3rd-St-UNIT-2205-San-Francisco-CA-94124/119684968_zpid/
+540-542 Page St,San Francisco,CA,94117,37.77344,-122.429726,5,$613500.0,Sold 06/06/2022,https://www.zillow.com/homedetails/540-542-Page-St-San-Francisco-CA-94117/332851612_zpid/
+8400 Oceanview Ter APT 205,San Francisco,CA,94132,37.71042,-122.467705,2,$685000.0,Sold 06/03/2022,https://www.zillow.com/homedetails/8400-Oceanview-Ter-APT-205-San-Francisco-CA-94132/63107255_zpid/
+400 Beale St APT 408,San Francisco,CA,94105,37.786903,-122.39092,1,$695000.0,Sold 06/03/2022,https://www.zillow.com/homedetails/400-Beale-St-APT-408-San-Francisco-CA-94105/67394276_zpid/
+901 Bush St APT 403,San Francisco,CA,94109,37.78952,-122.41228,1,$565000.0,Sold 06/03/2022,https://www.zillow.com/homedetails/901-Bush-St-APT-403-San-Francisco-CA-94109/89238982_zpid/
+2523 34th Ave,San Francisco,CA,94116,37.73998,-122.49193,4,$600000.0,Sold 06/02/2022,https://www.zillow.com/homedetails/2523-34th-Ave-San-Francisco-CA-94116/15123856_zpid/
+403 Main St APT 409N,San Francisco,CA,94105,37.788242,-122.389786,1,$770000.0,Sold 06/02/2022,https://www.zillow.com/homedetails/403-Main-St-APT-409N-San-Francisco-CA-94105/15148586_zpid/
+246B Diamond St,San Francisco,CA,94114,,,1,$749000.0,Sold 06/02/2022,https://www.zillow.com/homedetails/246B-Diamond-St-San-Francisco-CA-94114/2063509981_zpid/
+955-959 Corbett Ave #5,San Francisco,CA,94131,37.751587,-122.44341,1,$870000.0,Sold 06/01/2022,https://www.zillow.com/homedetails/955-959-Corbett-Ave-5-San-Francisco-CA-94131/15131819_zpid/
+2225 23rd St UNIT 115,San Francisco,CA,94107,37.75388,-122.40201,1,$510000.0,Sold 06/01/2022,https://www.zillow.com/homedetails/2225-23rd-St-UNIT-115-San-Francisco-CA-94107/15152021_zpid/
+190 7th St APT 15,San Francisco,CA,94103,37.777992,-122.40979,1,$800000.0,Sold 06/01/2022,https://www.zillow.com/homedetails/190-7th-St-APT-15-San-Francisco-CA-94103/80736273_zpid/
+81 Frank Norris St UNIT 404,San Francisco,CA,94109,37.78912,-122.42006,1,$760000.0,Sold 06/01/2022,https://www.zillow.com/homedetails/81-Frank-Norris-St-UNIT-404-San-Francisco-CA-94109/82785336_zpid/
+1160 Mission St UNIT 1404,San Francisco,CA,94103,37.778683,-122.41246,1,$770000.0,Sold 06/01/2022,https://www.zillow.com/homedetails/1160-Mission-St-UNIT-1404-San-Francisco-CA-94103/82808383_zpid/
+1073AA Natoma St,San Francisco,CA,94103,37.77885,-122.40939,2,$695000.0,Sold 06/01/2022,https://www.zillow.com/homedetails/1073AA-Natoma-St-San-Francisco-CA-94103/325648117_zpid/
+1073 A Natoma St,San Francisco,CA,94103,,,2,$695000.0,Sold 06/01/2022,https://www.zillow.com/homedetails/1073-A-Natoma-St-San-Francisco-CA-94103/2067391641_zpid/
+955 Corbett Ave APT 5,San Francisco,CA,94131,37.751587,-122.44341,1,$870000.0,Sold 06/01/2022,https://www.zillow.com/homedetails/955-Corbett-Ave-APT-5-San-Francisco-CA-94131/2097193988_zpid/
+1001 Pine St UNIT 601,San Francisco,CA,94109,37.79052,-122.41267,1,$720000.0,Sold 05/31/2022,https://www.zillow.com/homedetails/1001-Pine-St-UNIT-601-San-Francisco-CA-94109/15068850_zpid/
+1483 Sutter St UNIT 419,San Francisco,CA,94109,37.786716,-122.4242,1,$740000.0,Sold 05/31/2022,https://www.zillow.com/homedetails/1483-Sutter-St-UNIT-419-San-Francisco-CA-94109/15076345_zpid/
+1000-1020 Franklin St #9,San Francisco,CA,94109,37.783913,-122.4224,1,$570000.0,Sold 05/31/2022,https://www.zillow.com/homedetails/1000-1020-Franklin-St-9-San-Francisco-CA-94109/15077295_zpid/
+2887 Bush St APT 1,San Francisco,CA,94115,37.785355,-122.444725,1,$799000.0,Sold 05/31/2022,https://www.zillow.com/homedetails/2887-Bush-St-APT-1-San-Francisco-CA-94115/184816839_zpid/
+255 Arkansas St,San Francisco,CA,94107,37.76301,-122.3982,2,$283500.0,Sold 05/31/2022,https://www.zillow.com/homedetails/255-Arkansas-St-San-Francisco-CA-94107/184817792_zpid/
+1000 Franklin St,San Francisco,CA,94109,,,1,$570000.0,Sold 05/31/2022,https://www.zillow.com/homedetails/1000-Franklin-St-San-Francisco-CA-94109/2073926793_zpid/
+900 Bush St APT 702,San Francisco,CA,94109,37.789944,-122.41273,1,$595000.0,Sold 05/30/2022,https://www.zillow.com/homedetails/900-Bush-St-APT-702-San-Francisco-CA-94109/15069086_zpid/
+601 Van Ness Ave APT 221,San Francisco,CA,94102,37.78168,-122.42091,1,$560000.0,Sold 05/27/2022,https://www.zillow.com/homedetails/601-Van-Ness-Ave-APT-221-San-Francisco-CA-94102/15077745_zpid/
+19 Dearborn St APT 1,San Francisco,CA,94110,37.76284,-122.42279,1,$780000.0,Sold 05/27/2022,https://www.zillow.com/homedetails/19-Dearborn-St-APT-1-San-Francisco-CA-94110/15144071_zpid/
+201 Harrison St APT 209,San Francisco,CA,94105,37.78754,-122.39053,2,$870000.0,Sold 05/27/2022,https://www.zillow.com/homedetails/201-Harrison-St-APT-209-San-Francisco-CA-94105/15148162_zpid/
+1348 Palou Ave,San Francisco,CA,94124,37.731506,-122.38602,3,$862000.0,Sold 05/27/2022,https://www.zillow.com/homedetails/1348-Palou-Ave-San-Francisco-CA-94124/15153562_zpid/
+1412 Birchwood Ct,San Francisco,CA,94134,37.70865,-122.42577,2,$840000.0,Sold 05/27/2022,https://www.zillow.com/homedetails/1412-Birchwood-Ct-San-Francisco-CA-94134/15177705_zpid/
+153 Stoneridge Ln,San Francisco,CA,94134,37.710228,-122.42626,2,$853000.0,Sold 05/27/2022,https://www.zillow.com/homedetails/153-Stoneridge-Ln-San-Francisco-CA-94134/15177807_zpid/
+55 Red Rock Way APT 302,San Francisco,CA,94131,37.746033,-122.44108,1,$800000.0,Sold 05/27/2022,https://www.zillow.com/homedetails/55-Red-Rock-Way-APT-302-San-Francisco-CA-94131/15199369_zpid/
+200 Townsend St UNIT 18,San Francisco,CA,94107,37.778885,-122.3933,1,$858000.0,Sold 05/27/2022,https://www.zillow.com/homedetails/200-Townsend-St-UNIT-18-San-Francisco-CA-94107/80731790_zpid/
+181 Ofarrell St SUITE 311,San Francisco,CA,94102,37.786186,-122.40763,1,$394786.0,Sold 05/27/2022,https://www.zillow.com/homedetails/181-Ofarrell-St-SUITE-311-San-Francisco-CA-94102/82785269_zpid/
+30 Mason St APT 402,San Francisco,CA,94102,37.7839,-122.408905,1,$525000.0,Sold 05/27/2022,https://www.zillow.com/homedetails/30-Mason-St-APT-402-San-Francisco-CA-94102/89237141_zpid/
+338 Potrero Ave UNIT 304,San Francisco,CA,94103,37.76514,-122.407814,2,$354457.0,Sold 05/27/2022,https://www.zillow.com/homedetails/338-Potrero-Ave-UNIT-304-San-Francisco-CA-94103/241586366_zpid/
+3718-3724 Cesar Chavez St,San Francisco,CA,94110,37.74816,-122.42304,4,$640000.0,Sold 05/27/2022,https://www.zillow.com/homedetails/3718-3724-Cesar-Chavez-St-San-Francisco-CA-94110/332862870_zpid/
+1700 Gough St APT 203,San Francisco,CA,94109,37.789307,-122.425224,1,$625000.0,Sold 05/27/2022,https://www.zillow.com/homedetails/1700-Gough-St-APT-203-San-Francisco-CA-94109/2064217305_zpid/
+3724 Cesar Chavez,San Francisco,CA,94110,37.74816,-122.42304,1,$640000.0,Sold 05/27/2022,https://www.zillow.com/homedetails/3724-Cesar-Chavez-San-Francisco-CA-94110/2092490545_zpid/
+942 Market St #402,San Francisco,CA,94102,,,1,$525000.0,Sold 05/27/2022,https://www.zillow.com/homedetails/942-Market-St-402-San-Francisco-CA-94102/2092647078_zpid/
+3241 Mission St APT 3,San Francisco,CA,94110,37.7448,-122.419975,1,$800000.0,Sold 05/26/2022,https://www.zillow.com/homedetails/3241-Mission-St-APT-3-San-Francisco-CA-94110/15161226_zpid/
+12 Garnett Ter,San Francisco,CA,94124,37.73308,-122.38209,2,$425578.0,Sold 05/25/2022,https://www.zillow.com/homedetails/12-Garnett-Ter-San-Francisco-CA-94124/15153456_zpid/
+301 Mission St APT 23D,San Francisco,CA,94105,37.790543,-122.39593,1,$650000.0,Sold 05/25/2022,https://www.zillow.com/homedetails/301-Mission-St-APT-23D-San-Francisco-CA-94105/111710973_zpid/
+832 Sutter St #204,San Francisco,CA,94109,37.7888,-122.4142,1,$700000.0,Sold 05/25/2022,https://www.zillow.com/homedetails/832-Sutter-St-204-San-Francisco-CA-94109/2078086096_zpid/
+832 Sutter St APT 402,San Francisco,CA,94109,37.7888,-122.4142,1,$625000.0,Sold 05/25/2022,https://www.zillow.com/homedetails/832-Sutter-St-APT-402-San-Francisco-CA-94109/2092316576_zpid/
+2485 Union St APT 2,San Francisco,CA,94123,37.79637,-122.44006,1,$10500.0,Sold 05/24/2022,https://www.zillow.com/homedetails/2485-Union-St-APT-2-San-Francisco-CA-94123/15071865_zpid/
+2211 California St APT 306,San Francisco,CA,94115,37.78896,-122.43097,1,$775000.0,Sold 05/24/2022,https://www.zillow.com/homedetails/2211-California-St-APT-306-San-Francisco-CA-94115/15075159_zpid/
+461 2nd St APT 109C,San Francisco,CA,94107,37.7837,-122.39358,1,$760000.0,Sold 05/24/2022,https://www.zillow.com/homedetails/461-2nd-St-APT-109C-San-Francisco-CA-94107/15148018_zpid/
+27 Reddy St,San Francisco,CA,94124,37.730576,-122.394875,3,$800000.0,Sold 05/24/2022,https://www.zillow.com/homedetails/27-Reddy-St-San-Francisco-CA-94124/15158856_zpid/
+159 Harold Ave,San Francisco,CA,94112,37.721127,-122.45339,1,$630100.0,Sold 05/24/2022,https://www.zillow.com/homedetails/159-Harold-Ave-San-Francisco-CA-94112/15189016_zpid/
+45 Bartlett St UNIT 518,San Francisco,CA,94110,37.755936,-122.41929,1,$870000.0,Sold 05/24/2022,https://www.zillow.com/homedetails/45-Bartlett-St-UNIT-518-San-Francisco-CA-94110/184817642_zpid/
+832 Sutter St #403,San Francisco,CA,94109,37.7888,-122.4142,1,$625000.0,Sold 05/24/2022,https://www.zillow.com/homedetails/832-Sutter-St-403-San-Francisco-CA-94109/2066776545_zpid/
+461 2nd St APT C109,San Francisco,CA,94107,37.7837,-122.39358,1,$760000.0,Sold 05/24/2022,https://www.zillow.com/homedetails/461-2nd-St-APT-C109-San-Francisco-CA-94107/2070092572_zpid/
+1145 Pine St APT 46,San Francisco,CA,94109,37.790073,-122.41472,1,$700000.0,Sold 05/23/2022,https://www.zillow.com/homedetails/1145-Pine-St-APT-46-San-Francisco-CA-94109/15069200_zpid/
+1700 Gough St #15,San Francisco,CA,94109,37.789307,-122.425224,1,$699000.0,Sold 05/23/2022,https://www.zillow.com/homedetails/1700-Gough-St-15-San-Francisco-CA-94109/15075019_zpid/
+888 7th St UNIT 130,San Francisco,CA,94107,37.77038,-122.40106,1,$397566.0,Sold 05/23/2022,https://www.zillow.com/homedetails/888-7th-St-UNIT-130-San-Francisco-CA-94107/89239089_zpid/
+829 Folsom St UNIT 406,San Francisco,CA,94107,37.781155,-122.40165,1,$650000.0,Sold 05/23/2022,https://www.zillow.com/homedetails/829-Folsom-St-UNIT-406-San-Francisco-CA-94107/111921142_zpid/
+4167 24th St APT 3,San Francisco,CA,94114,37.75097,-122.435455,1,$850000.0,Sold 05/23/2022,https://www.zillow.com/homedetails/4167-24th-St-APT-3-San-Francisco-CA-94114/184794237_zpid/
+1200 Castro St APT 1,San Francisco,CA,94114,37.751923,-122.43431,1,$870000.0,Sold 05/23/2022,https://www.zillow.com/homedetails/1200-Castro-St-APT-1-San-Francisco-CA-94114/241586174_zpid/
+51 Innes Ct APT 302,San Francisco,CA,94124,37.727055,-122.36772,2,$849000.0,Sold 05/23/2022,https://www.zillow.com/homedetails/51-Innes-Ct-APT-302-San-Francisco-CA-94124/303807236_zpid/
+555 Fulton St UNIT 510,San Francisco,CA,94102,37.778168,-122.42575,1,$725000.0,Sold 05/23/2022,https://www.zillow.com/homedetails/555-Fulton-St-UNIT-510-San-Francisco-CA-94102/325648227_zpid/
+1700 Gough St APT 211,San Francisco,CA,94109,37.789307,-122.425224,1,$699000.0,Sold 05/23/2022,https://www.zillow.com/homedetails/1700-Gough-St-APT-211-San-Francisco-CA-94109/2063415224_zpid/
+430 Hayes St APT 102,San Francisco,CA,94102,37.77698,-122.423615,1,$830000.0,Sold 05/20/2022,https://www.zillow.com/homedetails/430-Hayes-St-APT-102-San-Francisco-CA-94102/15078385_zpid/
+1839 15th St APT 351,San Francisco,CA,94103,37.76546,-122.42492,1,$860000.0,Sold 05/20/2022,https://www.zillow.com/homedetails/1839-15th-St-APT-351-San-Francisco-CA-94103/15143289_zpid/
+258 Hartford St,San Francisco,CA,94114,37.75839,-122.433975,2,$435000.0,Sold 05/20/2022,https://www.zillow.com/homedetails/258-Hartford-St-San-Francisco-CA-94114/15145200_zpid/
+901 Saddleback Dr,San Francisco,CA,94134,37.708595,-122.42695,3,$815000.0,Sold 05/20/2022,https://www.zillow.com/homedetails/901-Saddleback-Dr-San-Francisco-CA-94134/15177635_zpid/
+80 Ora Way UNIT 108G,San Francisco,CA,94131,37.74059,-122.43795,1,$629000.0,Sold 05/20/2022,https://www.zillow.com/homedetails/80-Ora-Way-UNIT-108G-San-Francisco-CA-94131/15199699_zpid/
+1-3 Coso Ave,San Francisco,CA,94110,37.74667,-122.41801,5,$138000.0,Sold 05/20/2022,https://www.zillow.com/homedetails/1-3-Coso-Ave-San-Francisco-CA-94110/325646155_zpid/
+80 Ora Way UNIT G108,San Francisco,CA,94131,37.74059,-122.43795,1,$629000.0,Sold 05/20/2022,https://www.zillow.com/homedetails/80-Ora-Way-UNIT-G108-San-Francisco-CA-94131/2065691913_zpid/
+1503 Waller St,San Francisco,CA,94117,37.768696,-122.44865,1,$745000.0,Sold 05/20/2022,https://www.zillow.com/homedetails/1503-Waller-St-San-Francisco-CA-94117/2096621903_zpid/
+1401 Eddy St #3,San Francisco,CA,94115,37.78144,-122.43093,1,$582000.0,Sold 05/19/2022,https://www.zillow.com/homedetails/1401-Eddy-St-3-San-Francisco-CA-94115/15077520_zpid/
+464 Sawyer St,San Francisco,CA,94134,37.712334,-122.41509,2,$547000.0,Sold 05/19/2022,https://www.zillow.com/homedetails/464-Sawyer-St-San-Francisco-CA-94134/15175080_zpid/
+851 Van Ness Ave UNIT 107,San Francisco,CA,94109,37.78352,-122.42136,2,$850000.0,Sold 05/19/2022,https://www.zillow.com/homedetails/851-Van-Ness-Ave-UNIT-107-San-Francisco-CA-94109/60323092_zpid/
+1050 N Point St APT 906,San Francisco,CA,94109,37.805428,-122.42481,1,$805000.0,Sold 05/19/2022,https://www.zillow.com/homedetails/1050-N-Point-St-APT-906-San-Francisco-CA-94109/63196498_zpid/
+338 Potrero Ave UNIT 305,San Francisco,CA,94103,37.76514,-122.407814,1,$760000.0,Sold 05/19/2022,https://www.zillow.com/homedetails/338-Potrero-Ave-UNIT-305-San-Francisco-CA-94103/241586367_zpid/
+473 Tehama St,San Francisco,CA,94103,37.77974,-122.4058,2,$510000.0,Sold 05/18/2022,https://www.zillow.com/homedetails/473-Tehama-St-San-Francisco-CA-94103/116156392_zpid/
+1 Wattson Pl UNIT 8,San Francisco,CA,94112,37.723564,-122.43688,2,$780000.0,Sold 05/18/2022,https://www.zillow.com/homedetails/1-Wattson-Pl-UNIT-8-San-Francisco-CA-94112/184802013_zpid/
+168 Garrison Ave,San Francisco,CA,94134,37.70926,-122.41269,4,$860000.0,Sold 05/17/2022,https://www.zillow.com/homedetails/168-Garrison-Ave-San-Francisco-CA-94134/15176869_zpid/
+990 Duncan St APT 205G,San Francisco,CA,94131,37.7453,-122.44261,2,$850000.0,Sold 05/17/2022,https://www.zillow.com/homedetails/990-Duncan-St-APT-205G-San-Francisco-CA-94131/15199141_zpid/
+250 King St UNIT 610,San Francisco,CA,94107,37.77801,-122.39325,1,$792000.0,Sold 05/17/2022,https://www.zillow.com/homedetails/250-King-St-UNIT-610-San-Francisco-CA-94107/69819426_zpid/
+429A 6th Ave #A,San Francisco,CA,94118,37.780388,-122.46457,1,$725000.0,Sold 05/17/2022,https://www.zillow.com/homedetails/429A-6th-Ave-A-San-Francisco-CA-94118/79841953_zpid/
+2924 Pine St,San Francisco,CA,94115,37.7868,-122.444016,1,$225000.0,Sold 05/17/2022,https://www.zillow.com/homedetails/2924-Pine-St-San-Francisco-CA-94115/119685341_zpid/
+1400 Mission St APT 610,San Francisco,CA,94103,37.775284,-122.41649,1,$349294.0,Sold 05/17/2022,https://www.zillow.com/homedetails/1400-Mission-St-APT-610-San-Francisco-CA-94103/241585125_zpid/
+429 A 6th Ave,San Francisco,CA,94118,,,1,$725000.0,Sold 05/17/2022,https://www.zillow.com/homedetails/429-A-6th-Ave-San-Francisco-CA-94118/2065431912_zpid/
+2214 34th Ave,San Francisco,CA,94116,37.745735,-122.49171,5,$465000.0,Sold 05/16/2022,https://www.zillow.com/homedetails/2214-34th-Ave-San-Francisco-CA-94116/15119107_zpid/
+201 Harrison St APT 416,San Francisco,CA,94105,37.78754,-122.39053,1,$690000.0,Sold 05/16/2022,https://www.zillow.com/homedetails/201-Harrison-St-APT-416-San-Francisco-CA-94105/15148231_zpid/
+3001 20th St,San Francisco,CA,94110,37.7589,-122.410805,3,$860000.0,Sold 05/16/2022,https://www.zillow.com/homedetails/3001-20th-St-San-Francisco-CA-94110/2070434812_zpid/
+166 Summit Way,San Francisco,CA,94132,37.71552,-122.47603,3,$4600.0,Sold 05/14/2022,https://www.zillow.com/homedetails/166-Summit-Way-San-Francisco-CA-94132/184818168_zpid/
+135 Rey St,San Francisco,CA,94134,37.711666,-122.4116,2,$620000.0,Sold 05/13/2022,https://www.zillow.com/homedetails/135-Rey-St-San-Francisco-CA-94134/15175221_zpid/
+5900 3rd St UNIT 2319,San Francisco,CA,94124,37.724594,-122.39483,2,$731000.0,Sold 05/13/2022,https://www.zillow.com/homedetails/5900-3rd-St-UNIT-2319-San-Francisco-CA-94124/119685759_zpid/
+124 5th Ave APT 2,San Francisco,CA,94118,37.78625,-122.46326,1,$680000.0,Sold 05/13/2022,https://www.zillow.com/homedetails/124-5th-Ave-APT-2-San-Francisco-CA-94118/184817307_zpid/
+601 Van Ness Ave APT 529,San Francisco,CA,94102,37.78168,-122.42091,1,$565000.0,Sold 05/12/2022,https://www.zillow.com/homedetails/601-Van-Ness-Ave-APT-529-San-Francisco-CA-94102/15077685_zpid/
+590 Cambridge St,San Francisco,CA,94134,37.724075,-122.41767,1,$132500.0,Sold 05/12/2022,https://www.zillow.com/homedetails/590-Cambridge-St-San-Francisco-CA-94134/15168965_zpid/
+15 Lee Ave,San Francisco,CA,94112,37.718544,-122.45434,2,$333000.0,Sold 05/12/2022,https://www.zillow.com/homedetails/15-Lee-Ave-San-Francisco-CA-94112/15190819_zpid/
+555 4th St UNIT 312,San Francisco,CA,94107,37.779045,-122.39718,1,$730000.0,Sold 05/12/2022,https://www.zillow.com/homedetails/555-4th-St-UNIT-312-San-Francisco-CA-94107/79841827_zpid/
+655 5th St APT 18,San Francisco,CA,94107,37.77593,-122.39753,1,$810000.0,Sold 05/12/2022,https://www.zillow.com/homedetails/655-5th-St-APT-18-San-Francisco-CA-94107/80739475_zpid/
+1688 Pine St UNIT E401,San Francisco,CA,94109,37.789555,-122.42328,2,$346593.0,Sold 05/12/2022,https://www.zillow.com/homedetails/1688-Pine-St-UNIT-E401-San-Francisco-CA-94109/241585738_zpid/
+1300 22nd St #114,San Francisco,CA,94107,37.75796,-122.39457,1,$820000.0,Sold 05/12/2022,https://www.zillow.com/homedetails/1300-22nd-St-114-San-Francisco-CA-94107/249664765_zpid/
+201 Harrison St APT 1022,San Francisco,CA,94105,37.78754,-122.39053,1,$650000.0,Sold 05/11/2022,https://www.zillow.com/homedetails/201-Harrison-St-APT-1022-San-Francisco-CA-94105/15148390_zpid/
+901-53 Tennessee St #310,San Francisco,CA,94107,,,1,$400000.0,Sold 05/11/2022,https://www.zillow.com/homedetails/901-53-Tennessee-St-310-San-Francisco-CA-94107/2067496312_zpid/
+240 Lombard St APT 228,San Francisco,CA,94111,37.80424,-122.4055,1,$612500.0,Sold 05/10/2022,https://www.zillow.com/homedetails/240-Lombard-St-APT-228-San-Francisco-CA-94111/15064110_zpid/
+1483 Sutter St UNIT 1205,San Francisco,CA,94109,37.786716,-122.4242,2,$650000.0,Sold 05/10/2022,https://www.zillow.com/homedetails/1483-Sutter-St-UNIT-1205-San-Francisco-CA-94109/15076460_zpid/
+340 Naples St,San Francisco,CA,94112,37.723392,-122.42963,6,$418500.0,Sold 05/10/2022,https://www.zillow.com/homedetails/340-Naples-St-San-Francisco-CA-94112/15169660_zpid/
+1207 Ridge Ct,San Francisco,CA,94134,37.70936,-122.425575,3,$849000.0,Sold 05/10/2022,https://www.zillow.com/homedetails/1207-Ridge-Ct-San-Francisco-CA-94134/15177677_zpid/
+45 Lottie Bennett Ln APT 6,San Francisco,CA,94115,37.78424,-122.42862,2,$580000.0,Sold 05/10/2022,https://www.zillow.com/homedetails/45-Lottie-Bennett-Ln-APT-6-San-Francisco-CA-94115/64972014_zpid/
+380 10th St UNIT 8,San Francisco,CA,94103,37.7717,-122.41179,1,$780000.0,Sold 05/10/2022,https://www.zillow.com/homedetails/380-10th-St-UNIT-8-San-Francisco-CA-94103/67090334_zpid/
+2655 Bush St #116,San Francisco,CA,94115,37.78582,-122.440765,1,$775000.0,Sold 05/10/2022,https://www.zillow.com/homedetails/2655-Bush-St-116-San-Francisco-CA-94115/241585957_zpid/
+901 Tennessee St #310,San Francisco,CA,94107,37.760227,-122.38915,1,$400000.0,Sold 05/10/2022,https://www.zillow.com/homedetails/901-Tennessee-St-310-San-Francisco-CA-94107/303807232_zpid/
+330 Berry St UNIT 520,San Francisco,CA,94158,37.773525,-122.39674,2,$465234.0,Sold 05/09/2022,https://www.zillow.com/homedetails/330-Berry-St-UNIT-520-San-Francisco-CA-94158/96043259_zpid/
+110 Channel St #402,San Francisco,CA,94158,37.774662,-122.390594,1,$808000.0,Sold 05/09/2022,https://www.zillow.com/homedetails/110-Channel-St-402-San-Francisco-CA-94158/249664635_zpid/
+1868 Van Ness Ave APT 405,San Francisco,CA,94109,37.79291,-122.42242,1,$835000.0,Sold 05/09/2022,https://www.zillow.com/homedetails/1868-Van-Ness-Ave-APT-405-San-Francisco-CA-94109/249665558_zpid/
+195 20th Ave APT 9,San Francisco,CA,94121,37.784374,-122.47985,1,$790000.0,Sold 05/06/2022,https://www.zillow.com/homedetails/195-20th-Ave-APT-9-San-Francisco-CA-94121/15090253_zpid/
+400 Beale St APT 1313,San Francisco,CA,94105,37.786903,-122.39092,1,$750000.0,Sold 05/06/2022,https://www.zillow.com/homedetails/400-Beale-St-APT-1313-San-Francisco-CA-94105/67394453_zpid/
+68 McCoppin St APT 9,San Francisco,CA,94103,37.77186,-122.42186,1,$855000.0,Sold 05/06/2022,https://www.zillow.com/homedetails/68-McCoppin-St-APT-9-San-Francisco-CA-94103/80743270_zpid/
+17 San Carlos St,San Francisco,CA,94110,37.762432,-122.41998,2,$770000.0,Sold 05/06/2022,https://www.zillow.com/homedetails/17-San-Carlos-St-San-Francisco-CA-94110/2066876613_zpid/
+1350 Revere Ave,San Francisco,CA,94124,37.72919,-122.38526,2,$871000.0,Sold 05/05/2022,https://www.zillow.com/homedetails/1350-Revere-Ave-San-Francisco-CA-94124/15153805_zpid/
+8100 Oceanview Ter APT 314,San Francisco,CA,94132,37.71042,-122.467705,2,$828000.0,Sold 05/05/2022,https://www.zillow.com/homedetails/8100-Oceanview-Ter-APT-314-San-Francisco-CA-94132/63179419_zpid/
+333 1st St UNIT N603,San Francisco,CA,94105,37.787125,-122.39396,1,$220000.0,Sold 05/05/2022,https://www.zillow.com/homedetails/333-1st-St-UNIT-N603-San-Francisco-CA-94105/64972496_zpid/
+551 Hudson Ave UNIT 304,San Francisco,CA,94124,37.728764,-122.3689,2,$679000.0,Sold 05/05/2022,https://www.zillow.com/homedetails/551-Hudson-Ave-UNIT-304-San-Francisco-CA-94124/249664523_zpid/
+110 Channel St UNIT 516,San Francisco,CA,94158,37.77486,-122.39104,1,$839000.0,Sold 05/05/2022,https://www.zillow.com/homedetails/110-Channel-St-UNIT-516-San-Francisco-CA-94158/249664783_zpid/
+3380 20th St APT 301,San Francisco,CA,94110,37.759003,-122.416534,2,$850000.0,Sold 05/04/2022,https://www.zillow.com/homedetails/3380-20th-St-APT-301-San-Francisco-CA-94110/15144819_zpid/
+990 Duncan St APT 103G,San Francisco,CA,94131,37.7453,-122.44261,1,$825000.0,Sold 05/04/2022,https://www.zillow.com/homedetails/990-Duncan-St-APT-103G-San-Francisco-CA-94131/15199131_zpid/
+425 1st St UNIT 805,San Francisco,CA,94105,37.786022,-122.39239,1,$845000.0,Sold 05/04/2022,https://www.zillow.com/homedetails/425-1st-St-UNIT-805-San-Francisco-CA-94105/82786031_zpid/
+128 Summit Way,San Francisco,CA,94132,37.71548,-122.47548,3,$4500.0,Sold 05/04/2022,https://www.zillow.com/homedetails/128-Summit-Way-San-Francisco-CA-94132/184818157_zpid/
+50 Jerrold Ave #206,San Francisco,CA,94124,37.72777,-122.36945,1,$529000.0,Sold 05/04/2022,https://www.zillow.com/homedetails/50-Jerrold-Ave-206-San-Francisco-CA-94124/241586520_zpid/
+5214 Mission St #5216,San Francisco,CA,94112,37.715523,-122.44211,2,$855000.0,Sold 05/04/2022,https://www.zillow.com/homedetails/5214-Mission-St-5216-San-Francisco-CA-94112/241587664_zpid/
+3548-3554 Fulton St,San Francisco,CA,94118,37.773407,-122.469986,8,$530000.0,Sold 05/04/2022,https://www.zillow.com/homedetails/3548-3554-Fulton-St-San-Francisco-CA-94118/337782987_zpid/
+3554 Fulton St,San Francisco,CA,94118,37.773342,-122.469666,1,$530000.0,Sold 05/04/2022,https://www.zillow.com/homedetails/3554-Fulton-St-San-Francisco-CA-94118/2064263355_zpid/
+1545 Geary Blvd APT 6,San Francisco,CA,94115,37.78424,-122.42862,3,$715000.0,Sold 05/03/2022,https://www.zillow.com/homedetails/1545-Geary-Blvd-APT-6-San-Francisco-CA-94115/64971972_zpid/
+1000-1020 Franklin St #19,San Francisco,CA,94109,37.783913,-122.4224,1,$680000.0,Sold 05/02/2022,https://www.zillow.com/homedetails/1000-1020-Franklin-St-19-San-Francisco-CA-94109/15077305_zpid/
+8300 Oceanview Ter APT 214,San Francisco,CA,94132,37.71042,-122.467705,2,$725000.0,Sold 05/02/2022,https://www.zillow.com/homedetails/8300-Oceanview-Ter-APT-214-San-Francisco-CA-94132/63107260_zpid/
+1000 Franklin St APT 208,San Francisco,CA,94109,37.783913,-122.4224,1,$680000.0,Sold 05/02/2022,https://www.zillow.com/homedetails/1000-Franklin-St-APT-208-San-Francisco-CA-94109/2065398531_zpid/
+520 Natoma St APT 6,San Francisco,CA,94103,37.779884,-122.408325,1,$395000.0,Sold 05/02/2022,https://www.zillow.com/homedetails/520-Natoma-St-APT-6-San-Francisco-CA-94103/2079203358_zpid/
+1950 Gough St APT 307,San Francisco,CA,94109,37.791557,-122.425674,1,$815000.0,Sold 04/29/2022,https://www.zillow.com/homedetails/1950-Gough-St-APT-307-San-Francisco-CA-94109/15074307_zpid/
+601 Van Ness Ave APT 647,San Francisco,CA,94102,37.78168,-122.42091,1,$550000.0,Sold 04/29/2022,https://www.zillow.com/homedetails/601-Van-Ness-Ave-APT-647-San-Francisco-CA-94102/15077742_zpid/
