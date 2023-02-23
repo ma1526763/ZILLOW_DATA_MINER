@@ -3,4 +3,3 @@
 
 MY CODE EXTRACT DATA FROM ZILLOW SITE USING SELENIUM AND BS4
 YOU ArE ALLOweD TO plAce Url of zillow webiste it will extract data from that state, city etc.
-![a1](https://user-images.githubusercontent.com/56760923/220893423-3403ffb4-fb50-4930-b712-dd23a64de8bb.PNG)
