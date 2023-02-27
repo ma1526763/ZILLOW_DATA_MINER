@@ -2,5 +2,5 @@
 # ZILLOW WEBSITE IS ONE OF THE LARGEST USA PROPERTY SITES WHERE YOU CAN SALE/RENT/PUCHASE HOUSES
 
 MY CODE EXTRACT DATA FROM ZILLOW SITE USING SELENIUM AND BS4
-YOU ArE ALLOweD TO plAce Url of zillow webiste it will extract data from that state, city etc.
+YOU ArE ALLOweD TO plAce Url of zillow webiste it will extract data from that state, city etc
 ![extracting](https://user-images.githubusercontent.com/56760923/220932323-da1965b2-0da0-4ddc-9226-bb7f72aa78a0.PNG)
